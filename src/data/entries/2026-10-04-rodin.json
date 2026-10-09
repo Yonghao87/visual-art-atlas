@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-04-rodin",
+  "date": "2026-10-04",
+  "status": "published",
+  "title": "罗丹：身体如何承载情绪",
+  "subtitle": "从姿势、体量到材料中的张力",
+  "category": "fashion_craft",
+  "topicType": "artist",
+  "period": "19世纪末—20世纪初",
+  "regions": ["法国"],
+  "tags": ["雕塑", "青铜", "大理石", "身体", "动态构图"],
+  "summary": "让身体的转折、重量与表面变化，成为一种可以绕行阅读的语言。",
+  "context": "罗丹博物馆说明，《思想者》最初属于《地狱之门》的构思；《吻》也曾与这一项目有关，后来成为独立作品。作品可能存在不同尺寸、材料和铸造版本，因此不能把构思年份直接当成眼前实物的制作年份。\n\n下文选择馆方记录作为参照，从体量与姿势理解情绪。雕塑需要观看者移动：正面显著的轮廓，在侧面可能变成一处深凹；平静的坐姿也可能包含复杂的肌肉与重心关系。照片只是观察入口，不能替代围绕作品的空间体验。",
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "身体中的力",
+      "description": "观察《思想者》的低头、弯曲和支撑关系，把姿势拆成几条受力线。情绪不仅来自面部，也来自身体如何收紧、重量落在哪里，以及关节之间如何相互牵引。"
+    },
+    {
+      "key": "material",
+      "label": "两种表面的阅读",
+      "description": "青铜与大理石对光的回应不同。研究作品时区分材料、模型和铸造版本；不把颜色变化简单归因于艺术家。材料的表面会影响阴影的边缘，也会改变体量被感知的方式。"
+    },
+    {
+      "key": "space",
+      "label": "绕行后的空隙",
+      "description": "双人群像不仅由两个实体组成，身体之间的空隙也是构图的一部分。试着从多个方向画出负形，观察关系是否仍然清楚。"
+    }
+  ],
+  "people": [
+    {
+      "name": "奥古斯特·罗丹 / Auguste Rodin",
+      "role": "雕塑家"
+    }
+  ],
+  "works": [
+    {
+      "title": "思想者 / The Thinker",
+      "creator": "Auguste Rodin",
+      "year": "馆藏版本铸于1904；早期构思1880",
+      "sourceUrl": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker",
+      "image": null
+    },
+    {
+      "title": "吻 / The Kiss",
+      "creator": "Auguste Rodin",
+      "year": "约1882构思；馆藏大理石版本1888—1898雕刻",
+      "sourceUrl": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/kiss",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "二维人物造型",
+    "description": "绘画可以用单一视角组织轮廓；雕塑必须考虑侧面、背面与观看者移动后的体量变化。此处为本站分析。"
+  },
+  "applications": [
+    "角色造型先确定重心与支撑，再添加表情。通过躯干转折和手脚位置表达紧张、疲惫或专注。",
+    "用软陶或纸团制作小型体量练习，并在侧光下观察。每次旋转四分之一圈，检视新的阴影是否仍然支持主题。",
+    "拍摄实物时记录正面与侧面，避免只依靠一个好看的角度判断整体造型。"
+  ],
+  "experiment": "以“等待”为题，用三个简化体块做一个坐姿。画出四个方向的轮廓。",
+  "nextTopics": ["现代建筑"],
+  "relatedIds": [
+    "2026-10-05-modern-architecture",
+    "2026-10-07-digital-painting"
+  ],
+  "cover": null,
+  "sources": [
+    {
+      "title": "The Thinker",
+      "url": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker",
+      "publisher": "Musée Rodin",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对构思背景和1904铸造版本，避免混淆作品与实物年代。"
+    },
+    {
+      "title": "The Kiss",
+      "url": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/kiss",
+      "publisher": "Musée Rodin",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对创作者、构思与馆藏大理石版本的制作时间。"
+    }
+  ],
+  "updatedAt": null
+}

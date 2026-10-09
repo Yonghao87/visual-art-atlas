@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-07-digital-painting",
+  "date": "2026-10-07",
+  "status": "published",
+  "title": "数字绘画：先看见大形",
+  "subtitle": "让色块与边缘组织想象",
+  "category": "digital_art",
+  "topicType": "technique",
+  "period": "当代",
+  "regions": ["跨地区"],
+  "tags": ["数字绘画", "色块", "明暗", "边缘控制", "概念艺术", "Krita"],
+  "summary": "先用大色块建立构图与明暗关系，再选择值得细化的边缘与细节。",
+  "context": "Krita 官方工作流介绍了平涂、图层与从随机形状中发展绘画的方式。这些是数字媒介中的操作方法，不是某位创作者专属的艺术流派。工具可以让修改更容易，但画面的组织仍需要创作者判断。\n\n下列“研究实例”链接到官方教程，属于技法示例，不能冒充独立艺术作品。视觉分析聚焦大形与边缘：在缩略图中成立的画面，通常已经解决了主要明暗关系。放大后的细节应支持这种关系，而不是让每一个区域都争夺注意。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "从缩略图开始",
+      "description": "把画面缩小到手掌大小，先比较主体与背景的面积。如果主体在这个尺度下仍不清晰，添加纹理通常不能解决问题。可以先限制色块数量，用几次快速变化寻找更有说服力的构图。"
+    },
+    {
+      "key": "lighting",
+      "label": "先建立明暗组",
+      "description": "将画面归纳为亮、中、暗三组，确定主光照方向。不要让每个物体都拥有相同的反差；集中亮部与暗部的交界，才能让视线停在需要强调的位置。"
+    },
+    {
+      "key": "texture",
+      "label": "边缘决定重点",
+      "description": "硬边便于识别形状，软边帮助连接空间，消失的边缘可以让主体融入环境。这些是绘画分析中的可用方法，不能简单等同于某一种软件笔刷。选择边缘时先问它在叙事中的作用。"
+    }
+  ],
+  "people": [
+    {
+      "name": "Krita 社区",
+      "role": "官方技法文档作者群体"
+    }
+  ],
+  "works": [
+    {
+      "title": "平涂研究实例 / Flat Coloring",
+      "creator": "Krita 官方教程",
+      "year": null,
+      "sourceUrl": "https://docs.krita.org/en/tutorials/flat-coloring.html",
+      "image": null
+    },
+    {
+      "title": "从随机形状开始 / Starting from chaos",
+      "creator": "Krita 官方教程",
+      "year": null,
+      "sourceUrl": "https://docs.krita.org/en/tutorials/common_workflows.html",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "线稿平涂流程",
+    "description": "线稿平涂通常从边界组织颜色；大形绘画先用明暗块建立关系。两种方法可以结合，没有固定的优劣次序。此处为本站分析。"
+  },
+  "applications": [
+    "概念图先做三个灰度缩略稿，再选一个展开。用整体可读性决定方案，避免被局部细节牵走。",
+    "角色宣传图只在脸部、手势或关键道具附近集中硬边，给次要区域留出柔和过渡。",
+    "保持图层分组清晰，使色块、线条和光影可以分别调整；修改时仍用缩略图检查整体。"
+  ],
+  "experiment": "用三种灰度画一处想象中的入口，只允许一个高反差焦点。",
+  "nextTopics": ["印象派"],
+  "relatedIds": ["2026-10-08-impressionism", "2026-10-03-rams"],
+  "cover": null,
+  "sources": [
+    {
+      "title": "Common Workflows",
+      "url": "https://docs.krita.org/en/tutorials/common_workflows.html",
+      "publisher": "Krita Documentation",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对平涂、图层与Starting from chaos工作流；视觉分析由本站独立编写。"
+    },
+    {
+      "title": "Flat Coloring",
+      "url": "https://docs.krita.org/en/tutorials/flat-coloring.html",
+      "publisher": "Krita Documentation",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对平涂方法，研究实例不标注为独立艺术品。"
+    }
+  ],
+  "updatedAt": null
+}

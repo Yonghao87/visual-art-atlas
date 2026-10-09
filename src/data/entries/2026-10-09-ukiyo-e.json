@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-09-ukiyo-e",
+  "date": "2026-10-09",
+  "status": "published",
+  "title": "浮世绘：一条线，掀起巨浪",
+  "subtitle": "从北斋的版画，理解轮廓与尺度",
+  "category": "eastern_art",
+  "topicType": "movement",
+  "period": "江户时期",
+  "regions": ["日本"],
+  "tags": ["版画", "留白", "轮廓线", "蓝色", "动态构图", "Ukiyo-e", "北斋"],
+  "summary": "让轮廓、有限色面与大胆的尺度关系，共同构成鲜明的视觉叙事。",
+  "context": "《神奈川冲浪里》来自北斋的《富岳三十六景》。大都会艺术博物馆指出，画面利用透视与尺度，把富士山置于巨浪之下；蓝色也是理解这件版画的重要线索。《相州梅泽庄》则提供了较为舒缓的景观对照。\n\n浮世绘包含众多作者与题材，不应只用一张巨浪定义整个领域。本期从两件北斋风景版画入手，观察线条怎样区分物体，颜色怎样把画面分成可读的层次。以下视觉语言、比较和创作转化为本站分析，作品名称与年代可通过馆藏来源核查。",
+  "visualFeatures": [
+    {
+      "key": "linework",
+      "label": "轮廓让形体发声",
+      "description": "浪尖、船体与山峰的边缘建立了清楚的形状关系。观察线条如何在转折处改变节奏，而不只是把所有轮廓描粗。连续的曲线能让视线沿着画面移动，短促的分叉则增加局部的张力。"
+    },
+    {
+      "key": "composition",
+      "label": "小山与大浪",
+      "description": "前景巨浪与远处富士山的尺度反差，使距离关系具有叙事力量。把山峰看作稳定的参照，再观察浪与船的倾斜方向，就能读出画面中的动与静。"
+    },
+    {
+      "key": "color",
+      "label": "有限色面的层次",
+      "description": "蓝色与纸面的浅色形成清晰对照。研究时先数出主要色面，理解它们如何区分前后，再观察细小变化。限制色数并不等于取消细节，而是让细节服从整体。"
+    },
+    {
+      "key": "space",
+      "label": "空白是画面的一部分",
+      "description": "浪的上方与山峰周围保留了呼吸空间。负形既帮助辨识轮廓，也让密集的浪花更突出。尝试描摹空白的形状，常能发现构图的隐藏秩序。"
+    }
+  ],
+  "people": [
+    {
+      "name": "葛饰北斋 / Katsushika Hokusai",
+      "role": "版画艺术家"
+    }
+  ],
+  "works": [
+    {
+      "title": "神奈川冲浪里 / The Great Wave",
+      "creator": "Katsushika Hokusai",
+      "year": "约1830—1832",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434",
+      "image": {
+        "src": "/images/hokusai-great-wave.jpg",
+        "alt": "北斋《神奈川冲浪里》：巨浪、三艘船与远处的富士山，蓝色木版画",
+        "credit": "Katsushika Hokusai / The Metropolitan Museum of Art, JP1847",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434"
+      }
+    },
+    {
+      "title": "相州梅泽庄 / Umezawa Manor in Sagami Province",
+      "creator": "Katsushika Hokusai",
+      "year": "约1830—1832",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/55738",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "印象派的色彩观察",
+    "description": "本期版画以轮廓和色面关系为观察入口，印象派专题更关注笔触与光色的变化。这是针对选定作品的分析，不能替代整个流派的历史定义。"
+  },
+  "applications": [
+    "在品牌海报中用一个大尺度前景形状对照一个小尺度的稳定物体，先建立叙事，再加入标题。",
+    "绘制风景插画时把画面限制在三到五种主色，用轮廓和负形保持识别，而不依赖复杂的渐变。",
+    "将动势集中在一组曲线中，让其余区域保持平静。用密度差异代替所有元素同时运动。"
+  ],
+  "experiment": "只用三种颜色画一张“风”主题海报；用一个静止物体衡量运动的尺度。",
+  "nextTopics": ["迪特·拉姆斯"],
+  "relatedIds": ["2026-10-03-rams", "2026-10-05-modern-architecture"],
+  "cover": {
+    "src": "/images/hokusai-great-wave.jpg",
+    "alt": "北斋《神奈川冲浪里》：巨浪、三艘船与远处的富士山，蓝色木版画",
+    "credit": "Katsushika Hokusai / The Metropolitan Museum of Art, JP1847",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434"
+  },
+  "sources": [
+    {
+      "title": "Under the Wave off Kanagawa",
+      "url": "https://www.metmuseum.org/art/collection/search/45434",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对北斋、系列名称、约1830—1832与Public Domain许可。"
+    },
+    {
+      "title": "Umezawa Manor in Sagami Province",
+      "url": "https://www.metmuseum.org/art/collection/search/55738",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对北斋、系列名称与约1830—1832年。"
+    }
+  ],
+  "updatedAt": null
+}

@@ -1,0 +1,45 @@
+---
+import { categories } from '../constants/taxonomy';
+import { path } from '../lib/paths';
+import type { Entry } from '../lib/schema';
+interface Props {
+  entry: Entry;
+  priority?: boolean;
+  detail?: boolean;
+}
+const { entry: e, priority = false, detail = false } = Astro.props;
+const image =
+  e.cover?.src && !['unknown', 'link_only'].includes(e.cover.rights)
+    ? e.cover
+    : null;
+const category = categories[e.category];
+---
+
+<div
+  class:list={['visual', `visual-${e.category}`, { 'visual-detail': detail }]}
+  style={`--category-color:${category.color}`}
+>
+  <div class="visual-fallback" aria-label={`${e.title}，文字排版封面`}>
+    <span class="plate-code">VAA / {category.code}</span>
+    <div class="abstract-art" aria-hidden="true">
+      <i></i>
+      <i></i>
+      <i></i>
+      <i></i>
+    </div>
+    <span class="plate-title">{e.title.split('：')[0]}</span>
+    <span class="plate-note">VISUAL STUDY · 排版封面</span>
+  </div>
+  {image && (
+    <img
+      src={path(image.src!)}
+      alt={image.alt}
+      loading={priority ? 'eager' : 'lazy'}
+      fetchpriority={priority ? 'high' : 'auto'}
+      width="1200"
+      height="820"
+      data-art-image
+    />
+  )}
+  {e.status === 'sample' && <span class="sample-badge">示例内容 · SAMPLE</span>}
+</div>

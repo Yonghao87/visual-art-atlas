@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EntryCard from '../components/EntryCard.astro';
+import { categories, topicTypes } from '../constants/taxonomy';
+import { getEntries } from '../lib/entries';
+import { toSearchRecord } from '../lib/search';
+const entries = await getEntries();
+const tags = [...new Set(entries.flatMap((e) => e.tags))].sort((a, b) =>
+  a.localeCompare(b, 'zh-CN'),
+);
+---
+
+<BaseLayout
+  title="探索图鉴"
+  description="按领域、主题类型与视觉标签探索艺术档案。中英文关键词组合搜索，让灵感变得可检索。"
+>
+  <section class="explore-head shell">
+    <div class="eyebrow">THE COLLECTION / 视觉档案目录</div>
+    <div class="page-title-row">
+      <h1>
+        探索图鉴<span class="serif italic">Explore.</span>
+      </h1>
+      <p>
+        循着一种颜色、一条线，
+        <br />
+        找到下一个灵感的起点。
+      </p>
+    </div>
+    <form id="filters" class="explore-filters" role="search">
+      <div class="search-form">
+        <span aria-hidden="true">⌕</span>
+        <label class="sr-only" for="search">
+          搜索档案
+        </label>
+        <input
+          type="search"
+          id="search"
+          name="q"
+          placeholder="搜索艺术家、作品、风格或视觉语言……"
+        />
+        <button type="submit">搜索 ↗</button>
+      </div>
+      <fieldset class="category-tabs">
+        <legend class="sr-only">按领域筛选</legend>
+        <label>
+          <input type="radio" name="category" value="" checked />
+          <span>全部领域</span>
+        </label>
+        {Object.entries(categories).map(([key, c]) => (
+          <label>
+            <input type="radio" name="category" value={key} />
+            <span>{c.label}</span>
+          </label>
+        ))}
+      </fieldset>
+      <div class="filter-bottom">
+        <div class="select-controls">
+          <label>
+            主题类型
+            <select name="type" aria-label="主题类型">
+              <option value="">全部类型</option>
+              {Object.entries(topicTypes).map(([key, label]) => (
+                <option value={key}>{label}</option>
+              ))}
+            </select>
+          </label>
+          <label>
+            视觉标签
+            <select name="tag" aria-label="视觉标签">
+              <option value="">全部标签</option>
+              {tags.map((t) => (
+                <option value={t}>{t}</option>
+              ))}
+            </select>
+          </label>
+          <label>
+            排序
+            <select name="sort" aria-label="排序">
+              <option value="newest">日期 · 新到旧</option>
+              <option value="oldest">日期 · 旧到新</option>
+            </select>
+          </label>
+        </div>
+        <button type="reset" class="reset-button">
+          重置筛选 ↺
+        </button>
+      </div>
+    </form>
+  </section>
+  <section class="explore-results shell" aria-label="档案搜索结果">
+    <div class="results-header">
+      <p id="result-count" role="status" aria-live="polite">
+        {entries.length} 份档案
+      </p>
+      <span class="eyebrow">LOOK / LEARN / CONNECT</span>
+    </div>
+    <noscript>
+      <p>搜索和筛选需要 JavaScript；你仍可浏览下面的全部档案。</p>
+    </noscript>
+    <div class="entry-grid" id="results">
+      {entries.map((e, i) => (
+        <EntryCard entry={e} index={i} searchable />
+      ))}
+    </div>
+    <div class="empty-state" id="empty-state" hidden>
+      <span class="serif">∅</span>
+      <h2>暂时没有找到这份灵感。</h2>
+      <p>试试“留白”“版画”或“几何造型”，也可以放宽筛选条件。</p>
+      <button class="button" id="clear-filters">
+        清空筛选
+      </button>
+    </div>
+  </section>
+  <script
+    id="search-index"
+    type="application/json"
+    set:html={JSON.stringify(entries.map(toSearchRecord)).replaceAll(
+      '<',
+      '\\u003c',
+    )}
+  />
+  <script src="../scripts/explore.ts" />
+</BaseLayout>

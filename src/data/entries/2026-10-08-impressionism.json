@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-08-impressionism",
+  "date": "2026-10-08",
+  "status": "published",
+  "title": "印象派：捕捉光的片刻",
+  "subtitle": "让颜色与笔触记录观看的时间",
+  "category": "world_painting",
+  "topicType": "movement",
+  "period": "19世纪后期—20世纪初",
+  "regions": ["法国"],
+  "tags": ["油画", "色彩", "笔触", "自然光", "Impressionism", "莫奈"],
+  "summary": "以可见的笔触和色彩关系，把不断变化的光转化为观看的经验。",
+  "context": "大都会艺术博物馆的专题将印象派放在现代生活与独立展览的语境中理解。它并非只有一种画法：风景、城市与人物，都可以成为观察变化的入口。莫奈的水面与德加的舞蹈场景，提供了两个不同的观看方向。\n\n《睡莲》把注意力引向水面与倒影；《舞蹈课》呈现的是经过安排的空间与人物关系。即使笔触显得轻快，也不能因此断言作品完全未经推敲。以下分析将色彩、笔触和构图作为观察工具，帮助把“像印象派”转化为可以描述的画面关系。",
+  "visualFeatures": [
+    {
+      "key": "color",
+      "label": "阴影也有颜色",
+      "description": "先比较相邻色块的冷暖，而不只判断亮暗。阴影可以承载天空或环境的色彩，亮部也未必是纯白。选择一种有限的冷暖关系，往往比增加大量颜色更有助于表达光的变化。"
+    },
+    {
+      "key": "texture",
+      "label": "笔触保留时间",
+      "description": "看得见的笔触把绘画动作留在表面。远看时它们组成对象，近看时又成为不同方向与长度的痕迹。研究时比较笔触的密度，不把“松动”误解为没有组织。"
+    },
+    {
+      "key": "composition",
+      "label": "片刻感来自安排",
+      "description": "裁切、偏置与空隙可以营造偶然观看的感受。但自然感与精心组织并不矛盾：先追踪视线，再判断人物和背景如何共同构成节奏。"
+    }
+  ],
+  "people": [
+    {
+      "name": "克洛德·莫奈 / Claude Monet",
+      "role": "画家"
+    },
+    {
+      "name": "埃德加·德加 / Edgar Degas",
+      "role": "画家"
+    }
+  ],
+  "works": [
+    {
+      "title": "睡莲 / Water Lilies",
+      "creator": "Claude Monet",
+      "year": "1906",
+      "sourceUrl": "https://api.artic.edu/api/v1/artworks/16568",
+      "image": null
+    },
+    {
+      "title": "舞蹈课 / The Dance Class",
+      "creator": "Edgar Degas",
+      "year": "1874",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438817",
+      "image": {
+        "src": "/images/degas-dance-class.jpg",
+        "alt": "德加《舞蹈课》：室内排练的舞者、指导者与斜向延伸的地板",
+        "credit": "Edgar Degas / The Metropolitan Museum of Art, 1987.47.1",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/438817"
+      }
+    }
+  ],
+  "comparison": {
+    "target": "学院式明暗塑造",
+    "description": "这里的对照是观看方法：关注色彩与瞬时光感，和关注轮廓、体积与稳定明暗，可以产生不同结果；实际作品并不总能截然归类。此处为本站分析。"
+  },
+  "applications": [
+    "为同一场景绘制早晨与傍晚两个小稿，保持构图不变，只改变冷暖与亮暗的关系。",
+    "在数字插画中保留部分可见笔触，先让笔触方向服务体积与空间，再添加装饰纹理。",
+    "观察日常人物时尝试偏置构图，给视线留出空隙；检查裁切是否仍能表达动作与场景。"
+  ],
+  "experiment": "用四种颜色画一杯水，分别表现室内冷光与夕阳暖光。",
+  "nextTopics": ["浮世绘"],
+  "relatedIds": ["2026-10-09-ukiyo-e", "2026-10-04-rodin"],
+  "cover": {
+    "src": "/images/degas-dance-class.jpg",
+    "alt": "德加《舞蹈课》：室内排练的舞者、指导者与斜向延伸的地板",
+    "credit": "Edgar Degas / The Metropolitan Museum of Art, 1987.47.1",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/438817"
+  },
+  "sources": [
+    {
+      "title": "Impressionism: Art and Modernity",
+      "url": "https://www.metmuseum.org/essays/impressionism-art-and-modernity",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对现代生活、光色与笔触的历史语境。"
+    },
+    {
+      "title": "Water Lilies — collection API",
+      "url": "https://api.artic.edu/api/v1/artworks/16568",
+      "publisher": "Art Institute of Chicago",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "官方馆藏API核对莫奈、1906年、is_public_domain=true。"
+    },
+    {
+      "title": "The Dance Class",
+      "url": "https://www.metmuseum.org/art/collection/search/438817",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对德加、1874年与作品的构图说明。"
+    }
+  ],
+  "updatedAt": null
+}

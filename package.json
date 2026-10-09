@@ -1,0 +1,36 @@
+{
+  "name": "visual-art-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "validate:content": "node --import tsx scripts/validate-entries.ts",
+    "check": "astro check",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test",
+    "build": "npm run validate:content && astro build",
+    "preview": "astro preview --host 127.0.0.1",
+    "import:entry": "node --import tsx scripts/import-entry.ts",
+    "format": "prettier --write .",
+    "test:isolation": "node scripts/check-production-isolation.mjs",
+    "capture:preview": "node scripts/capture-preview.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "3.7.4",
+    "astro": "7.3.8",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@playwright/test": "1.64.0",
+    "@types/node": "26.6.4",
+    "prettier": "3.9.9",
+    "prettier-plugin-astro": "1.1.0",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3"
+  }
+}

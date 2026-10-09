@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-03-rams",
+  "date": "2026-10-03",
+  "status": "published",
+  "title": "迪特·拉姆斯：少，却更好",
+  "subtitle": "让日常物件保有清晰与长久",
+  "category": "product_design",
+  "topicType": "artist",
+  "period": "20世纪至今",
+  "regions": ["德国"],
+  "tags": ["模块化", "留白", "产品造型", "功能主义", "Dieter Rams"],
+  "summary": "用清晰的结构和克制的形态，把使用者的需要放在物件的表达之前。",
+  "context": "Vitsœ 的官方设计说明介绍了拉姆斯对实用性、可理解性和耐用性的重视。他为品牌设计的 606 置物系统与 620 座椅系统，提供了观察这些观念的具体入口。这是一位设计师的工作思想，不应被独立命名为艺术流派。\n\n“少”并非简单删除零件：一个物件仍需承担全部必要功能，并让人理解如何使用。以下分析关注结构如何被看见、部件如何重复、以及产品怎样与生活一起变化。判断一件设计是否克制，不能只看表面是否干净，也要观察维护与扩展的方式。",
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "结构就是说明",
+      "description": "把承重件、容器和操作部件安排得清楚，人可以从外观推测使用方法。装饰减少后，比例和连接处的精度反而更显眼；这要求每一个细节都能解释自身的作用。"
+    },
+    {
+      "key": "space",
+      "label": "给生活留位置",
+      "description": "606 以部件组成可变化的置物系统。这里的空隙允许书、物品与使用者的习惯进入画面。用相同的结构容纳不同生活，而不是强迫所有人使用同一种摆放方式。"
+    },
+    {
+      "key": "material",
+      "label": "时间也是材料",
+      "description": "评估表面与连接方式时，同时考虑磨损、维护和替换。耐用不是单一的视觉风格，而是贯穿使用周期的设计选择。"
+    }
+  ],
+  "people": [
+    {
+      "name": "迪特·拉姆斯 / Dieter Rams",
+      "role": "产品设计师"
+    }
+  ],
+  "works": [
+    {
+      "title": "606 Universal Shelving System",
+      "creator": "Dieter Rams",
+      "year": "1960",
+      "sourceUrl": "https://www.vitsoe.com/gb/606",
+      "image": null
+    },
+    {
+      "title": "620 Chair Programme",
+      "creator": "Dieter Rams",
+      "year": "1962",
+      "sourceUrl": "https://www.vitsoe.com/gb/620",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "表面极简",
+    "description": "视觉上的简洁可以只是一层造型；拉姆斯式思考还要追问使用、耐用与理解成本。此处为本站设计分析。"
+  },
+  "applications": [
+    "设计产品页面时先明确使用路径，再决定信息的层级。让主要操作从结构中自然显现。",
+    "设计一套可扩展的收纳或界面模块：尺寸、连接和命名一致，新增内容无需推翻原有系统。",
+    "检视现有方案的每个装饰元素，写下它解决的具体问题。无法说明用途的部分先移除，再观察理解是否受损。"
+  ],
+  "experiment": "为桌面收纳画三种组合，共用同一套五个部件。测试它们能否适应不同物品。",
+  "nextTopics": ["罗丹"],
+  "relatedIds": ["2026-10-04-rodin", "2026-10-06-bauhaus"],
+  "cover": null,
+  "sources": [
+    {
+      "title": "The power of good design",
+      "url": "https://www.vitsoe.com/gb/about/good-design",
+      "publisher": "Vitsœ",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对设计原则、设计者与产品年代。"
+    },
+    {
+      "title": "606 Universal Shelving System",
+      "url": "https://www.vitsoe.com/gb/606",
+      "publisher": "Vitsœ",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对模块化结构与 1960 年设计信息。"
+    },
+    {
+      "title": "620 Chair Programme",
+      "url": "https://www.vitsoe.com/gb/620",
+      "publisher": "Vitsœ",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对产品名称、创作者和 1962 年设计信息。"
+    }
+  ],
+  "updatedAt": null
+}

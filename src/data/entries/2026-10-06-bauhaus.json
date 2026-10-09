@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-06-bauhaus",
+  "date": "2026-10-06",
+  "status": "published",
+  "title": "包豪斯：形状背后的秩序",
+  "subtitle": "从字母构造走向当代版式",
+  "category": "graphic_design",
+  "topicType": "movement",
+  "period": "1919—1933及其影响",
+  "regions": ["德国"],
+  "tags": ["几何造型", "字体", "网格", "品牌海报", "Bauhaus"],
+  "summary": "把字形、材料与排列关系视为一个系统，寻找清晰而有节奏的视觉表达。",
+  "context": "MoMA 的展览设计回顾讨论了赫伯特·拜耶的 universal 字母方案，以及它在展览视觉中的再解释。几何元素是研究字形的工具，但包豪斯不应被缩减成红黄蓝加圆方三角的一套配方。\n\n从字形到版面，真正值得研究的是有限部件如何形成丰富变化。重复的结构帮助读者识别，差异则引导注意。将字母视为可构造的形体，可以重新理解文字与图像的关系；这也提示我们区分历史字形实验与后来的完整字体产品。",
+  "visualFeatures": [
+    {
+      "key": "typography",
+      "label": "字形是一套部件",
+      "description": "观察圆弧、直线和字母的连接方式。相同部件建立家族感，不同开口与长度保持辨认度。几何统一不能牺牲阅读，尤其要检查小字号下相近字形是否容易混淆。"
+    },
+    {
+      "key": "composition",
+      "label": "不对称也有平衡",
+      "description": "一个偏置的大标题，可以由另一侧较小但密集的信息块取得平衡。版式的稳定来自面积、位置和空白的共同作用，并非所有内容都必须居中。"
+    },
+    {
+      "key": "color",
+      "label": "颜色承担层级",
+      "description": "先在黑白状态下建立顺序，再用有限的强调色标记信息。若颜色消失后阅读顺序也随之消失，说明结构仍需调整；颜色应加强关系，而不是掩盖版式问题。"
+    }
+  ],
+  "people": [
+    {
+      "name": "赫伯特·拜耶 / Herbert Bayer",
+      "role": "字形与平面设计"
+    },
+    {
+      "name": "MoMA 平面设计团队",
+      "role": "历史语言的当代转化"
+    }
+  ],
+  "works": [
+    {
+      "title": "Design for universal lettering",
+      "creator": "Herbert Bayer",
+      "year": "1925",
+      "sourceUrl": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/",
+      "image": null
+    },
+    {
+      "title": "Bauhaus 1919–1933: Workshops for Modernity 展览标题设计",
+      "creator": "MoMA 平面设计团队",
+      "year": "2009",
+      "sourceUrl": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "几何装饰海报",
+    "description": "历史设计探索部件、材料与传播；几何装饰可能只停留在外观。判断时需要回到信息组织和使用情境。此处为本站分析。"
+  },
+  "applications": [
+    "用三种字号和两条对齐线组织展览海报。只让一个元素成为第一眼的重点，检查远看时的信息顺序。",
+    "为品牌设计一套有限的形状词汇，写明每种部件的使用规则。让标志、标题和图表形成可辨认的关系。",
+    "先排一张黑白版面，再加入一种强调色。比较两版的阅读路径，验证颜色是否承担明确作用。"
+  ],
+  "experiment": "只用直线与圆弧设计五个字母，再排成一个标题。检验识别度与节奏。",
+  "nextTopics": ["数字绘画"],
+  "relatedIds": ["2026-10-07-digital-painting", "2026-10-09-ukiyo-e"],
+  "cover": null,
+  "sources": [
+    {
+      "title": "Bauhaus: The Graphic Design Department Goes Back to School",
+      "url": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对拜耶字母方案1925与MoMA 2009展览设计，未转载受保护图像。"
+    }
+  ],
+  "updatedAt": null
+}

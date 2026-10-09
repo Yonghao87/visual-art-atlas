@@ -1,0 +1,175 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EntryCard from '../components/EntryCard.astro';
+import Visual from '../components/Visual.astro';
+import { categories } from '../constants/taxonomy';
+import { getEntries } from '../lib/entries';
+import { path } from '../lib/paths';
+const entries = await getEntries();
+const latest = entries[0];
+const published = entries.filter((e) => e.status === 'published');
+---
+
+<BaseLayout>
+  <section class="home-intro shell">
+    <div class="eyebrow">
+      <span class="dot"></span> AN INDEPENDENT ARCHIVE OF VISUAL CULTURE{' '}
+      <span class="intro-number">VOL. 01 / 持续收录中</span>
+    </div>
+    <div class="intro-title">
+      <h1>
+        每天认识一种
+        <br />
+        新的<span class="serif-cn">视觉语言</span>
+        <span class="period">.</span>
+      </h1>
+      <div class="intro-side">
+        <p>
+          从一幅画，到一种看世界的方式。
+          <br />
+          探索绘画、设计、建筑与创作之间的关联。
+        </p>
+        <span class="serif italic">Look closer. See differently.</span>
+      </div>
+    </div>
+    <form
+      class="search-form hero-search"
+      action={path('/explore/')}
+      role="search"
+    >
+      <span aria-hidden="true">⌕</span>
+      <label class="sr-only" for="home-search">
+        搜索艺术家、风格或视觉特征
+      </label>
+      <input
+        id="home-search"
+        name="q"
+        type="search"
+        placeholder="艺术家、风格，或一种视觉特征……"
+      />
+      <button type="submit">
+        开始探索 <span aria-hidden="true">↗</span>
+      </button>
+    </form>
+    <div class="search-suggestions">
+      <span>从这里开始</span>
+      {['留白', 'Bauhaus', '自然光', '几何造型'].map((q) => (
+        <a href={path(`/explore/?q=${encodeURIComponent(q)}`)}>{q} ↗</a>
+      ))}
+    </div>
+  </section>
+  {published.length < 7 && (
+    <p class="release-notice shell">
+      档案馆筹备中：正式档案尚未达到七篇，内容将持续补齐。
+    </p>
+  )}
+  {latest && (
+    <section class="spotlight shell" aria-labelledby="spotlight-title">
+      <a
+        class="spotlight-image"
+        href={path(`/entries/${latest.id}/`)}
+        aria-label={`阅读${latest.title}`}
+      >
+        <Visual entry={latest} priority />
+        <span class="image-index">
+          ARCHIVE № {String(entries.length).padStart(3, '0')}
+        </span>
+      </a>
+      <div class="spotlight-copy">
+        <div class="eyebrow">
+          最新档案 <span> / THE LATEST STUDY</span>
+        </div>
+        <div class="spotlight-meta">
+          <span>{categories[latest.category].label}</span>
+          <time datetime={latest.date}>{latest.date.replaceAll('-', '.')}</time>
+        </div>
+        <h2 id="spotlight-title">
+          {latest.title.split('：')[0]}
+          <span>{latest.title.split('：')[1]}</span>
+        </h2>
+        <p>{latest.summary}</p>
+        <div class="spotlight-tags">
+          {latest.tags.slice(0, 3).map((t) => (
+            <span>{t}</span>
+          ))}
+        </div>
+        <a class="text-link" href={path(`/entries/${latest.id}/`)}>
+          打开这份档案 <span aria-hidden="true">↗</span>
+        </a>
+        <span class="spotlight-serial serif" aria-hidden="true">
+          {String(entries.length).padStart(2, '0')}
+        </span>
+      </div>
+    </section>
+  )}
+  <section
+    class="category-section shell"
+    id="categories"
+    aria-labelledby="category-title"
+  >
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow">SEVEN WAYS OF SEEING</span>
+        <h2 id="category-title">七个领域，无限种观看。</h2>
+      </div>
+      <span class="small-note">跨越媒介，发现关联</span>
+    </div>
+    <div class="category-grid">
+      {Object.entries(categories).map(([key, c]) => (
+        <a
+          class={`category-item category-${key}`}
+          href={path(`/explore/?category=${key}`)}
+        >
+          <span class="category-code">{c.code}</span>
+          <span class="category-glyph" aria-hidden="true">
+            {key === 'world_painting'
+              ? '◒'
+              : key === 'eastern_art'
+                ? '≋'
+                : key === 'digital_art'
+                  ? '✳'
+                  : key === 'graphic_design'
+                    ? 'Aa'
+                    : key === 'architecture'
+                      ? '▥'
+                      : key === 'fashion_craft'
+                        ? '◯'
+                        : '⌑'}
+          </span>
+          <h3>{c.label}</h3>
+          <span>{c.english}</span>
+          <span class="category-arrow" aria-hidden="true">
+            ↗
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
+  <section class="latest-section shell" aria-labelledby="latest-title">
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow">THE GROWING COLLECTION</span>
+        <h2 id="latest-title">把灵感，存进图鉴。</h2>
+      </div>
+      <a class="text-link" href={path('/explore/')}>
+        全部 {entries.length} 份档案 ↗
+      </a>
+    </div>
+    <div class="entry-grid">
+      {entries.slice(1).map((e, i) => (
+        <EntryCard entry={e} index={i} />
+      ))}
+    </div>
+  </section>
+  <section class="discovery-banner shell">
+    <div>
+      <span class="eyebrow">A LITTLE SERENDIPITY</span>
+      <h2>下一份灵感，不必计划。</h2>
+      <p>让一个意想不到的主题，打开新的观看方式。</p>
+    </div>
+    <a class="round-link" href={path('/explore/')} data-random>
+      <span>随机探索</span>
+      <span aria-hidden="true">↗</span>
+    </a>
+  </section>
+</BaseLayout>

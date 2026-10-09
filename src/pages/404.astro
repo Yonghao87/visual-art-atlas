@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { path } from '../lib/paths';
+---
+
+<BaseLayout title="档案未找到">
+  <section class="not-found shell">
+    <span class="eyebrow">ARCHIVE NOT FOUND</span>
+    <span class="serif error-number">404</span>
+    <h1>这一页，暂时留白。</h1>
+    <p>档案可能尚未收录，或链接地址有误。</p>
+    <a class="button" href={path('/explore/')}>
+      返回探索图鉴 ↗
+    </a>
+  </section>
+</BaseLayout>

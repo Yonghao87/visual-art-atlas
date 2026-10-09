@@ -1,0 +1,32 @@
+---
+import Visual from './Visual.astro';
+import { categories } from '../constants/taxonomy';
+import type { Entry } from '../lib/schema';
+import { path } from '../lib/paths';
+interface Props {
+  entry: Entry;
+  index?: number;
+  searchable?: boolean;
+}
+const { entry: e, searchable = false } = Astro.props;
+---
+
+<article class="entry-card" data-entry-id={searchable ? e.id : undefined}>
+  <a class="card-link" href={path(`/entries/${e.id}/`)}>
+    <Visual entry={e} />
+    <div class="card-meta">
+      <span>{categories[e.category].label}</span>
+      <time datetime={e.date}>{e.date.replaceAll('-', '.')}</time>
+    </div>
+    <h3>
+      {e.title}
+      <span aria-hidden="true">↗</span>
+    </h3>
+    <p>{e.summary}</p>
+  </a>
+  <div class="card-tags">
+    {e.tags.slice(0, 3).map((tag) => (
+      <a href={path(`/explore/?tag=${encodeURIComponent(tag)}`)}>{tag}</a>
+    ))}
+  </div>
+</article>
