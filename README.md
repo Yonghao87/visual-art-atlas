@@ -74,11 +74,9 @@ E2E 在 macOS 使用已安装的 Chrome；Linux/CI 使用 Playwright Chromium，
 
 ## GitHub Pages 部署
 
-尚未创建远程仓库或进行远程发布。将**本项目目录内容**作为仓库根目录（不是整个“插件”文件夹）。
+项目已发布到 [Yonghao87/visual-art-atlas](https://github.com/Yonghao87/visual-art-atlas)，线上站点为 [yonghao87.github.io/visual-art-atlas](https://yonghao87.github.io/visual-art-atlas/)。每次推送到 `main` 都会运行检查并自动部署。首次部署所需的 Pages Actions 来源已启用。
 
-1. 使用你选定的 GitHub 仓库，将源码、`package-lock.json` 和 `.github` 工作流提交到 `main`。
-2. Settings → Pages → Build and deployment → Source 选择 **GitHub Actions**。
-3. push main 或手动运行 `Deploy to GitHub Pages`。
+仓库根目录就是本项目目录（不是整个“插件”文件夹）。如需检查发布状态，请查看仓库的 [Actions](https://github.com/Yonghao87/visual-art-atlas/actions)。
 
 配置自动从 `GITHUB_REPOSITORY=owner/repo` 计算 `site=https://owner.github.io`、`base=/repo`；若仓库是 `owner.github.io`，base使用 `/`。内部链接、图片、搜索、随机跳转与公开目录共享路径处理函数。工作流采用 [Astro官方部署流程](https://docs.astro.build/en/guides/deploy/github/)，固定Action主版本，构建前检查类型和内容测试。
 

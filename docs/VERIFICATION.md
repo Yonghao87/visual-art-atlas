@@ -1,6 +1,6 @@
 # Phase 1 验收记录
 
-日期：2026-10-09。宿主 Node.js 26.0.0；项目最低 Node 22.12，`.nvmrc` 和 CI 使用 Node 24 LTS。依赖版本锁定在 package-lock.json。GitHub 托管执行尚未发生。
+日期：2026-10-09。宿主 Node.js 26.0.0；项目最低 Node 22.12，`.nvmrc` 和 CI 使用 Node 24 LTS。依赖版本锁定在 package-lock.json。项目已推送至 [Yonghao87/visual-art-atlas](https://github.com/Yonghao87/visual-art-atlas)，首轮 GitHub Actions 检查通过，Pages 部署完成。
 
 ## 实测结果
 
@@ -15,6 +15,9 @@
 | `npm run test:isolation`                       | 临时新增sample/draft；生产HTML、客户端JS、搜索索引、随机索引、catalog和sitemap均不含它们；临时文件已清理。 |
 | `npm run dev -- --port 4322 --ignore-lock`     | 无API密钥启动与本地HTTP访问通过。                                                                          |
 | npm依赖安装审计                                | 0个已知漏洞（安装时结果，不保证未来数据库不变）。                                                          |
+| GitHub Actions：Quality checks                 | 首次远程运行通过；提交 `c686af1`。                                                                         |
+| GitHub Actions：Deploy to GitHub Pages         | Pages 启用后重跑成功；线上站点已发布。                                                                     |
+| 线上 HTTP 检查                                 | 首页、探索页、北斋详情、catalog.json、北斋图像、德加图像均返回200。                                          |
 
 内容测试覆盖：破损JSON定位、非法分类/类型/日期/schema版本、缺少核验来源、作品缺出处、文件名不一致、重复ID、关联自身或不存在/未发布档案、图片alt/权利/CC许可/授权记录/路径/本地存在性、draft/sample隔离、关联去重。
 
@@ -40,9 +43,8 @@
 
 ## 剩余限制
 
-1. 未创建远程仓库、未push、未在GitHub执行Actions或真正部署；部署配置和设置步骤已准备，需确定仓库后使用。
-2. 五类封面为原创排版导览，真实参考图片仅提供原站链接。莫奈图像下载端点返回403，未使用未经确认许可的替代图。
-3. 搜索为结构化字段本地检索，暂未接入Pagefind全文或AI语义检索。
-4. Phase 2仅预留接受draft的离线入库接口；没有付费API、定时生成、每日自动提交或提醒联动。
-5. 首批条目集中整理，日期为初始阅读顺序；机器质量门禁不能替代来源与权利的人类判断。
-6. 浏览器实测为Chrome；未声称Firefox/Safari或辅助技术全矩阵已验证。
+1. 五类封面为原创排版导览，真实参考图片仅提供原站链接。莫奈图像下载端点返回403，未使用未经确认许可的替代图。
+2. 搜索为结构化字段本地检索，暂未接入Pagefind全文或AI语义检索。
+3. Phase 2仅预留接受draft的离线入库接口；没有付费API、定时生成、每日自动提交或提醒联动。
+4. 首批条目集中整理，日期为初始阅读顺序；机器质量门禁不能替代来源与权利的人类判断。
+5. 浏览器实测为Chrome；未声称Firefox/Safari或辅助技术全矩阵已验证。
