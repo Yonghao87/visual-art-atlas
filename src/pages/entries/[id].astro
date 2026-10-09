@@ -70,8 +70,23 @@ const c = categories[e.category];
           <>
             <span>
               {e.cover.credit} ·{' '}
-              {e.cover.rights === 'public_domain' ? '公共领域' : '获准使用'}
+              {e.cover.rights === 'public_domain'
+                ? '公共领域'
+                : e.cover.rights === 'cc_licensed'
+                  ? 'CC 开放许可'
+                  : e.cover.rights === 'own_work'
+                    ? '本站原创'
+                    : '已授权'}
             </span>
+            {e.cover.licenseUrl && (
+              <a
+                href={e.cover.licenseUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                查看许可条款 ↗
+              </a>
+            )}
             <a
               href={e.cover.sourceUrl}
               target="_blank"
@@ -179,6 +194,23 @@ const c = categories[e.category];
                     <br />
                     {w.year ?? '来源未注明年代'}
                   </p>
+                  {w.image?.src && (
+                    <p class="work-image-credit">
+                      {w.image.credit}
+                      {w.image.licenseUrl && (
+                        <>
+                          {' · '}
+                          <a
+                            href={w.image.licenseUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            查看许可 ↗
+                          </a>
+                        </>
+                      )}
+                    </p>
+                  )}
                   {w.sourceUrl && (
                     <a
                       class="text-link"

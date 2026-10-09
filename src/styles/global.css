@@ -1128,6 +1128,9 @@ a:hover {
   line-height: 1.9;
   margin: 0 0 12px;
 }
+.work-item .work-image-credit {
+  font-size: 10px;
+}
 .section-note {
   font-size: 12px;
   line-height: 1.95;

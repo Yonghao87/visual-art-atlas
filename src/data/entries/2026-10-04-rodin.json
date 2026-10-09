@@ -41,7 +41,13 @@
       "creator": "Auguste Rodin",
       "year": "馆藏版本铸于1904；早期构思1880",
       "sourceUrl": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker",
-      "image": null
+      "image": {
+        "src": "/images/rodin-thinker.jpg",
+        "alt": "奥古斯特·罗丹《思想者》，大都会艺术博物馆馆藏青铜铸件",
+        "credit": "Auguste Rodin / The Metropolitan Museum of Art，11.173.9，Public Domain",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/191811"
+      }
     },
     {
       "title": "吻 / The Kiss",
@@ -66,7 +72,13 @@
     "2026-10-05-modern-architecture",
     "2026-10-07-digital-painting"
   ],
-  "cover": null,
+  "cover": {
+    "src": "/images/rodin-thinker.jpg",
+    "alt": "奥古斯特·罗丹《思想者》，大都会艺术博物馆馆藏青铜铸件",
+    "credit": "Auguste Rodin / The Metropolitan Museum of Art，11.173.9，Public Domain",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/191811"
+  },
   "sources": [
     {
       "title": "The Thinker",
@@ -81,6 +93,13 @@
       "publisher": "Musée Rodin",
       "verifiedAt": "2026-10-09",
       "verificationNote": "核对创作者、构思与馆藏大理石版本的制作时间。"
+    },
+    {
+      "title": "The Thinker（大都会艺术博物馆馆藏版本）",
+      "url": "https://www.metmuseum.org/art/collection/search/191811",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "官方馆藏记录标示 Public Domain；本地保存图像为馆藏青铜铸件，避免把馆藏版本和作品早期构思混为一谈。"
     }
   ],
   "updatedAt": null

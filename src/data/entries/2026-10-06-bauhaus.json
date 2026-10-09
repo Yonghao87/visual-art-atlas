@@ -67,7 +67,14 @@
   "experiment": "只用直线与圆弧设计五个字母，再排成一个标题。检验识别度与节奏。",
   "nextTopics": ["数字绘画"],
   "relatedIds": ["2026-10-07-digital-painting", "2026-10-09-ukiyo-e"],
-  "cover": null,
+  "cover": {
+    "src": "/images/bauhaus-dessau.jpg",
+    "alt": "德国德绍包豪斯校舍外观，Walter Gropius 设计",
+    "credit": "Martavictor / Wikimedia Commons · CC BY-SA 4.0",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bauhausgeb%C3%A4ude,_Dessau.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
   "sources": [
     {
       "title": "Bauhaus: The Graphic Design Department Goes Back to School",
@@ -75,6 +82,13 @@
       "publisher": "The Museum of Modern Art",
       "verifiedAt": "2026-10-09",
       "verificationNote": "核对拜耶字母方案1925与MoMA 2009展览设计，未转载受保护图像。"
+    },
+    {
+      "title": "Bauhausgebäude, Dessau（图片与许可）",
+      "url": "https://commons.wikimedia.org/wiki/File:Bauhausgeb%C3%A4ude,_Dessau.jpg",
+      "publisher": "Wikimedia Commons / Martavictor",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "文件页标注作者 Martavictor 和 CC BY-SA 4.0；图片用作校舍背景说明，不替代拜耶字母方案等档案作品图。"
     }
   ],
   "updatedAt": null
