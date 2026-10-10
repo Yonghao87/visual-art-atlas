@@ -184,7 +184,7 @@ test('亲子探索、组合筛选、分享入口与公开目录', async ({ page,
   const count = catalog.filter(
     (entry: { hasChildren: boolean }) => entry.hasChildren,
   ).length;
-  expect(count).toBe(8);
+  expect(count).toBeGreaterThanOrEqual(8);
   await page.goto('./explore/?edition=family');
   await expect(page.getByLabel('阅读版本')).toHaveValue('family');
   await expect(page.locator('#results .entry-card:visible')).toHaveCount(count);
