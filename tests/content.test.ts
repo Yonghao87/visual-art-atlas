@@ -155,12 +155,15 @@ test('不存在本地图像阻止发布', async () => {
   }
 });
 test('草稿永不显示，示例仅显式Demo模式', () => {
-  const importedDraft = seed.find(
-    (entry) => entry.id === '2026-10-10-cezanne-still-life',
-  );
-  assert.equal(importedDraft?.status, 'draft');
+  const importedDraft = {
+    ...first,
+    id: 'sample-draft',
+    status: 'draft' as const,
+  };
   assert.ok(
-    !visibleEntries(seed).some((entry) => entry.id === importedDraft?.id),
+    !visibleEntries([first, importedDraft]).some(
+      (entry) => entry.id === importedDraft.id,
+    ),
   );
   const records = [
     { ...first, status: 'published' as const },

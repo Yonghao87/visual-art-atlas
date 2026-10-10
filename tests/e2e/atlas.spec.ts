@@ -88,7 +88,7 @@ test('组合搜索、筛选、空状态、重置、排序和URL恢复', async ({
   await page.getByRole('searchbox').fill('不存在的主题xyz');
   await expect(page.locator('#empty-state')).toBeVisible();
   await page.getByRole('button', { name: '清空筛选' }).click();
-  await expect(page.locator('#results .entry-card:visible')).toHaveCount(7);
+  await expect(page.locator('#results .entry-card:visible')).toHaveCount(8);
   await page.getByLabel('排序', { exact: true }).selectOption('oldest');
   await expect(page.locator('#results .entry-card').first()).toHaveAttribute(
     'data-entry-id',
@@ -118,7 +118,7 @@ test('图像失败有占位、键盘搜索、无横向溢出和公开目录', as
   const response = await request.get('./catalog.json');
   expect(response.ok()).toBe(true);
   const data = await response.json();
-  expect(data.entries).toHaveLength(7);
+  expect(data.entries).toHaveLength(8);
   expect(
     data.entries.every((e: { style_summary?: string }) => e.style_summary),
   ).toBe(true);

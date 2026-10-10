@@ -1,6 +1,6 @@
 # 首批档案的来源与图像记录
 
-核验日期：2026-10-10。首批七篇档案集中整理，日期只用于初始阅读排序；塞尚条目是新增待预览草稿。史实为来源的中文概括，视觉语言、对照和创作建议是本站分析。
+核验日期：2026-10-10。首批档案集中整理，日期只用于初始阅读排序；塞尚条目于本次核验后发布。史实为来源的中文概括，视觉语言、对照和创作建议是本站分析。
 
 后续选题与补图采用 [图片收录原则](IMAGE_COLLECTION_POLICY.md)：主题与学习价值优先，图片后续补充。下文记录已完成的素材核验及待补事项；重要对象暂时缺图时保留档案和来源，不以图片完整度限制题材。
 
@@ -14,12 +14,12 @@
 | 罗丹     | [思想者](https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker)、[吻](https://www.musee-rodin.fr/en/musee/collections/oeuvres/kiss)、[大都会馆藏思想者](https://www.metmuseum.org/art/collection/search/191811)、[美国国家美术馆《吻》](https://www.nga.gov/artworks/1008-kiss-le-baiser)                                    | 作品与地狱之门关系、构思/制作/铸造版本的区别；大都会与NGA图像为 Public Domain。                               |
 | 拉姆斯   | [Vitsœ设计原则](https://www.vitsoe.com/gb/about/good-design)、[606](https://www.vitsoe.com/gb/606)、[620](https://www.vitsoe.com/gb/620)、[606开放图像](https://commons.wikimedia.org/wiki/File:606-Universal-Shelving-System.jpg)                                                                                                     | 设计思想、606 1960、620 1962；606照片由Vitsœ按CC BY-SA 3.0发布。                                              |
 
-## 塞尚静物草稿（2026-10-10）
+## 塞尚静物（2026-10-10）
 
-主题按选题队列“塞尚静物：色块怎样建立体积”制作；JSON 状态为 `draft`，尚未进入公开页面。大都会艺术博物馆的艺术家专题用于核对1870年代的构成性笔触、相邻色阶与物体空间关系；NGA与MoMA作品页用于核对作品身份、年代、媒介和具体画面描述。跨年代比较为本站分析。
+主题按选题队列“塞尚静物：色块怎样建立体积”制作；JSON 状态为 `published`。大都会艺术博物馆的艺术家专题用于核对1870年代的构成性笔触、相邻色阶与物体空间关系；NGA与MoMA作品页用于核对作品身份、年代、媒介和具体画面描述。跨年代比较为本站分析。
 
 - [The Met：Still Life with Jar, Cup, and Apples](https://www.metmuseum.org/art/collection/search/435884)，29.100.66，约1877，油画；馆藏页标注 Public Domain。图像按The Met [Open Access](https://www.metmuseum.org/hubs/open-access) 获取，CC0。文件证据见 `evidence/cezanne-still-life-met.json`。
-- [MoMA：Still Life with Apples](https://www.moma.org/collection/works/78486)，22.1934，1898，油画。该页面核验作品、媒介与透视说明，没有适用于本站的开放图像许可，因此仅保留作品链接。
+- [MoMA：Still Life with Apples](https://www.moma.org/collection/works/78486)，22.1934，1895–98，油画。馆方页面说明复制馆藏作品图像需联系 Art Resource 或 Scala 授权，因此本站不下载、不展示该图，只保留作品链接；记录证据见 `evidence/cezanne-still-life-moma.json`。
 - [NGA：Still Life with Apples and Peaches](https://www.nga.gov/artworks/45986-still-life-apples-and-peaches)，1959.15.1，约1905，油画；作品页标示图像为 Public Domain。NGA [开放访问政策](https://www.nga.gov/terms-notices)说明适用图像以 CC0 发布，并建议标注 Courtesy National Gallery of Art, Washington。文件证据见 `evidence/cezanne-still-life-nga.json`。
 - [NGA 教学资料：Cézanne's Still Lifes](https://www.nga.gov/educational-resources/sense-place-france/cezannes-still-lifes)：交叉核对器物布置、多个视点、桌面倾斜及创作方法。
 - 本地素材 `cezanne-still-life-jar-cup-apples.jpg` 与 `cezanne-still-life-apples-peaches.jpg` 分别为 The Met 和 NGA 原始馆藏图像；不是二次创作或替代版本。

@@ -15,7 +15,7 @@ test('中文、英文大小写和同义词', () => {
 test('多关键词必须同时匹配', () => {
   assert.equal(filterEntries(entries, { q: '北斋 蓝色' }).length, 1);
   assert.equal(filterEntries(entries, { q: '北斋 混凝土' }).length, 0);
-  assert.equal(filterEntries(entries, { q: '   ' }).length, 7);
+  assert.equal(filterEntries(entries, { q: '   ' }).length, 8);
 });
 test('作品、人名、特征、摘要参与搜索', () => {
   assert.ok(matchesQuery(wave, 'The Great Wave'));
@@ -41,7 +41,7 @@ test('类别、类型、标签与查询叠加，日期排序确定', () => {
     filterEntries(entries, { category: 'eastern_art', type: 'artist' }).length,
     0,
   );
-  assert.equal(filterEntries(entries)[0]?.date, '2026-10-09');
+  assert.equal(filterEntries(entries)[0]?.date, '2026-10-10');
   assert.equal(
     filterEntries(entries, { sort: 'oldest' })[0]?.date,
     '2026-10-03',
