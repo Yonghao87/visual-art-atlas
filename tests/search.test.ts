@@ -3,7 +3,9 @@ import assert from 'node:assert/strict';
 import { readAndValidate } from '../src/lib/content-validation';
 import { filterEntries, matchesQuery } from '../src/lib/search';
 import { withBase } from '../src/lib/paths';
-const entries = (await readAndValidate()).entries;
+const entries = (await readAndValidate()).entries.filter(
+  (entry) => entry.status === 'published',
+);
 const wave = entries.find((e) => e.category === 'eastern_art')!;
 test('中文、英文大小写和同义词', () => {
   assert.ok(matchesQuery(wave, '北斋'));
@@ -20,6 +22,10 @@ test('作品、人名、特征、摘要参与搜索', () => {
   assert.ok(matchesQuery(wave, 'Katsushika'));
   assert.ok(matchesQuery(wave, '尺度'));
   assert.ok(matchesQuery(wave, '轮廓'));
+});
+test('视觉风格速记参与检索', () => {
+  assert.ok(matchesQuery(wave, '木版套印'));
+  assert.ok(matchesQuery(wave, '不对称构图'));
 });
 test('类别、类型、标签与查询叠加，日期排序确定', () => {
   assert.equal(

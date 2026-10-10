@@ -31,6 +31,28 @@ test('拒绝无效日历日期、类别、类型与schema版本', () => {
   ])
     assert.ok(invalid(change));
 });
+test('视觉风格速记简洁可检索，旧条目缺字段仍兼容', () => {
+  assert.ok(
+    invalid({
+      style_summary: first.style_summary!.slice(first.title.length + 1),
+    }),
+    '有速记时必须包含该档案主题标题',
+  );
+  for (const entry of seed) {
+    const summary = entry.style_summary;
+    assert.ok(summary, `${entry.id} 缺少视觉风格速记`);
+    assert.ok(
+      summary.startsWith(`${entry.title}-`),
+      `${entry.id} 的风格速记应以主题标题开头`,
+    );
+    assert.ok(summary.length >= 30 && summary.length <= 65);
+    const descriptors = summary.slice(entry.title.length + 1).split('，');
+    assert.ok(descriptors.length >= 4 && descriptors.length <= 7);
+  }
+  const legacy = structuredClone(first);
+  delete legacy.style_summary;
+  assert.equal(entrySchema.safeParse(legacy).success, true);
+});
 test('正式来源需要核验记录，作品需要出处', () => {
   assert.ok(invalid({ sources: [] }));
   assert.ok(
@@ -133,6 +155,13 @@ test('不存在本地图像阻止发布', async () => {
   }
 });
 test('草稿永不显示，示例仅显式Demo模式', () => {
+  const importedDraft = seed.find(
+    (entry) => entry.id === '2026-10-10-cezanne-still-life',
+  );
+  assert.equal(importedDraft?.status, 'draft');
+  assert.ok(
+    !visibleEntries(seed).some((entry) => entry.id === importedDraft?.id),
+  );
   const records = [
     { ...first, status: 'published' as const },
     { ...first, id: 'sample', status: 'sample' as const },

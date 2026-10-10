@@ -11,6 +11,7 @@
   "regions": ["法国"],
   "tags": ["油画", "色彩", "笔触", "自然光", "Impressionism", "莫奈"],
   "summary": "以可见的笔触和色彩关系，把不断变化的光转化为观看的经验。",
+  "style_summary": "印象派：捕捉光的片刻-松散短促的可见笔触，邻接色并置而少用黑色，户外自然光捕捉瞬变，轮廓在空气中松动",
   "context": "大都会艺术博物馆的专题将印象派放在现代生活与独立展览的语境中理解。它并非只有一种画法：风景、城市与人物，都可以成为观察变化的入口。莫奈的水面与德加的舞蹈场景，提供了两个不同的观看方向。\n\n《睡莲》把注意力引向水面与倒影；《舞蹈课》呈现的是经过安排的空间与人物关系。即使笔触显得轻快，也不能因此断言作品完全未经推敲。以下分析将色彩、笔触和构图作为观察工具，帮助把“像印象派”转化为可以描述的画面关系。",
   "visualFeatures": [
     {
@@ -45,7 +46,13 @@
       "creator": "Claude Monet",
       "year": "1906",
       "sourceUrl": "https://api.artic.edu/api/v1/artworks/16568",
-      "image": null
+      "image": {
+        "src": "/images/monet-water-lilies.jpg",
+        "alt": "莫奈《睡莲》：近方形画面中的蓝紫色水面、绿色浮叶与粉白睡莲，水面反射占据主要空间",
+        "credit": "Claude Monet / Art Institute of Chicago, 1933.1157 · Public Domain Mark",
+        "rights": "public_domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg"
+      }
     },
     {
       "title": "舞蹈课 / The Dance Class",
@@ -94,6 +101,13 @@
       "publisher": "Art Institute of Chicago",
       "verifiedAt": "2026-10-09",
       "verificationNote": "官方馆藏API核对莫奈、1906年、is_public_domain=true。"
+    },
+    {
+      "title": "Water Lilies, 1906 — Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+      "publisher": "Wikimedia Commons / Art Institute of Chicago",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "与AIC 16568、1933.1157同一幅作品；馆藏号、尺寸及1906年吻合，文件页标注Public Domain Mark。"
     },
     {
       "title": "The Dance Class",

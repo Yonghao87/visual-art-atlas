@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-10-cezanne-still-life",
+  "date": "2026-10-10",
+  "status": "draft",
+  "title": "塞尚静物：色块怎样建立体积",
+  "subtitle": "从果实、桌布与倾斜桌面观察绘画如何组织空间",
+  "topicType": "technique",
+  "category": "world_painting",
+  "period": "1870年代—1900年代初",
+  "regions": ["法国"],
+  "tags": [
+    "保罗·塞尚",
+    "静物",
+    "油画",
+    "色块",
+    "构成性笔触",
+    "多重视点",
+    "体积"
+  ],
+  "summary": "塞尚的静物把普通果实转化为色彩与形体的研究：观察相邻色块如何建立体积，也看桌面与器物怎样打破稳定透视。",
+  "style_summary": "塞尚静物：色块怎样建立体积-色块层叠塑形，短笔触并置冷暖，轮廓时隐时现，桌面倾斜打破单点透视，果实体积融入织物与背景",
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "体积由色阶搭起",
+      "description": "不把圆果只画成明暗均匀的球。观察相邻色阶如何沿着形体转折，轮廓有时被压低或暂时松开，体积仍由色面之间的连续关系维持。"
+    },
+    {
+      "key": "composition",
+      "label": "物体关系先于单点透视",
+      "description": "果盘、杯罐、桌布与桌面形成互相推挤的平面。桌面可能倾斜，器物也可能同时呈现侧面与俯视；阅读时先追踪物体之间的支撑、遮挡和间距。"
+    },
+    {
+      "key": "color",
+      "label": "冷暖色参与塑形",
+      "description": "在《静物：苹果与桃子》中，暖橙黄果实与深蓝轮廓、钴蓝阴影相邻。色彩不只描摹固有色，也在物体边缘和阴影处建立重量与前后关系。"
+    },
+    {
+      "key": "texture",
+      "label": "笔触留下构造过程",
+      "description": "短小、方向各异的笔触保留在画面表层。比较果皮、陶器和织物的笔触疏密与方向，能看出形体如何由反复观察和叠色逐步组织起来。"
+    }
+  ],
+  "context": "塞尚的静物不是把水果排成整齐的一列再套上明暗。大都会艺术博物馆将他1870年代的静物描述为对形与色的实验：相邻的细微色阶、可见笔触和不服从单点透视的物体关系，共同参与形体塑造。莫玛对《静物：苹果》的说明也指出，苹果边缘会显得不确定，桌子的两侧并不对齐，画布局部仍可见。\n\n这里并列三件不同时期的静物，观察色块与物体关系如何变化。国家美术馆的《静物：苹果与桃子》保留了更丰富的器物、织物和强烈冷暖色；馆方指出桌面向观者倾斜，果实、器皿与布料经过反复摆放。下方分析针对这些具体作品，不把塞尚的所有绘画简化为单一配方。",
+  "people": [
+    {
+      "name": "保罗·塞尚 / Paul Cézanne",
+      "role": "画家；以静物、风景和人物题材研究色彩、形体与画面空间"
+    }
+  ],
+  "works": [
+    {
+      "title": "静物：罐、杯与苹果 / Still Life with Jar, Cup, and Apples",
+      "creator": "Paul Cézanne",
+      "year": "约1877",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/435884",
+      "image": {
+        "src": "/images/cezanne-still-life-jar-cup-apples.jpg",
+        "alt": "塞尚《静物：罐、杯与苹果》：绿色罐与白杯置于苹果、褶皱白布和带菱形纹样的背景前",
+        "credit": "Paul Cézanne / The Metropolitan Museum of Art, 29.100.66 · Public Domain",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/435884"
+      }
+    },
+    {
+      "title": "静物：苹果 / Still Life with Apples",
+      "creator": "Paul Cézanne",
+      "year": "1898",
+      "sourceUrl": "https://www.moma.org/collection/works/78486",
+      "image": null
+    },
+    {
+      "title": "静物：苹果与桃子 / Still Life with Apples and Peaches",
+      "creator": "Paul Cézanne",
+      "year": "约1905",
+      "sourceUrl": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches",
+      "image": {
+        "src": "/images/cezanne-still-life-apples-peaches.jpg",
+        "alt": "塞尚《静物：苹果与桃子》：橙黄果实围绕白盘与器皿，褶皱白布、蓝绿色窗帘和倾斜桌面共同铺展在画面中",
+        "credit": "Paul Cezanne / Courtesy National Gallery of Art, Washington · Public Domain (CC0)",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches"
+      }
+    }
+  ],
+  "comparison": {
+    "target": "以固定单点透视和明暗渐层塑造静物",
+    "description": "比较时先检查桌边方向、器皿开口和果实轮廓：稳定的透视会让物体共享一套空间坐标；塞尚的具体画面则可能为形体关系调整角度，并以相邻色阶代替均匀的投影。此处为本站观看练习，不代表所有学院派或塞尚作品。"
+  },
+  "applications": [
+    "摆放三个不同形状的果实和一块布，用四到六种邻接色先画色块，再用线标记仍需明确的轮廓。",
+    "固定画面边框，分别从略高和略低的视点速写同一静物，比较桌面方向与器皿开口怎样改变空间感。",
+    "为圆果选择三组冷暖相邻色，不用黑色直接压暗；检查色块变化是否仍保留圆度和受光方向。"
+  ],
+  "experiment": "用不超过六种颜色画一组苹果、杯子和折布；先调物体位置，再决定桌边的斜度，最后比较色块与轮廓哪一项更能建立体积。",
+  "nextTopics": ["色彩中的结构", "静物构图"],
+  "relatedIds": ["2026-10-08-impressionism", "2026-10-07-digital-painting"],
+  "cover": {
+    "src": "/images/cezanne-still-life-apples-peaches.jpg",
+    "alt": "塞尚《静物：苹果与桃子》：橙黄果实围绕白盘与器皿，褶皱白布、蓝绿色窗帘和倾斜桌面共同铺展在画面中",
+    "credit": "Paul Cezanne / Courtesy National Gallery of Art, Washington · Public Domain (CC0)",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches"
+  },
+  "sources": [
+    {
+      "title": "Paul Cézanne (1839–1906)",
+      "url": "https://www.metmuseum.org/es/essays/paul-cezanne-1839-1906",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "核对塞尚静物中的相邻色阶、构成性笔触、形体塑造与非单点透视说明；该文提供多件馆藏作品的时期信息。"
+    },
+    {
+      "title": "Still Life with Jar, Cup, and Apples, ca. 1877",
+      "url": "https://www.metmuseum.org/art/collection/search/435884",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "核对作者、年代、馆藏号29.100.66、作品说明及Public Domain标记。"
+    },
+    {
+      "title": "Still Life with Apples, 1898",
+      "url": "https://www.moma.org/collection/works/78486",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "核对作者、年代、媒介与构图说明。页面没有用于本站转载图片的开放许可记录，因此只保留作品来源链接。"
+    },
+    {
+      "title": "Still Life with Apples and Peaches, c. 1905",
+      "url": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches",
+      "publisher": "National Gallery of Art, Washington",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "核对作者、年代、媒介、馆藏号1959.15.1、倾斜桌面和色彩描述；作品页面标示图像为Public Domain，开放访问政策以CC0发布。"
+    },
+    {
+      "title": "Open Access Policy for Images of Works of Art Presumed in the Public Domain",
+      "url": "https://www.nga.gov/terms-notices",
+      "publisher": "National Gallery of Art, Washington",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "核对NGA开放图像政策：适用的馆藏图像允许免费用于商业及非商业用途，并按CC0发布；NGA仍建议署名。"
+    },
+    {
+      "title": "Cézanne's Still Lifes",
+      "url": "https://www.nga.gov/educational-resources/sense-place-france/cezannes-still-lifes",
+      "publisher": "National Gallery of Art, Washington",
+      "verifiedAt": "2026-10-10",
+      "verificationNote": "交叉核对作品摆置、多个视点、色彩关系、倾斜桌面及静物创作练习。"
+    }
+  ],
+  "updatedAt": null
+}

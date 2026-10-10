@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">数字绘画平涂与图层结构示意</title>
+  <desc id="desc">Visual Art Atlas 原创技法图：同一束花先以线稿确定封闭形状，再铺设色块，并把线稿、颜色和纸色分在不同图层。</desc>
+  <rect width="1200" height="900" fill="#eeece3"/>
+  <rect x="28" y="28" width="1144" height="844" fill="#f7f5ee" stroke="#d9d6cc"/>
+  <text x="76" y="83" fill="#a85f4e" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">VISUAL STUDY / 07</text>
+  <text x="1124" y="83" text-anchor="end" fill="#777d73" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">DIGITAL PAINTING · FLAT COLOR</text>
+  <line x1="76" y1="108" x2="1124" y2="108" stroke="#d9d6cc"/>
+
+  <text x="76" y="165" fill="#292e2a" font-family="Georgia, 'Songti SC', serif" font-size="34">先分清形，再铺设色彩。</text>
+  <text x="76" y="192" fill="#777d73" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.5">CLOSED SHAPES MAKE FLAT COLOUR EASY TO EDIT</text>
+
+  <rect x="76" y="225" width="310" height="490" fill="#f0eee6"/>
+  <rect x="406" y="225" width="310" height="490" fill="#f0eee6"/>
+  <rect x="736" y="225" width="388" height="490" fill="#e8e6dd"/>
+
+  <text x="100" y="262" fill="#777d73" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">01 / LINE ART</text>
+  <text x="430" y="262" fill="#777d73" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">02 / FLAT COLOURS</text>
+  <text x="760" y="262" fill="#777d73" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">03 / LAYER STACK</text>
+
+  <g fill="none" stroke="#303732" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+    <path d="M230 578 C228 510 226 439 232 335"/>
+    <path d="M232 507 C196 470 157 459 131 466 C150 499 188 514 232 520"/>
+    <path d="M231 467 C266 431 305 420 334 429 C318 461 279 478 231 481"/>
+    <path d="M231 410 C194 375 171 342 170 307 C205 317 228 351 239 398"/>
+    <path d="M234 370 C264 331 294 311 328 313 C317 349 286 375 240 388"/>
+    <path d="M232 335 C204 319 196 290 210 267 C224 290 232 310 232 335"/>
+    <path d="M232 335 C224 302 239 278 265 270 C261 297 250 318 232 335"/>
+    <path d="M232 335 C246 305 273 295 298 308 C281 328 260 337 232 335"/>
+    <path d="M232 335 C208 307 210 279 230 261 C241 287 241 311 232 335"/>
+    <path d="M205 578 L196 623 C219 641 258 641 282 623 L271 578"/>
+    <path d="M205 578 C220 589 255 589 271 578"/>
+    <ellipse cx="238" cy="577" rx="34" ry="8"/>
+  </g>
+  <circle cx="232" cy="318" r="7" fill="#303732"/>
+  <circle cx="151" cy="474" r="5" fill="#303732"/>
+  <circle cx="315" cy="438" r="5" fill="#303732"/>
+
+  <g stroke="#303732" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path d="M560 578 C558 510 556 439 562 335" fill="none"/>
+    <path d="M562 507 C526 470 487 459 461 466 C480 499 518 514 562 520" fill="#849287"/>
+    <path d="M561 467 C596 431 635 420 664 429 C648 461 609 478 561 481" fill="#c8ad79"/>
+    <path d="M561 410 C524 375 501 342 500 307 C535 317 558 351 569 398" fill="#c77963"/>
+    <path d="M564 370 C594 331 624 311 658 313 C647 349 616 375 570 388" fill="#a7b1a4"/>
+    <path d="M562 335 C534 319 526 290 540 267 C554 290 562 310 562 335" fill="#d4ba82"/>
+    <path d="M562 335 C554 302 569 278 595 270 C591 297 580 318 562 335" fill="#b66b59"/>
+    <path d="M562 335 C576 305 603 295 628 308 C611 328 590 337 562 335" fill="#859489"/>
+    <path d="M562 335 C538 307 540 279 560 261 C571 287 571 311 562 335" fill="#c77963"/>
+    <path d="M535 578 L526 623 C549 641 588 641 612 623 L601 578" fill="#d3c39e"/>
+    <path d="M535 578 C550 589 585 589 601 578" fill="none"/>
+    <ellipse cx="568" cy="577" rx="34" ry="8" fill="#e4d6b7"/>
+  </g>
+  <circle cx="562" cy="318" r="7" fill="#d7ac68"/>
+  <circle cx="481" cy="474" r="5" fill="#879488"/>
+  <circle cx="645" cy="438" r="5" fill="#d0ad74"/>
+
+  <text x="100" y="679" fill="#292e2a" font-family="'Songti SC', Georgia, serif" font-size="18">线稿先界定可填充的形</text>
+  <text x="430" y="679" fill="#292e2a" font-family="'Songti SC', Georgia, serif" font-size="18">颜色按区域独立调整</text>
+
+  <g font-family="Arial, 'Songti SC', sans-serif">
+    <rect x="762" y="294" width="336" height="88" fill="#f7f5ee" stroke="#d4d1c7"/>
+    <circle cx="793" cy="338" r="9" fill="#879488"/>
+    <text x="818" y="332" fill="#292e2a" font-size="15">线稿层</text>
+    <text x="818" y="355" fill="#777d73" font-size="11" letter-spacing="1.5">LINE ART · MULTIPLY</text>
+    <text x="1067" y="344" text-anchor="end" fill="#a85f4e" font-size="17">01</text>
+
+    <rect x="762" y="394" width="336" height="88" fill="#f7f5ee" stroke="#d4d1c7"/>
+    <circle cx="793" cy="438" r="9" fill="#c77963"/>
+    <text x="818" y="432" fill="#292e2a" font-size="15">固有色层</text>
+    <text x="818" y="455" fill="#777d73" font-size="11" letter-spacing="1.5">FLATS · SEPARATE AREAS</text>
+    <text x="1067" y="444" text-anchor="end" fill="#a85f4e" font-size="17">02</text>
+
+    <rect x="762" y="494" width="336" height="88" fill="#f7f5ee" stroke="#d4d1c7"/>
+    <circle cx="793" cy="538" r="9" fill="#d4ba82"/>
+    <text x="818" y="532" fill="#292e2a" font-size="15">纸色与背景</text>
+    <text x="818" y="555" fill="#777d73" font-size="11" letter-spacing="1.5">PAPER · BACKGROUND</text>
+    <text x="1067" y="544" text-anchor="end" fill="#a85f4e" font-size="17">03</text>
+  </g>
+
+  <line x1="76" y1="755" x2="1124" y2="755" stroke="#d9d6cc"/>
+  <text x="76" y="794" fill="#777d73" font-family="Arial, 'Songti SC', sans-serif" font-size="12" letter-spacing="1.2">本站原创技法示意 · 参考 Krita 官方平涂教程</text>
+  <text x="1124" y="794" text-anchor="end" fill="#777d73" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">FORM / COLOUR / LAYERS</text>
+</svg>

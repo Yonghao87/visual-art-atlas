@@ -11,6 +11,7 @@
   "regions": ["跨地区"],
   "tags": ["数字绘画", "色块", "明暗", "边缘控制", "概念艺术", "Krita"],
   "summary": "先用大色块建立构图与明暗关系，再选择值得细化的边缘与细节。",
+  "style_summary": "数字绘画：先看见大形-先铺大色块再逐层细化，硬边与软边控制层级，冷暖色块塑造体积，透明叠色柔化过渡，边缘保留数字笔刷节奏",
   "context": "Krita 官方工作流介绍了平涂、图层与从随机形状中发展绘画的方式。这些是数字媒介中的操作方法，不是某位创作者专属的艺术流派。工具可以让修改更容易，但画面的组织仍需要创作者判断。\n\n下列“研究实例”链接到官方教程，属于技法示例，不能冒充独立艺术作品。视觉分析聚焦大形与边缘：在缩略图中成立的画面，通常已经解决了主要明暗关系。放大后的细节应支持这种关系，而不是让每一个区域都争夺注意。",
   "visualFeatures": [
     {
@@ -38,17 +39,30 @@
   "works": [
     {
       "title": "平涂研究实例 / Flat Coloring",
-      "creator": "Krita 官方教程",
+      "creator": "Visual Art Atlas 编辑部（原创技法示意）",
       "year": null,
       "sourceUrl": "https://docs.krita.org/en/tutorials/flat-coloring.html",
-      "image": null
+      "image": {
+        "src": "/images/digital-painting-flat-coloring.svg",
+        "alt": "Visual Art Atlas原创数字绘画平涂示意：花束线稿转为色块，并分为线稿、固有色和背景图层；不是Krita软件截图或原作图像",
+        "credit": "Visual Art Atlas · 原创技法示意（参考 Krita 官方教程）",
+        "rights": "own_work",
+        "sourceUrl": "https://docs.krita.org/en/tutorials/flat-coloring.html"
+      }
     },
     {
       "title": "从随机形状开始 / Starting from chaos",
       "creator": "Krita 官方教程",
       "year": null,
       "sourceUrl": "https://docs.krita.org/en/tutorials/common_workflows.html",
-      "image": null
+      "image": {
+        "src": "/images/digital-painting-chaos.jpg",
+        "alt": "Krita 手册中的随机形状起稿练习：三组黑灰色笔刷形状用于寻找构图",
+        "credit": "Krita Manual, “Starting from chaos” illustration · CC BY-SA 4.0",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://docs.krita.org/en/tutorials/common_workflows.html",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
     }
   ],
   "comparison": {
@@ -63,7 +77,14 @@
   "experiment": "用三种灰度画一处想象中的入口，只允许一个高反差焦点。",
   "nextTopics": ["印象派"],
   "relatedIds": ["2026-10-08-impressionism", "2026-10-03-rams"],
-  "cover": null,
+  "cover": {
+    "src": "/images/digital-painting-speedpaint.jpg",
+    "alt": "David Revoy 在 Krita 手册展示的《Pepper & Carrot》数字绘画速写，画面呈现色块、剪影与完整场景的推进",
+    "credit": "David Revoy, “Pepper-speedpaint-deevad” · CC BY 3.0",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://docs.krita.org/en/tutorials/common_workflows.html",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
   "sources": [
     {
       "title": "Common Workflows",

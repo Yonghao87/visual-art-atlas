@@ -1,50 +1,51 @@
 # Phase 1 验收记录
 
-日期：2026-10-09。宿主 Node.js 26.0.0；项目最低 Node 22.12，`.nvmrc` 和 CI 使用 Node 24 LTS。依赖版本锁定在 package-lock.json。项目已推送至 [Yonghao87/visual-art-atlas](https://github.com/Yonghao87/visual-art-atlas)，首轮 GitHub Actions 检查通过，Pages 部署完成。
+## 本地复核
 
-## 实测结果
+日期：2026-10-10。当前本地源码包含图片、缺图紧凑展示、原创数字绘画示意、视觉风格速记和收录流程的未提交改动。
 
-| 检查                                           | 结果                                                                                                       |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `npm run validate:content`                     | 7份JSON、7条published，覆盖7类，通过。                                                                     |
-| `npm run check`                                | Astro + strict TypeScript：0错误、0警告、0提示。                                                           |
-| `npm test`                                     | 16项内容与搜索测试通过。                                                                                   |
-| `npm run build`                                | 静态构建成功；首页、探索、关于、404、7篇详情、catalog及sitemap已生成。                                     |
-| `npm run test:e2e` 根路径                      | 1440×1000与390×844，每种视口4项，8/8通过。                                                                 |
-| `BASE_PATH=/visual-art-atlas npm run test:e2e` | 同样8/8通过；从带base的生产构建验证。                                                                      |
-| `npm run test:isolation`                       | 临时新增sample/draft；生产HTML、客户端JS、搜索索引、随机索引、catalog和sitemap均不含它们；临时文件已清理。 |
-| `npm run dev -- --port 4322 --ignore-lock`     | 无API密钥启动与本地HTTP访问通过。                                                                          |
-| npm依赖安装审计                                | 0个已知漏洞（安装时结果，不保证未来数据库不变）。                                                          |
-| GitHub Actions：Quality checks                 | 首次远程运行通过；提交 `c686af1`。                                                                         |
-| GitHub Actions：Deploy to GitHub Pages         | Pages 启用后重跑成功；线上站点已发布。                                                                     |
-| 线上 HTTP 检查                                 | 首页、探索页、北斋详情、catalog.json、北斋图像、德加图像均返回200。                                          |
+| 检查                                          | 本地结果                                                                                              |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `npm run validate:content`                    | 8 份 JSON（7 篇已发布、1 篇草稿），覆盖 7 个领域，通过；同时由生产隔离测试复核临时草稿/示例。         |
+| `npm test`                                    | 18 项内容与搜索测试通过；覆盖风格速记带主题标题、旧条目缺字段兼容和风格速记搜索。                     |
+| `ASTRO_TELEMETRY_DISABLED=1 npm run check`    | Astro 与严格 TypeScript 检查：0 错误、0 警告、0 提示。                                                |
+| `ASTRO_TELEMETRY_DISABLED=1 npm run build`    | 静态构建成功，生成 11 个页面、目录和站点地图。                                                        |
+| `ASTRO_TELEMETRY_DISABLED=1 npm run test:e2e` | 默认根路径，桌面 1440×1000、手机 390×844，12/12 通过；包括风格标题和复制内容、缺图行、原创 SVG 加载。 |
+| `npm run test:isolation`                      | 临时 `sample`/`draft` 未进入生产 HTML、浏览器索引、客户端 JS、目录或站点地图；临时条目已清理。        |
+| `git diff --check`                            | 通过。                                                                                                |
 
-内容测试覆盖：破损JSON定位、非法分类/类型/日期/schema版本、缺少核验来源、作品缺出处、文件名不一致、重复ID、关联自身或不存在/未发布档案、图片alt/权利/CC许可/授权记录/路径/本地存在性、draft/sample隔离、关联去重。
+首次运行类型检查时，Astro 尝试在沙箱不可写的用户偏好目录写入遥测设置；设置 `ASTRO_TELEMETRY_DISABLED=1` 后检查与构建均正常。
 
-搜索测试覆盖：中文、英文大小写、常用同义词（含多词短语）、关键词AND匹配、作品/人物/特征/摘要、组合过滤、日期及同日稳定排序、base路径。
+## 功能覆盖
 
-浏览器测试覆盖：首页7分类、随机链接、完整详情、组合查询和筛选、重载URL恢复、空状态、清空与排序、浏览器后退、键盘跳转/提交搜索、图像失败占位、公开目录、全部7个详情和图像请求。
+- 内容校验覆盖日期、分类、作品出处、图片许可元数据、文件名、重复 ID、关联目标和公开状态隔离。
+- 搜索覆盖中英文、同义词、组合词、作品/人物/视觉特征/风格速记及组合筛选。
+- E2E 覆盖首页、七分类、随机跳转、详情、复制速记、作品缺图布局、搜索与筛选、历史导航、键盘操作、图像失败回退、公开目录及当前部署路径资源。
+- 缺图作品保留标题、作者、年代和原站链接；建筑档案使用清楚标注的原创排版封面。
+- 旧条目的 `style_summary` 仍是可选字段，缺失时页面隐藏模块；当前七篇档案已采用“完整标题-视觉描述”格式，复制会包含主题标题。
 
-草稿导入接口也已执行dry-run，校验通过且没有写入文件。最终根路径E2E已验证自行启动和关闭前台预览服务。
+## 视觉复核记录
 
-## 视觉复核
+实际截图保存在 `docs/screenshots/`：
 
-实际截图位于 `docs/screenshots/`：
+- `home-desktop.png`：1440px 首页。
+- `home-mobile.png`：390px 首页。
+- `explore-mobile.png`：390px 探索页。
+- `detail-desktop.png`：1440px 详情页。
+- `detail-mobile.png`：390px 详情页。
 
-- `home-desktop.png`：1440px首页。
-- `home-mobile.png`：390px首页。
-- `explore-mobile.png`：390px探索。
-- `detail-desktop.png`：1440px详情。
-- `detail-mobile.png`：390px详情。
+这些截图在 2026-10-09 生成。2026-10-10 重新通过桌面与手机 E2E；本次没有重新生成截图文件。生产截图命令为 `npm run capture:preview`，先启动生产预览。
 
-上述页面实测document宽度等于视口宽度，作品图片decode成功，浏览器脚本错误为0。初次手机探索出现fieldset最小宽度溢出，已修复并通过复测。详情页作品采用contain，浏览卡片采用cover；图片失败保留封面或作品占位。
+## 部署状态
 
-重现截图（先运行生产预览）：`npm run capture:preview`。测试服务器使用`--ignore-lock`在前台运行，避免Astro在Agent环境自动后台化影响CI生命周期。
+GitHub Pages 上一次成功部署记录于 2026-10-09。2026-10-10 的改动只在本地工作区，尚未提交或推送，因此线上版本不包含本次变更；本次未检查线上实时状态。
 
-## 剩余限制
+`.github/workflows/ci.yml` 在推送与 PR 时运行内容校验、类型检查、单元测试、构建及浏览器测试；`.github/workflows/deploy.yml` 构建成功后部署，执行类型检查、单元测试与静态构建。部署工作流没有单独运行浏览器测试。
 
-1. 五类封面为原创排版导览，真实参考图片仅提供原站链接。莫奈图像下载端点返回403，未使用未经确认许可的替代图。
-2. 搜索为结构化字段本地检索，暂未接入Pagefind全文或AI语义检索。
-3. Phase 2仅预留接受draft的离线入库接口；没有付费API、定时生成、每日自动提交或提醒联动。
-4. 首批条目集中整理，日期为初始阅读顺序；机器质量门禁不能替代来源与权利的人类判断。
-5. 浏览器实测为Chrome；未声称Firefox/Safari或辅助技术全矩阵已验证。
+## 后续事项
+
+1. 620 Chair Programme、Villa Savoye、Gardener's Lodge、Universal lettering、MoMA 2009 展览标题设计仍缺适合当前站点用途的原作图像许可证据，详见 [日常收录流程](EDITORIAL_WORKFLOW.md) 与 [素材来源记录](CONTENT_SOURCES.md)。
+2. 搜索为本地结构化字段检索，尚无 Pagefind 全文或 AI 语义搜索。
+3. 仅预留离线草稿导入接口；没有付费 API、定时生成、自动提交或提醒联动。
+4. 测试覆盖 Chromium 桌面和移动视口；未声称 Firefox、Safari 或完整辅助技术矩阵已验证。
+5. GitHub Pages 为公开站点，不提供账号或访问控制。

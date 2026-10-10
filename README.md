@@ -55,6 +55,8 @@ tests/e2e/atlas.spec.ts
 
 新增 `src/data/entries/YYYY-MM-DD-slug.json`，字段遵循 `src/lib/schema.ts`。分类 key 固定，标题可更新而 ID 稳定。正式来源必须有 HTTPS URL、出版者、核验日期、核验说明；不能仅以网页可访问判定史实正确。图片必须声明 alt、credit、rights 和来源，CC图片需许可链接，授权图片需授权记录。
 
+新增条目按 [日常收录流程](docs/EDITORIAL_WORKFLOW.md) 起草、核验、预览和人工发布，图片依 [图片收录原则](docs/IMAGE_COLLECTION_POLICY.md) 单独处理：按主题和学习价值确定作品清单，再寻找和补充图片。重要对象暂时缺图时保留记录与原站链接，不因缺图更换选题或阻止可靠内容发布；已展示图片必须图文对应并符合使用条件。封面可用明确标注的原创主题视觉。详情页会将缺图作品显示为紧凑档案行，并保留原始来源入口；待补图对象登记在收录流程文档中。
+
 ```bash
 npm run validate:content
 npm run check

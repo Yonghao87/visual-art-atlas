@@ -87,5 +87,6 @@ export const synonyms = [
   ['迪特·拉姆斯', 'dieter rams'],
   ['勒·柯布西耶', 'le corbusier'],
   ['罗丹', 'rodin'],
+  ['塞尚', '保罗·塞尚', 'Cézanne', 'Paul Cézanne', 'Paul Cezanne'],
   ['留白', 'negative space'],
 ] as const;

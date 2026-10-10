@@ -11,6 +11,7 @@
   "regions": ["法国"],
   "tags": ["雕塑", "青铜", "大理石", "身体", "动态构图"],
   "summary": "让身体的转折、重量与表面变化，成为一种可以绕行阅读的语言。",
+  "style_summary": "罗丹：身体如何承载情绪-粗粝可见的塑形痕迹，厚重体块与扭转姿态，明暗沿肌理起伏，青铜表面承接身体张力",
   "context": "罗丹博物馆说明，《思想者》最初属于《地狱之门》的构思；《吻》也曾与这一项目有关，后来成为独立作品。作品可能存在不同尺寸、材料和铸造版本，因此不能把构思年份直接当成眼前实物的制作年份。\n\n下文选择馆方记录作为参照，从体量与姿势理解情绪。雕塑需要观看者移动：正面显著的轮廓，在侧面可能变成一处深凹；平静的坐姿也可能包含复杂的肌肉与重心关系。照片只是观察入口，不能替代围绕作品的空间体验。",
   "visualFeatures": [
     {
@@ -54,7 +55,13 @@
       "creator": "Auguste Rodin",
       "year": "约1882构思；馆藏大理石版本1888—1898雕刻",
       "sourceUrl": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/kiss",
-      "image": null
+      "image": {
+        "src": "/images/rodin-kiss-nga.jpg",
+        "alt": "奥古斯特·罗丹《吻》，美国国家美术馆馆藏缩小版青铜铸件",
+        "credit": "Auguste Rodin / National Gallery of Art, 1942.5.15, Public Domain",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.nga.gov/artworks/1008-kiss-le-baiser"
+      }
     }
   ],
   "comparison": {
@@ -100,6 +107,13 @@
       "publisher": "The Metropolitan Museum of Art",
       "verifiedAt": "2026-10-09",
       "verificationNote": "官方馆藏记录标示 Public Domain；本地保存图像为馆藏青铜铸件，避免把馆藏版本和作品早期构思混为一谈。"
+    },
+    {
+      "title": "The Kiss (Le Baiser)",
+      "url": "https://www.nga.gov/artworks/1008-kiss-le-baiser",
+      "publisher": "National Gallery of Art",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "核对罗丹、缩小版青铜铸件与Public Domain媒体。本地插图是NGA 1942.5.15铸件；条目主来源仍记录罗丹博物馆的大理石版本。"
     }
   ],
   "updatedAt": null

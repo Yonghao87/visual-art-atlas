@@ -29,6 +29,7 @@ try {
         ...seed,
         id: ids[i],
         title: marker,
+        style_summary: `${marker}-${seed.style_summary.slice(seed.title.length + 1)}`,
         status: i === 0 ? 'sample' : 'draft',
         relatedIds: [],
         cover: null,

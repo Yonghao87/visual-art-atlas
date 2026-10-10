@@ -15,6 +15,7 @@ export const GET: APIRoute = async () => {
       id: e.id,
       title: e.title,
       summary: e.summary,
+      style_summary: e.style_summary,
       date: e.date,
       category: e.category,
       topicType: e.topicType,

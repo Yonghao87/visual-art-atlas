@@ -57,6 +57,7 @@ export const entrySchema = z
     regions: z.array(text),
     tags: z.array(text),
     summary: text,
+    style_summary: text.optional(),
     visualFeatures: z.array(
       z
         .object({ key: z.enum(featureKeys), label: text, description: text })
@@ -101,6 +102,11 @@ export const entrySchema = z
   .superRefine((entry, ctx) => {
     const issue = (path: (string | number)[], message: string) =>
       ctx.addIssue({ code: 'custom', path, message });
+    if (
+      entry.style_summary &&
+      !entry.style_summary.startsWith(`${entry.title}-`)
+    )
+      issue(['style_summary'], '视觉风格速记必须以档案标题开头');
     if (!entry.id.startsWith(`${entry.date}-`))
       issue(['id'], 'ID 日期必须等于 date');
     if (entry.relatedIds.includes(entry.id))

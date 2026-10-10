@@ -29,6 +29,10 @@ interface Props {
 }
 const { entry: e, issue, previous, next, related } = Astro.props;
 const c = categories[e.category];
+const hasWorkImage = (work: Entry['works'][number]) =>
+  Boolean(
+    work.image?.src && !['unknown', 'link_only'].includes(work.image.rights),
+  );
 ---
 
 <BaseLayout
@@ -162,17 +166,21 @@ const c = categories[e.category];
           </p>
           <div class="work-grid">
             {e.works.map((w) => (
-              <figure class="work-item">
-                {w.image?.src &&
-                !['unknown', 'link_only'].includes(w.image.rights) ? (
+              <figure
+                class:list={[
+                  'work-item',
+                  !hasWorkImage(w) && 'work-item--missing',
+                ]}
+              >
+                {hasWorkImage(w) ? (
                   <div class="visual work-visual">
                     <div class="work-placeholder">
                       <span class="serif">↗</span>
                       <span>图片暂时无法显示</span>
                     </div>
                     <img
-                      src={path(w.image.src)}
-                      alt={w.image.alt}
+                      src={path(w.image!.src!)}
+                      alt={w.image!.alt}
                       width="900"
                       height="700"
                       loading="lazy"
@@ -180,21 +188,18 @@ const c = categories[e.category];
                     />
                   </div>
                 ) : (
-                  <div class="work-placeholder">
-                    <span class="serif">
-                      {w.title.split(' / ')[0].slice(0, 1)}
-                    </span>
-                    <span>作品图未收录 · 前往原站观看</span>
+                  <div class="work-missing">
+                    <span class="work-missing-rule" aria-hidden="true"></span>
+                    <span>图像待补充</span>
                   </div>
                 )}
                 <figcaption>
                   <h3>{w.title}</h3>
-                  <p>
-                    {w.creator}
-                    <br />
-                    {w.year ?? '来源未注明年代'}
+                  <p class="work-byline">
+                    <span>{w.creator}</span>
+                    <span>{w.year ?? '来源未注明年代'}</span>
                   </p>
-                  {w.image?.src && (
+                  {hasWorkImage(w) && w.image && (
                     <p class="work-image-credit">
                       {w.image.credit}
                       {w.image.licenseUrl && (
@@ -281,6 +286,33 @@ const c = categories[e.category];
         </section>
       </div>
     </div>
+    {e.style_summary && (
+      <section
+        id="style-summary"
+        class="style-summary"
+        aria-labelledby="style-summary-title"
+      >
+        <div class="style-summary-copy">
+          <div class="eyebrow">VISUAL STYLE NOTES</div>
+          <h2 id="style-summary-title">视觉风格速记</h2>
+          <p id="style-summary-text">{e.style_summary}</p>
+        </div>
+        <button
+          class="style-summary-copy-button"
+          type="button"
+          data-copy-style
+          aria-label="复制视觉风格速记"
+        >
+          复制
+        </button>
+        <span
+          id="style-summary-copy-status"
+          class="visually-hidden"
+          role="status"
+          aria-live="polite"
+        ></span>
+      </section>
+    )}
     <nav class="entry-pagination" aria-label="相邻档案">
       {previous ? (
         <a href={path(`/entries/${previous.id}/`)}>
@@ -322,6 +354,27 @@ const c = categories[e.category];
     </div>
   </section>
   <script>
+    document
+      .querySelector<HTMLButtonElement>('[data-copy-style]')
+      ?.addEventListener('click', async (event) => {
+        const button = event.currentTarget as HTMLButtonElement;
+        const status = document.getElementById('style-summary-copy-status');
+        const summary = document
+          .getElementById('style-summary-text')
+          ?.textContent?.trim();
+        if (!summary) return;
+        try {
+          await navigator.clipboard.writeText(summary);
+          status && (status.textContent = '风格描述已复制');
+          button.textContent = '已复制';
+          window.setTimeout(() => {
+            button.textContent = '复制';
+            status && (status.textContent = '');
+          }, 1500);
+        } catch {
+          status && (status.textContent = '复制失败，请手动选择风格描述');
+        }
+      });
     document
       .getElementById('copy-link')
       ?.addEventListener('click', async () => {

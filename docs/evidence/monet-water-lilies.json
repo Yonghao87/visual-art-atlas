@@ -1,0 +1,16 @@
+{
+  "title": "Water Lilies",
+  "creator": "Claude Monet",
+  "date": 1906,
+  "institution": "Art Institute of Chicago",
+  "accessionNumber": "1933.1157",
+  "aicObjectID": 16568,
+  "isPublicDomain": true,
+  "licenseMark": "Public Domain Mark 1.0",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+  "museumRecord": "https://api.artic.edu/api/v1/artworks/16568",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+  "verifiedAt": "2026-10-09",
+  "localFile": "public/images/monet-water-lilies.jpg",
+  "sha256": "377b80d30c8ad7afb0e55cae9c4532d99d6260876a1385f4226d8f84bcaadcf2"
+}

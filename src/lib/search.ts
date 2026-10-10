@@ -6,6 +6,7 @@ export type SearchRecord = Pick<
   | 'title'
   | 'subtitle'
   | 'summary'
+  | 'style_summary'
   | 'category'
   | 'topicType'
   | 'date'
@@ -28,6 +29,7 @@ export function searchable(e: SearchRecord) {
     e.title,
     e.subtitle,
     e.summary,
+    e.style_summary ?? '',
     e.period,
     ...e.regions,
     ...e.tags,
@@ -87,6 +89,7 @@ export function toSearchRecord(e: Entry): SearchRecord {
     title: e.title,
     subtitle: e.subtitle,
     summary: e.summary,
+    style_summary: e.style_summary,
     category: e.category,
     topicType: e.topicType,
     date: e.date,

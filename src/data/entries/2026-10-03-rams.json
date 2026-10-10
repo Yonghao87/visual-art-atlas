@@ -11,6 +11,7 @@
   "regions": ["德国"],
   "tags": ["模块化", "留白", "产品造型", "功能主义", "Dieter Rams"],
   "summary": "用清晰的结构和克制的形态，把使用者的需要放在物件的表达之前。",
+  "style_summary": "迪特·拉姆斯：少，却更好-模块化金属框架，精确比例与重复单元，克制的灰白与原木色，功能先行的结构秩序，细节隐于整体",
   "context": "Vitsœ 的官方设计说明介绍了拉姆斯对实用性、可理解性和耐用性的重视。他为品牌设计的 606 置物系统与 620 座椅系统，提供了观察这些观念的具体入口。这是一位设计师的工作思想，不应被独立命名为艺术流派。\n\n“少”并非简单删除零件：一个物件仍需承担全部必要功能，并让人理解如何使用。以下分析关注结构如何被看见、部件如何重复、以及产品怎样与生活一起变化。判断一件设计是否克制，不能只看表面是否干净，也要观察维护与扩展的方式。",
   "visualFeatures": [
     {
@@ -41,7 +42,14 @@
       "creator": "Dieter Rams",
       "year": "1960",
       "sourceUrl": "https://www.vitsoe.com/gb/606",
-      "image": null
+      "image": {
+        "src": "/images/rams-606.jpg",
+        "alt": "迪特·拉姆斯为 Vitsœ 设计的 606 壁挂式置物系统，白色模块以轨道与搁板组成",
+        "credit": "Vitsœ · Wikimedia Commons · CC BY-SA 3.0",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:606-Universal-Shelving-System.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
     },
     {
       "title": "620 Chair Programme",
@@ -63,7 +71,14 @@
   "experiment": "为桌面收纳画三种组合，共用同一套五个部件。测试它们能否适应不同物品。",
   "nextTopics": ["罗丹"],
   "relatedIds": ["2026-10-04-rodin", "2026-10-06-bauhaus"],
-  "cover": null,
+  "cover": {
+    "src": "/images/rams-606.jpg",
+    "alt": "迪特·拉姆斯为 Vitsœ 设计的 606 壁挂式置物系统，白色模块以轨道与搁板组成",
+    "credit": "Vitsœ · Wikimedia Commons · CC BY-SA 3.0",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:606-Universal-Shelving-System.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
   "sources": [
     {
       "title": "The power of good design",
@@ -85,6 +100,13 @@
       "publisher": "Vitsœ",
       "verifiedAt": "2026-10-09",
       "verificationNote": "核对产品名称、创作者和 1962 年设计信息。"
+    },
+    {
+      "title": "606 Universal Shelving System — Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:606-Universal-Shelving-System.jpg",
+      "publisher": "Wikimedia Commons / Vitsœ",
+      "verifiedAt": "2026-10-09",
+      "verificationNote": "文件页明确标示 Vitsœ 为版权持有人并按 CC BY-SA 3.0 发布；Vitsœ 官方资料称其为 Rams 家具设计的独家全球被许可方。"
     }
   ],
   "updatedAt": null

@@ -11,6 +11,7 @@
   "regions": ["日本"],
   "tags": ["版画", "留白", "轮廓线", "蓝色", "动态构图", "Ukiyo-e", "北斋"],
   "summary": "让轮廓、有限色面与大胆的尺度关系，共同构成鲜明的视觉叙事。",
+  "style_summary": "浮世绘：一条线，掀起巨浪-多色木版套印，清晰流动的轮廓线，平涂与有限色阶，大胆裁切和不对称构图，留白形成节奏",
   "context": "《神奈川冲浪里》来自北斋的《富岳三十六景》。大都会艺术博物馆指出，画面利用透视与尺度，把富士山置于巨浪之下；蓝色也是理解这件版画的重要线索。《相州梅泽庄》则提供了较为舒缓的景观对照。\n\n浮世绘包含众多作者与题材，不应只用一张巨浪定义整个领域。本期从两件北斋风景版画入手，观察线条怎样区分物体，颜色怎样把画面分成可读的层次。以下视觉语言、比较和创作转化为本站分析，作品名称与年代可通过馆藏来源核查。",
   "visualFeatures": [
     {
@@ -59,7 +60,13 @@
       "creator": "Katsushika Hokusai",
       "year": "约1830—1832",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/55738",
-      "image": null
+      "image": {
+        "src": "/images/hokusai-umezawa.jpg",
+        "alt": "北斋《相州梅泽庄》：蓝色木版画中的山脊、云层与梅泽庄景色",
+        "credit": "Katsushika Hokusai / The Metropolitan Museum of Art, JP2981, Public Domain",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/55738"
+      }
     }
   ],
   "comparison": {
@@ -94,7 +101,7 @@
       "url": "https://www.metmuseum.org/art/collection/search/55738",
       "publisher": "The Metropolitan Museum of Art",
       "verifiedAt": "2026-10-09",
-      "verificationNote": "核对北斋、系列名称与约1830—1832年。"
+      "verificationNote": "核对北斋、系列名称、约1830—1832年、媒介及Public Domain许可；本地保存馆方开放图像。"
     }
   ],
   "updatedAt": null

@@ -1,0 +1,14 @@
+{
+  "title": "The Kiss (Le Baiser)",
+  "artist": "Auguste Rodin",
+  "castDate": "c. 1898/1902",
+  "medium": "bronze",
+  "accessionNumber": "1942.5.15",
+  "mediaRights": "Public Domain",
+  "imageUrl": "https://api.nga.gov/iiif/0fa34c3a-f8df-434d-a6e4-3249556ff09a/full/%21800%2C800/0/default.jpg",
+  "objectURL": "https://www.nga.gov/artworks/1008-kiss-le-baiser",
+  "verifiedAt": "2026-10-09",
+  "localFile": "public/images/rodin-kiss-nga.jpg",
+  "sha256": "ae488e06c88191416a0d5487b699bd587dd141574c83bc39800d58d8d6aff41e",
+  "note": "This is the National Gallery of Art's small bronze cast, used as an explicitly identified image for the same composition; the entry's original work record points to the Musée Rodin marble version."
+}
