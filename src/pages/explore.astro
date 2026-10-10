@@ -56,6 +56,13 @@ const tags = [...new Set(entries.flatMap((e) => e.tags))].sort((a, b) =>
       <div class="filter-bottom">
         <div class="select-controls">
           <label>
+            阅读版本
+            <select name="edition" aria-label="阅读版本">
+              <option value="">全部档案</option>
+              <option value="family">含亲子版 · 5–7 岁</option>
+            </select>
+          </label>
+          <label>
             主题类型
             <select name="type" aria-label="主题类型">
               <option value="">全部类型</option>

@@ -61,14 +61,16 @@
         "credit": "Paul Cézanne / The Metropolitan Museum of Art, 29.100.66 · Public Domain",
         "rights": "public_domain",
         "sourceUrl": "https://www.metmuseum.org/art/collection/search/435884"
-      }
+      },
+      "id": "jar-cup-apples"
     },
     {
       "title": "静物：苹果 / Still Life with Apples",
       "creator": "Paul Cézanne",
       "year": "1895–98",
       "sourceUrl": "https://www.moma.org/collection/works/78486",
-      "image": null
+      "image": null,
+      "id": "still-life-apples"
     },
     {
       "title": "静物：苹果与桃子 / Still Life with Apples and Peaches",
@@ -81,7 +83,8 @@
         "credit": "Paul Cezanne / Courtesy National Gallery of Art, Washington · Public Domain (CC0)",
         "rights": "public_domain",
         "sourceUrl": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches"
-      }
+      },
+      "id": "apples-peaches"
     }
   ],
   "comparison": {
@@ -147,5 +150,34 @@
       "verificationNote": "交叉核对作品摆置、多个视点、色彩关系、倾斜桌面及静物创作练习。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "苹果里面藏着多少种颜色？",
+    "summary": "塞尚把水果、盘子和布画在一起。他用一块块不同的颜色，让画纸上的水果看起来圆圆的。今天，和大人一起找找水果上的颜色。",
+    "looking": "先看看《静物：苹果与桃子》。用手指沿着一个水果的边缘慢慢移动，留意里面的颜色怎样变化。",
+    "featuredWorkIds": ["apples-peaches"],
+    "observations": [
+      {
+        "workId": "apples-peaches",
+        "question": "选一个水果，除了红色或黄色，你还找到了什么颜色？"
+      },
+      {
+        "workId": "apples-peaches",
+        "question": "看看盘子边的水果，哪些挡住了别的水果？你是从哪里看出来的？"
+      }
+    ],
+    "activity": {
+      "title": "用小色块画一个水果",
+      "durationMinutes": 8,
+      "materials": ["纸", "三支不同颜色的彩笔"],
+      "steps": [
+        "选三种颜色，在纸上画几个挨在一起的小色块，拼出一个圆圆的水果。",
+        "给其中一边加一点深色，再看看它发生了什么变化。",
+        "和大人轮流说说，自己的水果哪里亮、哪里暗。"
+      ]
+    },
+    "takeaway": "同一个水果里，也可以藏着很多种颜色。",
+    "parentNote": "陪孩子指认画面中的颜色和遮挡关系。先听孩子描述，再一起回到图片寻找依据，不必把水果画得和原作一样。"
+  }
 }

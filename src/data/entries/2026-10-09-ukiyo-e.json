@@ -53,7 +53,8 @@
         "credit": "Katsushika Hokusai / The Metropolitan Museum of Art, JP1847",
         "rights": "public_domain",
         "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434"
-      }
+      },
+      "id": "great-wave"
     },
     {
       "title": "相州梅泽庄 / Umezawa Manor in Sagami Province",
@@ -66,7 +67,8 @@
         "credit": "Katsushika Hokusai / The Metropolitan Museum of Art, JP2981, Public Domain",
         "rights": "public_domain",
         "sourceUrl": "https://www.metmuseum.org/art/collection/search/55738"
-      }
+      },
+      "id": "umezawa"
     }
   ],
   "comparison": {
@@ -104,5 +106,34 @@
       "verificationNote": "核对北斋、系列名称、约1830—1832年、媒介及Public Domain许可；本地保存馆方开放图像。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "大浪弯弯，小山在哪里？",
+    "summary": "北斋在这幅版画里画了大浪、船和远处的富士山。浪弯得很大，山却小小的。今天，我们用眼睛和手指跟着线条走一走。",
+    "looking": "先看看《神奈川冲浪里》。不用着急，沿着最大的浪，在空中画一条弯弯的线，再找找远处的山。",
+    "featuredWorkIds": ["great-wave"],
+    "observations": [
+      {
+        "workId": "great-wave",
+        "question": "浪尖的线条朝哪些方向弯？你可以用手在空中比画出来吗？"
+      },
+      {
+        "workId": "great-wave",
+        "question": "找到小山了吗？和大浪比一比，谁占的地方更大？"
+      }
+    ],
+    "activity": {
+      "title": "让大形状和小形状一起玩",
+      "durationMinutes": 8,
+      "materials": ["纸", "蓝色彩笔", "另一支彩笔"],
+      "steps": [
+        "用蓝色笔画一个大大的弯曲形状，让它像浪一样占住纸的一边。",
+        "在旁边画一个小小的山、房子或你喜欢的东西，周围留一点空白。",
+        "和大人说说：你第一眼看到的是哪个形状？如果把它们的大小交换呢？"
+      ]
+    },
+    "takeaway": "大和小、弯和直，可以让我们看到不同的画面。",
+    "parentNote": "这次观察聚焦线条和大小。允许孩子说出不同感受，大小对照不是唯一答案。活动只需在纸上完成，不需要模仿画中的海上场景。"
+  }
 }

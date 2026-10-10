@@ -16,13 +16,14 @@ export type SearchRecord = Pick<
   | 'visualFeatures'
   | 'regions'
   | 'period'
->;
+> & { children?: Pick<NonNullable<Entry['children']>, 'title' | 'summary'> };
 export type Filters = {
   q: string;
   category: string;
   type: string;
   tag: string;
   sort: string;
+  edition: string;
 };
 export function searchable(e: SearchRecord) {
   return [
@@ -30,6 +31,8 @@ export function searchable(e: SearchRecord) {
     e.subtitle,
     e.summary,
     e.style_summary ?? '',
+    e.children?.title ?? '',
+    e.children?.summary ?? '',
     e.period,
     ...e.regions,
     ...e.tags,
@@ -72,6 +75,7 @@ export function filterEntries<T extends SearchRecord>(
   return entries
     .filter(
       (e) =>
+        (filters.edition !== 'family' || Boolean(e.children)) &&
         (!filters.category || e.category === (filters.category as Category)) &&
         (!filters.type || e.topicType === (filters.type as TopicType)) &&
         (!filters.tag || e.tags.includes(filters.tag)) &&
@@ -90,6 +94,9 @@ export function toSearchRecord(e: Entry): SearchRecord {
     subtitle: e.subtitle,
     summary: e.summary,
     style_summary: e.style_summary,
+    children: e.children
+      ? { title: e.children.title, summary: e.children.summary }
+      : undefined,
     category: e.category,
     topicType: e.topicType,
     date: e.date,

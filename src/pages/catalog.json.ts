@@ -16,6 +16,10 @@ export const GET: APIRoute = async () => {
       title: e.title,
       summary: e.summary,
       style_summary: e.style_summary,
+      hasChildren: Boolean(e.children),
+      children: e.children
+        ? { title: e.children.title, summary: e.children.summary }
+        : undefined,
       date: e.date,
       category: e.category,
       topicType: e.topicType,

@@ -13,7 +13,7 @@ const cards = new Map(
 function state(): Filters {
   const data = new FormData(form);
   return Object.fromEntries(
-    ['q', 'category', 'type', 'tag', 'sort'].map((key) => [
+    ['q', 'category', 'type', 'tag', 'sort', 'edition'].map((key) => [
       key,
       String(data.get(key) ?? ''),
     ]),
@@ -22,7 +22,7 @@ function state(): Filters {
 function restore() {
   const params = new URLSearchParams(location.search);
   form.reset();
-  for (const key of ['q', 'category', 'type', 'tag', 'sort']) {
+  for (const key of ['q', 'category', 'type', 'tag', 'sort', 'edition']) {
     const item = form.elements.namedItem(key);
     const value = params.get(key);
     if (value === null) continue;
@@ -45,7 +45,26 @@ function render(update = true) {
   const matches = filterEntries(entries, filters);
   const ids = new Set(matches.map((e) => e.id));
   cards.forEach((card, id) => (card.hidden = !ids.has(id)));
-  matches.forEach((e) => grid.append(cards.get(e.id)!));
+  // Do not detach the clicked card on the search input's blur/change event.
+  filterEntries(entries, { sort: filters.sort }).forEach((entry, index) => {
+    const card = cards.get(entry.id)!;
+    if (grid.children[index] !== card)
+      grid.insertBefore(card, grid.children[index] ?? null);
+  });
+  cards.forEach((card, id) => {
+    const entry = entries.find((e) => e.id === id)!;
+    const family = filters.edition === 'family' && entry.children;
+    const title = card.querySelector<HTMLElement>('[data-card-title]');
+    const summary = card.querySelector<HTMLElement>('[data-card-summary]');
+    if (title) title.textContent = family ? entry.children!.title : entry.title;
+    if (summary)
+      summary.textContent = family ? entry.children!.summary : entry.summary;
+    const link = card.querySelector<HTMLAnchorElement>('.card-link')!;
+    const url = new URL(link.href);
+    if (family) url.searchParams.set('edition', 'family');
+    else url.searchParams.delete('edition');
+    link.href = url.href;
+  });
   document.getElementById('result-count')!.textContent =
     `${matches.length} 份档案${matches.length !== entries.length ? ` / 共 ${entries.length} 份` : ''}`;
   document.getElementById('empty-state')!.hidden = matches.length > 0;

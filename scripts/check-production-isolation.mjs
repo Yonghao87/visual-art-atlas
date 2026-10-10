@@ -31,6 +31,9 @@ try {
         title: marker,
         style_summary: `${marker}-${seed.style_summary.slice(seed.title.length + 1)}`,
         status: i === 0 ? 'sample' : 'draft',
+        children: seed.children
+          ? { ...seed.children, title: marker, summary: marker }
+          : undefined,
         relatedIds: [],
         cover: null,
       }),

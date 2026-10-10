@@ -17,7 +17,8 @@
     "import:entry": "node --import tsx scripts/import-entry.ts",
     "format": "prettier --write .",
     "test:isolation": "node scripts/check-production-isolation.mjs",
-    "capture:preview": "node scripts/capture-preview.mjs"
+    "capture:preview": "node scripts/capture-preview.mjs",
+    "validate:daily": "node --import tsx scripts/validate-daily-entry.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.7.4",

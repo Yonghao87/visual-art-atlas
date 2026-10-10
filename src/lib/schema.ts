@@ -58,6 +58,30 @@ export const entrySchema = z
     tags: z.array(text),
     summary: text,
     style_summary: text.optional(),
+    children: z
+      .object({
+        ageRange: z.literal('5-7'),
+        title: text,
+        summary: text,
+        looking: text,
+        featuredWorkIds: z.array(text).min(1).max(2),
+        observations: z
+          .array(z.object({ workId: text, question: text }).strict())
+          .min(2)
+          .max(3),
+        activity: z
+          .object({
+            title: text,
+            durationMinutes: z.number().int().min(5).max(10),
+            materials: z.array(text).min(1).max(6),
+            steps: z.array(text).min(2).max(4),
+          })
+          .strict(),
+        takeaway: text,
+        parentNote: text,
+      })
+      .strict()
+      .optional(),
     visualFeatures: z.array(
       z
         .object({ key: z.enum(featureKeys), label: text, description: text })
@@ -68,6 +92,10 @@ export const entrySchema = z
     works: z.array(
       z
         .object({
+          id: z
+            .string()
+            .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/)
+            .optional(),
           title: text,
           creator: text,
           year: text.nullable(),
@@ -113,6 +141,32 @@ export const entrySchema = z
       issue(['relatedIds'], '不可关联自身');
     if (new Set(entry.relatedIds).size !== entry.relatedIds.length)
       issue(['relatedIds'], '关联不可重复');
+    const workIds = entry.works.flatMap((work) => (work.id ? [work.id] : []));
+    if (new Set(workIds).size !== workIds.length)
+      issue(['works'], '作品 ID 不可重复');
+    if (entry.children) {
+      const child = entry.children;
+      if (new Set(child.featuredWorkIds).size !== child.featuredWorkIds.length)
+        issue(['children', 'featuredWorkIds'], '亲子作品引用不可重复');
+      child.featuredWorkIds.forEach((id, i) => {
+        const work = entry.works.find((w) => w.id === id);
+        if (
+          !work?.image?.src ||
+          ['unknown', 'link_only'].includes(work.image.rights)
+        )
+          issue(
+            ['children', 'featuredWorkIds', i],
+            '亲子版必须引用本档案中可展示的作品或原创研究图',
+          );
+      });
+      child.observations.forEach((observation, i) => {
+        if (!child.featuredWorkIds.includes(observation.workId))
+          issue(
+            ['children', 'observations', i, 'workId'],
+            '观察问题必须对应亲子版展示的作品',
+          );
+      });
+    }
     if (entry.status !== 'published') return;
     if (!entry.visualFeatures.length)
       issue(['visualFeatures'], '正式内容需要视觉语言分析');

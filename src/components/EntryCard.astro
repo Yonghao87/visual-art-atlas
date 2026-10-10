@@ -19,10 +19,11 @@ const { entry: e, searchable = false } = Astro.props;
       <time datetime={e.date}>{e.date.replaceAll('-', '.')}</time>
     </div>
     <h3>
-      {e.title}
+      <span data-card-title>{e.title}</span>
       <span aria-hidden="true">↗</span>
     </h3>
-    <p>{e.summary}</p>
+    <p data-card-summary>{e.summary}</p>
+    {e.children && <span class="family-label">亲子共读 · 5–7 岁</span>}
   </a>
   <div class="card-tags">
     {e.tags.slice(0, 3).map((tag) => (

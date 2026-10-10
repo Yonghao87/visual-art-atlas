@@ -1,0 +1,131 @@
+---
+import type { Entry } from '../lib/schema';
+import { path } from '../lib/paths';
+interface Props {
+  entry: Entry;
+}
+const { entry } = Astro.props;
+const child = entry.children!;
+const works = child.featuredWorkIds.map((id) =>
+  entry.works.find((work) => work.id === id)!,
+);
+---
+
+<div
+  id="family-reading"
+  class="reading-layout family-reading"
+  aria-label="亲子共读"
+>
+  <aside class="entry-toc">
+    <span class="eyebrow">LOOK TOGETHER / 5–7 岁</span>
+    <nav aria-label="亲子阅读目录">
+      <a href="#family-look">01 看一看</a>
+      <a href="#family-find">02 找一找</a>
+      <a href="#family-try">03 试一试</a>
+      <a href="#family-parents">04 给大人的提示</a>
+    </nav>
+    <button class="copy-link" data-copy-entry>
+      复制亲子阅读链接 ↗
+    </button>
+    <span class="small-note" data-family-copy-status role="status"></span>
+  </aside>
+  <div class="reading-content">
+    <section id="family-look">
+      <div class="eyebrow">01 / LOOK TOGETHER</div>
+      <h2>{child.title}</h2>
+      <p class="family-intro">{child.summary}</p>
+      <p>{child.looking}</p>
+      {works.map((work) => (
+        <figure class="family-work" id={`family-work-${work.id}`}>
+          <div class="visual work-visual">
+            <div class="work-placeholder">
+              <span class="serif">↗</span>
+              <span>图片暂时无法显示，请与大人前往原站观看。</span>
+            </div>
+            <img
+              src={path(work.image!.src!)}
+              alt={work.image!.alt}
+              width="900"
+              height="700"
+              loading="lazy"
+              data-art-image
+            />
+          </div>
+          <figcaption>
+            <strong>{work.title}</strong>
+            <span>
+              {work.image!.credit} ·{' '}
+              {work.image!.rights === 'public_domain'
+                ? '公共领域'
+                : work.image!.rights === 'own_work'
+                  ? '本站原创研究示意'
+                  : '已核验展示许可'}
+            </span>
+            <a href={work.sourceUrl!} target="_blank" rel="noopener noreferrer">
+              作品来源 ↗
+            </a>
+            {work.image!.licenseUrl && (
+              <a
+                href={work.image!.licenseUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                许可条款 ↗
+              </a>
+            )}
+          </figcaption>
+        </figure>
+      ))}
+    </section>
+    <section id="family-find">
+      <div class="eyebrow">02 / NOTICE SOMETHING</div>
+      <h2>一起找一找。</h2>
+      <ol class="family-questions">
+        {child.observations.map((observation) => (
+          <li>
+            <a href={`#family-work-${observation.workId}`}>
+              {observation.question}
+              <span aria-hidden="true"> ↑</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+      <p class="small-note">慢慢看，说说自己的发现。你们可以有不同的答案。</p>
+    </section>
+    <section id="family-try">
+      <div class="eyebrow">03 / MAKE SOMETHING</div>
+      <h2>{child.activity.title}</h2>
+      <p class="family-materials">
+        约 {child.activity.durationMinutes} 分钟 · 准备：
+        {child.activity.materials.join('、')}
+      </p>
+      <ol class="applications">
+        {child.activity.steps.map((step) => (
+          <li>{step}</li>
+        ))}
+      </ol>
+      <p class="family-takeaway">今天发现：{child.takeaway}</p>
+    </section>
+    <section id="family-parents">
+      <div class="eyebrow">04 / FOR THE GROWN-UPS</div>
+      <h2>陪孩子多看一会儿。</h2>
+      <p>{child.parentNote}</p>
+      <details class="family-sources">
+        <summary>查看共同参考来源与核验记录</summary>
+        <ol class="source-list">
+          {entry.sources.map((source) => (
+            <li>
+              <a href={source.url} target="_blank" rel="noopener noreferrer">
+                {source.title} ↗
+              </a>
+              <span>
+                {source.publisher} · 核验 {source.verifiedAt}
+              </span>
+              <p>{source.verificationNote}</p>
+            </li>
+          ))}
+        </ol>
+      </details>
+    </section>
+  </div>
+</div>

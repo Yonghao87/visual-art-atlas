@@ -1,6 +1,6 @@
-# Phase 2 接口预留（未启用）
+# 内容入库与每日双版发布
 
-Phase 1 不包含付费 API 调用、schedule 工作流、自动提交或每日发布。现有 ChatGPT 提醒没有接入本站。
+Phase 1 的离线入库接口保留。2026-10-10 起，本机 Codex 每日任务在专用聊天中执行生成、校验、提交与 Pages 发布；不是 GitHub Actions schedule，也不调用付费模型 API。原有 ChatGPT 提醒仍没有接入本站。双版内容契约和新日更门禁见 [CHILDREN_EDITION.md](CHILDREN_EDITION.md)。
 
 ## 数据契约
 
@@ -14,8 +14,8 @@ npm run import:entry -- /absolute/path/candidate.json
 npm run validate:content
 ```
 
-接口接受草稿，禁止覆盖现有 ID；校验失败不写入。它不调用 AI、不操作 Git、不提交、不发布。草稿通过编辑 PR 人工审核后改为 published，再由部署工作流构建。
+接口接受草稿，禁止覆盖现有 ID；校验失败不写入。它不调用 AI、不操作 Git、不提交、不发布。手工制作可通过编辑 PR 审阅后发布。自动日更在核验完事实与图像后准备 published 文件，运行独立双版日更门禁与构建测试，再推送 main 触发 Pages；入库脚本本身仍不发布。
 
 后续可实现 `ContentProvider.generate({ date, category, existingIds, sources }) -> Promise<Entry>`，先检索来源，再生成草稿，使用同一校验器入库。凭据仅放环境变量或 Actions Secrets。建议 `REVIEW_MODE=pr`，内容不足保留草稿，幂等按 ID 与日期校验。来源核查失败时不发布。
 
-正式增加自动化前还需实现：选题轮换和主题查重、超时与重试、来源证据、图片权利审核、dry-run日志、PR权限最小化、失败告警，以及与已有提醒使用同一份档案的协调。
+后续若增加独立 API 内容提供者，还需实现：选题轮换和主题查重、超时与重试、来源证据、图片权利审核、dry-run日志、PR权限最小化、失败告警，以及与已有提醒使用同一份档案的协调。

@@ -683,7 +683,7 @@ a:hover {
   justify-content: space-between;
   gap: 12px;
 }
-.entry-card h3 > span {
+.entry-card h3 > span[aria-hidden] {
   font-size: 16px;
   opacity: 0.5;
   flex-shrink: 0;
@@ -1471,7 +1471,7 @@ a:hover {
     gap: 15px;
     font-size: 11px;
   }
-  .site-header nav > a:nth-child(2) {
+  .site-header nav > .nav-categories {
     display: none;
   }
   .site-header .nav-search {
@@ -1945,5 +1945,123 @@ a:hover {
   *::after {
     transition: none !important;
     animation: none !important;
+  }
+}
+
+/* Two reading editions share one archive and the existing visual system. */
+.family-label {
+  font-size: 11px;
+  color: var(--accent);
+  display: inline-block;
+  margin: 0 0 12px;
+}
+.edition-switch {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--line);
+  padding: 0 0 18px;
+  margin: 28px 0 0;
+}
+.edition-switch button {
+  padding: 10px 16px;
+  border: 1px solid var(--line);
+  font-size: 14px;
+  border-radius: 2px;
+}
+.edition-switch button[aria-pressed='true'] {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.edition-switch button span {
+  font-size: 11px;
+  margin-left: 8px;
+}
+.family-reading .reading-content {
+  font-size: 18px;
+  line-height: 2;
+}
+.family-reading .family-intro {
+  font-size: 22px;
+  color: var(--accent);
+  margin-bottom: 22px;
+}
+.family-work {
+  margin: 30px 0;
+}
+.family-work .work-visual {
+  aspect-ratio: auto;
+}
+.family-work img {
+  position: relative;
+  inset: auto;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.family-work .work-placeholder {
+  position: absolute;
+  inset: 0;
+  aspect-ratio: auto;
+}
+.family-work .image-failed {
+  aspect-ratio: 1.25;
+}
+.family-work figcaption {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 11px;
+  color: var(--muted);
+  padding-top: 12px;
+  line-height: 1.8;
+}
+.family-work figcaption strong,
+.family-work figcaption span {
+  width: 100%;
+}
+.family-questions {
+  list-style: decimal-leading-zero;
+  padding-left: 2.2em;
+}
+.family-questions li {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.family-materials {
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 25px;
+}
+.family-takeaway {
+  border-left: 2px solid var(--accent);
+  padding-left: 20px;
+  margin-top: 24px;
+  color: var(--accent);
+}
+.family-sources {
+  font-size: 13px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+  margin-top: 26px;
+}
+.family-sources summary {
+  cursor: pointer;
+}
+@media (max-width: 700px) {
+  .family-reading .reading-content {
+    font-size: 17px;
+  }
+  .family-reading .family-intro {
+    font-size: 20px;
+  }
+  .edition-switch button {
+    padding: 10px 12px;
+  }
+  .select-controls {
+    flex-wrap: wrap;
   }
 }
