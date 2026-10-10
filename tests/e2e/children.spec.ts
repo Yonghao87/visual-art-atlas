@@ -53,18 +53,25 @@ test('成人与亲子切换、键盘、记忆、URL历史和复制', async ({
   ).toBe(true);
   expect(errors).toEqual([]);
 });
-test('旧档案不出现空模块，亲子链接正确回退', async ({ page }) => {
+test('拉姆斯旧档案补齐亲子内容后可正常切换', async ({ page }) => {
   await page.goto('./entries/2026-10-03-rams/?edition=family');
-  await expect(page.locator('#family-reading')).toHaveCount(0);
-  await expect(page.locator('.edition-switch')).toHaveCount(0);
+  await expect(page.locator('#family-reading')).toBeVisible();
+  await expect(page.locator('.edition-switch')).toBeVisible();
+  await expect(page.locator('#family-reading h2').first()).toContainText(
+    '架子上的小房间',
+  );
+  await expect(page.locator('#edition-note')).not.toContainText('尚未收录');
+  await page.getByRole('button', { name: '成人阅读', exact: true }).click();
   await expect(page.locator('#adult-reading')).toBeVisible();
-  await expect(page.locator('#edition-note')).toContainText('尚未收录');
+  await page.getByRole('button', { name: /亲子共读/ }).click();
+  await expect(page.locator('#family-reading')).toBeVisible();
 });
 test('亲子探索、组合筛选、分享入口与公开目录', async ({ page, request }) => {
   const catalog = (await (await request.get('./catalog.json')).json()).entries;
   const count = catalog.filter(
     (entry: { hasChildren: boolean }) => entry.hasChildren,
   ).length;
+  expect(count).toBe(8);
   await page.goto('./explore/?edition=family');
   await expect(page.getByLabel('阅读版本')).toHaveValue('family');
   await expect(page.locator('#results .entry-card:visible')).toHaveCount(count);
