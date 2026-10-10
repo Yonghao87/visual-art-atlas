@@ -64,11 +64,43 @@ export const entrySchema = z
         title: text,
         summary: text,
         looking: text,
+        lesson: z
+          .object({
+            sections: z
+              .array(
+                z
+                  .object({
+                    title: text,
+                    paragraphs: z.array(text).min(1).max(4),
+                    detail: z
+                      .object({
+                        workId: text,
+                        imageWidth: z.number().int().positive(),
+                        imageHeight: z.number().int().positive(),
+                        x: z.number().nonnegative(),
+                        y: z.number().nonnegative(),
+                        width: z.number().positive(),
+                        height: z.number().positive(),
+                        alt: text,
+                        caption: text,
+                      })
+                      .strict()
+                      .optional(),
+                  })
+                  .strict(),
+              )
+              .min(2)
+              .max(4),
+            reflection: text,
+          })
+          .strict()
+          .optional(),
         featuredWorkIds: z.array(text).min(1).max(2),
         observations: z
           .array(z.object({ workId: text, question: text }).strict())
           .min(2)
-          .max(3),
+          .max(3)
+          .optional(),
         activity: z
           .object({
             title: text,
@@ -76,7 +108,8 @@ export const entrySchema = z
             materials: z.array(text).min(1).max(6),
             steps: z.array(text).min(2).max(4),
           })
-          .strict(),
+          .strict()
+          .optional(),
         takeaway: text,
         parentNote: text,
       })
@@ -159,11 +192,34 @@ export const entrySchema = z
             '亲子版必须引用本档案中可展示的作品或原创研究图',
           );
       });
-      child.observations.forEach((observation, i) => {
+      if (!child.lesson) {
+        if (!child.observations)
+          issue(['children', 'observations'], '旧版亲子模板需要观察问题');
+        if (!child.activity)
+          issue(['children', 'activity'], '旧版亲子模板需要活动');
+      }
+      child.observations?.forEach((observation, i) => {
         if (!child.featuredWorkIds.includes(observation.workId))
           issue(
             ['children', 'observations', i, 'workId'],
             '观察问题必须对应亲子版展示的作品',
+          );
+      });
+      child.lesson?.sections.forEach((section, i) => {
+        const detail = section.detail;
+        if (!detail) return;
+        if (!child.featuredWorkIds.includes(detail.workId))
+          issue(
+            ['children', 'lesson', 'sections', i, 'detail', 'workId'],
+            '局部图必须来自亲子版展示的作品',
+          );
+        if (
+          detail.x + detail.width > detail.imageWidth ||
+          detail.y + detail.height > detail.imageHeight
+        )
+          issue(
+            ['children', 'lesson', 'sections', i, 'detail'],
+            '局部范围不可超出原图',
           );
       });
     }

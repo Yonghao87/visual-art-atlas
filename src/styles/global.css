@@ -2027,6 +2027,76 @@ a:hover {
   list-style: decimal-leading-zero;
   padding-left: 2.2em;
 }
+.family-detail-marker {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  border: 2px solid var(--paper);
+  outline: 1px solid var(--ink);
+  box-shadow: 0 0 0 1px rgb(255 255 255 / 20%);
+}
+.family-detail-marker span {
+  position: absolute;
+  left: -2px;
+  top: -26px;
+  padding: 2px 8px;
+  font: 11px/20px var(--sans);
+  color: var(--paper);
+  background: var(--ink);
+}
+.family-detail-marker:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+.family-lesson-part {
+  margin: 38px 0;
+}
+.family-lesson-part h3,
+.family-reflection h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 8px 0 20px;
+  font-weight: 500;
+}
+.family-detail {
+  margin: 24px 0;
+}
+.family-detail svg {
+  display: block;
+  width: min(100%, calc(520px * var(--detail-ratio)));
+  height: auto;
+  overflow: hidden;
+  background: var(--line);
+}
+.family-detail figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  padding-top: 12px;
+  font-size: 12px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+.family-detail figcaption strong,
+.family-detail figcaption span {
+  width: 100%;
+}
+.family-reflection {
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+}
+.family-optional-activity {
+  margin-top: 30px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+}
+.family-optional-activity summary {
+  cursor: pointer;
+  font-size: 16px;
+}
+.family-optional-activity[open] summary {
+  margin-bottom: 20px;
+}
 .family-questions li {
   padding: 14px 0;
   border-bottom: 1px solid var(--line);

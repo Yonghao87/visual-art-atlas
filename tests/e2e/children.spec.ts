@@ -1,6 +1,119 @@
 import { test, expect } from '@playwright/test';
 
 const detail = './entries/2026-10-10-cezanne-still-life/';
+test('所有亲子档案讲解优先，局部引用与原图尺寸一致', async ({
+  page,
+  request,
+}) => {
+  const catalog = (await (await request.get('./catalog.json')).json()).entries;
+  const errors: string[] = [];
+  page.on('pageerror', (error) => errors.push(error.message));
+  for (const entry of catalog.filter(
+    (entry: { hasChildren: boolean }) => entry.hasChildren,
+  )) {
+    await page.goto(`./entries/${entry.id}/?edition=family`);
+    const family = page.locator('#family-reading');
+    await expect(family).toBeVisible();
+    expect(
+      await family.locator('.family-lesson-part').count(),
+    ).toBeGreaterThanOrEqual(2);
+    await expect(family.locator('.family-questions')).toHaveCount(0);
+    await expect(family.locator('.family-reflection')).toBeVisible();
+    const crops = family.locator('.family-detail svg');
+    await expect(family.locator('.family-detail-marker')).toHaveCount(
+      await crops.count(),
+    );
+    for (const crop of await crops.all()) {
+      const image = crop.locator('image');
+      const src = (await image.getAttribute('href'))!;
+      const width = Number(await image.getAttribute('width'));
+      const height = Number(await image.getAttribute('height'));
+      const fullImage = family.locator(`.family-work img[src="${src}"]`);
+      await fullImage.scrollIntoViewIfNeeded();
+      await expect(fullImage).toHaveCount(1);
+      await expect(fullImage).toBeVisible();
+      await expect(fullImage).toHaveJSProperty('complete', true);
+      if (src.endsWith('.svg')) {
+        const svg = await (await request.get(src)).text();
+        expect(svg).toContain(`viewBox="0 0 ${width} ${height}"`);
+      } else {
+        expect(
+          await fullImage.evaluate((img: HTMLImageElement) => [
+            img.naturalWidth,
+            img.naturalHeight,
+          ]),
+        ).toEqual([width, height]);
+      }
+      const [x, y, w, h] = (await crop.getAttribute('viewBox'))!
+        .split(' ')
+        .map(Number);
+      expect(x + w).toBeLessThanOrEqual(width);
+      expect(y + h).toBeLessThanOrEqual(height);
+      const back = crop
+        .locator('..')
+        .getByRole('link', { name: '回看完整作品 ↑' });
+      const target = (await back.getAttribute('href'))!;
+      await expect(page.locator(target)).toHaveCount(1);
+    }
+    for (const activity of await family
+      .locator('.family-optional-activity')
+      .all())
+      await expect(activity).not.toHaveAttribute('open', '');
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+  }
+  expect(errors).toEqual([]);
+});
+test('印象派样稿以讲解为主，原图定位与局部放大对应', async ({
+  page,
+}, testInfo) => {
+  await page.goto('./entries/2026-10-08-impressionism/?edition=family');
+  const family = page.locator('#family-reading');
+  await expect(family).toBeVisible();
+  await expect(family.locator('h2').first()).toContainText('认识印象派');
+  await expect(family.locator('.family-lesson-part')).toHaveCount(3);
+  await expect(family.locator('.family-questions')).toHaveCount(0);
+  const marker = family.locator('.family-detail-marker');
+  await marker.click();
+  await expect(page).toHaveURL(/#family-detail-1$/);
+  const crop = family.locator('.family-detail svg');
+  await expect(crop).toBeVisible();
+  await expect(crop).toHaveAttribute('viewBox', '930 1500 1050 525');
+  const cropImage = await crop.locator('image').getAttribute('href');
+  const fullImage = await family
+    .locator('.family-work img')
+    .getAttribute('src');
+  expect(cropImage).toBe(fullImage);
+  const full = family.locator('.family-work img');
+  expect(await full.evaluate((img: HTMLImageElement) => img.naturalWidth)).toBe(
+    2342,
+  );
+  await expect(family.locator('.family-optional-activity')).not.toHaveAttribute(
+    'open',
+    '',
+  );
+  await family.locator('.family-optional-activity summary').click();
+  await expect(
+    family.locator('.family-optional-activity .applications'),
+  ).toBeVisible();
+  await family.locator('.family-optional-activity summary').click();
+  await page.evaluate(async () => {
+    await document.fonts.ready;
+    window.scrollTo(0, 0);
+  });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({
+    path: `/tmp/vaa-impressionism-lesson-${testInfo.project.name}.png`,
+    fullPage: true,
+  });
+});
 test('成人与亲子切换、键盘、记忆、URL历史和复制', async ({
   page,
 }, testInfo) => {

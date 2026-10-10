@@ -6,6 +6,7 @@ interface Props {
 }
 const { entry } = Astro.props;
 const child = entry.children!;
+const lesson = child.lesson;
 const works = child.featuredWorkIds.map((id) =>
   entry.works.find((work) => work.id === id)!,
 );
@@ -19,9 +20,9 @@ const works = child.featuredWorkIds.map((id) =>
   <aside class="entry-toc">
     <span class="eyebrow">LOOK TOGETHER / 5–7 岁</span>
     <nav aria-label="亲子阅读目录">
-      <a href="#family-look">01 看一看</a>
-      <a href="#family-find">02 找一找</a>
-      <a href="#family-try">03 试一试</a>
+      <a href="#family-look">01 {lesson ? '认识今天的艺术' : '看一看'}</a>
+      <a href="#family-find">02 {lesson ? '看懂艺术的表达' : '找一找'}</a>
+      <a href="#family-try">03 {lesson ? '把感受带到生活里' : '试一试'}</a>
       <a href="#family-parents">04 给大人的提示</a>
     </nav>
     <button class="copy-link" data-copy-entry>
@@ -50,6 +51,20 @@ const works = child.featuredWorkIds.map((id) =>
               loading="lazy"
               data-art-image
             />
+            {lesson?.sections.map((section, index) => {
+              const detail = section.detail;
+              if (!detail || detail.workId !== work.id) return null;
+              return (
+                <a
+                  class="family-detail-marker"
+                  href={`#family-detail-${index}`}
+                  aria-label={`查看局部讲解：${section.title}`}
+                  style={`left:${(detail.x / detail.imageWidth) * 100}%;top:${(detail.y / detail.imageHeight) * 100}%;width:${(detail.width / detail.imageWidth) * 100}%;height:${(detail.height / detail.imageHeight) * 100}%;`}
+                >
+                  <span>局部放大</span>
+                </a>
+              );
+            })}
           </div>
           <figcaption>
             <strong>{work.title}</strong>
@@ -78,33 +93,125 @@ const works = child.featuredWorkIds.map((id) =>
       ))}
     </section>
     <section id="family-find">
-      <div class="eyebrow">02 / NOTICE SOMETHING</div>
-      <h2>一起找一找。</h2>
-      <ol class="family-questions">
-        {child.observations.map((observation) => (
-          <li>
-            <a href={`#family-work-${observation.workId}`}>
-              {observation.question}
-              <span aria-hidden="true"> ↑</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-      <p class="small-note">慢慢看，说说自己的发现。你们可以有不同的答案。</p>
+      {lesson ? (
+        <>
+          <div class="eyebrow">02 / UNDERSTAND THE ART</div>
+          <h2>看懂艺术的表达。</h2>
+          {lesson.sections.map((section, index) => {
+            const detail = section.detail;
+            const work =
+              detail && works.find((work) => work.id === detail.workId)!;
+            return (
+              <div class="family-lesson-part">
+                <span class="eyebrow">
+                  {String(index + 1).padStart(2, '0')}
+                </span>
+                <h3>{section.title}</h3>
+                {detail && work && (
+                  <figure class="family-detail" id={`family-detail-${index}`}>
+                    <svg
+                      viewBox={`${detail.x} ${detail.y} ${detail.width} ${detail.height}`}
+                      role="img"
+                      aria-labelledby={`family-detail-title-${index}`}
+                      style={`--detail-ratio:${detail.width / detail.height};aspect-ratio:${detail.width} / ${detail.height};`}
+                    >
+                      <title
+                        id={`family-detail-title-${index}`}
+                      >{detail.alt}</title>
+                      <image
+                        href={path(work.image!.src!)}
+                        width={detail.imageWidth}
+                        height={detail.imageHeight}
+                      />
+                    </svg>
+                    <figcaption>
+                      <strong>{detail.caption}</strong>
+                      <span>{work.image!.credit} · 原图局部</span>
+                      <a href={`#family-work-${work.id}`}>回看完整作品 ↑</a>
+                      <a
+                        href={path(work.image!.src!)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        打开原图大图 ↗
+                      </a>
+                    </figcaption>
+                  </figure>
+                )}
+                {section.paragraphs.map((paragraph) => (
+                  <p>{paragraph}</p>
+                ))}
+              </div>
+            );
+          })}
+          <div class="family-reflection">
+            <h3>说说你的感受。</h3>
+            <p>{lesson.reflection}</p>
+            <p class="small-note">
+              可以先感受，再慢慢说。每个人都可以有自己的想法。
+            </p>
+          </div>
+        </>
+      ) : (
+        <>
+          <div class="eyebrow">02 / NOTICE SOMETHING</div>
+          <h2>一起找一找。</h2>
+          <ol class="family-questions">
+            {child.observations?.map((observation) => (
+              <li>
+                <a href={`#family-work-${observation.workId}`}>
+                  {observation.question}
+                  <span aria-hidden="true"> ↑</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          <p class="small-note">
+            慢慢看，说说自己的发现。你们可以有不同的答案。
+          </p>
+        </>
+      )}
     </section>
     <section id="family-try">
-      <div class="eyebrow">03 / MAKE SOMETHING</div>
-      <h2>{child.activity.title}</h2>
-      <p class="family-materials">
-        约 {child.activity.durationMinutes} 分钟 · 准备：
-        {child.activity.materials.join('、')}
-      </p>
-      <ol class="applications">
-        {child.activity.steps.map((step) => (
-          <li>{step}</li>
-        ))}
-      </ol>
-      <p class="family-takeaway">今天发现：{child.takeaway}</p>
+      <div class="eyebrow">
+        03 / {lesson ? 'ART IN EVERYDAY LIFE' : 'MAKE SOMETHING'}
+      </div>
+      {lesson ? (
+        <>
+          <h2>把感受带到生活里。</h2>
+          <p class="family-takeaway">{child.takeaway}</p>
+          {child.activity && (
+            <details class="family-optional-activity">
+              <summary>想动手时，可以试试：{child.activity.title}</summary>
+              <p class="family-materials">
+                约 {child.activity.durationMinutes} 分钟 · 准备：
+                {child.activity.materials.join('、')}
+              </p>
+              <ol class="applications">
+                {child.activity.steps.map((step) => (
+                  <li>{step}</li>
+                ))}
+              </ol>
+            </details>
+          )}
+        </>
+      ) : child.activity ? (
+        <>
+          <h2>{child.activity.title}</h2>
+          <p class="family-materials">
+            约 {child.activity.durationMinutes} 分钟 · 准备：
+            {child.activity.materials.join('、')}
+          </p>
+          <ol class="applications">
+            {child.activity.steps.map((step) => (
+              <li>{step}</li>
+            ))}
+          </ol>
+          <p class="family-takeaway">今天发现：{child.takeaway}</p>
+        </>
+      ) : (
+        <p class="family-takeaway">{child.takeaway}</p>
+      )}
     </section>
     <section id="family-parents">
       <div class="eyebrow">04 / FOR THE GROWN-UPS</div>

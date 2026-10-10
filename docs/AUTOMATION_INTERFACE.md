@@ -1,6 +1,6 @@
 # 内容入库与每日双版发布
 
-Phase 1 的离线入库接口保留。2026-10-10 起，本机 Codex 每日任务在专用聊天中执行生成、校验、提交与 Pages 发布；不是 GitHub Actions schedule，也不调用付费模型 API。原有 ChatGPT 提醒仍没有接入本站。双版内容契约和新日更门禁见 [CHILDREN_EDITION.md](CHILDREN_EDITION.md)。
+Phase 1 的离线入库接口保留。2026-10-10 起，本机 Codex 每日任务在专用聊天中执行生成、校验、提交与 Pages 发布；不是 GitHub Actions schedule，也不调用付费模型 API。原有 ChatGPT 提醒仍没有接入本站。亲子版按“艺术介绍、具体讲解、局部对应、整体回看、感受表达”组织；新日更必须包含 `children.lesson`，动手活动可省略。双版内容契约和新日更门禁见 [CHILDREN_EDITION.md](CHILDREN_EDITION.md)。
 
 ## 数据契约
 
