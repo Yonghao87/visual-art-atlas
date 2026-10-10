@@ -8,8 +8,16 @@
   "category": "product_design",
   "topicType": "artist",
   "period": "20世纪至今",
-  "regions": ["德国"],
-  "tags": ["模块化", "留白", "产品造型", "功能主义", "Dieter Rams"],
+  "regions": [
+    "德国"
+  ],
+  "tags": [
+    "模块化",
+    "留白",
+    "产品造型",
+    "功能主义",
+    "Dieter Rams"
+  ],
   "summary": "用清晰的结构和克制的形态，把使用者的需要放在物件的表达之前。",
   "style_summary": "迪特·拉姆斯：少，却更好-模块化金属框架，精确比例与重复单元，克制的灰白与原木色，功能先行的结构秩序，细节隐于整体",
   "context": "Vitsœ 的官方设计说明介绍了拉姆斯对实用性、可理解性和耐用性的重视。他为品牌设计的 606 置物系统与 620 座椅系统，提供了观察这些观念的具体入口。这是一位设计师的工作思想，不应被独立命名为艺术流派。\n\n“少”并非简单删除零件：一个物件仍需承担全部必要功能，并让人理解如何使用。以下分析关注结构如何被看见、部件如何重复、以及产品怎样与生活一起变化。判断一件设计是否克制，不能只看表面是否干净，也要观察维护与扩展的方式。",
@@ -49,7 +57,8 @@
         "rights": "cc_licensed",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:606-Universal-Shelving-System.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
-      }
+      },
+      "id": "606-shelving"
     },
     {
       "title": "620 Chair Programme",
@@ -69,8 +78,13 @@
     "检视现有方案的每个装饰元素，写下它解决的具体问题。无法说明用途的部分先移除，再观察理解是否受损。"
   ],
   "experiment": "为桌面收纳画三种组合，共用同一套五个部件。测试它们能否适应不同物品。",
-  "nextTopics": ["罗丹"],
-  "relatedIds": ["2026-10-04-rodin", "2026-10-06-bauhaus"],
+  "nextTopics": [
+    "罗丹"
+  ],
+  "relatedIds": [
+    "2026-10-04-rodin",
+    "2026-10-06-bauhaus"
+  ],
   "cover": {
     "src": "/images/rams-606.jpg",
     "alt": "迪特·拉姆斯为 Vitsœ 设计的 606 壁挂式置物系统，白色模块以轨道与搁板组成",
@@ -109,5 +123,39 @@
       "verificationNote": "文件页明确标示 Vitsœ 为版权持有人并按 CC BY-SA 3.0 发布；Vitsœ 官方资料称其为 Rams 家具设计的独家全球被许可方。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "架子上的小房间",
+    "summary": "拉姆斯设计的架子由一根根轨道和几块搁板组成。书、盒子和玩具可以住进不同的位置。我们来找找哪些地方重复，哪些地方空着。",
+    "looking": "先看《606 置物系统》。沿着墙上的轨道从上往下看，再找找搁板之间的空隙。",
+    "featuredWorkIds": [
+      "606-shelving"
+    ],
+    "observations": [
+      {
+        "workId": "606-shelving",
+        "question": "你能找到几块搁板？它们是不是都用相同的方式连在轨道上？"
+      },
+      {
+        "workId": "606-shelving",
+        "question": "如果把一本书放在空的位置，架子会变成什么样？"
+      }
+    ],
+    "activity": {
+      "title": "给小物件搭一个架子",
+      "durationMinutes": 8,
+      "materials": [
+        "纸",
+        "彩笔"
+      ],
+      "steps": [
+        "在纸上画两条竖线，当作架子的支撑，再加三条横线当作搁板。",
+        "选几样小物件画在搁板上，也可以故意留出一个空位。",
+        "和大人一起看看：哪一层最适合放你最常用的东西？"
+      ]
+    },
+    "takeaway": "重复的架子可以放进不同的东西，也可以留下空位。",
+    "parentNote": "引导孩子观察结构如何支撑物品，不必把“少”理解为东西越少越好。活动只画平面架子，不需要攀爬或搬动家具。"
+  }
 }

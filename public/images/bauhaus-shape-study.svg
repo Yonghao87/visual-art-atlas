@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+  <title id="title">几何形状与版面秩序观察示意</title>
+  <desc id="desc">原创平面设计研究图，以圆形、矩形、线条和网格演示形状与文字位置如何形成阅读顺序，不是历史作品复制。</desc>
+  <rect width="1200" height="840" fill="#eeede5"/>
+  <path d="M70 115H1130M70 700H1130M70 115V700M1130 115V700" fill="none" stroke="#c8c8bc" stroke-width="2"/>
+  <path d="M110 160H1090M110 350H1090M110 540H1090M350 140V670M610 140V670M870 140V670" stroke="#d7d7cc" stroke-width="1" stroke-dasharray="5 8"/>
+  <circle cx="322" cy="333" r="132" fill="#c57a62"/>
+  <path d="M664 202h272v272H664z" fill="#71808a"/>
+  <path d="m180 510 185 0 0 138-185 0z" fill="#d2b77b"/>
+  <path d="M664 540h354" stroke="#66766c" stroke-width="26"/>
+  <path d="M920 510v142" stroke="#66766c" stroke-width="26"/>
+  <path d="M420 190 564 190M420 216 564 216M420 242 525 242" stroke="#41453f" stroke-width="9"/>
+  <path d="M418 507 548 507" stroke="#41453f" stroke-width="7"/>
+  <path d="M418 531 510 531" stroke="#41453f" stroke-width="7"/>
+  <text x="82" y="82" fill="#6f7d72" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">VAA / FORM STUDY 02</text>
+  <text x="82" y="758" fill="#393d38" font-family="serif" font-size="40">圆 · 方 · 线 · 阅读顺序</text>
+  <text x="82" y="805" fill="#777a70" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">ORIGINAL LAYOUT STUDY · NOT A HISTORICAL BAUHAUS WORK</text>
+</svg>

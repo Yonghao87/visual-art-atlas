@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+  <title id="title">现代建筑的空间观察示意</title>
+  <desc id="desc">原创建筑研究图，以白色几何体、细柱、长窗和树木表现建筑、光线与开放空间的关系。</desc>
+  <rect width="1200" height="840" fill="#eeede5"/>
+  <path d="M0 610H1200V840H0z" fill="#d8d8cd"/>
+  <path d="M130 325 690 250 1030 355 472 438z" fill="#f8f7f0"/>
+  <path d="m130 325 342 113v252L130 570z" fill="#d9d9cf"/>
+  <path d="m472 438 558-83v254l-558 98z" fill="#e7e6dd"/>
+  <path d="M130 325 690 250 1030 355 472 438z" fill="#fffef8"/>
+  <path d="m190 342 452-61 0 28-452 62z" fill="#9da89c"/>
+  <path d="M244 384v196M324 410v196M404 425v196" stroke="#65746b" stroke-width="13"/>
+  <path d="m510 431 0 250M972 367v238" stroke="#65746b" stroke-width="12"/>
+  <path d="m530 500 448-68v95l-448 70z" fill="#abb3a8"/>
+  <path d="m536 520 436-66" stroke="#f7f5ee" stroke-width="10"/>
+  <path d="M640 280 930 400" stroke="#c8b58f" stroke-width="8" opacity=".6"/>
+  <circle cx="1010" cy="498" r="61" fill="#9aa694"/>
+  <path d="M1010 498v130m-55-100-44-25m99 43 47-37" stroke="#707d71" stroke-width="11"/>
+  <path d="M70 708H1120" stroke="#aaa99d" stroke-width="2"/>
+  <text x="76" y="92" fill="#6f7d72" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">VAA / SPACE STUDY 01</text>
+  <text x="76" y="770" fill="#555e56" font-family="serif" font-size="38">形体 · 支撑 · 光与空隙</text>
+  <text x="76" y="812" fill="#777a70" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">ORIGINAL OBSERVATION DIAGRAM · NOT A HISTORICAL BUILDING</text>
+</svg>

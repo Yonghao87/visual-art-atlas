@@ -8,8 +8,17 @@
   "category": "world_painting",
   "topicType": "movement",
   "period": "19世纪后期—20世纪初",
-  "regions": ["法国"],
-  "tags": ["油画", "色彩", "笔触", "自然光", "Impressionism", "莫奈"],
+  "regions": [
+    "法国"
+  ],
+  "tags": [
+    "油画",
+    "色彩",
+    "笔触",
+    "自然光",
+    "Impressionism",
+    "莫奈"
+  ],
   "summary": "以可见的笔触和色彩关系，把不断变化的光转化为观看的经验。",
   "style_summary": "印象派：捕捉光的片刻-松散短促的可见笔触，邻接色并置而少用黑色，户外自然光捕捉瞬变，轮廓在空气中松动",
   "context": "大都会艺术博物馆的专题将印象派放在现代生活与独立展览的语境中理解。它并非只有一种画法：风景、城市与人物，都可以成为观察变化的入口。莫奈的水面与德加的舞蹈场景，提供了两个不同的观看方向。\n\n《睡莲》把注意力引向水面与倒影；《舞蹈课》呈现的是经过安排的空间与人物关系。即使笔触显得轻快，也不能因此断言作品完全未经推敲。以下分析将色彩、笔触和构图作为观察工具，帮助把“像印象派”转化为可以描述的画面关系。",
@@ -52,7 +61,8 @@
         "credit": "Claude Monet / Art Institute of Chicago, 1933.1157 · Public Domain Mark",
         "rights": "public_domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg"
-      }
+      },
+      "id": "water-lilies"
     },
     {
       "title": "舞蹈课 / The Dance Class",
@@ -78,8 +88,13 @@
     "观察日常人物时尝试偏置构图，给视线留出空隙；检查裁切是否仍能表达动作与场景。"
   ],
   "experiment": "用四种颜色画一杯水，分别表现室内冷光与夕阳暖光。",
-  "nextTopics": ["浮世绘"],
-  "relatedIds": ["2026-10-09-ukiyo-e", "2026-10-04-rodin"],
+  "nextTopics": [
+    "浮世绘"
+  ],
+  "relatedIds": [
+    "2026-10-09-ukiyo-e",
+    "2026-10-04-rodin"
+  ],
   "cover": {
     "src": "/images/degas-dance-class.jpg",
     "alt": "德加《舞蹈课》：室内排练的舞者、指导者与斜向延伸的地板",
@@ -117,5 +132,40 @@
       "verificationNote": "核对德加、1874年与作品的构图说明。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "睡莲旁边还有哪些颜色？",
+    "summary": "莫奈画了水面、浮叶和睡莲。水里还映着天空和周围的颜色，所以水面不只是蓝色。我们来找找靠在一起的颜色。",
+    "looking": "看一看《睡莲》。先找一朵花，再慢慢看它旁边的水面和叶子有哪些不同颜色。",
+    "featuredWorkIds": [
+      "water-lilies"
+    ],
+    "observations": [
+      {
+        "workId": "water-lilies",
+        "question": "水面上除了蓝色，还能找到哪些颜色？"
+      },
+      {
+        "workId": "water-lilies",
+        "question": "哪些短短的颜色痕迹靠在一起？它们像水在动吗？"
+      }
+    ],
+    "activity": {
+      "title": "用颜色画一小片水面",
+      "durationMinutes": 8,
+      "materials": [
+        "纸",
+        "蓝色彩笔",
+        "两种其他颜色的彩笔"
+      ],
+      "steps": [
+        "在纸上画一小片水面，不用先画出完整的池塘。",
+        "用蓝色和另外两种颜色画许多短短的线或小块，让它们靠在一起。",
+        "加上一片叶子或一朵花，再说说水面里还出现了什么颜色。"
+      ]
+    },
+    "takeaway": "水面会映出许多颜色，短短的笔触也能组成一大片水。",
+    "parentNote": "引导孩子回到图像里寻找颜色线索，允许每个人看到的颜色不同。活动不需要追求画得像莫奈。"
+  }
 }

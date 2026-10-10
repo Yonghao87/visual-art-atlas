@@ -8,8 +8,16 @@
   "category": "fashion_craft",
   "topicType": "artist",
   "period": "19世纪末—20世纪初",
-  "regions": ["法国"],
-  "tags": ["雕塑", "青铜", "大理石", "身体", "动态构图"],
+  "regions": [
+    "法国"
+  ],
+  "tags": [
+    "雕塑",
+    "青铜",
+    "大理石",
+    "身体",
+    "动态构图"
+  ],
   "summary": "让身体的转折、重量与表面变化，成为一种可以绕行阅读的语言。",
   "style_summary": "罗丹：身体如何承载情绪-粗粝可见的塑形痕迹，厚重体块与扭转姿态，明暗沿肌理起伏，青铜表面承接身体张力",
   "context": "罗丹博物馆说明，《思想者》最初属于《地狱之门》的构思；《吻》也曾与这一项目有关，后来成为独立作品。作品可能存在不同尺寸、材料和铸造版本，因此不能把构思年份直接当成眼前实物的制作年份。\n\n下文选择馆方记录作为参照，从体量与姿势理解情绪。雕塑需要观看者移动：正面显著的轮廓，在侧面可能变成一处深凹；平静的坐姿也可能包含复杂的肌肉与重心关系。照片只是观察入口，不能替代围绕作品的空间体验。",
@@ -48,7 +56,8 @@
         "credit": "Auguste Rodin / The Metropolitan Museum of Art，11.173.9，Public Domain",
         "rights": "public_domain",
         "sourceUrl": "https://www.metmuseum.org/art/collection/search/191811"
-      }
+      },
+      "id": "thinker"
     },
     {
       "title": "吻 / The Kiss",
@@ -74,7 +83,9 @@
     "拍摄实物时记录正面与侧面，避免只依靠一个好看的角度判断整体造型。"
   ],
   "experiment": "以“等待”为题，用三个简化体块做一个坐姿。画出四个方向的轮廓。",
-  "nextTopics": ["现代建筑"],
+  "nextTopics": [
+    "现代建筑"
+  ],
   "relatedIds": [
     "2026-10-05-modern-architecture",
     "2026-10-07-digital-painting"
@@ -116,5 +127,39 @@
       "verificationNote": "核对罗丹、缩小版青铜铸件与Public Domain媒体。本地插图是NGA 1942.5.15铸件；条目主来源仍记录罗丹博物馆的大理石版本。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "低下头的身体在想什么？",
+    "summary": "《思想者》坐着，身体向前弯，手托着下巴。我们可以看看他的头、手和脚怎样放在一起，也可以发现雕塑不是只有脸会说话。",
+    "looking": "看一看《思想者》的坐姿。用手指沿着头、背和腿慢慢走一遍，注意身体弯向哪里。",
+    "featuredWorkIds": [
+      "thinker"
+    ],
+    "observations": [
+      {
+        "workId": "thinker",
+        "question": "他的头靠在哪里？如果把手拿开，身体可能会怎样？"
+      },
+      {
+        "workId": "thinker",
+        "question": "你觉得他坐得轻松还是用力？你从身体的哪些地方看出来？"
+      }
+    ],
+    "activity": {
+      "title": "用身体摆一个姿势",
+      "durationMinutes": 5,
+      "materials": [
+        "纸",
+        "彩笔"
+      ],
+      "steps": [
+        "请孩子摆一个“正在想事情”的姿势，大人从侧面观察。",
+        "用几条简单的线画出头、背和腿的方向。",
+        "换一个姿势再画一遍，比较两张图哪里不一样。"
+      ]
+    },
+    "takeaway": "身体弯曲的方向，也能让人看出姿势的感觉。",
+    "parentNote": "不替孩子规定雕塑表达了哪一种情绪，也不要求模仿或保持不舒服的姿势。注意在安全、轻松的范围内观察。"
+  }
 }

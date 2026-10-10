@@ -8,8 +8,16 @@
   "category": "graphic_design",
   "topicType": "movement",
   "period": "1919—1933及其影响",
-  "regions": ["德国"],
-  "tags": ["几何造型", "字体", "网格", "品牌海报", "Bauhaus"],
+  "regions": [
+    "德国"
+  ],
+  "tags": [
+    "几何造型",
+    "字体",
+    "网格",
+    "品牌海报",
+    "Bauhaus"
+  ],
   "summary": "把字形、材料与排列关系视为一个系统，寻找清晰而有节奏的视觉表达。",
   "style_summary": "包豪斯：形状背后的秩序-基础几何构件与无衬线字形，非对称网格组织信息，有限原色建立层级，留白与粗细对比形成节奏",
   "context": "MoMA 的展览设计回顾讨论了赫伯特·拜耶的 universal 字母方案，以及它在展览视觉中的再解释。几何元素是研究字形的工具，但包豪斯不应被缩减成红黄蓝加圆方三角的一套配方。\n\n从字形到版面，真正值得研究的是有限部件如何形成丰富变化。重复的结构帮助读者识别，差异则引导注意。将字母视为可构造的形体，可以重新理解文字与图像的关系；这也提示我们区分历史字形实验与后来的完整字体产品。",
@@ -54,6 +62,20 @@
       "year": "2009",
       "sourceUrl": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/",
       "image": null
+    },
+    {
+      "id": "shape-study",
+      "title": "几何形状与版面秩序观察示意 / Shape Study",
+      "creator": "Visual Art Atlas 编辑部（原创观察示意）",
+      "year": null,
+      "sourceUrl": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/",
+      "image": {
+        "src": "/images/bauhaus-shape-study.svg",
+        "alt": "Visual Art Atlas原创几何版面观察示意：圆形、方形、线条与网格组成阅读层级；不是历史包豪斯作品或拜耶字母复制品",
+        "credit": "Visual Art Atlas · 原创平面观察示意（主题参考 MoMA 包豪斯平面设计资料）",
+        "rights": "own_work",
+        "sourceUrl": "https://www.moma.org/explore/inside_out/2009/11/06/bauhaus-the-graphic-design-department-goes-back-to-school/"
+      }
     }
   ],
   "comparison": {
@@ -66,8 +88,13 @@
     "先排一张黑白版面，再加入一种强调色。比较两版的阅读路径，验证颜色是否承担明确作用。"
   ],
   "experiment": "只用直线与圆弧设计五个字母，再排成一个标题。检验识别度与节奏。",
-  "nextTopics": ["数字绘画"],
-  "relatedIds": ["2026-10-07-digital-painting", "2026-10-09-ukiyo-e"],
+  "nextTopics": [
+    "数字绘画"
+  ],
+  "relatedIds": [
+    "2026-10-07-digital-painting",
+    "2026-10-09-ukiyo-e"
+  ],
   "cover": {
     "src": "/images/bauhaus-dessau.jpg",
     "alt": "德国德绍包豪斯校舍外观，Walter Gropius 设计",
@@ -92,5 +119,39 @@
       "verificationNote": "文件页标注作者 Martavictor 和 CC BY-SA 4.0；图片用作校舍背景说明，不替代拜耶字母方案等档案作品图。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "圆形和方形怎样排队？",
+    "summary": "这张原创版面示意把圆形、方形、线条和空白放在一起。大形状先吸引眼睛，小线条也能告诉我们从哪里开始看。",
+    "looking": "先看原创形状版面。找一个最大的形状，再看看线条和空白怎样把你的目光带到别处。",
+    "featuredWorkIds": [
+      "shape-study"
+    ],
+    "observations": [
+      {
+        "workId": "shape-study",
+        "question": "你第一眼看到哪个形状？它为什么比旁边的形状更显眼？"
+      },
+      {
+        "workId": "shape-study",
+        "question": "如果把一个小圆形换成方形，画面的感觉会有什么变化？"
+      }
+    ],
+    "activity": {
+      "title": "用形状做一张小海报",
+      "durationMinutes": 8,
+      "materials": [
+        "纸",
+        "彩笔"
+      ],
+      "steps": [
+        "在纸上画一个大圆形、一个方形和几条线。",
+        "给其中一个形状涂上颜色，其他形状可以留白或换一种颜色。",
+        "指一指你希望别人先看的地方，再看看形状的位置能不能帮忙。"
+      ]
+    },
+    "takeaway": "形状的大小、颜色和位置会影响我们先看见什么。",
+    "parentNote": "示意图由本网站原创，只用于观察形状与阅读顺序，并非历史包豪斯作品或赫伯特·拜耶字母的复制品。无需讲授固定的配色规则。"
+  }
 }

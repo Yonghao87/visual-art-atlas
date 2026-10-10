@@ -8,8 +8,16 @@
   "category": "architecture",
   "topicType": "design_method",
   "period": "20世纪",
-  "regions": ["法国"],
-  "tags": ["混凝土", "空间设计", "几何造型", "现代主义", "Le Corbusier"],
+  "regions": [
+    "法国"
+  ],
+  "tags": [
+    "混凝土",
+    "空间设计",
+    "几何造型",
+    "现代主义",
+    "Le Corbusier"
+  ],
   "summary": "把承重结构、立面与生活动线分开思考，让光与空间获得新的组织方式。",
   "style_summary": "现代建筑：让空间自由呼吸-钢筋混凝土自由平面，水平长窗与架空柱列，白色体块强调光影，屋顶花园连通内外，动线简洁开放",
   "context": "萨伏伊别墅官方资料以架空柱、自由立面、横向长窗、自由平面和屋顶平台解释建筑的组织。这些具体策略为观察现代建筑提供了入口，而不能概括所有现代建筑。官方历史也记录了住宅曾出现的漏水与保温问题：形式上的实验并不自动意味着居住性能完善。\n\n此处以别墅及同地园丁住宅为参照，分析实体如何被抬起，景观如何被框取，生活如何在空间中流动。两者的尺度不同，观察时应把宏观形式与实际居住问题同时放在视野中。",
@@ -50,6 +58,20 @@
       "year": null,
       "sourceUrl": "https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye",
       "image": null
+    },
+    {
+      "id": "space-study",
+      "title": "现代建筑空间观察示意 / Space Study",
+      "creator": "Visual Art Atlas 编辑部（原创观察示意）",
+      "year": null,
+      "sourceUrl": "https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye",
+      "image": {
+        "src": "/images/architecture-space-study.svg",
+        "alt": "Visual Art Atlas原创现代建筑空间观察示意：几何体由细柱托起，长窗、光线、树木和地面空隙共同组成；不是萨伏伊别墅实景",
+        "credit": "Visual Art Atlas · 原创空间观察示意（主题参考萨伏伊别墅官方历史资料）",
+        "rights": "own_work",
+        "sourceUrl": "https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye"
+      }
     }
   ],
   "comparison": {
@@ -62,8 +84,13 @@
     "为小空间设计两个可切换布局，同时考虑通风、照明和维护，检验形式是否真正服务使用。"
   ],
   "experiment": "画一个小型阅读空间，用一条连续动线串起入口、坐席和窗景。",
-  "nextTopics": ["包豪斯"],
-  "relatedIds": ["2026-10-06-bauhaus", "2026-10-08-impressionism"],
+  "nextTopics": [
+    "包豪斯"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-08-impressionism"
+  ],
   "cover": null,
   "sources": [
     {
@@ -74,5 +101,39 @@
       "verificationNote": "核对五点建筑策略、园丁住宅及居住问题；正文分析为本站编写。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "房子下面为什么有空隙？",
+    "summary": "这张原创观察图画了一座被细柱托起来的房子。窗子像一条长长的带子，墙边还留着空地。我们可以一起找找柱子、窗户和光线。",
+    "looking": "先看原创空间示意图。找到托住房子的细柱，再沿着长窗看看窗外的光会照向哪里。",
+    "featuredWorkIds": [
+      "space-study"
+    ],
+    "observations": [
+      {
+        "workId": "space-study",
+        "question": "房子离开地面以后，下面多出了什么地方？你想在那里做什么？"
+      },
+      {
+        "workId": "space-study",
+        "question": "长窗和小窗看出去，会看到一样多的风景吗？"
+      }
+    ],
+    "activity": {
+      "title": "画一间有阳光的房子",
+      "durationMinutes": 8,
+      "materials": [
+        "纸",
+        "彩笔"
+      ],
+      "steps": [
+        "先画一个简单的房子，再决定它直接放在地上，还是由几根柱子托起来。",
+        "给房子画一扇长窗或几扇小窗，再用线画出阳光照进来的方向。",
+        "说说你想从窗里看见什么，也看看房子下面有没有新的空间。"
+      ]
+    },
+    "takeaway": "柱子、窗户和空地会一起改变我们使用房子的方式。",
+    "parentNote": "这幅图是本网站原创的空间观察示意，用来认识支撑、窗和空隙，不是萨伏伊别墅的实景复刻。可以让孩子自由设计，不必画成某一座真实建筑。"
+  }
 }

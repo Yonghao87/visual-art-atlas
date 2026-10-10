@@ -8,8 +8,17 @@
   "category": "digital_art",
   "topicType": "technique",
   "period": "当代",
-  "regions": ["跨地区"],
-  "tags": ["数字绘画", "色块", "明暗", "边缘控制", "概念艺术", "Krita"],
+  "regions": [
+    "跨地区"
+  ],
+  "tags": [
+    "数字绘画",
+    "色块",
+    "明暗",
+    "边缘控制",
+    "概念艺术",
+    "Krita"
+  ],
   "summary": "先用大色块建立构图与明暗关系，再选择值得细化的边缘与细节。",
   "style_summary": "数字绘画：先看见大形-先铺大色块再逐层细化，硬边与软边控制层级，冷暖色块塑造体积，透明叠色柔化过渡，边缘保留数字笔刷节奏",
   "context": "Krita 官方工作流介绍了平涂、图层与从随机形状中发展绘画的方式。这些是数字媒介中的操作方法，不是某位创作者专属的艺术流派。工具可以让修改更容易，但画面的组织仍需要创作者判断。\n\n下列“研究实例”链接到官方教程，属于技法示例，不能冒充独立艺术作品。视觉分析聚焦大形与边缘：在缩略图中成立的画面，通常已经解决了主要明暗关系。放大后的细节应支持这种关系，而不是让每一个区域都争夺注意。",
@@ -48,7 +57,8 @@
         "credit": "Visual Art Atlas · 原创技法示意（参考 Krita 官方教程）",
         "rights": "own_work",
         "sourceUrl": "https://docs.krita.org/en/tutorials/flat-coloring.html"
-      }
+      },
+      "id": "flat-color-study"
     },
     {
       "title": "从随机形状开始 / Starting from chaos",
@@ -75,8 +85,13 @@
     "保持图层分组清晰，使色块、线条和光影可以分别调整；修改时仍用缩略图检查整体。"
   ],
   "experiment": "用三种灰度画一处想象中的入口，只允许一个高反差焦点。",
-  "nextTopics": ["印象派"],
-  "relatedIds": ["2026-10-08-impressionism", "2026-10-03-rams"],
+  "nextTopics": [
+    "印象派"
+  ],
+  "relatedIds": [
+    "2026-10-08-impressionism",
+    "2026-10-03-rams"
+  ],
   "cover": {
     "src": "/images/digital-painting-speedpaint.jpg",
     "alt": "David Revoy 在 Krita 手册展示的《Pepper & Carrot》数字绘画速写，画面呈现色块、剪影与完整场景的推进",
@@ -101,5 +116,39 @@
       "verificationNote": "核对平涂方法，研究实例不标注为独立艺术品。"
     }
   ],
-  "updatedAt": null
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "先画大色块，再找小细节",
+    "summary": "这张原创数字绘画示意把花朵分成线条、颜色和背景。先看到大块颜色，就能认出画面里有什么，再慢慢发现小地方。",
+    "looking": "先看《平涂研究实例》。试着先说出最大的一块颜色，再找找花朵的线条和背景在哪里相遇。",
+    "featuredWorkIds": [
+      "flat-color-study"
+    ],
+    "observations": [
+      {
+        "workId": "flat-color-study",
+        "question": "哪一块颜色最大？如果把背景盖住，花朵还容易认出来吗？"
+      },
+      {
+        "workId": "flat-color-study",
+        "question": "你能找到线条和颜色碰在一起的地方吗？"
+      }
+    ],
+    "activity": {
+      "title": "把一朵花拆成颜色块",
+      "durationMinutes": 8,
+      "materials": [
+        "纸",
+        "三支彩笔"
+      ],
+      "steps": [
+        "画一个简单的大花朵，可以只用圆形和几片叶子。",
+        "选三种颜色，先涂大块，再补上花心和叶子的细节。",
+        "退后一步看看：不看细节时，还能认出这是什么吗？"
+      ]
+    },
+    "takeaway": "先看大形和颜色，能帮助我们更快认出画面。",
+    "parentNote": "此例是编辑部原创的绘画技法示意。陪孩子比较大色块与细节，不要求使用平板或特定软件；手绘同样可以完成活动。"
+  }
 }
