@@ -1,8 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import EntryCard from '../components/EntryCard.astro';
+import CategoryIcon from '../components/CategoryIcon.astro';
 import Visual from '../components/Visual.astro';
 import { categories } from '../constants/taxonomy';
+import type { Category } from '../constants/taxonomy';
 import { getEntries } from '../lib/entries';
 import { path } from '../lib/paths';
 const entries = await getEntries();
@@ -121,21 +123,7 @@ const published = entries.filter((e) => e.status === 'published');
           href={path(`/explore/?category=${key}`)}
         >
           <span class="category-code">{c.code}</span>
-          <span class="category-glyph" aria-hidden="true">
-            {key === 'world_painting'
-              ? '◒'
-              : key === 'eastern_art'
-                ? '≋'
-                : key === 'digital_art'
-                  ? '✳'
-                  : key === 'graphic_design'
-                    ? 'Aa'
-                    : key === 'architecture'
-                      ? '▥'
-                      : key === 'fashion_craft'
-                        ? '◯'
-                        : '⌑'}
-          </span>
+          <CategoryIcon category={key as Category} />
           <h3>{c.label}</h3>
           <span>{c.english}</span>
           <span class="category-arrow" aria-hidden="true">
