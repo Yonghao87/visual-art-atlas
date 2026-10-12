@@ -125,5 +125,13 @@
       "warnings": 0,
       "hints": 0
     }
-  }
+  },
+  "recordScope": "初次发布时的研究与原创图验收记录；当前实拍补图和新局部验收见2026-10-12-braun-sk4-photo.json",
+  "imageUpdates": [
+    {
+      "date": "2026-10-12",
+      "evidence": "2026-10-12-braun-sk4-photo.json",
+      "change": "新增SK 4/1实拍，用作封面及亲子主图；MoMA SK 4/10仍为来源链接。原发布的原创封面与研究图保留源文件。"
+    }
+  ]
 }

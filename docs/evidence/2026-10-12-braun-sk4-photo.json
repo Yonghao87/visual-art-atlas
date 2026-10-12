@@ -1,0 +1,88 @@
+{
+  "entryId": "2026-10-12-braun-sk4",
+  "verifiedAt": "2026-10-12",
+  "purpose": "用户要求更新SK4配图：补实拍并同步两版图文与局部坐标",
+  "file": "public/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+  "sourceFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Braun_SK_4.1.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+  "originalPublisher": "With Associates",
+  "originalPage": "https://www.flickr.com/photos/withassociates/2917604465/",
+  "capturedAt": "2008-10-02",
+  "dimensions": {
+    "width": 3648,
+    "height": 2736
+  },
+  "sha256": "bb135a7e973aaaf018e6f15e22be7ad6bc4dc5e9f674b7f3141d8d2065e1b953",
+  "rights": "cc_licensed",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "attribution": "With Associates · Braun SK 4.1（Vitsœ，2008年实拍）· CC BY-SA 2.0；原文件未修改，卡片与局部仅改变显示范围，局部沿用同一许可",
+  "identity": {
+    "recordTitle": "Braun SK 4.1",
+    "entryWorkId": "sk4-1",
+    "productDesignCredit": [
+      "Hans Gugelot",
+      "Dieter Rams"
+    ],
+    "manufacturer": "Braun",
+    "versionBoundary": "不冒充MoMA SK 4/10馆藏205.1958，也不将SK61图像当作SK4"
+  },
+  "rightsAssessment": "摄影者原页与Commons审核记录一致，按照片的CC BY-SA 2.0许可使用并保留设计署名；不把产品原型认定为公版或把摄影许可描述成产品设计权转让。此页针对历史产品布局作介绍和视觉分析，只收录这一张照片；无广告、商品复刻或品牌背书。",
+  "changes": "原文件字节未修改。完整图显示完整照片；首页卡片与亲子局部由浏览器裁切显示，裁切沿用相同许可。",
+  "detail": {
+    "workId": "sk4-1",
+    "imageWidth": 3648,
+    "imageHeight": 2736,
+    "x": 2180,
+    "y": 1110,
+    "width": 730,
+    "height": 450,
+    "alt": "SK 4/1实拍的右侧控制区：灰色旋钮、一排按键与长条选台刻度集中在浅色面板上",
+    "caption": "SK 4/1实拍局部 · 旋钮、按键与选台刻度；同一原图显示裁切，CC BY-SA 2.0"
+  },
+  "viewed": "实际查看3648×2736原文件；范围覆盖右侧灰色旋钮、按键和选台刻度，不生成新细节。",
+  "rejectedCandidates": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:1956_Braun_Phonosuper_SK4_Schneewittchensarg.JPG",
+      "reason": "文件有事实争议提示；讨论页指出可能为SK61，排除。"
+    },
+    {
+      "url": "https://collection.nationalmuseum.se/en/collection/item/8411/",
+      "reason": "不同照片的许可不同；标示CC BY-SA的具体图像端点返回403，未下载或发布。"
+    },
+    {
+      "url": "https://www.moma.org/collection/works/2649",
+      "reason": "本次仍未取得该馆藏照片开放转载许可，保持仅来源链接。"
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "commands": [
+      "npm run validate:daily -- src/data/entries/2026-10-12-braun-sk4.json",
+      "npm run validate:content",
+      "npm run check",
+      "npm test",
+      "npm run build",
+      "npm run test:e2e",
+      "git diff --check"
+    ],
+    "unitTests": 23,
+    "e2eTests": 26,
+    "astroDiagnostics": "0 errors / 0 warnings / 0 hints"
+  },
+  "preview": {
+    "status": "passed",
+    "viewports": [
+      1440,
+      390
+    ],
+    "checks": [
+      "实际查看手机完整图、控制区局部与桌面完整图",
+      "同源局部2180,1110,730,450与3648×2736原图一致",
+      "照片/封面解码成功，页面无错误、无横向溢出",
+      "局部定位与回看跳转正常",
+      "署名、CC链接及裁切说明可见"
+    ],
+    "screenshots": "/private/tmp/visual-art-atlas-sk4-images/"
+  }
+}

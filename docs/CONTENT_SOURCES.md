@@ -47,3 +47,9 @@
 详情页展示完整图像，浏览卡片可以适度裁切。不得把作品信息可访问当成图片可转载；MoMA、罗丹博物馆、建筑与产品官网图片仍只保留来源链接，不下载、不热链。只在馆方明确标为开放访问或作者明确发布开放许可时保存图片。
 
 `verifiedAt/verificationNote` 是编辑核验记录，机器只能检查字段完整性，不能证明史实、授权或判断永远有效。来源更新后应重新核对。构建与本地运行不依赖外部站点在线。
+
+## Braun SK 4 实拍补图（2026-10-12）
+
+- [Braun SK 4.1.jpg](https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg)：With Associates 拍摄，2008年10月2日；[Flickr原页](https://www.flickr.com/photos/withassociates/2917604465/)与Commons审核记录一致，按[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)使用。保存3648×2736原文件，完整图保留原始颜色与构图；卡片/亲子局部显示裁切沿用许可并注明。摄影许可不被描述为产品设计权转让。
+- 本图单独记录为SK 4/1实拍，用于封面和亲子欣赏，不冒充MoMA SK 4/10馆藏（205.1958）。MoMA作品记录继续保留来源链接；原来的本站原创研究示意作为辅助图保留。证据见 `evidence/2026-10-12-braun-sk4-photo.json`。
+- 标题为“1956 Braun Phonosuper SK4 Schneewittchensarg.JPG”的Commons候选存在SK61型号争议，未采用。瑞典Nationalmuseum具体CC BY-SA照片端点返回403，未采用。

@@ -29,7 +29,7 @@
     {
       "key": "form",
       "label": "矩形与圆形",
-      "description": "馆方的对象与图像说明支持唱盘圆形与矩形箱体的对照。圆形提示旋转，平直边界容纳并列功能；这是本站根据馆方描述作出的视觉解释，不等同于已验证的易用性结论。"
+      "description": "实拍中的圆形唱盘与低矮矩形箱体形成对照，唱臂位于唱盘旁，控制部件集中在另一侧。圆形提示旋转，平直边界容纳并列功能；这是本站的视觉分析，不等同于已验证的易用性结论。"
     },
     {
       "key": "material",
@@ -44,10 +44,10 @@
     {
       "key": "color",
       "label": "克制的对比",
-      "description": "白色壳体、木材色与较深的唱盘、操作部件形成层次。浅色大面与深色小部件的差异帮助分辨区域；不能据此声称所有操作都无需说明书。"
+      "description": "照片里，浅色金属大面、木侧板与灰色控制部件形成层次。灰色旋钮和按键集中在右侧，长条选台刻度与圆形唱盘有不同的形状。照片的照明和使用痕迹也影响颜色，不能把它当作精确色样。"
     }
   ],
-  "context": "SK 4 是 Braun 的收音机与唱片播放器组合，1956 年由汉斯·古格洛特与迪特·拉姆斯共同参与设计。乌尔姆博物馆与 MoMA 的记录交叉确认两位设计者及年代；伦敦设计博物馆补充了古格洛特团队与 Braun 同事的合作背景。该馆说明，设计将顶部操作面板放在唱盘旁，采用金属箱体与浅色木侧板，并把盖子改为透明塑料。MoMA 本篇所引用馆藏的正式名称是 Radio-Phonograph (model SK 4/10)，馆藏号 205.1958；不把这一记录的版本、尺寸自动套给整个 SK 系列。下文视觉解释与应用练习是本站分析，不归为设计者原话，也不推测个人动机。",
+  "context": "SK 4 是 Braun 的收音机与唱片播放器组合，1956 年由汉斯·古格洛特与迪特·拉姆斯共同参与设计。乌尔姆博物馆与 MoMA 的记录交叉确认两位设计者及年代；伦敦设计博物馆补充了古格洛特团队与 Braun 同事的合作背景。该馆说明，设计将顶部操作面板放在唱盘旁，采用金属箱体与浅色木侧板，并把盖子改为透明塑料。MoMA 本篇所引用馆藏的正式名称是 Radio-Phonograph (model SK 4/10)，馆藏号 205.1958；不把这一记录的版本、尺寸自动套给整个 SK 系列。下文视觉解释与应用练习是本站分析，不归为设计者原话，也不推测个人动机。 本次补图另列 With Associates 拍摄的 SK 4/1（Commons原文件题为Braun SK 4.1），不冒充MoMA馆藏的SK 4/10。实拍用于研究实际功能布局，原创示意另行标注。",
   "people": [
     {
       "name": "汉斯·古格洛特 / Hans Gugelot",
@@ -59,6 +59,21 @@
     }
   ],
   "works": [
+    {
+      "id": "sk4-1",
+      "title": "收音机与唱片播放器（SK 4/1实拍） / Braun SK 4.1",
+      "creator": "产品设计：Hans Gugelot、Dieter Rams；摄影：With Associates",
+      "year": "1956年设计；照片摄于2008年",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+      "image": {
+        "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+        "alt": "Braun SK 4/1实拍：打开的透明盖、两侧木板和白色金属箱体，左侧唱盘与唱臂、右侧旋钮、按键和选台刻度并排排列",
+        "credit": "With Associates · Braun SK 4.1（Vitsœ，2008年实拍）· CC BY-SA 2.0；原文件未修改，卡片与局部仅改变显示范围，局部沿用同一许可",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    },
     {
       "id": "sk4-10",
       "title": "收音机与唱片播放器（SK 4/10） / Radio-Phonograph (model SK 4/10)",
@@ -101,11 +116,12 @@
     "2026-10-06-bauhaus"
   ],
   "cover": {
-    "src": "/images/entries/2026-10-12-braun-sk4-cover.svg",
-    "alt": "原创抽象主题视觉：矩形框内的圆形、平行线和小圆点形成分区，不描绘 Braun 产品",
-    "credit": "Visual Art Atlas 原创主题视觉 · 抽象构成，非产品图",
-    "rights": "own_work",
-    "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas"
+    "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+    "alt": "Braun SK 4/1实拍：打开的透明盖、两侧木板和白色金属箱体，左侧唱盘与唱臂、右侧旋钮、按键和选台刻度并排排列",
+    "credit": "With Associates · Braun SK 4.1（Vitsœ，2008年实拍）· CC BY-SA 2.0；原文件未修改，卡片与局部仅改变显示范围，局部沿用同一许可",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   },
   "sources": [
     {
@@ -113,7 +129,7 @@
       "url": "https://www.moma.org/collection/works/2649",
       "publisher": "The Museum of Modern Art",
       "verifiedAt": "2026-10-12",
-      "verificationNote": "实际打开馆藏页，核对两位作者、1956年、SK 4/10型号、涂漆金属/木/塑料、Braun制造商及馆藏号205.1958。结合馆方图像文字说明核对形态；本机原作图像未成功加载，未宣称直接图像审阅。页面将作品图像复制引导至Art Resource或Scala授权，没有核实适用于本站的开放许可，故image为null，仅保留观看链接。"
+      "verificationNote": "核对两位作者、1956年、SK 4/10型号、涂漆金属/木/塑料、Braun制造商及馆藏号205.1958。MoMA该馆藏照片仍未核实本站开放转载许可，故该作品image为null。本次另列经核对的SK 4/1实拍图，不将照片绑定到MoMA馆藏号。"
     },
     {
       "title": "Dieter Rams",
@@ -135,55 +151,76 @@
       "publisher": "Museum Ulm / HfG-Archiv",
       "verifiedAt": "2026-10-12",
       "verificationNote": "实际打开展览介绍，独立核对1956年古格洛特与拉姆斯共同为Braun设计SK 4，避免把共同作品归为单一设计者。未收录版权署名为HfG-Archiv等的图片。"
+    },
+    {
+      "title": "File:Braun SK 4.1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+      "publisher": "Wikimedia Commons；摄影 With Associates",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "核对文件所示SK 4.1、摄影者With Associates、2008年10月2日拍摄及3648×2736原图。Commons记录照片来自Flickr，并于2019年4月20日通过FlickreviewR 2核实CC BY-SA 2.0；本次交叉访问Flickr原页及其许可链接，下载原文件并实际查看。保留产品设计署名，不把照片标为公版或本站原创。"
+    },
+    {
+      "title": "Vitsœ - Dieter Rams - Snow White's Coffin",
+      "url": "https://www.flickr.com/photos/withassociates/2917604465/",
+      "publisher": "With Associates / Flickr",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际访问摄影者发布页，确认摄影署名、2008年10月2日拍摄、10月6日上传及Some rights reserved链接指向CC BY-SA 2.0。使用本站保存的原文件，保持原始颜色与完整构图；局部由前端显示同一原图，署名说明裁切及许可。"
+    },
+    {
+      "title": "Deed – Attribution-ShareAlike 2.0 Generic",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "publisher": "Creative Commons",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "核对允许分享与改编、署名、许可链接、修改说明及相同方式共享条件。完整照片不重绘、不调色；卡片/局部显示裁切沿用CC BY-SA 2.0，不声称照片许可转移产品设计本身的著作权。"
     }
   ],
-  "updatedAt": null,
+  "updatedAt": "2026-10-12T08:06:39+00:00",
   "children": {
     "ageRange": "5-7",
     "title": "认识 Braun SK 4：音乐盒上的小区域",
     "summary": "产品设计，是安排一件东西的形状、材料和用法。古格洛特和拉姆斯一起设计了 Braun SK 4。它既能收听广播，也能播放唱片。唱片是能记录声音的圆片。",
-    "looking": "先看完整的原创研究示意。左边的圆表示放唱片的地方，右边表示调节声音的地方。它不是 SK 4 的照片，只帮助我们看懂区域关系；大人可以另打开原作来源一起欣赏。",
+    "looking": "先看完整的 SK 4/1 照片。透明盖向上打开，两侧是木板，中间是浅色箱体。左边放唱片，右边安排调节用的旋钮和按键。照片里的机器没有放唱片，圆圆的唱盘仍能看得清楚。",
     "featuredWorkIds": [
-      "audio-layout-study"
+      "sk4-1"
     ],
     "lesson": {
       "sections": [
         {
           "title": "相近的用法，放在一起",
           "paragraphs": [
-            "放大示意图的右边。圆形表示旋钮，也就是可以转动的小开关。横线表示一块长长的显示区域；这里的数量和颜色都是为了讲解安排的。",
-            "把调节声音的部分放在同一区域，眼睛就有一个集中的观看位置。设计不仅安排好看的形状，也安排我们看哪里、手伸向哪里。"
+            "放大照片右边。旋钮是可以用手转动来调节的小部件。圆圆的旋钮旁边还有一排按键，长条形的选台刻度也在这一边。",
+            "这些形状没有撒满整个面板，而是靠在一起。它们与左边的唱盘分开，让我们看见不同用法各有位置。外观也能帮助眼睛认识一件东西。"
           ],
           "detail": {
-            "workId": "audio-layout-study",
-            "imageWidth": 1200,
-            "imageHeight": 800,
-            "x": 665,
-            "y": 265,
-            "width": 405,
-            "height": 250,
-            "alt": "原创研究示意的右侧局部：横线和圆形旋钮符号集中排列，与放唱片区分开",
-            "caption": "本站原创研究示意局部 · 控制符号集中在一起；不是原作按钮细节"
+            "workId": "sk4-1",
+            "imageWidth": 3648,
+            "imageHeight": 2736,
+            "x": 2180,
+            "y": 1110,
+            "width": 730,
+            "height": 450,
+            "alt": "SK 4/1实拍的右侧控制区：灰色旋钮、一排按键与长条选台刻度集中在浅色面板上",
+            "caption": "SK 4/1实拍局部 · 旋钮、按键与选台刻度；同一原图显示裁切，CC BY-SA 2.0"
           }
         },
         {
-          "title": "盖起来，也能看见",
+          "title": "透明的盖子，温暖的木边",
           "paragraphs": [
-            "示意图里，虚线围住两个区域，表示可以看穿的盖子。SK 4 的真实盖子用透明塑料制作；像透明收纳盒一样，盖上后仍能看见里面。",
-            "原作还用了金属和木材。不同材料放在同一件东西上，会带来不同的颜色和表面感觉。示意图只解释盖子的可见性，不代替真实材料。"
+            "照片里的盖子已经打开。它是透明的，从盖子这一边，仍能看见后面的墙。像透明收纳盒一样，SK 4 的盖子合上后也能让里面保持可见。",
+            "再看两侧的棕色木板。它们夹着浅色金属箱体，颜色和表面感觉不同。不同材料连在一起，让边缘和中间各有自己的样子。"
           ]
         },
         {
           "title": "回看整个音乐盒",
           "paragraphs": [
-            "回到完整示意图。放唱片和调节声音，各有位置，又在同一个框里。圆形、直线和空出来的地方，让不同区域分开，也让它们联系起来。",
-            "再和大人看看原站的 SK 4。日常用品也能认真欣赏：形状怎么相处，材料怎样连接，用的地方安排在哪里。"
+            "回到完整照片。圆形唱盘在左边，细长唱臂靠在旁边；右侧的小旋钮和按键，又组成一个区域。大的形状与小的部件，一起待在同一个箱体里。",
+            "木边、透明盖和浅色面板把这些区域连起来。日常用品也值得慢慢欣赏：它的形状怎样相处，材料在哪里连接，我们使用的地方又安排在哪里。"
           ]
         }
       ],
       "reflection": "这些区域放在一起，带给你怎样的感觉？可以说一个词，也可以用手的动作或声音表达。"
     },
     "takeaway": "下次打开文具盒，可以看一会儿物品的位置、形状和空隙。安排日常东西，也能让生活多一种美。",
-    "parentNote": "先说明原创示意与原作的区别：图中颜色、旋钮数量和比例不代表SK4。可打开MoMA来源看完整原作，再回到示意理解分区。不要把图解当成产品操作说明；接纳孩子的感觉，欣赏与交谈就是完整阅读。"
+    "parentNote": "先欣赏完整实拍，再看右侧控制区局部，最后回到整机。此图来源标为SK 4.1，不是MoMA的SK 4/10馆藏图；另一张原创图只解释分区关系。照片中的盖子处于打开状态，结合透明材质讲解合盖时的可见性。不要要求孩子认出每个按键的功能，接纳动作、声音或语言表达。"
   }
 }
