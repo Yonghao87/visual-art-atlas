@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-12-braun-sk4",
+  "date": "2026-10-12",
+  "status": "published",
+  "title": "Braun SK 4：让操作布局成为外观",
+  "subtitle": "从唱盘与控制区的并置，看产品如何以形状、材料和位置说明使用方式",
+  "topicType": "artwork",
+  "category": "product_design",
+  "period": "1956年；战后德国工业设计",
+  "regions": [
+    "德国"
+  ],
+  "tags": [
+    "产品设计",
+    "功能分区",
+    "透明材料",
+    "操作布局",
+    "留白"
+  ],
+  "summary": "SK 4 把收音与唱片播放组织在同一个低矮箱体中。本篇关注可见的操作区、透明盖与金属木材的关系，理解外观怎样帮助使用者辨认功能。",
+  "style_summary": "Braun SK 4：让操作布局成为外观-低矮矩形体量，唱盘与控制区并置，浅色金属与木侧板，透明盖显露内部，留白分隔功能",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "功能并置",
+      "description": "馆方资料说明操作面板位于顶部、紧邻唱盘。观看时先分辨放唱片的区域与调节收音的区域，再看它们如何共享一个边界。位置关系成为外观秩序的一部分，而非事后附加的装饰。"
+    },
+    {
+      "key": "form",
+      "label": "矩形与圆形",
+      "description": "馆方的对象与图像说明支持唱盘圆形与矩形箱体的对照。圆形提示旋转，平直边界容纳并列功能；这是本站根据馆方描述作出的视觉解释，不等同于已验证的易用性结论。"
+    },
+    {
+      "key": "material",
+      "label": "材料承担不同角色",
+      "description": "MoMA 将媒介记为涂漆金属、木材和塑料。浅色金属壳体、两侧木板和透明盖在视觉上分别构成主体、边缘与可看穿的上界，不能简化为统一的白色外壳。"
+    },
+    {
+      "key": "space",
+      "label": "封闭与可见",
+      "description": "透明盖使合盖后的唱盘仍能被看见。产品保持一个有边界的体量，却没有把内部完全藏起来；观看入口与物理开口可以分开。"
+    },
+    {
+      "key": "color",
+      "label": "克制的对比",
+      "description": "白色壳体、木材色与较深的唱盘、操作部件形成层次。浅色大面与深色小部件的差异帮助分辨区域；不能据此声称所有操作都无需说明书。"
+    }
+  ],
+  "context": "SK 4 是 Braun 的收音机与唱片播放器组合，1956 年由汉斯·古格洛特与迪特·拉姆斯共同参与设计。乌尔姆博物馆与 MoMA 的记录交叉确认两位设计者及年代；伦敦设计博物馆补充了古格洛特团队与 Braun 同事的合作背景。该馆说明，设计将顶部操作面板放在唱盘旁，采用金属箱体与浅色木侧板，并把盖子改为透明塑料。MoMA 本篇所引用馆藏的正式名称是 Radio-Phonograph (model SK 4/10)，馆藏号 205.1958；不把这一记录的版本、尺寸自动套给整个 SK 系列。下文视觉解释与应用练习是本站分析，不归为设计者原话，也不推测个人动机。",
+  "people": [
+    {
+      "name": "汉斯·古格洛特 / Hans Gugelot",
+      "role": "设计者；与拉姆斯及相关团队合作开发 SK 4"
+    },
+    {
+      "name": "迪特·拉姆斯 / Dieter Rams",
+      "role": "设计者；参与 SK 4 的开发"
+    }
+  ],
+  "works": [
+    {
+      "id": "sk4-10",
+      "title": "收音机与唱片播放器（SK 4/10） / Radio-Phonograph (model SK 4/10)",
+      "creator": "Dieter Rams、Hans Gugelot；制造商 Braun AG",
+      "year": "1956",
+      "sourceUrl": "https://www.moma.org/collection/works/2649",
+      "image": null
+    },
+    {
+      "id": "audio-layout-study",
+      "title": "声音设备的分区（本站原创研究示意）",
+      "creator": "Visual Art Atlas",
+      "year": "2026",
+      "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas",
+      "image": {
+        "src": "/images/entries/2026-10-12-braun-sk4-study.svg",
+        "alt": "原创平面关系图：左侧绿色唱片区与右侧浅棕控制区并列，虚线框表示可看穿的盖子；不描绘 SK4 的真实外形与按钮数量",
+        "credit": "Visual Art Atlas 原创研究示意 · 区域关系图，非 SK 4 原作复刻或产品照片",
+        "rights": "own_work",
+        "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas"
+      }
+    }
+  ],
+  "comparison": {
+    "target": "把声音设备隐藏在家具式木柜里的外观组织",
+    "description": "伦敦设计博物馆以传统木柜说明此前的家用音响语境。SK 4 的金属主体、木侧板及透明上盖使设备的操作部分更直接进入观看。比较重点是功能可见性与材料分工，不把所有木制外壳归为同一种风格，也不推断透明产品必然更好用。"
+  },
+  "applications": [
+    "设计小型桌面设备时，先画出使用者要接触的区域，再考虑壳体边界，让形状与操作位置相互支持。",
+    "在信息面板中把相关控制放在一起，以间距和对齐划分组别；保留清晰文字标签，不靠极简外观替代说明。",
+    "为收纳盒比较透明与不透明上盖：记录物品辨认、视觉杂乱与遮蔽需求之间的取舍，再选择材料。"
+  ],
+  "experiment": "在两张纸上安排同样的“播放、音量、选台”文字块：一张随意分散，一张按功能分组并对齐。请另一位使用者指出他会先看哪里，记录实际反馈，再调整间距；不把这项纸面练习当作 SK 4 易用性的测试。",
+  "nextTopics": [
+    "产品控制的分组与标记",
+    "透明材料与日常收纳"
+  ],
+  "relatedIds": [
+    "2026-10-03-rams",
+    "2026-10-06-bauhaus"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-12-braun-sk4-cover.svg",
+    "alt": "原创抽象主题视觉：矩形框内的圆形、平行线和小圆点形成分区，不描绘 Braun 产品",
+    "credit": "Visual Art Atlas 原创主题视觉 · 抽象构成，非产品图",
+    "rights": "own_work",
+    "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas"
+  },
+  "sources": [
+    {
+      "title": "Dieter Rams, Hans Gugelot. Radio-Phonograph (model SK 4/10). 1956",
+      "url": "https://www.moma.org/collection/works/2649",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开馆藏页，核对两位作者、1956年、SK 4/10型号、涂漆金属/木/塑料、Braun制造商及馆藏号205.1958。结合馆方图像文字说明核对形态；本机原作图像未成功加载，未宣称直接图像审阅。页面将作品图像复制引导至Art Resource或Scala授权，没有核实适用于本站的开放许可，故image为null，仅保留观看链接。"
+    },
+    {
+      "title": "Dieter Rams",
+      "url": "https://designmuseum.org/designers/dieter-rams",
+      "publisher": "Design Museum, London",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开人物专题，核对1956年与古格洛特、其团队及Braun同事合作开发SK4；核对金属箱体、浅木侧板、顶部操作面板在唱盘旁及透明塑料盖。只使用SK4相关段落，不引用该页其他产品或任职年份。图像有署名但未核实开放转载许可，不收录。"
+    },
+    {
+      "title": "An Apple Inspiration",
+      "url": "https://www.cooperhewitt.org/2013/09/24/an-apple-inspiration/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开2013年9月24日文章，交叉核对1956年、白色金属壳体、木侧板、透明塑料上盖及顶部唱盘与控制区关系。该文单列Rams，作者署名以MoMA与Museum Ulm交叉记录为准；未引用对Apple的影响推断，不下载文章图片。"
+    },
+    {
+      "title": "Hans Gugelot – Die Architektur des Design",
+      "url": "https://museumulm.de/ausstellung/hans-gugelot-100/",
+      "publisher": "Museum Ulm / HfG-Archiv",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开展览介绍，独立核对1956年古格洛特与拉姆斯共同为Braun设计SK 4，避免把共同作品归为单一设计者。未收录版权署名为HfG-Archiv等的图片。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "认识 Braun SK 4：音乐盒上的小区域",
+    "summary": "产品设计，是安排一件东西的形状、材料和用法。古格洛特和拉姆斯一起设计了 Braun SK 4。它既能收听广播，也能播放唱片。唱片是能记录声音的圆片。",
+    "looking": "先看完整的原创研究示意。左边的圆表示放唱片的地方，右边表示调节声音的地方。它不是 SK 4 的照片，只帮助我们看懂区域关系；大人可以另打开原作来源一起欣赏。",
+    "featuredWorkIds": [
+      "audio-layout-study"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "相近的用法，放在一起",
+          "paragraphs": [
+            "放大示意图的右边。圆形表示旋钮，也就是可以转动的小开关。横线表示一块长长的显示区域；这里的数量和颜色都是为了讲解安排的。",
+            "把调节声音的部分放在同一区域，眼睛就有一个集中的观看位置。设计不仅安排好看的形状，也安排我们看哪里、手伸向哪里。"
+          ],
+          "detail": {
+            "workId": "audio-layout-study",
+            "imageWidth": 1200,
+            "imageHeight": 800,
+            "x": 665,
+            "y": 265,
+            "width": 405,
+            "height": 250,
+            "alt": "原创研究示意的右侧局部：横线和圆形旋钮符号集中排列，与放唱片区分开",
+            "caption": "本站原创研究示意局部 · 控制符号集中在一起；不是原作按钮细节"
+          }
+        },
+        {
+          "title": "盖起来，也能看见",
+          "paragraphs": [
+            "示意图里，虚线围住两个区域，表示可以看穿的盖子。SK 4 的真实盖子用透明塑料制作；像透明收纳盒一样，盖上后仍能看见里面。",
+            "原作还用了金属和木材。不同材料放在同一件东西上，会带来不同的颜色和表面感觉。示意图只解释盖子的可见性，不代替真实材料。"
+          ]
+        },
+        {
+          "title": "回看整个音乐盒",
+          "paragraphs": [
+            "回到完整示意图。放唱片和调节声音，各有位置，又在同一个框里。圆形、直线和空出来的地方，让不同区域分开，也让它们联系起来。",
+            "再和大人看看原站的 SK 4。日常用品也能认真欣赏：形状怎么相处，材料怎样连接，用的地方安排在哪里。"
+          ]
+        }
+      ],
+      "reflection": "这些区域放在一起，带给你怎样的感觉？可以说一个词，也可以用手的动作或声音表达。"
+    },
+    "takeaway": "下次打开文具盒，可以看一会儿物品的位置、形状和空隙。安排日常东西，也能让生活多一种美。",
+    "parentNote": "先说明原创示意与原作的区别：图中颜色、旋钮数量和比例不代表SK4。可打开MoMA来源看完整原作，再回到示意理解分区。不要把图解当成产品操作说明；接纳孩子的感觉，欣赏与交谈就是完整阅读。"
+  }
+}

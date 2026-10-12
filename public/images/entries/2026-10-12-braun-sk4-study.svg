@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">声音设备的分区：本站原创研究示意</title><desc id="desc">左侧圆形表示放唱片的区域，右侧横线和圆形表示操作区域。两个区域被同一个虚线框联系起来。只是关系图，不是 SK4 外形或按钮数量的复制。</desc>
+<rect width="1200" height="800" fill="#f4f0e7"/>
+<g font-family="Arial, PingFang SC, sans-serif" fill="#34483f"><text x="80" y="84" font-size="30">声音设备的分区 · 原创研究示意</text><text x="80" y="126" font-size="20">只画区域关系，不画 SK 4 的真实外形、比例和按钮数量</text></g>
+<rect x="80" y="190" width="1040" height="480" rx="24" fill="#fdfbf5" stroke="#ccd3c8" stroke-width="3"/>
+<rect x="120" y="230" width="500" height="380" rx="18" fill="#dfe8de"/>
+<circle cx="370" cy="420" r="130" fill="#526b5d"/>
+<circle cx="370" cy="420" r="104" fill="none" stroke="#e6ebdf" stroke-width="2"/>
+<circle cx="370" cy="420" r="75" fill="none" stroke="#e6ebdf" stroke-width="2"/>
+<circle cx="370" cy="420" r="31" fill="#e3ae6e"/>
+<rect x="660" y="230" width="420" height="380" rx="18" fill="#efe0cf"/>
+<path d="M710 325H1030M710 350H1030" stroke="#53675d" stroke-width="4"/>
+<g fill="#a66645"><circle cx="750" cy="460" r="27"/><circle cx="870" cy="460" r="27"/><circle cx="990" cy="460" r="27"/></g>
+<path d="M750 437V449M870 437V449M990 437V449" stroke="#fff7e9" stroke-width="3"/>
+<rect x="105" y="215" width="990" height="410" rx="22" fill="none" stroke="#769395" stroke-width="3" stroke-dasharray="12 10"/>
+<g font-family="Arial, PingFang SC, sans-serif" fill="#34483f" text-anchor="middle"><text x="370" y="582" font-size="26">放唱片的区域</text><text x="870" y="582" font-size="26">调节声音的区域</text><text x="600" y="716" font-size="22">虚线表示可以看穿的盖子：合上也能看见里面</text><text x="600" y="756" font-size="18">Visual Art Atlas 原创 · 不是产品照片或原作复刻</text></g></svg>

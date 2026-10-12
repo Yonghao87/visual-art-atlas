@@ -1,0 +1,129 @@
+{
+  "entryId": "2026-10-12-braun-sk4",
+  "verifiedAt": "2026-10-12",
+  "selection": {
+    "category": "product_design",
+    "reason": "现有七分类中该分类最近发布于10月3日，最久未更新。研究具体SK4操作布局，与已有Rams收纳/原则主题不重复。10月11日无档案，不补写过去日期。"
+  },
+  "verificationMethod": "实际通过网页工具打开四个博物馆HTTPS页面，读取正文并交叉核对；agent-reach Jina Reader连接超时，改用网页工具。",
+  "sources": [
+    {
+      "title": "Dieter Rams, Hans Gugelot. Radio-Phonograph (model SK 4/10). 1956",
+      "url": "https://www.moma.org/collection/works/2649",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开馆藏页，核对两位作者、1956年、SK 4/10型号、涂漆金属/木/塑料、Braun制造商及馆藏号205.1958。结合馆方图像文字说明核对形态；本机原作图像未成功加载，未宣称直接图像审阅。页面将作品图像复制引导至Art Resource或Scala授权，没有核实适用于本站的开放许可，故image为null，仅保留观看链接。"
+    },
+    {
+      "title": "Dieter Rams",
+      "url": "https://designmuseum.org/designers/dieter-rams",
+      "publisher": "Design Museum, London",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开人物专题，核对1956年与古格洛特、其团队及Braun同事合作开发SK4；核对金属箱体、浅木侧板、顶部操作面板在唱盘旁及透明塑料盖。只使用SK4相关段落，不引用该页其他产品或任职年份。图像有署名但未核实开放转载许可，不收录。"
+    },
+    {
+      "title": "An Apple Inspiration",
+      "url": "https://www.cooperhewitt.org/2013/09/24/an-apple-inspiration/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开2013年9月24日文章，交叉核对1956年、白色金属壳体、木侧板、透明塑料上盖及顶部唱盘与控制区关系。该文单列Rams，作者署名以MoMA与Museum Ulm交叉记录为准；未引用对Apple的影响推断，不下载文章图片。"
+    },
+    {
+      "title": "Hans Gugelot – Die Architektur des Design",
+      "url": "https://museumulm.de/ausstellung/hans-gugelot-100/",
+      "publisher": "Museum Ulm / HfG-Archiv",
+      "verifiedAt": "2026-10-12",
+      "verificationNote": "实际打开展览介绍，独立核对1956年古格洛特与拉姆斯共同为Braun设计SK 4，避免把共同作品归为单一设计者。未收录版权署名为HfG-Archiv等的图片。"
+    }
+  ],
+  "facts": [
+    {
+      "fact": "1956年SK4由Gugelot与Rams共同设计",
+      "supports": [
+        "MoMA 2649",
+        "Museum Ulm Hans Gugelot展览",
+        "Design Museum Dieter Rams"
+      ]
+    },
+    {
+      "fact": "金属主体、浅木侧板、顶部控制区邻接唱盘、透明塑料上盖",
+      "supports": [
+        "Design Museum SK4段落",
+        "Cooper Hewitt An Apple Inspiration",
+        "MoMA媒介与透明盖说明"
+      ]
+    }
+  ],
+  "workRights": {
+    "sk4-10": {
+      "collectionNumber": "205.1958",
+      "display": "link_only; JSON image=null",
+      "reason": "MoMA作品图像复制引导至授权机构，未核实本站开放转载权。未下载、热链或重画产品。"
+    }
+  },
+  "originalAssets": [
+    {
+      "path": "public/images/entries/2026-10-12-braun-sk4-cover.svg",
+      "creator": "Visual Art Atlas",
+      "rights": "own_work",
+      "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas",
+      "sha256": "edbbbd1d695246342afbde1da80a8c6a2149f8d007c580fcc7e85ad9d92cab90",
+      "viewBox": "0 0 1200 820",
+      "purpose": "原创抽象主题视觉"
+    },
+    {
+      "path": "public/images/entries/2026-10-12-braun-sk4-study.svg",
+      "creator": "Visual Art Atlas",
+      "rights": "own_work",
+      "sourceUrl": "https://github.com/Yonghao87/visual-art-atlas",
+      "sha256": "970839f5451567947e16f1adb5f2d6fc3e516a1295c3e0628043ced6faa17d96",
+      "viewBox": "0 0 1200 800",
+      "purpose": "原创功能区域关系示意；不复制受保护产品形态"
+    }
+  ],
+  "limitations": [
+    "研究示意只表现两个功能区域与盖子可见性，不是原作、产品外观复刻、精确按钮数量、工程图或操作指南。",
+    "原作分析基于馆方文字与图像说明，原图在本机未成功加载；亲子局部只放大已实际查看的同一原创SVG，不补造原作细节。"
+  ],
+  "preview": {
+    "status": "passed",
+    "checkedViewports": [
+      {
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "checks": [
+      "成人及亲子版本可见性正确",
+      "原创完整SVG实际查看，局部665,265,405,250引用同一1200×800原图",
+      "完整图定位和回看跳转有效",
+      "所有可见图片解码成功",
+      "无横向溢出或页面脚本错误",
+      "实际查看手机完整图、局部图及两版页面截图，图文对应清楚"
+    ],
+    "screenshotsRetainedOutsideRepository": "/private/tmp/visual-art-atlas-daily/2026-10-12/"
+  },
+  "validation": {
+    "status": "passed",
+    "commands": [
+      "npm run validate:daily -- src/data/entries/2026-10-12-braun-sk4.json",
+      "npm run validate:content",
+      "npm run check",
+      "npm test",
+      "npm run build",
+      "npm run test:e2e",
+      "git diff --check"
+    ],
+    "unitTests": 23,
+    "e2eTests": 26,
+    "astroDiagnostics": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    }
+  }
+}
