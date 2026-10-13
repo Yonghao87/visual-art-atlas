@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-13-greek-black-figure",
+  "date": "2026-10-13",
+  "status": "published",
+  "title": "黑绘陶器：在黑色轮廓里刻出细节",
+  "subtitle": "从橙色陶土、黑色剪影与细密刻线，理解图画如何围绕器物展开",
+  "topicType": "technique",
+  "category": "fashion_craft",
+  "period": "古希腊古风时期；本篇实例约公元前550–530年",
+  "regions": [
+    "希腊",
+    "阿提卡"
+  ],
+  "tags": [
+    "陶器",
+    "黑绘",
+    "刻线",
+    "剪影",
+    "装饰纹样"
+  ],
+  "summary": "黑绘把轮廓与细节交给不同步骤：泥浆形成深色形体，刻线显露内部结构。画面还要回应罐颈、罐腹和把手，让器物的形与表面的图相互组织。",
+  "style_summary": "黑绘陶器：在黑色轮廓里刻出细节-橙色陶土底，黑色剪影，浅色细密刻线，局部白色对照，重复纹样环绕器身",
+  "context": "黑绘是古希腊陶器装饰的一种技术。The Met说明，在雅典的精细陶器上，工匠用泥浆绘制人物与纹样，烧成后这些部分变黑，未涂区域保留陶土颜色；内部细节可以刻线表现，也可添加白色和紫色。Getty的教育资料独立说明了烧前刻线与烧后颜色的关系。它不是用现代黑颜料在已烧好的罐子上画图。本篇选择约公元前540年、馆方归于埃克塞基亚斯的带盖双耳陶罐，并保留一件归于阿玛西斯画家的黑绘陶罐作为参考。归属与约年均采用馆方记录，不把画面人物编成故事。以下构图解释与练习是本站分析。",
+  "people": [
+    {
+      "name": "埃克塞基亚斯 / Exekias",
+      "role": "古希腊陶工与画家；本篇带盖陶罐为馆方“归于”其名下的作品"
+    },
+    {
+      "name": "阿玛西斯画家 / Amasis Painter",
+      "role": "古希腊陶器画家；另一参考陶罐为馆方归属作品"
+    }
+  ],
+  "visualFeatures": [
+    {
+      "key": "color",
+      "label": "深浅先分出轮廓",
+      "description": "照片里，黑色马身与橙色陶土形成大面积对照，部分人物和马匹还有白色。先看色面的边界，再看浅色细线；黑绘并不意味着画面只能出现黑色。"
+    },
+    {
+      "key": "linework",
+      "label": "刻线打开内部",
+      "description": "左侧人物衣服上的细线把黑色区域分成网格、菱形和弯曲边界。轮廓告诉我们形状占哪里，内部刻线则让一整块深色表面出现衣褶与纹样的层次。"
+    },
+    {
+      "key": "composition",
+      "label": "器身组织图画",
+      "description": "罐颈的重复花形、罐腹的人物与马匹、下方连续的装饰带分处不同位置。画面随曲面展开，不能把单张正面照片当作陶罐的全部装饰。"
+    },
+    {
+      "key": "form",
+      "label": "大形与细节的比例",
+      "description": "双耳、宽罐腹和收窄的颈部构成器物大形；马匹与人物占据腹部较宽处，细线集中在形体内部。大小层次使复杂图画仍有清楚的观看入口。"
+    }
+  ],
+  "works": [
+    {
+      "id": "exekias-amphora",
+      "title": "带盖及盖钮的陶制颈双耳罐 / Terracotta neck-amphora (jar) with lid and knob (27.16)",
+      "creator": "归于埃克塞基亚斯 / Attributed to Exekias",
+      "year": "约公元前540年",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/250551",
+      "image": {
+        "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+        "alt": "带盖双耳黑绘陶罐实物照片：橙色陶土上有黑色马匹、人物和车轮，衣服内有细线纹样，罐颈与下部环绕重复装饰",
+        "credit": "Attributed to Exekias / The Metropolitan Museum of Art, 17.230.14a, b · Rogers Fund, 1917 · Public Domain (CC0)；原文件未修改，局部仅显示裁切",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/250551",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "amasis-amphora",
+      "title": "陶制双耳罐 / Terracotta amphora (jar)",
+      "creator": "归于阿玛西斯画家 / Attributed to the Amasis Painter",
+      "year": "约公元前550–530年",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/254868",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "红绘中的内部笔线",
+    "description": "The Met说明，红绘把人物留成陶土色，背景烧后变黑，内部细节可用画笔线条表现。比较时关注“先有色面，再怎样细分”，不把两种技法混成同一种刮画方法。"
+  },
+  "applications": [
+    "制作剪影插画时，先检查大轮廓是否清楚，再用少量浅线区分内部结构，避免细节淹没主体。",
+    "设计杯身或包装环绕图案时，把正面、侧面与接缝一起展开检查，让重复装饰回应形状的转折。",
+    "为同一人物分别绘制黑色剪影与浅色人物两稿，比较内部线条在哪一种底色上更容易阅读。"
+  ],
+  "experiment": "在橙色纸上贴一块自己剪出的黑纸形状，再用浅色彩笔画几条内部线；比较没有细线与加入细线时的阅读变化。剪刀由成人协助。这是现代色面练习，不复原古代泥浆或烧制过程。",
+  "nextTopics": [
+    "陶器的环绕构图",
+    "红绘中的笔线"
+  ],
+  "relatedIds": [
+    "2026-10-09-ukiyo-e",
+    "2026-10-04-rodin"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+    "alt": "带盖双耳黑绘陶罐实物照片：橙色陶土上有黑色马匹、人物和车轮，衣服内有细线纹样，罐颈与下部环绕重复装饰",
+    "credit": "Attributed to Exekias / The Metropolitan Museum of Art, 17.230.14a, b · Rogers Fund, 1917 · Public Domain (CC0)；原文件未修改，局部仅显示裁切",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/250551",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Terracotta neck-amphora (jar) with lid and knob (27.16)",
+      "url": "https://www.metmuseum.org/art/collection/search/250551",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际通过Exa网页读取访问馆藏正文，核对“Attributed to Exekias”、约公元前540年、陶土黑绘、高47厘米、馆藏号17.230.14a, b及车驾人物场景。馆方API objectID 250551确认isPublicDomain=true并给出DP218568原图；已下载并实际查看3208×4000实物照片。作者保留“归于”的归属措辞，不当作署名证明。"
+    },
+    {
+      "title": "Terracotta amphora (jar)",
+      "url": "https://www.metmuseum.org/art/collection/search/254868",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取馆藏页，核对归于Amasis Painter、约公元前550–530年、陶土黑绘、馆藏号56.171.10及两面离家武士场景。API objectID 254868的isPublicDomain=false且没有原图地址；未核实适用的开放图片许可，仅保留作品来源链接。"
+    },
+    {
+      "title": "Athenian Vase Painting: Black- and Red-Figure Techniques",
+      "url": "https://www.metmuseum.org/essays/athenian-vase-painting-black-and-red-figure-techniques",
+      "publisher": "The Metropolitan Museum of Art / Department of Greek and Roman Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取2002年技法文章，核对陶轮成形、部件接合、泥浆烧后变黑、刻线表现内部细节及可加白/紫色的说明。仅概括黑绘与红绘的技术差异，不把现代黑颜料涂画描述成古代原工艺。"
+    },
+    {
+      "title": "A Story on a Vase (Education at the Getty)",
+      "url": "https://www.getty.edu/education/for_teachers/curricula/mythology/lesson01.html",
+      "publisher": "J. Paul Getty Museum",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取教育资料第5步，与The Met交叉核对轮廓内填泥浆、烧前刻线露出陶土颜色及泥浆烧后变黑。该文示例为另一件水罐，未将其人物故事、艺术家或使用功能移植到本篇陶罐，也不复制其连续问答教学。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际访问开放访问政策，核对2017年起公版作品图像按Creative Commons Zero（CC0）开放。本篇仅收录API明确为公版的250551图像，不把政策扩大到254868。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "认识黑绘陶器：黑色里面的细细线",
+    "summary": "很久以前，希腊的工匠用泥土做陶器，也在陶器上画图。有一种方法叫“黑绘”。他们用调成稀稀的泥浆画形状，烧成后，这些地方会变黑。",
+    "looking": "先看完整的带盖陶罐照片。馆方把它归于一位叫埃克塞基亚斯的艺术家。罐子有两个把手，橙色的表面上画着人物、马和车轮。黑色与白色的形状挨在一起。",
+    "featuredWorkIds": [
+      "exekias-amphora"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "大大的颜色，先让形状出现",
+          "paragraphs": [
+            "马的身体像一大块深色形状。它和橙色底面不同，眼睛很容易看见马背、肚子和腿的边缘。只看外面的边，也能感受到形状。",
+            "黑绘里面也会出现别的颜色。这张照片里，白色的人脸和马，与旁边的黑色部分形成新的深浅变化。"
+          ]
+        },
+        {
+          "title": "细细的线，让黑色里面有变化",
+          "paragraphs": [
+            "放大人物的衣服。黑色里面有浅浅的细线，有的连成小格子，有的围出弯曲的边。衣服不再像一块平平的黑色。",
+            "工匠在烧陶器之前，用尖工具刻出细线，让下面的陶土颜色露出来。这叫“刻线”。大形状让我们先看见人物，细线再让我们慢慢欣赏表面的变化。"
+          ],
+          "detail": {
+            "workId": "exekias-amphora",
+            "imageWidth": 3208,
+            "imageHeight": 4000,
+            "x": 800,
+            "y": 1740,
+            "width": 850,
+            "height": 750,
+            "alt": "黑绘陶罐左侧人物局部：黑色衣服内的浅色网格与几何纹样，以及相邻的人脸轮廓",
+            "caption": "带盖双耳陶罐局部 · 衣服里面的细线；同一馆藏原图显示裁切"
+          }
+        },
+        {
+          "title": "回到整个罐子，图案围着它展开",
+          "paragraphs": [
+            "再看完整陶罐。上面有一圈重复的花形，人物和马在鼓起来的罐腹上，下面又有连续的装饰带。不同图案住在不同位置。",
+            "这幅图画在圆圆的陶罐上，不是平纸上。照片只能让我们看见一面。形状、细线和罐子的弯曲，一起组成这件作品的样子。"
+          ]
+        }
+      ],
+      "reflection": "这个陶罐的颜色、细线和形状带给你怎样的感觉？可以说一个词，也可以用手的动作或声音表达。"
+    },
+    "takeaway": "下次看家里的杯子或碗，可以和大人慢慢转动它，欣赏表面的线与图案怎样围着器物展开。",
+    "parentNote": "从完整馆藏实物照片进入，再看衣服局部，最后回到器形与装饰带。简单解释泥浆与刻线，不把黑绘当作现代黑颜料涂画，也不编人物正在想什么。照片只是一个角度；馆方作者归属保留“归于”。只欣赏与交谈就是完整阅读。"
+  }
+}

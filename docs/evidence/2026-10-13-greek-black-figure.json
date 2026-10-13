@@ -1,0 +1,125 @@
+{
+  "entryId": "2026-10-13-greek-black-figure",
+  "verifiedAt": "2026-10-13",
+  "selection": {
+    "category": "fashion_craft",
+    "reason": "该分类最近发布于10月4日，为现有七分类最久未更新者。本篇研究陶器图画与器形，不重复罗丹雕塑。先确定工艺研究价值，再核验实际配图。"
+  },
+  "sources": [
+    {
+      "title": "Terracotta neck-amphora (jar) with lid and knob (27.16)",
+      "url": "https://www.metmuseum.org/art/collection/search/250551",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际通过Exa网页读取访问馆藏正文，核对“Attributed to Exekias”、约公元前540年、陶土黑绘、高47厘米、馆藏号17.230.14a, b及车驾人物场景。馆方API objectID 250551确认isPublicDomain=true并给出DP218568原图；已下载并实际查看3208×4000实物照片。作者保留“归于”的归属措辞，不当作署名证明。"
+    },
+    {
+      "title": "Terracotta amphora (jar)",
+      "url": "https://www.metmuseum.org/art/collection/search/254868",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取馆藏页，核对归于Amasis Painter、约公元前550–530年、陶土黑绘、馆藏号56.171.10及两面离家武士场景。API objectID 254868的isPublicDomain=false且没有原图地址；未核实适用的开放图片许可，仅保留作品来源链接。"
+    },
+    {
+      "title": "Athenian Vase Painting: Black- and Red-Figure Techniques",
+      "url": "https://www.metmuseum.org/essays/athenian-vase-painting-black-and-red-figure-techniques",
+      "publisher": "The Metropolitan Museum of Art / Department of Greek and Roman Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取2002年技法文章，核对陶轮成形、部件接合、泥浆烧后变黑、刻线表现内部细节及可加白/紫色的说明。仅概括黑绘与红绘的技术差异，不把现代黑颜料涂画描述成古代原工艺。"
+    },
+    {
+      "title": "A Story on a Vase (Education at the Getty)",
+      "url": "https://www.getty.edu/education/for_teachers/curricula/mythology/lesson01.html",
+      "publisher": "J. Paul Getty Museum",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际读取教育资料第5步，与The Met交叉核对轮廓内填泥浆、烧前刻线露出陶土颜色及泥浆烧后变黑。该文示例为另一件水罐，未将其人物故事、艺术家或使用功能移植到本篇陶罐，也不复制其连续问答教学。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "实际访问开放访问政策，核对2017年起公版作品图像按Creative Commons Zero（CC0）开放。本篇仅收录API明确为公版的250551图像，不把政策扩大到254868。"
+    }
+  ],
+  "crossChecks": [
+    {
+      "fact": "黑绘使用烧后变黑的泥浆，烧前刻线揭示内部细节",
+      "supports": [
+        "https://www.metmuseum.org/essays/athenian-vase-painting-black-and-red-figure-techniques",
+        "https://www.getty.edu/education/for_teachers/curricula/mythology/lesson01.html"
+      ]
+    }
+  ],
+  "image": {
+    "path": "public/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+    "objectID": 250551,
+    "accessionNumber": "17.230.14a, b",
+    "recordAttribution": "Attributed to Exekias",
+    "imageDownloadUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP218568.jpg",
+    "dimensions": {
+      "width": 3208,
+      "height": 4000
+    },
+    "isPublicDomain": true,
+    "rights": "public_domain",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "credit": "Attributed to Exekias / The Metropolitan Museum of Art, 17.230.14a, b · Rogers Fund, 1917 · Public Domain (CC0)；原文件未修改，局部仅显示裁切",
+    "sha256": "cbf95ae1462bc2d128e2fb833a9643cc33d1fe44e073f9cac6fcce8d27296b11",
+    "modified": false,
+    "viewed": "实际查看完整实物原图；局部800,1740,850,750包含左侧衣服刻线与相邻人物轮廓，不补造细节。",
+    "detail": {
+      "workId": "exekias-amphora",
+      "imageWidth": 3208,
+      "imageHeight": 4000,
+      "x": 800,
+      "y": 1740,
+      "width": 850,
+      "height": 750,
+      "alt": "黑绘陶罐左侧人物局部：黑色衣服内的浅色网格与几何纹样，以及相邻的人脸轮廓",
+      "caption": "带盖双耳陶罐局部 · 衣服里面的细线；同一馆藏原图显示裁切"
+    },
+    "apiUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/250551"
+  },
+  "referenceWithoutImage": {
+    "objectID": 254868,
+    "accessionNumber": "56.171.10",
+    "isPublicDomain": false,
+    "reason": "API没有开放图像，许可未确认，仅列来源。"
+  },
+  "preview": {
+    "status": "passed",
+    "viewports": [
+      1440,
+      390
+    ],
+    "checks": [
+      "实际查看完整实物照片及衣服刻线局部",
+      "同源局部800,1740,850,750与3208×4000原图对应",
+      "完整图定位与回看跳转有效",
+      "图片加载成功，页面无脚本错误及横向溢出",
+      "封面、作品和亲子欣赏均使用同一公版JPG实图，署名和CC0链接完整"
+    ],
+    "screenshots": "/private/tmp/visual-art-atlas-daily/2026-10-13/"
+  },
+  "validation": {
+    "status": "passed",
+    "commands": [
+      "npm run validate:daily -- src/data/entries/2026-10-13-greek-black-figure.json",
+      "npm run validate:content",
+      "npm run check",
+      "npm test",
+      "npm run build",
+      "npm run test:e2e",
+      "git diff --check"
+    ],
+    "unitTests": 23,
+    "e2eTests": 26,
+    "astroDiagnostics": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    }
+  }
+}
