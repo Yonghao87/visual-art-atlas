@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-16-issey-miyake-pleats",
+  "date": "2026-10-16",
+  "status": "published",
+  "title": "三宅一生的褶皱美学｜让一块布成为流动的雕塑",
+  "subtitle": "从先缝后褶的工艺，到穿在身体上的图像，理解材料如何参与造型",
+  "topicType": "design_method",
+  "category": "fashion_craft",
+  "period": "1988年起的褶皱研究；本篇实拍作品为1997年",
+  "regions": [
+    "日本"
+  ],
+  "tags": [
+    "服装设计",
+    "褶皱",
+    "聚酯纤维",
+    "材料实验",
+    "身体与空间",
+    "艺术跨界"
+  ],
+  "summary": "三宅一生把褶皱发展为服装的结构：先缝好放大的衣服，再用热与压力定形。密集折面既塑造轮廓，也改变光影和印花的呈现；身体穿入以后，布、图像与空间共同构成衣服的样子。",
+  "style_summary": "三宅一生的褶皱美学｜让一块布成为流动的雕塑-热定形褶皱，密集平行折线，明暗沿褶面起伏，印花跨越立体表面，轮廓随身体展开",
+  "context": "日本设计师三宅一生长期研究布与身体之间的关系。1988年起的褶皱实验改变了制作顺序：先裁剪、缝制较大的衣服，再把成衣夹在纸间热压，让尺寸与褶面一起定形。费城艺术博物馆对1989年《折纸褶皱连衣裙》的说明，也记录了先缝后褶的方法。不同款式的放大量并不相同，本篇不把某个倍数当成所有服装的公式。\n\n官方资料记载，1991年三宅一生为威廉·福赛斯编舞、法兰克福芭蕾舞团演出的《The Loss of Small Detail》制作服装；1993年推出PLEATS PLEASE ISSEY MIYAKE。这条线索把材料实验连接到身体的活动与日常穿着。\n\n本篇实拍为RISD Museum馆藏1997.25：《Pleats Please客座艺术家系列第1号》，馆方定年1997年，由三宅一生设计服装、森村泰昌提供艺术图像。馆方展览资料说明，图案将安格尔的女性人物与森村的自画像并置。它让我们看到：印花不只停留在平面上，还跨过褶面，包围穿着者。以下视觉解释、比较与练习为本站分析。",
+  "people": [
+    {
+      "name": "三宅一生 / Issey Miyake",
+      "role": "服装设计师；研究成衣压褶、材料与身体的关系"
+    },
+    {
+      "name": "森村泰昌 / Yasumasa Morimura",
+      "role": "艺术家；本篇1997年客座艺术家系列作品的图像创作者"
+    }
+  ],
+  "visualFeatures": [
+    {
+      "key": "material",
+      "label": "先缝后褶：工序改变形状",
+      "description": "普通的装饰思路可以先选一块有纹样的布，再决定怎样裁。成衣压褶则把缝好的衣服送入定形工序，褶皱直接参与尺寸与轮廓的形成。RISD这件作品的材料记录为热定形压褶及印花聚酯针织物；这里的细褶是材料结构，不能只当作画上去的条纹。"
+    },
+    {
+      "key": "linework",
+      "label": "重复折线：让眼睛沿着布走",
+      "description": "看实拍的领口、胸前与袖子，细密折线连续排列。在躯干上，它们大体向下延伸；到肩部与弯曲的手臂附近，方向随表面转折。重复带来秩序，方向变化又使秩序回应身体，而不是一张平直的条纹纸。"
+    },
+    {
+      "key": "lighting",
+      "label": "褶面明暗：平面里长出深度",
+      "description": "同一段棕色袖子里，窄小的亮面与暗缝交替出现，能帮助辨认折面的起伏。要把这种细微明暗与大片印花颜色分开看：胸前浅色人物、下方红色区域属于图像，不能都解释成灯光。局部的明暗提示结构，整体的色块则组织注意力。"
+    },
+    {
+      "key": "composition",
+      "label": "图像跨过褶皱：衣服也成为画面",
+      "description": "森村泰昌的图像纵向铺在前身，浅色人物与下方的红色形成明显分区；细褶同时穿过这些区域。远看先读到人物与色块，近看又被折线打断。图像和布的起伏同时存在，这正是把平面图像放到服装上时值得研究的关系。"
+    },
+    {
+      "key": "form",
+      "label": "身体撑起轮廓：照片与运动的边界",
+      "description": "实拍里的展示人台撑起肩、袖与长长的衣身，左侧露出的橙色侧面还提示了正面以外的空间。它能说明衣服如何包围身体，却不能展示运动前后的全部变化。理解活动中的展开与收拢，还应结合官方舞蹈服装资料，不把这张静态照片说成动作演示。"
+    }
+  ],
+  "works": [
+    {
+      "id": "risd-guest-artist-no1",
+      "title": "Pleats Please客座艺术家系列第1号 / Pleats Please Guest Artist Series, no. 1（RISD 1997.25）",
+      "creator": "三宅一生（服装设计）；森村泰昌（艺术图像）",
+      "year": "1997年（RISD馆藏定年）",
+      "sourceUrl": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+      "image": {
+        "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+        "alt": "RISD馆藏1997.25连衣裙的展示人台实拍：棕色细密竖褶上印有浅色人物与红色图像，长袖随手臂弯曲，侧面露出橙色布面",
+        "credit": "三宅一生、森村泰昌 / 摄影 Erik Gould / RISD Museum，Gift of the artist，1997.25 · 馆方标示CC0；高清照片经ArtReview转载页取得 · 文件未修改，卡片及亲子局部仅显示裁切",
+        "rights": "public_domain",
+        "sourceUrl": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "permissionNote": "依据RISD这件具体馆藏页的Image use声明：对象为Public Domain并按CC0开放；ArtReview图片说明独立对应同一标题、1997年及馆藏号1997.25。该判断仅用于本件馆藏照片，不扩大到其他三宅一生或森村泰昌作品。"
+      }
+    },
+    {
+      "id": "pma-origami-pleats",
+      "title": "女式“折纸褶皱”连衣裙 / Woman's \"Origami Pleats\" Dress",
+      "creator": "三宅一生 / Issey Miyake",
+      "year": "1989年春夏",
+      "sourceUrl": "https://www.philamuseum.org/objects/87123",
+      "image": null
+    },
+    {
+      "id": "ngv-flying-saucer",
+      "title": "飞碟连衣裙 / Flying saucer, dress（NGV 1995.781）",
+      "creator": "三宅一生；ISSEY MIYAKE, Tokyo",
+      "year": "1993年；1994年春夏系列（NGV记录）",
+      "sourceUrl": "https://www.ngv.vic.gov.au/explore/collection/work/57576/",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "先给平布画条纹，再缝成衣服",
+    "description": "条纹是表面图案，褶皱是有高低的折面；两者可以共存，但作用不同。本篇客座艺术家连衣裙同时有印花与细褶，最适合练习把它们分开观看。再打开费城的《折纸褶皱连衣裙》与NGV的《飞碟连衣裙》来源，比较折线方向与整体轮廓；这些是不同作品，不能用本篇照片代替它们。"
+  },
+  "applications": [
+    "设计有折叠结构的包装时，先折一个纸样，再安排文字与图像，检查它们跨过折面后是否仍能阅读。",
+    "做服装或角色概念图时，把褶线方向与关节位置一起考虑：让重复纹理跟随形体转折，而不是均匀铺满轮廓。",
+    "拍摄有褶皱的材料时，分别观察图案色块和褶面阴影，再选择光线角度；避免把结构拍平，也避免把印花误读为光影。"
+  ],
+  "experiment": "取一张普通纸，先画一块浅色与一块深色，再折成宽窄接近的手风琴褶。轻轻收拢和展开，比较色块的可见宽度、纸面占据的空间与折面明暗。换个角度观看并画下两种状态。这是纸的结构练习，不复原聚酯热定形工艺；不用熨斗或加热设备。",
+  "nextTopics": [
+    "服装上的印花与身体",
+    "折线方向如何改变体积",
+    "三宅一生与野口勇的跨媒介关联"
+  ],
+  "relatedIds": [
+    "2026-10-04-rodin",
+    "2026-10-09-ukiyo-e",
+    "2026-10-12-braun-sk4"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+    "alt": "三宅一生与森村泰昌合作的1997年褶皱印花连衣裙，展示人台撑起长袖和衣身，棕色竖褶贯穿浅色与红色图像",
+    "credit": "三宅一生、森村泰昌 / 摄影 Erik Gould / RISD Museum，Gift of the artist，1997.25 · 馆方标示CC0；高清照片经ArtReview转载页取得 · 文件未修改，卡片及亲子局部仅显示裁切",
+    "rights": "public_domain",
+    "sourceUrl": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "permissionNote": "依据RISD具体馆藏1997.25页的Public Domain及CC0声明；高清照片的转载来源、身份及像素核验见本篇图像证据。"
+  },
+  "sources": [
+    {
+      "title": "The Concepts and Work of Issey Miyake",
+      "url": "https://mds.isseymiyake.com/im/en/",
+      "publisher": "Miyake Design Studio",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问官方正文，核对1988年进一步褶皱实验、先缝放大成衣再夹纸热压、1991年The Loss of Small Detail舞蹈服装及1993年PLEATS PLEASE推出；先缝后褶与费城馆藏说明交叉核对。未下载官网版权照片，也未把1988年研究起点写成独立品牌成立年份。"
+    },
+    {
+      "title": "Woman's \"Origami Pleats\" Dress, Spring/Summer 1989",
+      "url": "https://www.philamuseum.org/objects/87123",
+      "publisher": "Philadelphia Museum of Art",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取作品页，核对标题、1989年春夏、1988年初次Pleats系列、先裁缝较大形状后用压力与蒸汽热定形，并与Miyake Design Studio交叉核对工序。馆方描述的放大量不当作所有款式通用值；图像另涉权利申请，本站仅保留来源链接。"
+    },
+    {
+      "title": "Pleats Please Guest Artist Series, no. 1",
+      "url": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取具体馆藏页，核对三宅一生与森村泰昌、1997年、热定形压褶及印花聚酯针织物、后中长137.8厘米、Gift of the artist及馆藏号1997.25。Image use明确将本对象标为Public Domain与CC0；仅用于本件。官网预览图较小，改从署明同一馆藏的ArtReview转载页取得2007×3000像素照片，实际查看并核对身份。"
+    },
+    {
+      "title": "Term Limits: Textiles in Contemporary Art, November 8, 2005–February 5, 2006",
+      "url": "https://risdmuseum.cdn.picturepark.com/d/Eu70J3T1/",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取馆方展览清单PDF第16页（索引15），独立核对同一馆藏1997.25、两位创作者与1997年，说明图像并置安格尔的女性人物与森村自画像，以及身体给图像增加体积和运动。该旧展览清单与现行馆藏页对织物结构的措辞不同，本站材料名称采用现行馆藏页，不扩写未核实的制作细节。"
+    },
+    {
+      "title": "Flying saucer, dress",
+      "url": "https://www.ngv.vic.gov.au/explore/collection/work/57576/",
+      "publisher": "National Gallery of Victoria",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问馆藏页，核对1993年及1994年春夏系列的双重年代、聚酯纤维、1995.781与对野口勇Akari灯雕塑的致意。页面标注©Miyake Design Studio并提供复制申请，未把网页可见或可下载认作开放许可，仅列作品来源链接。"
+    },
+    {
+      "title": "Issey Miyake: a Pioneer for Fashion at the Vanguard of Art, 1938–2022",
+      "url": "https://artreview.com/issey-miyake-pioneer-for-fashion-at-the-vanguard-of-art-1938-2022/",
+      "publisher": "ArtReview / Shahidha Bari",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问2022年8月15日文章并读取图片说明及srcSet，核对照片署名Courtesy of the RISD Museum、1997.25、1997年、两位创作者及137.8厘米，与馆方记录对应；取得其公开列出的2007×3000原文件。该页用于照片来源链，许可依据为RISD具体馆藏页的CC0声明，不将ArtReview整站或其他图片当作开放授权。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "三宅一生的褶皱衣服：细细折面，撑出立体形状",
+    "summary": "三宅一生是一位日本服装设计师。他研究怎样把布折出许多能保持形状的细褶，让衣服有自己的起伏。这件连衣裙上，还印着艺术家森村泰昌创作的图像。",
+    "looking": "先慢慢看完整照片。衣服穿在展示人台上，有长长的袖子和衣身。棕色、浅色和红色连在一起，细密的褶线从上往下延伸。侧面还露出一片橙色。",
+    "featuredWorkIds": [
+      "risd-guest-artist-no1"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "细细的褶，是布折起来的地方",
+          "paragraphs": [
+            "看袖子和衣身交界的局部。棕色布上有一条条很细的亮面和暗缝。布向外折起，又向里折回，光照到不同的面，就有深浅变化。这些折起来的地方叫“褶”。",
+            "褶不是只画在布上的线。它让布有高低、有厚度。做这类衣服时，工匠先把较大的衣服缝好，再用热和压力把褶定住。"
+          ],
+          "detail": {
+            "workId": "risd-guest-artist-no1",
+            "imageWidth": 2007,
+            "imageHeight": 3000,
+            "x": 580,
+            "y": 1080,
+            "width": 300,
+            "height": 450,
+            "alt": "连衣裙棕色左袖的细密褶面局部：窄小亮面、暗缝及旁边更深的折面",
+            "caption": "同一馆藏原图局部 · 棕色袖子上的细密亮面与暗缝"
+          }
+        },
+        {
+          "title": "图画跟着布面，一起有了起伏",
+          "paragraphs": [
+            "衣服前面浅色的人物和下面的红色，是印在布上的图像。细褶穿过这些颜色，就像把有图画的纸轻轻折起，图画也有了凹进去、凸出来的地方。",
+            "看图画时，可以先感受大块颜色，再慢慢看细褶。印花的颜色和褶缝的阴影，是两种不同的变化。"
+          ]
+        },
+        {
+          "title": "回看整件衣服，布围着身体展开",
+          "paragraphs": [
+            "再回到完整照片。肩膀撑起衣服，袖子随着手臂弯曲，许多小折面一起组成长长的轮廓。近处看见的细褶，远看就连成了整件衣服的样子。",
+            "三宅一生也为舞者设计过衣服，研究布怎样回应活动。今天这张是静止的展示照片，我们先欣赏这个姿态下，布与身体的关系。"
+          ]
+        }
+      ],
+      "reflection": "这件有许多细褶的衣服带给你怎样的感觉？可以说一个词，也可以用手臂的动作或声音表达。"
+    },
+    "takeaway": "和大人看看家里衣服或窗帘上的褶，轻轻换个观看角度，感受同一块布怎样出现不同的明暗。只看一看、聊一聊，也是一回完整的欣赏。",
+    "parentNote": "先完整欣赏，再看袖子局部，最后回看整体。浅色与红色属于印花，褶面的小明暗来自立体起伏，帮助孩子区分即可，不要求答题。不编人物故事或设计师动机。这里展示的是1997年RISD馆藏，不冒充1989年折纸裙或飞碟裙，也不靠静态图推断动作过程。"
+  }
+}

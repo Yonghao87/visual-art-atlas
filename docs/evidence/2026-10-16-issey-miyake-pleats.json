@@ -1,0 +1,321 @@
+{
+  "entryId": "2026-10-16-issey-miyake-pleats",
+  "verifiedAt": "2026-10-16",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "b4c63081-9b54-4d6f-a184-7c39289e9b90",
+    "volume": "004",
+    "capturedAt": "2026-10-16T04:38:39.533Z",
+    "sourceConversationUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "category": "fashion_craft",
+    "reason": "ChatGPT Vol.004为最早未发布交接主题，优先于分类轮换；检索既有档案与证据未发现该消息或主题已发布。",
+    "publishedCategoryDistributionBefore": {
+      "product_design": 2,
+      "fashion_craft": 2,
+      "digital_art": 1,
+      "eastern_art": 1,
+      "architecture": 1,
+      "world_painting": 2,
+      "graphic_design": 1
+    },
+    "queueAfterSuccess": [
+      "Vol.005 孟菲斯设计",
+      "Vol.006 奥普艺术",
+      "Vol.007 玛丽·布莱尔"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Concepts and Work of Issey Miyake",
+      "url": "https://mds.isseymiyake.com/im/en/",
+      "publisher": "Miyake Design Studio",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问官方正文，核对1988年进一步褶皱实验、先缝放大成衣再夹纸热压、1991年The Loss of Small Detail舞蹈服装及1993年PLEATS PLEASE推出；先缝后褶与费城馆藏说明交叉核对。未下载官网版权照片，也未把1988年研究起点写成独立品牌成立年份。"
+    },
+    {
+      "title": "Woman's \"Origami Pleats\" Dress, Spring/Summer 1989",
+      "url": "https://www.philamuseum.org/objects/87123",
+      "publisher": "Philadelphia Museum of Art",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取作品页，核对标题、1989年春夏、1988年初次Pleats系列、先裁缝较大形状后用压力与蒸汽热定形，并与Miyake Design Studio交叉核对工序。馆方描述的放大量不当作所有款式通用值；图像另涉权利申请，本站仅保留来源链接。"
+    },
+    {
+      "title": "Pleats Please Guest Artist Series, no. 1",
+      "url": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取具体馆藏页，核对三宅一生与森村泰昌、1997年、热定形压褶及印花聚酯针织物、后中长137.8厘米、Gift of the artist及馆藏号1997.25。Image use明确将本对象标为Public Domain与CC0；仅用于本件。官网预览图较小，改从署明同一馆藏的ArtReview转载页取得2007×3000像素照片，实际查看并核对身份。"
+    },
+    {
+      "title": "Term Limits: Textiles in Contemporary Art, November 8, 2005–February 5, 2006",
+      "url": "https://risdmuseum.cdn.picturepark.com/d/Eu70J3T1/",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际读取馆方展览清单PDF第16页（索引15），独立核对同一馆藏1997.25、两位创作者与1997年，说明图像并置安格尔的女性人物与森村自画像，以及身体给图像增加体积和运动。该旧展览清单与现行馆藏页对织物结构的措辞不同，本站材料名称采用现行馆藏页，不扩写未核实的制作细节。"
+    },
+    {
+      "title": "Flying saucer, dress",
+      "url": "https://www.ngv.vic.gov.au/explore/collection/work/57576/",
+      "publisher": "National Gallery of Victoria",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问馆藏页，核对1993年及1994年春夏系列的双重年代、聚酯纤维、1995.781与对野口勇Akari灯雕塑的致意。页面标注©Miyake Design Studio并提供复制申请，未把网页可见或可下载认作开放许可，仅列作品来源链接。"
+    },
+    {
+      "title": "Issey Miyake: a Pioneer for Fashion at the Vanguard of Art, 1938–2022",
+      "url": "https://artreview.com/issey-miyake-pioneer-for-fashion-at-the-vanguard-of-art-1938-2022/",
+      "publisher": "ArtReview / Shahidha Bari",
+      "verifiedAt": "2026-10-16",
+      "verificationNote": "实际访问2022年8月15日文章并读取图片说明及srcSet，核对照片署名Courtesy of the RISD Museum、1997.25、1997年、两位创作者及137.8厘米，与馆方记录对应；取得其公开列出的2007×3000原文件。该页用于照片来源链，许可依据为RISD具体馆藏页的CC0声明，不将ArtReview整站或其他图片当作开放授权。"
+    }
+  ],
+  "crossChecks": [
+    {
+      "fact": "1988年起的褶皱研究及先缝放大成衣、再用热与压力定形",
+      "supports": [
+        "https://mds.isseymiyake.com/im/en/",
+        "https://www.philamuseum.org/objects/87123"
+      ]
+    },
+    {
+      "fact": "1997.25为三宅一生与森村泰昌合作，RISD定年1997年",
+      "supports": [
+        "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+        "https://risdmuseum.cdn.picturepark.com/d/Eu70J3T1/"
+      ]
+    },
+    {
+      "fact": "2007×3000照片来自RISD同一馆藏，不是另一年份/版本或AI替代图",
+      "supports": [
+        "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+        "https://artreview.com/issey-miyake-pioneer-for-fashion-at-the-vanguard-of-art-1938-2022/",
+        "https://commons.wikimedia.org/wiki/File:Yasumasa_Morimura_for_Issey_Miyake,_printed_polyester,_1997_02.jpg"
+      ]
+    }
+  ],
+  "image": {
+    "path": "public/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+    "accessionNumber": "1997.25",
+    "objectTitle": "Pleats Please Guest Artist Series, no. 1",
+    "objectDate": "1997 (RISD catalogue)",
+    "designer": "Issey Miyake",
+    "artist": "Yasumasa Morimura",
+    "photographer": "Erik Gould",
+    "imageSource": "Museum of Art, Rhode Island School of Design",
+    "objectSourceUrl": "https://risdmuseum.org/art-design/collection/pleats-please-guest-artist-series-no-1-199725",
+    "downloadUrl": "https://backend.artreview.com/wp-content/uploads/2022/08/RISDM-1997-25.tif.png",
+    "downloadPage": "https://artreview.com/issey-miyake-pioneer-for-fashion-at-the-vanguard-of-art-1938-2022/",
+    "dimensions": {
+      "width": 2007,
+      "height": 3000
+    },
+    "format": "PNG",
+    "bytes": 6179157,
+    "sha256": "de9ff904f9d6e792248f003f6369470945a9eca8ffb7dd99ef9c1bbb9278b13b",
+    "rights": "public_domain",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsBasis": "RISD具体馆藏页Image use将该对象明确标为Public Domain和CC0。不是把一张照片的CC许可扩大为所有三宅一生/森村泰昌作品的许可。",
+    "rightsStatementExcerpt": "This object is in the Public Domain and available under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "photoProvenance": "ArtReview图注给出两位创作者、1997年、137.8cm、Gift of the artist 1997.25及Courtesy of the RISD Museum，与馆藏对应；PNG内嵌Source为Museum of Art, Rhode Island School of Design，XMP及EXIF创作者为Erik Gould；与Commons从RISD取得并标CC0的602×900文件实际比对，姿态、印花、背景一致。实际PNG像素是2007×3000，未把Commons EXIF原尺寸误当文件尺寸。",
+    "modified": false,
+    "credit": "三宅一生、森村泰昌 / 摄影 Erik Gould / RISD Museum，Gift of the artist，1997.25 · 馆方标示CC0；高清照片经ArtReview转载页取得 · 文件未修改，卡片及亲子局部仅显示裁切",
+    "displayChanges": "完整原文件未改；首页卡片由既有样式裁切；亲子局部由前端视窗显示同一原图。",
+    "viewed": "实际查看2007×3000完整PNG及其1230×1839版本，并与Commons602×900同图比对；可辨识细褶、棕色袖子、浅色/红色印花和橙色侧面。",
+    "detail": {
+      "workId": "risd-guest-artist-no1",
+      "imageWidth": 2007,
+      "imageHeight": 3000,
+      "x": 580,
+      "y": 1080,
+      "width": 300,
+      "height": 450,
+      "alt": "连衣裙棕色左袖的细密褶面局部：窄小亮面、暗缝及旁边更深的折面",
+      "caption": "同一馆藏原图局部 · 棕色袖子上的细密亮面与暗缝"
+    }
+  },
+  "referencesWithoutImage": [
+    {
+      "id": "pma-origami-pleats",
+      "sourceUrl": "https://www.philamuseum.org/objects/87123",
+      "reason": "未确认本地再发布许可，仅保留具体作品来源；不以RISD单件CC0声明覆盖这些作品。"
+    },
+    {
+      "id": "ngv-flying-saucer",
+      "sourceUrl": "https://www.ngv.vic.gov.au/explore/collection/work/57576/",
+      "reason": "未确认本地再发布许可，仅保留具体作品来源；不以RISD单件CC0声明覆盖这些作品。"
+    }
+  ],
+  "preview": {
+    "status": "passed",
+    "screenshots": "/private/tmp/visual-art-atlas-daily/2026-10-16/issey-miyake-pleats/preview",
+    "revisionNote": "实际查看首轮手机/桌面预览后，把局部收窄到棕色左袖褶面，使放大图集中支持明暗与结构讲解。",
+    "viewports": [
+      1440,
+      390
+    ],
+    "results": [
+      {
+        "name": "desktop",
+        "edition": "adult",
+        "url": "http://127.0.0.1:4331/entries/2026-10-16-issey-miyake-pleats/?edition=adult",
+        "metrics": {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "580 1080 300 450"
+        },
+        "errors": []
+      },
+      {
+        "name": "desktop",
+        "edition": "family",
+        "url": "http://127.0.0.1:4331/entries/2026-10-16-issey-miyake-pleats/?edition=family",
+        "metrics": {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "580 1080 300 450"
+        },
+        "errors": []
+      },
+      {
+        "name": "mobile",
+        "edition": "adult",
+        "url": "http://127.0.0.1:4331/entries/2026-10-16-issey-miyake-pleats/?edition=adult",
+        "metrics": {
+          "width": 390,
+          "scrollWidth": 390,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "580 1080 300 450"
+        },
+        "errors": []
+      },
+      {
+        "name": "mobile",
+        "edition": "family",
+        "url": "http://127.0.0.1:4331/entries/2026-10-16-issey-miyake-pleats/?edition=family",
+        "metrics": {
+          "width": 390,
+          "scrollWidth": 390,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+              "width": 2007,
+              "height": 3000,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "580 1080 300 450"
+        },
+        "errors": []
+      }
+    ],
+    "checks": [
+      "实际查看桌面与手机最终原作、袖子局部与艺术风格速记截图",
+      "原图2007×3000及局部580,1080,300,450与说明一致",
+      "完整图定位和局部回看跳转通过",
+      "图片加载成功，无脚本错误，无横向溢出",
+      "成人与亲子共用真实PNG、署名、CC0来源；封面无SVG"
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "contentRepairAttempts": 1,
+    "commands": [
+      "npm run validate:daily -- src/data/entries/2026-10-16-issey-miyake-pleats.json",
+      "npm run validate:content",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run check",
+      "npm test",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run build",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run test:e2e",
+      "git diff --check"
+    ],
+    "unitTests": 23,
+    "e2eTests": 26,
+    "astroDiagnostics": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    },
+    "entrySha256": "97d1a67aaf348f58651959f27c2f21c110f05faafcffc8fea777ed56e97323a0",
+    "nonBlockingNotes": [
+      "成人主体约1083字，高于500–800字建议；具体工序、作品身份与图文分析保留。"
+    ]
+  },
+  "newFiles": [
+    "src/data/entries/2026-10-16-issey-miyake-pleats.json",
+    "public/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+    "docs/evidence/2026-10-16-issey-miyake-pleats.json"
+  ]
+}
