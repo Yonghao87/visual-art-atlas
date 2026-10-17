@@ -1,0 +1,361 @@
+{
+  "entryId": "2026-10-17-memphis-design",
+  "verifiedAt": "2026-10-17",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "3822379d-1f3b-480c-a417-767be6e82458",
+    "volume": "005",
+    "capturedAt": "2026-10-17T04:30:35.812Z",
+    "sourceConversationUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "category": "product_design",
+    "reason": "Vol.004已正式发布；以消息ID与主题查重，按期号承接最早未发布的Vol.005。先确定家具与灯具如何挑战惯常审美的研究问题，再查实际图，不受分类轮换替换。",
+    "publishedCategoryDistributionBefore": {
+      "product_design": 2,
+      "fashion_craft": 3,
+      "digital_art": 1,
+      "eastern_art": 1,
+      "architecture": 1,
+      "world_painting": 2,
+      "graphic_design": 1
+    }
+  },
+  "sources": [
+    {
+      "title": "Memphis",
+      "url": "https://designmuseum.org/memphis",
+      "publisher": "Design Museum, London",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取机构专题，核对1980年12月米兰聚会、1981年9月18日Arc’74首次展出、索特萨斯与年轻设计师的合作，以及对塑料层压饰面、颜色与装饰的探索；展览起点与Vitra资料交叉核对。不沿用页面全部评价，也不把孟菲斯写成一套固定形式公式。"
+    },
+    {
+      "title": "Memphis: 40 Years of Kitsch and Elegance",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+      "publisher": "Vitra Design Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际访问2021–2022年展览资料，交叉核对1980/81年形成、1981年9月Arc’74首展及家具、灯具和纹样的多样性。该馆将团体解散记为1987年，Design Museum部分成员记录延伸至1988年，本文只采用无争议的形成与首展日期，不硬写统一结束年份。"
+    },
+    {
+      "title": "Tahiti Lamp",
+      "url": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取具体馆藏页，核对索特萨斯设计、Memphis Milano制造、1981年、层压饰面及涂装金属、63.5×38.1×10.2厘米、Gift of Glenn Gissler与2013.71。网页Image use明确将本对象标为Public Domain及CC0，并给出三张Picturepark图。实际下载、查看三张900×1213照片，选择两角度用于封面和作品；不把2013年入藏号当成设计年份。"
+    },
+    {
+      "title": "Tahiti",
+      "url": "https://memphis.it/en/products/tahiti/",
+      "publisher": "Memphis Milano",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取制造方资料，与RISD交叉核对设计师、1981年、金属与装饰层压饰面；核对Bacterio黑白底座、黄色支杆、粉色可调灯头及红色出光口的说明。当前商品页的70厘米、LED灯源等参数不移植到RISD馆藏，官网照片未按开放许可收录。"
+    },
+    {
+      "title": "“Carlton” Room Divider",
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际访问馆藏页，核对索特萨斯、Memphis Milano、1981年、1997.460.1a–d，及隔断、书架、抽屉的组合功能；馆方说明其结构中的三角关系、MDF与塑料饰面及高端手工制作，与厂家Carlton页交叉核对设计身份。页面明确©Estate of Ettore Sottsass且限制图像下载，本站仅保留来源链接。"
+    },
+    {
+      "title": "Carlton",
+      "url": "https://memphis.it/en/products/carlton/",
+      "publisher": "Memphis Milano",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取制造方页面，交叉核对索特萨斯1981年设计、木制书架覆盖装饰层压饰面及兼作隔断。它是同一设计的当前商品资料，不冒充Met那件具体馆藏的制作与入藏记录；未收录其版权照片。"
+    },
+    {
+      "title": "Super Lamp",
+      "url": "https://collections.vam.ac.uk/item/O1177310/super-lamp-lamp-martine-bedin/",
+      "publisher": "Victoria and Albert Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取馆藏页，核对这件为初始原型、约1977年设计与1981年制作、贝丁设计与Fausto Celati制作、涂装钢板及灯具组件。原型与量产版材料不混用。页面图像使用有非商业、像素和期限条件，本文仅保留作品来源，不下载该图或把其条款当成CC许可。"
+    }
+  ],
+  "crossChecks": [
+    {
+      "fact": "1980/81年形成、1981年9月米兰Arc’74首展",
+      "supports": [
+        "https://designmuseum.org/memphis",
+        "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html"
+      ]
+    },
+    {
+      "fact": "Tahiti由索特萨斯设计，1981年，采用金属与层压饰面",
+      "supports": [
+        "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+        "https://memphis.it/en/products/tahiti/"
+      ]
+    },
+    {
+      "fact": "Carlton为1981年设计，兼具书架和隔断功能，木材覆盖装饰层压饰面",
+      "supports": [
+        "https://www.metmuseum.org/art/collection/search/486989",
+        "https://memphis.it/en/products/carlton/"
+      ]
+    }
+  ],
+  "rightsReview": {
+    "basis": "RISD具体馆藏2013.71的Image use段明确将本对象标为Public Domain并链接CC0；本篇仅收录此页给出的两张具体馆藏照片。不是将其他摄影者的CC许可自动扩大到产品全部权利。",
+    "statementExcerpt": "This object is in the Public Domain and available under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "scopeLimit": "不扩展到其他Tahiti复制品、Carlton、Super、Memphis官网版权照片或全部索特萨斯作品。",
+    "accessNotes": "Web页面读取明确显示上述声明及CC0链接；Exa正文读取可核对对象与材料，但其文本提取省略了CC0段。原始HTML直连返回403，Jina读取超时；未绕过访问挑战。图像文件通过页面实际给出的公开CDN链接成功取得。"
+  },
+  "images": [
+    {
+      "path": "public/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+      "use": "作品完整欣赏与亲子局部",
+      "objectTitle": "Tahiti Lamp",
+      "accessionNumber": "2013.71",
+      "designer": "Ettore Sottsass",
+      "manufacturer": "Memphis Milano",
+      "date": "1981 (RISD record)",
+      "photographer": "馆藏页未另列姓名，按RISD Museum署名",
+      "credit": "埃托雷·索特萨斯（设计）/ Memphis Milano（制造）· RISD Museum，Gift of Glenn Gissler，2013.71 · 馆方标示CC0；原文件未修改，卡片及亲子局部仅显示裁切",
+      "sourceUrl": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+      "downloadUrl": "https://risdmuseum.cdn.picturepark.com/v/9UBT1Nds/",
+      "dimensions": {
+        "width": 900,
+        "height": 1213
+      },
+      "format": "JPEG",
+      "bytes": 68231,
+      "sha256": "32ad6532a47accaf4842ef734df6fdb12e74c4df87377acbdd114a75a1356630",
+      "rights": "public_domain",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "modified": false,
+      "displayChanges": "文件未改变；既有卡片样式和亲子局部视窗按同一原图显示裁切。",
+      "viewed": "已实际打开900×1213原文件，核对粉色圆形灯头、红色方口、黄色斜杆、棕色弯管及黑白纹样底座；并实际查看同页第三角度。"
+    },
+    {
+      "path": "public/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+      "use": "封面侧面实拍",
+      "objectTitle": "Tahiti Lamp",
+      "accessionNumber": "2013.71",
+      "designer": "Ettore Sottsass",
+      "manufacturer": "Memphis Milano",
+      "date": "1981 (RISD record)",
+      "photographer": "馆藏页未另列姓名，按RISD Museum署名",
+      "credit": "埃托雷·索特萨斯（设计）/ Memphis Milano（制造）· RISD Museum，Gift of Glenn Gissler，2013.71 · 馆方标示CC0；原文件未修改，卡片及亲子局部仅显示裁切",
+      "sourceUrl": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+      "downloadUrl": "https://risdmuseum.cdn.picturepark.com/v/zdQvdqXh/",
+      "dimensions": {
+        "width": 900,
+        "height": 1213
+      },
+      "format": "JPEG",
+      "bytes": 67357,
+      "sha256": "9215b405513cafdfb2cb5c50d27764c29a0597b6d39684abd168d869450d59fe",
+      "rights": "public_domain",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "modified": false,
+      "displayChanges": "文件未改变；既有卡片样式和亲子局部视窗按同一原图显示裁切。",
+      "viewed": "已实际打开900×1213原文件，核对粉色圆形灯头、红色方口、黄色斜杆、棕色弯管及黑白纹样底座；并实际查看同页第三角度。"
+    }
+  ],
+  "detail": {
+    "workId": "tahiti-risd",
+    "imageWidth": 900,
+    "imageHeight": 1213,
+    "x": 245,
+    "y": 930,
+    "width": 365,
+    "height": 150,
+    "alt": "Tahiti台灯底座正面局部：白色层压饰面上的黑色弯曲短线，与清楚的底座边界",
+    "caption": "同一馆藏原图局部 · 白底上的黑色短线纹样"
+  },
+  "versionNotes": [
+    "两张实拍是同一RISD馆藏的两个角度，不拆成两件作品。",
+    "不将RISD的63.5厘米馆藏高度改为当前销售版70厘米，也不填入销售版LED、电压参数。",
+    "Super采用V&A初始原型的约1977年设计/1981年制作和涂装钢板记录，不用其他量产版玻璃纤维材料替换。",
+    "团体结束年份在机构资料中存在1987/1988范围差别，正文不写统一结束年份。"
+  ],
+  "referencesWithoutImage": [
+    {
+      "id": "carlton-met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/486989",
+      "reason": "具体图片权利没有按本站标准确认，仅保留作品资料与链接。"
+    },
+    {
+      "id": "super-va-prototype",
+      "sourceUrl": "https://collections.vam.ac.uk/item/O1177310/super-lamp-lamp-martine-bedin/",
+      "reason": "具体图片权利没有按本站标准确认，仅保留作品资料与链接。"
+    }
+  ],
+  "preview": {
+    "status": "passed",
+    "screenshots": "/private/tmp/visual-art-atlas-daily/2026-10-17/memphis-design/preview",
+    "viewports": [
+      1440,
+      390
+    ],
+    "results": [
+      {
+        "name": "desktop",
+        "edition": "adult",
+        "url": "http://127.0.0.1:4331/entries/2026-10-17-memphis-design/?edition=adult",
+        "metrics": {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "245 930 365 150"
+        },
+        "errors": []
+      },
+      {
+        "name": "desktop",
+        "edition": "family",
+        "url": "http://127.0.0.1:4331/entries/2026-10-17-memphis-design/?edition=family",
+        "metrics": {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "245 930 365 150"
+        },
+        "errors": []
+      },
+      {
+        "name": "mobile",
+        "edition": "adult",
+        "url": "http://127.0.0.1:4331/entries/2026-10-17-memphis-design/?edition=adult",
+        "metrics": {
+          "width": 390,
+          "scrollWidth": 390,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "245 930 365 150"
+        },
+        "errors": []
+      },
+      {
+        "name": "mobile",
+        "edition": "family",
+        "url": "http://127.0.0.1:4331/entries/2026-10-17-memphis-design/?edition=family",
+        "metrics": {
+          "width": 390,
+          "scrollWidth": 390,
+          "images": [
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            },
+            {
+              "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+              "width": 900,
+              "height": 1213,
+              "loaded": true
+            }
+          ],
+          "detailViewBox": "245 930 365 150"
+        },
+        "errors": []
+      }
+    ],
+    "checks": [
+      "实际查看手机和桌面完整实拍与底座纹样局部，图文对应",
+      "两张原文件均为900×1213，局部245,930,365,150处于原图范围内",
+      "图片加载成功，原图标框定位与回看跳转有效",
+      "成人与亲子切换正常，无横向溢出和脚本错误",
+      "结尾视觉风格速记完整，封面与作品均为真实JPG照片"
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "contentRepairAttempts": 1,
+    "repairNotes": [
+      "首轮单元测试发现视觉风格速记66字超出65字上限，将首个描述压缩为“几何拼接”，其余内容及完整标题保留。"
+    ],
+    "commands": [
+      "npm run validate:daily -- src/data/entries/2026-10-17-memphis-design.json",
+      "npm run validate:content",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run check",
+      "npm test",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run build",
+      "ASTRO_TELEMETRY_DISABLED=1 npm run test:e2e",
+      "git diff --check"
+    ],
+    "unitTests": 23,
+    "e2eTests": 26,
+    "astroDiagnostics": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    },
+    "entrySha256": "d50ab037c0c54978f9ab36396da1117f149071fffab7b8094a9f17e83129c0b7",
+    "nonBlockingNotes": [
+      "成人主体约872字，略高于500–800字建议；保留必要的版本与材料区分。"
+    ]
+  },
+  "newFiles": [
+    "src/data/entries/2026-10-17-memphis-design.json",
+    "public/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+    "public/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+    "docs/evidence/2026-10-17-memphis-design.json"
+  ]
+}

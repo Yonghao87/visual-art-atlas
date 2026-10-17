@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-17-memphis-design",
+  "date": "2026-10-17",
+  "status": "published",
+  "title": "孟菲斯设计｜当家具不再遵守规则",
+  "subtitle": "从Tahiti台灯的几何轮廓、颜色分区和纹样，理解日常物品怎样表达个性",
+  "topicType": "movement",
+  "category": "product_design",
+  "period": "1980年代；本篇代表设计发表于1981年",
+  "regions": [
+    "意大利",
+    "米兰"
+  ],
+  "tags": [
+    "孟菲斯",
+    "后现代设计",
+    "家具",
+    "灯具",
+    "几何构成",
+    "装饰纹样"
+  ],
+  "summary": "孟菲斯把颜色、纹样和几何拼接放到日常物品的中心：灯可以让人联想到小鸟，书架也能成为空间中的雕塑。它挑战的是“好设计应当长什么样”的惯例，让实用与视觉表达同时进入讨论。",
+  "style_summary": "孟菲斯设计｜当家具不再遵守规则-几何拼接，鲜明对比色块，偏斜与错位构成，黑白短线重复纹样，层压饰面与涂装金属，玩具般的物品轮廓",
+  "context": "1980年12月，索特萨斯与一批年轻设计师在米兰讨论新的家具计划。1981年9月，孟菲斯在米兰Arc’74首次展出；Design Museum与Vitra Design Museum的资料相互印证了这一起点。不同设计师并没有共享一套固定配色公式，家具、灯具与织物也各有变化。\n\n本篇从1981年Tahiti台灯进入。RISD馆藏2013.71的材料为层压饰面及涂装金属；厂家资料把它描述为带动物联想的灯，灯头能够调整方向。照片展示的是这件馆藏，不套用当前销售版的尺寸、LED或电压参数。\n\n标题中的“不遵守规则”指挑战惯常审美，并不表示可以忽略使用与结构。Met对Carlton的说明尤其提醒我们：看似杂乱的倾斜层板背后仍有结构秩序。以下观看方法、比较与练习为本站分析。",
+  "people": [
+    {
+      "name": "埃托雷·索特萨斯 / Ettore Sottsass",
+      "role": "孟菲斯的重要发起者；设计Tahiti台灯与Carlton隔断书架"
+    },
+    {
+      "name": "玛蒂娜·贝丁 / Martine Bedin",
+      "role": "孟菲斯成员；Super灯具设计者"
+    }
+  ],
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "几何拼接：零件长出可联想的轮廓",
+      "description": "Tahiti的粉色圆形灯头、红色方口与黄色长支杆都有清楚边界，棕色弯管又加入另一种走向。组合后，人们容易联想到头、嘴和长脖子。形状仍然抽象，却让照明物品多了一层角色般的表情。"
+    },
+    {
+      "key": "color",
+      "label": "颜色分区：让不同部件相互回应",
+      "description": "粉色、红色、亮黄与棕色分别占据不同部件，黑色小支块和黑白底座形成深浅对照。颜色没有把全灯涂成一个整体，而是保留拼接的关系；强色与柔和粉色并置，也说明孟菲斯不能简单归结为“全部高饱和”。"
+    },
+    {
+      "key": "material",
+      "label": "饰面与纹样：普通表面成为观看主角",
+      "description": "底座的白底黑色短线，与上方平整的色面形成疏密对照。厂家称这一纹样为Bacterio。层压饰面是覆盖表面的材料，不能把它误认成天然石纹。Carlton同样使用木材与塑料层压饰面，但Met说明它面向高端市场并精细手工制作：材料便宜不等于成品便宜。"
+    },
+    {
+      "key": "composition",
+      "label": "偏斜与留空：视觉张力不等于结构失效",
+      "description": "黄色支杆斜向上升，灯头向一侧伸出，棕色弯管与支杆之间留出空隙；宽底座把这些部分收在一起。先沿轮廓看方向，再看部件之间的空白。它制造的是观看中的偏向感，单张照片不能证明实际重心或稳固程度。"
+    }
+  ],
+  "works": [
+    {
+      "id": "tahiti-risd",
+      "title": "Tahiti台灯 / Tahiti Lamp（RISD 2013.71）",
+      "creator": "埃托雷·索特萨斯（设计）；Memphis Milano（制造）",
+      "year": "1981年（RISD馆藏记录）",
+      "sourceUrl": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+      "image": {
+        "credit": "埃托雷·索特萨斯（设计）/ Memphis Milano（制造）· RISD Museum，Gift of Glenn Gissler，2013.71 · 馆方标示CC0；原文件未修改，卡片及亲子局部仅显示裁切",
+        "rights": "public_domain",
+        "sourceUrl": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "permissionNote": "依据RISD具体馆藏2013.71页面Image use中的Public Domain及CC0声明，图片直接取自该页公开的Picturepark链接。只用于这件具体馆藏照片，不扩大到Carlton、Super或其他设计。",
+        "src": "/images/entries/2026-10-17-memphis-tahiti-three-quarter.jpg",
+        "alt": "Tahiti台灯三分之四侧面实拍：粉色圆形灯头接红色方口，黄色斜杆与棕色弯管立在黑白短线纹样底座上，旁边可见电线"
+      }
+    },
+    {
+      "id": "carlton-met",
+      "title": "Carlton隔断书架 / “Carlton” Room Divider（Met 1997.460.1a–d）",
+      "creator": "埃托雷·索特萨斯；Memphis Milano",
+      "year": "1981年",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/486989",
+      "image": null
+    },
+    {
+      "id": "super-va-prototype",
+      "title": "Super灯具原型 / Super Lamp（V&A馆藏）",
+      "creator": "玛蒂娜·贝丁（设计）；Fausto Celati（制作）",
+      "year": "约1977年设计；1981年制作（V&A记录）",
+      "sourceUrl": "https://collections.vam.ac.uk/item/O1177310/super-lamp-lamp-martine-bedin/",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "Braun SK 4的操作秩序",
+    "description": "SK 4把操作区、刻度与透明上盖组织成清楚的使用入口；Tahiti则让灯头、支杆、纹样与动物般的联想同时吸引注意。比较两者时，可以分别看“怎样让人使用”与“怎样让人感受”，不把克制或热闹当成判断所有设计的唯一标准。"
+  },
+  "applications": [
+    "做产品海报时，用少量不同几何体建立方向变化，再留出一块安静区域放产品和文字，避免所有元素同时争抢注意。",
+    "为包装安排纹样时，把密集短线集中在一个区域，旁边保留平整色面，让复杂与简单形成对照。",
+    "设计日常物品的概念草图时，先保持功能入口清楚，再用轮廓、比例和配色增加联想，而不是只在表面贴彩色图案。"
+  ],
+  "experiment": "取普通纸和彩笔，画出一盏自己设想的灯，只用圆、长条和方块组合。先画一版左右均衡的轮廓，再让其中一个部件改变方向；为大部件各选一种颜色，只在底座加短线纹样。比较两版的方向感与清晰度。这是纸上造型练习，不制作或改装真实电灯。",
+  "nextTopics": [
+    "意大利激进设计",
+    "纳塔莉·杜·帕斯基耶的织物纹样",
+    "日常物品中的动物联想"
+  ],
+  "relatedIds": [
+    "2026-10-12-braun-sk4",
+    "2026-10-03-rams",
+    "2026-10-06-bauhaus"
+  ],
+  "cover": {
+    "credit": "埃托雷·索特萨斯（设计）/ Memphis Milano（制造）· RISD Museum，Gift of Glenn Gissler，2013.71 · 馆方标示CC0；原文件未修改，卡片及亲子局部仅显示裁切",
+    "rights": "public_domain",
+    "sourceUrl": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "permissionNote": "依据RISD具体馆藏2013.71页面Image use中的Public Domain及CC0声明，图片直接取自该页公开的Picturepark链接。只用于这件具体馆藏照片，不扩大到Carlton、Super或其他设计。",
+    "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+    "alt": "RISD馆藏Tahiti台灯侧面实拍：粉色圆形灯头与红色方口朝向右方，黄色斜杆、棕色弯管和黑色支块连接黑白纹样底座"
+  },
+  "sources": [
+    {
+      "title": "Memphis",
+      "url": "https://designmuseum.org/memphis",
+      "publisher": "Design Museum, London",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取机构专题，核对1980年12月米兰聚会、1981年9月18日Arc’74首次展出、索特萨斯与年轻设计师的合作，以及对塑料层压饰面、颜色与装饰的探索；展览起点与Vitra资料交叉核对。不沿用页面全部评价，也不把孟菲斯写成一套固定形式公式。"
+    },
+    {
+      "title": "Memphis: 40 Years of Kitsch and Elegance",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+      "publisher": "Vitra Design Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际访问2021–2022年展览资料，交叉核对1980/81年形成、1981年9月Arc’74首展及家具、灯具和纹样的多样性。该馆将团体解散记为1987年，Design Museum部分成员记录延伸至1988年，本文只采用无争议的形成与首展日期，不硬写统一结束年份。"
+    },
+    {
+      "title": "Tahiti Lamp",
+      "url": "https://risdmuseum.org/art-design/collection/tahiti-lamp-201371",
+      "publisher": "RISD Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取具体馆藏页，核对索特萨斯设计、Memphis Milano制造、1981年、层压饰面及涂装金属、63.5×38.1×10.2厘米、Gift of Glenn Gissler与2013.71。网页Image use明确将本对象标为Public Domain及CC0，并给出三张Picturepark图。实际下载、查看三张900×1213照片，选择两角度用于封面和作品；不把2013年入藏号当成设计年份。"
+    },
+    {
+      "title": "Tahiti",
+      "url": "https://memphis.it/en/products/tahiti/",
+      "publisher": "Memphis Milano",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取制造方资料，与RISD交叉核对设计师、1981年、金属与装饰层压饰面；核对Bacterio黑白底座、黄色支杆、粉色可调灯头及红色出光口的说明。当前商品页的70厘米、LED灯源等参数不移植到RISD馆藏，官网照片未按开放许可收录。"
+    },
+    {
+      "title": "“Carlton” Room Divider",
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际访问馆藏页，核对索特萨斯、Memphis Milano、1981年、1997.460.1a–d，及隔断、书架、抽屉的组合功能；馆方说明其结构中的三角关系、MDF与塑料饰面及高端手工制作，与厂家Carlton页交叉核对设计身份。页面明确©Estate of Ettore Sottsass且限制图像下载，本站仅保留来源链接。"
+    },
+    {
+      "title": "Carlton",
+      "url": "https://memphis.it/en/products/carlton/",
+      "publisher": "Memphis Milano",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取制造方页面，交叉核对索特萨斯1981年设计、木制书架覆盖装饰层压饰面及兼作隔断。它是同一设计的当前商品资料，不冒充Met那件具体馆藏的制作与入藏记录；未收录其版权照片。"
+    },
+    {
+      "title": "Super Lamp",
+      "url": "https://collections.vam.ac.uk/item/O1177310/super-lamp-lamp-martine-bedin/",
+      "publisher": "Victoria and Albert Museum",
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "实际读取馆藏页，核对这件为初始原型、约1977年设计与1981年制作、贝丁设计与Fausto Celati制作、涂装钢板及灯具组件。原型与量产版材料不混用。页面图像使用有非商业、像素和期限条件，本文仅保留作品来源，不下载该图或把其条款当成CC许可。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "认识孟菲斯设计：一盏灯，怎样有了小鸟般的轮廓",
+    "summary": "孟菲斯是一群设计师一起探索设计的名字。他们让家具和灯有鲜明的颜色，也有特别的形状。这盏叫Tahiti的灯，由设计师索特萨斯设计。它可以照明，也让我们欣赏有趣的造型。",
+    "looking": "先看完整的台灯照片。上面是粉色圆形，前面伸出红色方口，下面连着黄色长杆。棕色弯管和黑色小支块，站在带花纹的宽底座上。圆、直线与弯线，组成了同一盏灯。",
+    "featuredWorkIds": [
+      "tahiti-risd"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "简单形状，组合成特别轮廓",
+          "paragraphs": [
+            "粉色圆形和红色方口挨在一起，下面的黄色长杆有一点倾斜。连起来看，会让人联想到小鸟的头、嘴和长脖子。它并没有做出羽毛，仍然保留着简单形状。",
+            "这是一种造型方法：不用把动物做得很像，也能让日常物品带来熟悉又新鲜的感觉。它仍然是一盏灯，红色方口里可以看见灯泡。"
+          ]
+        },
+        {
+          "title": "大块颜色旁边，有细细的小花纹",
+          "paragraphs": [
+            "再看底座的局部。白色表面上有很多短短的黑线，有的弯着，有的改变方向。这样的图形在表面反复出现，叫作“纹样”。",
+            "把眼睛移回黄色长杆和粉色圆形，它们的颜色比较平整。小小花纹与大块颜色放在一起，让不同部分有了疏密变化。不是每个地方都一样热闹。"
+          ],
+          "detail": {
+            "workId": "tahiti-risd",
+            "imageWidth": 900,
+            "imageHeight": 1213,
+            "x": 245,
+            "y": 930,
+            "width": 365,
+            "height": 150,
+            "alt": "Tahiti台灯底座正面局部：白色层压饰面上的黑色弯曲短线，与清楚的底座边界",
+            "caption": "同一馆藏原图局部 · 白底上的黑色短线纹样"
+          }
+        },
+        {
+          "title": "回看整盏灯，颜色与空隙也在组合",
+          "paragraphs": [
+            "再看完整照片。红色向前伸，黄色向上走，棕色弯管绕过一块空白。宽宽的底座把它们连在一起。除了看有颜色的地方，也可以慢慢感受部件之间的空隙。",
+            "孟菲斯的设计师让实用物品也有鲜明个性。这盏灯的特别之处，不只是一种颜色，而是形状、颜色和花纹一起组成的样子。"
+          ]
+        }
+      ],
+      "reflection": "这盏灯的形状和颜色带给你怎样的感觉？可以说一个词，也可以用手的动作或声音表达。"
+    },
+    "takeaway": "下次和大人欣赏家里的灯或椅子，可以看看大块颜色、轮廓和小花纹怎样相互搭配。只看一看、聊一聊，就是完整的欣赏。",
+    "parentNote": "先看完整实物，再看底座纹样，最后回到整体轮廓与空隙。小鸟是形状引发的联想，不编它的故事或设计师对白。标题的“挑战规则”指审美惯例，不鼓励忽略实用性。照片对应RISD馆藏2013.71，不使用当前销售版电气参数解释旧馆藏；不需动手操作电灯。"
+  }
+}
