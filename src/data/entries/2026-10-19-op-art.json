@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-19-op-art",
+  "date": "2026-10-19",
+  "status": "published",
+  "title": "奥普艺术｜让静止的画面产生运动错觉",
+  "subtitle": "从方格的收缩到色条的并置，理解图案怎样改变观看中的空间与节奏",
+  "topicType": "movement",
+  "category": "world_painting",
+  "period": "20世纪中期兴起；本篇作品跨1956—1981年",
+  "regions": [
+    "英国",
+    "法国",
+    "美国"
+  ],
+  "tags": [
+    "奥普艺术",
+    "几何抽象",
+    "视觉感知",
+    "重复",
+    "条纹",
+    "色彩关系"
+  ],
+  "summary": "奥普艺术把观看本身变成绘画的内容。重复的方格、线条与色带，通过比例、间距或相邻颜色的变化，让平面的画面出现起伏、振动或流动的感受。效果来自图形与观看的关系，也因人和观看条件而异。",
+  "style_summary": "奥普艺术｜让静止的画面产生运动错觉-重复条纹与网格，黑白强对比，色带并置，比例渐变，平面中的空间错觉",
+  "context": "Op Art是Optical Art的简称，通常译作“奥普艺术”或“光效应艺术”。它在20世纪中期的几何抽象与视觉研究中发展，1960年代受到广泛关注。1965年MoMA举办《The Responsive Eye》；MoMA档案、蓬皮杜教育资料与耶鲁的莱利展览册相互印证了这一重要节点。\n\n莱利的《Movement in Squares》(1961)用黑白方格建立收缩感；瓦萨雷里的《Vega》(1956)以变化的网格比例探索平面中的空间。两者不是依靠画出一件正在移动的物体，而是让图形关系改变我们的观看。莱利后来持续研究彩色之间的相互作用，本篇展示的《Edge of Day》(1981)便让相邻色条成为欣赏入口。\n\n封面是艺术家胡利奥·勒·帕克的2019年采访肖像。他的作品参加了1965年的同一展览，也研究光、运动与观众的关系。肖像用于介绍相关创作者；下方莱利作品才是亲子共读的欣赏对象。\n\n奥普艺术与动态艺术关系密切，边界并不整齐：有的作品让机械或材料实际移动，有的通过反射、视点与观看者移动产生变化。本文聚焦静止绘画中的视觉效果，不把所有动态艺术都归为“会转动的机器”。以下视觉比较、应用与练习为本站分析。",
+  "people": [
+    {
+      "name": "布里奇特·莱利 / Bridget Riley",
+      "role": "英国画家，研究黑白几何结构及彩色并置中的视觉关系"
+    },
+    {
+      "name": "维克多·瓦萨雷里 / Victor Vasarely",
+      "role": "研究几何网格、比例与空间错觉的艺术家"
+    },
+    {
+      "name": "胡利奥·勒·帕克 / Julio Le Parc",
+      "role": "研究光、运动与观众感知的艺术家；本篇纪实封面人物"
+    }
+  ],
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "重复不是复制：变化藏在规则之中",
+      "description": "先找到图案反复使用的单位，再判断哪里改变。方格可以保持高度却收窄，条纹也可以维持竖直方向却改变宽度。固定部分提供参照，变化部分才更明显。《Movement in Squares》与《Vega》分别提供了研究这类关系的入口。"
+    },
+    {
+      "key": "color",
+      "label": "相邻颜色：同一条色带有不同的邻居",
+      "description": "在《Edge of Day》的机构作品图中，蓝、黄、粉色及深色竖条连续并置。黄色旁边的深色带加强明暗分界，粉色与蓝色之间的关系更柔和。把目光从一组相邻色条移向另一组，亮度和轻重的感受会改变；不是画面中的灯光真的在闪动。"
+    },
+    {
+      "key": "linework",
+      "label": "竖直线条：边界把色彩连成节奏",
+      "description": "《Edge of Day》的色条贯穿上下，边界清楚，长线维持共同方向。横向观看时，宽窄与颜色接续；纵向观看时，方向又保持稳定。细看一组相邻条纹，再回到整幅画，便能感受局部差异怎样积累成连续节奏。"
+    },
+    {
+      "key": "space",
+      "label": "平面与空间：区分实际形状和观看感受",
+      "description": "黑白网格的比例变化可以让平面显得收缩或鼓起，彩色并置也可能带来前后、明暗和振动的感受。欣赏时可以把“色条仍然竖直”和“我觉得它在起伏”同时保留。每个人不必看到同一种错觉，作品的价值也不限于效果是否强烈。"
+    }
+  ],
+  "works": [
+    {
+      "id": "riley-edge-of-day",
+      "title": "Edge of Day（Norwich Castle馆藏 NWHCM:1985.91:F）",
+      "creator": "布里奇特·莱利 / Bridget Riley",
+      "year": "1981年",
+      "sourceUrl": "https://contemporaryartsociety.org/objects/edge-day-1981",
+      "image": {
+        "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+        "alt": "莱利《Edge of Day》作品图：蓝、黄、粉色与深色竖直色条并排延伸，色带宽窄和相邻颜色不断变化",
+        "credit": "Bridget Riley《Edge of Day》(1981)，Norwich Castle Museum & Art Gallery，NWHCM:1985.91:F · © Bridget Riley 2025. All rights reserved. Image credit: Norfolk Museums Service · 经CAS按CC BY-NC-ND 4.0提供，原文件完整未修改，仅用于非商业艺术学习",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://contemporaryartsociety.org/objects/edge-day-1981",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "permissionNote": "具体作品页Copyright段明确允许按CC BY-NC-ND再分享。用于本站非商业美育阅读，保留作品和图像署名、来源、许可；完整展示764×944原文件，不裁切、不改色、不作局部放大，不用于封面卡片。本图低于1200px目标，作为1981年作品的小幅机构图像保留原尺寸，色条关系清楚可读，不据此分析精细笔触或表面肌理。"
+      }
+    },
+    {
+      "id": "riley-movement-in-squares",
+      "title": "Movement in Squares（Arts Council Collection）",
+      "creator": "布里奇特·莱利 / Bridget Riley",
+      "year": "1961年",
+      "sourceUrl": "https://britishart.yale.edu/sites/default/files/2024-01/exhibition%20brochure_release.pdf",
+      "image": null
+    },
+    {
+      "id": "vasarely-vega-1956",
+      "title": "Vega（1956年黑白网格版本）",
+      "creator": "维克多·瓦萨雷里 / Victor Vasarely",
+      "year": "1956年",
+      "sourceUrl": "https://vasarely.staedelmuseum.de/en/",
+      "image": null
+    },
+    {
+      "id": "le-parc-instability",
+      "title": "Instability through Movement of the Spectator",
+      "creator": "胡利奥·勒·帕克 / Julio Le Parc",
+      "year": "1962—1964年（MoMA展览档案）",
+      "sourceUrl": "https://www.moma.org/calendar/exhibitions/2914/installation_images/18756",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "孟菲斯设计中的几何与重复纹样",
+    "description": "孟菲斯可以用几何部件、鲜明颜色和纹样，让家具产生角色般的轮廓；奥普绘画则常把注意力集中到重复单位之间的细小变化，让观看感受成为主题。同样是几何与重复，所组织的可以是物品的形象，也可以是平面中的视觉节奏。"
+  },
+  "applications": [
+    "制作音乐或展览海报时，只改变条纹的一个变量，例如间距或宽度，再为标题留出平静区域，让图案节奏和信息阅读各有位置。",
+    "研究包装图案时，把同一种颜色分别放在两种邻色旁边比较；记录实际观看中的明暗与轻重变化，再决定色彩组合。",
+    "做界面背景时，把高密度图案限制在小范围，并检查手机上的真实显示效果。避免把文字叠在密集条纹上，让观看实验服务于阅读目的。"
+  ],
+  "experiment": "用纸、尺和两支颜色不同的笔，画两组原创竖条：一组间距相同，另一组只在中间逐渐收窄。保持每条线的方向不变，并在两组之间留白。比较哪一部分显得更紧、更松，再写下一句自己的观察。不复制本篇作品，不添加动画；练习关注的是一个变量怎样改变整体感觉。",
+  "nextTopics": [
+    "色域绘画中的大面积颜色关系",
+    "约瑟夫·阿尔伯斯的色彩相互作用",
+    "动态艺术与观众的移动"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-17-memphis-design",
+    "2026-10-07-digital-painting"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+    "alt": "艺术家胡利奥·勒·帕克2019年接受采访时的肖像实拍：戴深色帽子，双手交握，身后为虚化的室内背景",
+    "credit": "纪实封面：Julio Le Parc，布宜诺斯艾利斯，2019年8月13日 · 摄影Mauro Rico / Secretaría de Cultura de la Nación（发布账号Ministerio de Cultura de la Nación）· CC BY-SA 2.0，原文件未修改，卡片显示裁切沿用同一许可",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julio_Le_Parc.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "permissionNote": "Commons具体文件页提供官方文化机构Flickr来源、摄影署名及2023年5月15日FlickreviewR许可确认。原图5760×3840；实际查看为人物实拍，画面无可辨识的第三方艺术作品。只用于介绍与本题相关的艺术家，不暗示其为本站背书，照片许可不扩大为其艺术作品许可。"
+  },
+  "sources": [
+    {
+      "title": "The Responsive Eye",
+      "url": "https://www.moma.org/calendar/exhibitions/2914",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际读取官方展览档案，核对1965年及策展出版物；与蓬皮杜、耶鲁资料交叉核对其在视觉感知艺术中的历史位置。不同档案区分预展与公众开放，本文不写具体开幕日；馆方档案图片未取得转载许可，不收录。"
+    },
+    {
+      "title": "Art cinétique",
+      "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-cinetisme/ENS-cinetique.html",
+      "publisher": "Centre Pompidou, Direction des publics",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际读取Norbert Godon的2010年教育资料，核对Op Art名称、1965年MoMA展览与莱利、瓦萨雷里、勒·帕克的关联；与MoMA交叉核对。资料说明动态艺术也可包含随观看而改变的静止作品，本文不把两者写成互斥类别。不沿用旧文中的人物当前居住状态。"
+    },
+    {
+      "title": "Bridget Riley: Perceptual Abstraction",
+      "url": "https://britishart.yale.edu/sites/default/files/2024-01/exhibition%20brochure_release.pdf",
+      "publisher": "Yale Center for British Art",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际打开11页官方展览册，核对第2–4页《Movement in Squares》1961年、板上合成乳胶漆、Arts Council Collection，以及莱利《Current》参加1965年展览；第6页说明从黑白到彩色并置的研究。与MoMA和蓬皮杜交叉核对。数字图录单页暂不可访问，采用实际可打开的官方PDF；未转载其受版权保护的图像。"
+    },
+    {
+      "title": "Victor Vasarely — Digitorial",
+      "url": "https://vasarely.staedelmuseum.de/en/",
+      "publisher": "Städel Museum",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际读取机构展览专题，核对《Vega》1956年、布面油画、130×195厘米及通过方格大小变化形成空间感的说明；区分它与《Vega 200》(1968)、《Vega Pal》(1969)，不把彩色球面作品误标成1956年版本。专题图像附VG Bild-Kunst版权，本文仅列参考链接。"
+    },
+    {
+      "title": "Edge of Day (1981)",
+      "url": "https://contemporaryartsociety.org/objects/edge-day-1981",
+      "publisher": "Contemporary Art Society",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际读取具体作品页，核对莱利、1981年、亚麻布油画、175×151.3厘米、Norwich Castle Museum & Art Gallery及馆藏号NWHCM:1985.91:F。该页明确许可CC BY-NC-ND并链接4.0版本；同时核对版权政策，保留艺术家与Norfolk Museums Service双方署名。实际下载、查看764×944原图，完整展示，不裁切或生成细节。"
+    },
+    {
+      "title": "Installation view of the exhibition “The Responsive Eye” (IN757.16)",
+      "url": "https://www.moma.org/calendar/exhibitions/2914/installation_images/18756",
+      "publisher": "The Museum of Modern Art Archives",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际打开展览现场档案，确认其中识别出勒·帕克《Instability through Movement of the Spectator》(1962–64)；与蓬皮杜资料交叉核对其参展关联。只使用作品身份与年代记录，未收录George Cserna拍摄的展览现场照片。"
+    },
+    {
+      "title": "File:Julio Le Parc.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Julio_Le_Parc.jpg",
+      "publisher": "Wikimedia Commons；原始发布：Ministerio de Cultura de la Nación",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "实际打开具体文件页，核对2019年8月13日布宜诺斯艾利斯采访、Mauro Rico摄影、5760×3840及CC BY-SA 2.0；文件页附官方文化机构Flickr来源与FlickreviewR许可审核记录。原Flickr页本次访问超时，未声称已直接读取；采用有明确来源、作者和审核的Commons文件记录，下载其原文件并实际查看人物身份、画面与尺寸。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "认识奥普艺术：不动的色条，怎样有了节奏",
+    "summary": "有一种艺术叫“奥普艺术”。艺术家用线条、形状和颜色，让我们留意眼睛怎样看画。英国画家莱利也这样研究绘画。下面这幅《Edge of Day》是她用油画颜料画在亚麻布上的作品，画面本身没有动画。",
+    "looking": "先看完整的画。蓝色、黄色、粉色和深色的长条，从上排到下，彼此紧紧挨着。画里没有人物或花朵，颜色和线条就是主角。这样的画法不必画出熟悉的东西，也能让我们欣赏。",
+    "featuredWorkIds": [
+      "riley-edge-of-day"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "先看挨在一起的颜色",
+          "paragraphs": [
+            "把目光轻轻移到黄色和深蓝色相邻的地方。黄色显得明亮，旁边的深色让边界更清楚。再看看粉色和蓝色相邻的地方，颜色关系又不一样。",
+            "每条颜色都和旁边的颜色一起进入眼睛。欣赏时，可以慢慢看一小组相邻的色条，不急着看完整张，也不用放大图片。"
+          ]
+        },
+        {
+          "title": "长长的线，连起了小小的变化",
+          "paragraphs": [
+            "这些色条大多朝同一个方向伸展，边缘形成长长的直线。有的色条较宽，有的较窄。相似的形状一再出现，叫作“重复”。",
+            "重复里有变化，就像轻重不同的脚步。眼睛从左边移到右边时，颜色一条接着一条，让画面有了节奏；它并不需要真的移动。"
+          ]
+        },
+        {
+          "title": "回到整幅画，感受颜色的相处",
+          "paragraphs": [
+            "现在再看完整的画。刚才那几条颜色，回到了许多色条中间。直线让画面连成一体，颜色的不同又让它有了变化。",
+            "有人觉得这些颜色很安静，有人觉得它们像在轻轻颤动。也可以只觉得它们排列得很特别。不必看到同样的效果，自己的感受同样值得听见。"
+          ]
+        }
+      ],
+      "reflection": "这幅画的颜色和节奏带给你怎样的感觉？可以说一个词，也可以用手的动作或一小段声音表达。"
+    },
+    "takeaway": "下次看衣服上的条纹或窗帘的颜色，可以留意相邻颜色怎样搭配。看一看、聊一聊，就完成了一次欣赏，不需要每次都做手工。",
+    "parentNote": "先给孩子看完整作品，再用目光关注相邻色条，最后回到整体。接纳平静、活跃或没有明显错觉的感受，不把“看出运动”当成测试。作品图保持原样，未增加动画或重画细节；封面人物为勒·帕克，不是这幅画的作者莱利。"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "entryId": "2026-10-19-op-art",
+  "verifiedAt": "2026-10-19",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "835aebe4-d5b3-4f92-986e-afa712ff570e",
+    "volume": "006",
+    "capturedAt": "2026-10-19T04:34:26.123Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "candidateFullTextPreservedOutsideRepository": true
+  },
+  "selection": {
+    "reason": "按源消息ID与期号排序，Vol.004与005已正式发布，最早尚未完成的是Vol.006；延续10月18日保留的同题候选，不用无关主题补位。",
+    "category": "world_painting",
+    "categoryDistributionBefore": {
+      "product_design": 3,
+      "fashion_craft": 3,
+      "world_painting": 2,
+      "architecture": 1,
+      "graphic_design": 1,
+      "digital_art": 1,
+      "eastern_art": 1
+    },
+    "categoryDistributionAfter": {
+      "product_design": 3,
+      "fashion_craft": 3,
+      "world_painting": 3,
+      "architecture": 1,
+      "graphic_design": 1,
+      "digital_art": 1,
+      "eastern_art": 1
+    }
+  },
+  "independentResearch": {
+    "sources": [
+      {
+        "title": "The Responsive Eye",
+        "url": "https://www.moma.org/calendar/exhibitions/2914",
+        "publisher": "The Museum of Modern Art",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际读取官方展览档案，核对1965年及策展出版物；与蓬皮杜、耶鲁资料交叉核对其在视觉感知艺术中的历史位置。不同档案区分预展与公众开放，本文不写具体开幕日；馆方档案图片未取得转载许可，不收录。"
+      },
+      {
+        "title": "Art cinétique",
+        "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-cinetisme/ENS-cinetique.html",
+        "publisher": "Centre Pompidou, Direction des publics",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际读取Norbert Godon的2010年教育资料，核对Op Art名称、1965年MoMA展览与莱利、瓦萨雷里、勒·帕克的关联；与MoMA交叉核对。资料说明动态艺术也可包含随观看而改变的静止作品，本文不把两者写成互斥类别。不沿用旧文中的人物当前居住状态。"
+      },
+      {
+        "title": "Bridget Riley: Perceptual Abstraction",
+        "url": "https://britishart.yale.edu/sites/default/files/2024-01/exhibition%20brochure_release.pdf",
+        "publisher": "Yale Center for British Art",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际打开11页官方展览册，核对第2–4页《Movement in Squares》1961年、板上合成乳胶漆、Arts Council Collection，以及莱利《Current》参加1965年展览；第6页说明从黑白到彩色并置的研究。与MoMA和蓬皮杜交叉核对。数字图录单页暂不可访问，采用实际可打开的官方PDF；未转载其受版权保护的图像。"
+      },
+      {
+        "title": "Victor Vasarely — Digitorial",
+        "url": "https://vasarely.staedelmuseum.de/en/",
+        "publisher": "Städel Museum",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际读取机构展览专题，核对《Vega》1956年、布面油画、130×195厘米及通过方格大小变化形成空间感的说明；区分它与《Vega 200》(1968)、《Vega Pal》(1969)，不把彩色球面作品误标成1956年版本。专题图像附VG Bild-Kunst版权，本文仅列参考链接。"
+      },
+      {
+        "title": "Edge of Day (1981)",
+        "url": "https://contemporaryartsociety.org/objects/edge-day-1981",
+        "publisher": "Contemporary Art Society",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际读取具体作品页，核对莱利、1981年、亚麻布油画、175×151.3厘米、Norwich Castle Museum & Art Gallery及馆藏号NWHCM:1985.91:F。该页明确许可CC BY-NC-ND并链接4.0版本；同时核对版权政策，保留艺术家与Norfolk Museums Service双方署名。实际下载、查看764×944原图，完整展示，不裁切或生成细节。"
+      },
+      {
+        "title": "Installation view of the exhibition “The Responsive Eye” (IN757.16)",
+        "url": "https://www.moma.org/calendar/exhibitions/2914/installation_images/18756",
+        "publisher": "The Museum of Modern Art Archives",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际打开展览现场档案，确认其中识别出勒·帕克《Instability through Movement of the Spectator》(1962–64)；与蓬皮杜资料交叉核对其参展关联。只使用作品身份与年代记录，未收录George Cserna拍摄的展览现场照片。"
+      },
+      {
+        "title": "File:Julio Le Parc.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Julio_Le_Parc.jpg",
+        "publisher": "Wikimedia Commons；原始发布：Ministerio de Cultura de la Nación",
+        "verifiedAt": "2026-10-19",
+        "verificationNote": "实际打开具体文件页，核对2019年8月13日布宜诺斯艾利斯采访、Mauro Rico摄影、5760×3840及CC BY-SA 2.0；文件页附官方文化机构Flickr来源与FlickreviewR许可审核记录。原Flickr页本次访问超时，未声称已直接读取；采用有明确来源、作者和审核的Commons文件记录，下载其原文件并实际查看人物身份、画面与尺寸。"
+      }
+    ],
+    "crossChecks": [
+      "MoMA官方展览档案、蓬皮杜教育资料、耶鲁官方展览册交叉确认1965年《The Responsive Eye》及莱利的相关研究；蓬皮杜与MoMA现场作品识别共同确认勒·帕克的参展关联。",
+      "Städel明确区分Vega (1956)、Vega 200 (1968)和Vega Pal (1969)，不混用系列题名、图像或年代。",
+      "CAS具体作品身份与许可分别核验，未将作品创作年代1981年、1985年购藏、2025年版权行混为一谈。"
+    ],
+    "unverifiedLeadsExcluded": [
+      {
+        "title": "Fall (1963)",
+        "reason": "源聊天提供的是非Tate域名镜像；实际尝试Tate官方作品页返回403，未用镜像充当原始来源。本篇不将该研究线索写成已核验作品。",
+        "officialAttempt": "https://www.tate.org.uk/art/artworks/riley-fall-t00616"
+      }
+    ],
+    "accessLimitations": [
+      "Exa免费MCP额度不足，未接付费API，继续通过可用网页工具实际打开原始机构资料。",
+      "耶鲁数字图录单页返回502，改用实际访问成功的官方展览PDF。",
+      "Flickr原页和Jina读取超时；肖像依据Commons具体文件页、官方Flickr来源标识及FlickreviewR审核使用，未虚称直接访问成功。"
+    ]
+  },
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+      "candidatePath": "images/julio-le-parc-portrait.jpg",
+      "identity": "Julio Le Parc, entrevista en Buenos Aires, 13 August 2019",
+      "author": "Mauro Rico / Secretaría de Cultura de la Nación",
+      "publisher": "Ministerio de Cultura de la Nación",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julio_Le_Parc.jpg",
+      "originalPublicationUrl": "https://www.flickr.com/photos/culturaargentina/48529558887/",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Julio_Le_Parc.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rights": "cc_licensed",
+      "width": 5760,
+      "height": 3840,
+      "visuallyInspected": true,
+      "permissionEvidence": "Commons文件页的2019采访描述、署名与CC BY-SA 2.0许可，以及2023-05-15 FlickreviewR审核。",
+      "usage": "仅纪实封面，完整原文件保存；卡片显示裁切继续按CC BY-SA 2.0标注，详情封面object-fit:contain。",
+      "thirdPartyRights": "实际查看为单人人像，背景虚化，无可辨识的他人艺术作品；不以照片许可声称取得勒·帕克艺术作品的权利或其背书。",
+      "originalFileUnmodified": true,
+      "sha256": "8a5368a062057295e16cbb231048f5c6ca41864f4de28bf39ba81561a3502b7e",
+      "bytes": 6458933
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+      "candidatePath": "images/riley-edge-of-day.jpg",
+      "identity": "Bridget Riley, Edge of Day, 1981; Norwich Castle Museum & Art Gallery; NWHCM:1985.91:F; oil on linen; 175 x 151.3 cm",
+      "author": "Bridget Riley",
+      "imageCredit": "Norfolk Museums Service",
+      "copyrightNotice": "© Bridget Riley 2025. All rights reserved.",
+      "sourceUrl": "https://contemporaryartsociety.org/objects/edge-day-1981",
+      "downloadUrl": "https://contemporaryartsociety.org/sites/default/files/styles/original/public/object-images/riley-bridget-edge-of-day-norfok-n-d.jpg?itok=TLHWFhpu",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "copyrightPolicyUrl": "https://contemporaryartsociety.org/copyright-policy",
+      "rights": "cc_licensed",
+      "width": 764,
+      "height": 944,
+      "visuallyInspected": true,
+      "permissionEvidence": "具体作品页Copyright段明确允许以CC BY-NC-ND再分享，并链接4.0许可。版权政策要求同时保留作品权利人与图像署名；两个署名均保留。",
+      "noncommercialScope": "Visual Art Atlas非商业艺术学习与5–7岁亲子美育阅读；现有页面未见广告、销售、付费入口或商业推广。若用途改变，需重新评估此图使用条件。",
+      "noDerivatives": "原JPEG逐字节保存，无裁切、改色、合成或重画；只用于作品图与亲子完整欣赏。没有lesson.detail，没有标记覆盖，不进入封面或探索卡片。现有作品与亲子图片使用contain，须实际预览确认。",
+      "resolutionException": "机构提供的1981年历史作品图像长边944px，低于1200px目标。已实际查看，细长色条、宽窄及邻色清楚，可用于整图关系讲解；不声称提供原作微观纹理，不放大出新细节，不作上采样。手机与桌面须验收可读性。",
+      "originalFileUnmodified": true,
+      "sha256": "9ad8ec4f803e18a3d10579324c33422a8e9896ec30fbbb2628e1a23335c678b7",
+      "bytes": 74627
+    }
+  ],
+  "editorialReview": {
+    "adult": "保留原主题；补充彩色条纹实例，不以图源替换成无关题材；含背景、4项视觉讲解、作品记录、比较、应用、原创变量练习、真实关联和50字风格总结。",
+    "children": "同条目5–7岁讲解版；1件真实作品、3节6段，主阅读约605字。整幅—相邻色条—宽窄和重复—整幅节奏—开放表达—生活连接。不含找不同、计数、连续问答或强求看到错觉。",
+    "detailDecision": "不添加局部：整图足以支持邻色和重复讲解，且CC BY-NC-ND要求原样展示。",
+    "imageIdentity": "明确封面为勒·帕克肖像，亲子作品作者为莱利；不将人物身份混为一人。"
+  },
+  "newFiles": [
+    "src/data/entries/2026-10-19-op-art.json",
+    "public/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+    "public/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+    "docs/evidence/2026-10-19-op-art.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "commands": [
+      {
+        "command": "npm run validate:daily -- src/data/entries/2026-10-19-op-art.json",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:30.268862+00:00",
+        "log": "check-1.log"
+      },
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:30.840372+00:00",
+        "log": "check-2.log"
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:31.136687+00:00",
+        "log": "check-3.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:34.975695+00:00",
+        "log": "check-4.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:35.384370+00:00",
+        "log": "check-5.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:36.825340+00:00",
+        "log": "check-6.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "startedAt": "2026-10-19T04:38:51.792862+00:00",
+        "log": "check-7.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "contentCount": 13,
+    "astroCheck": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    },
+    "visualReview": {
+      "status": "passed",
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "width": 390,
+          "height": 844
+        }
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "reviewedScreenshots": [
+        "desktop-adult-works.png",
+        "mobile-whole-work.png",
+        "desktop-lesson.png",
+        "mobile-lesson.png",
+        "mobile-style-summary.png",
+        "mobile-home-card.png"
+      ],
+      "observations": [
+        "两种宽度均无横向溢出，所有本篇图像成功加载。",
+        "亲子完整作品在390px下约350px宽，色条与相邻关系可读；桌面显示接近原始宽度，不依赖超分或新细节。",
+        "成人作品图和亲子整图均object-fit:contain；无detail、局部标记或覆盖；首页只使用允许裁切的真实肖像，不使用ND作品。",
+        "亲子讲解与蓝、黄、粉及深色色条相对应，感受引导只有一个，不要求特定错觉。",
+        "成人末尾完整标题加ASCII连字符的50字风格速记在手机可读。"
+      ],
+      "metrics": [
+        {
+          "name": "desktop",
+          "edition": "adult",
+          "url": "http://127.0.0.1:4331/entries/2026-10-19-op-art/?edition=adult",
+          "metrics": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+                "width": 5760,
+                "height": 3840,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              }
+            ],
+            "details": 0,
+            "styleSummary": "奥普艺术｜让静止的画面产生运动错觉-重复条纹与网格，黑白强对比，色带并置，比例渐变，平面中的空间错觉"
+          },
+          "errors": []
+        },
+        {
+          "name": "desktop",
+          "edition": "family",
+          "url": "http://127.0.0.1:4331/entries/2026-10-19-op-art/?edition=family",
+          "metrics": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+                "width": 5760,
+                "height": 3840,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              }
+            ],
+            "details": 0,
+            "styleSummary": "奥普艺术｜让静止的画面产生运动错觉-重复条纹与网格，黑白强对比，色带并置，比例渐变，平面中的空间错觉"
+          },
+          "errors": []
+        },
+        {
+          "name": "mobile",
+          "edition": "adult",
+          "url": "http://127.0.0.1:4331/entries/2026-10-19-op-art/?edition=adult",
+          "metrics": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+                "width": 5760,
+                "height": 3840,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              }
+            ],
+            "details": 0,
+            "styleSummary": "奥普艺术｜让静止的画面产生运动错觉-重复条纹与网格，黑白强对比，色带并置，比例渐变，平面中的空间错觉"
+          },
+          "errors": []
+        },
+        {
+          "name": "mobile",
+          "edition": "family",
+          "url": "http://127.0.0.1:4331/entries/2026-10-19-op-art/?edition=family",
+          "metrics": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-19-op-art-le-parc-portrait.jpg",
+                "width": 5760,
+                "height": 3840,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": false
+              },
+              {
+                "src": "/images/entries/2026-10-19-op-art-riley-edge-of-day.jpg",
+                "width": 764,
+                "height": 944,
+                "loaded": true,
+                "objectFit": "contain",
+                "visible": true
+              }
+            ],
+            "details": 0,
+            "styleSummary": "奥普艺术｜让静止的画面产生运动错觉-重复条纹与网格，黑白强对比，色带并置，比例渐变，平面中的空间错觉"
+          },
+          "errors": []
+        }
+      ]
+    },
+    "contentRepairs": 0
+  },
+  "entrySha256": "b2dca0ac6d70c3c309d76c824ad4908830900424e96295c1603154806e4912a5"
+}
