@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-28-barragan",
+  "date": "2026-10-28",
+  "status": "published",
+  "title": "路易斯·巴拉甘｜让色彩构成空间",
+  "subtitle": "从卫星城塔到住宅与庭院，理解色面、体块、光影和天空怎样共同工作",
+  "topicType": "artist",
+  "category": "architecture",
+  "period": "20世纪中后期",
+  "regions": [
+    "墨西哥"
+  ],
+  "tags": [
+    "建筑",
+    "墨西哥现代主义",
+    "色彩",
+    "几何体块",
+    "自然光",
+    "空间"
+  ],
+  "updatedAt": null,
+  "summary": "巴拉甘把墙、体块、水面和植物组织为可行走的空间。本篇以他与马蒂亚斯·戈里茨合作的卫星城塔为实拍入口，观察大色面如何成为远处的标志，以及光和观看角度怎样改变几何形体。",
+  "style_summary": "路易斯·巴拉甘｜让色彩构成空间-大面积纯色，几何体块，明暗分面，粗粝表面，天空留白",
+  "context": "认识建筑师\n路易斯·巴拉甘是墨西哥建筑师，1980年获普利兹克建筑奖。他的实践将现代建筑与地方建筑、庭院和景观经验结合；这是个人创作语言，不是一个由他创立、所有作品都遵守同一公式的流派。\n\n从作品看方法\n卫星城塔位于墨西哥州瑙卡尔潘，是1957年展开的公共地标项目，由巴拉甘与马蒂亚斯·戈里茨合作。五个三角棱柱以高低、间距和色彩构成群体。本篇照片拍于2012年；塔体历史上多次改色，不能把照片里的红蓝黄白配色写成从未变化的原始方案。Chucho Reyes也与项目的色彩研究有关，署名不应把合作缩减为单人创作。\n\n把平面读成立体\n仰视照片里，红色大面占据一侧，其他塔体错落在另一侧，天空成为它们之间的空间。轮廓向上收拢与拍摄视角有关；观看者换位置时，棱柱侧面、遮挡和间距也会改变。住宅与庭院则把这种组织带入行走：1948年的故居和工作室整合建筑、私密花园与生活；1968年的圣克里斯托瓦尔项目把墙体、水与开放空间相连。\n\n艺术风格总结\n巴拉甘的色彩依附于具有厚度、朝向和表面的真实空间。几何形越简洁，光照、粗糙肌理、天空与行走视点的差异就越显眼；色墙的力量来自这些关系，而不是单独复制某一种粉红色。",
+  "visualFeatures": [
+    {
+      "key": "color",
+      "label": "色面：先看面积，再看颜色名称",
+      "description": "照片中的红色塔面面积很大，蓝、黄、白色塔体以不同高度进入视野。色彩的力度来自面积、位置和邻接，不能只摘出一组色卡。"
+    },
+    {
+      "key": "form",
+      "label": "几何体：棱柱在不同视角下显露不同侧面",
+      "description": "卫星城塔是具有深度的三角棱柱，不是悬在天空中的平板。仰视和遮挡使部分边线收拢，照片里的形状不等于平面图。"
+    },
+    {
+      "key": "lighting",
+      "label": "光影：同一色面也有深浅",
+      "description": "墙面受光和天空亮度形成对照。观察可以从照片中的明暗关系开始，但不能凭一张实拍推定全天的光线变化。"
+    },
+    {
+      "key": "texture",
+      "label": "表面：几何轮廓与水平纹路并存",
+      "description": "塔身可见水平的混凝土表面纹路，整齐轮廓并没有抹去材料痕迹。远看是大色块，近看仍是有表面的建造物。"
+    },
+    {
+      "key": "space",
+      "label": "天空与间距：空的部分参与构图",
+      "description": "红塔与其他塔之间的天空让群体分开又相连。群体的间距与高度差构成节奏，和住宅内部的门洞、转折属于不同空间条件。"
+    }
+  ],
+  "people": [
+    {
+      "name": "路易斯·巴拉甘 Luis Barragán",
+      "role": "建筑师，卫星城塔的合作创作者"
+    },
+    {
+      "name": "马蒂亚斯·戈里茨 Mathias Goeritz",
+      "role": "艺术家，卫星城塔的合作创作者"
+    },
+    {
+      "name": "Jesús “Chucho” Reyes Ferreira",
+      "role": "画家，与卫星城塔项目的色彩研究有关"
+    }
+  ],
+  "works": [
+    {
+      "id": "torres-de-satelite",
+      "title": "卫星城塔 Torres de Satélite（2012年实拍）",
+      "creator": "路易斯·巴拉甘、马蒂亚斯·戈里茨；Chucho Reyes参与相关色彩研究",
+      "year": "1957年设计项目；照片2012",
+      "sourceUrl": "https://www.barragan-foundation.org/works/list/torres-de-satelite",
+      "image": {
+        "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+        "alt": "卫星城塔的2012年仰视实拍：左侧红色高塔与蓝、黄、白色塔体分布在天空下，混凝土表面保留水平纹路。",
+        "credit": "ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0，2012-02-26。作品：Luis Barragán、Mathias Goeritz；Chucho Reyes参与相关色彩讨论。原文件未修改，封面卡片仅调整显示范围；摄影许可不代表建筑或雕塑设计的全部权利。",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torres_de_Sat%C3%A9lite_-_4.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    },
+    {
+      "id": "house-studio",
+      "title": "巴拉甘故居与工作室",
+      "creator": "路易斯·巴拉甘",
+      "year": "1948",
+      "sourceUrl": "https://whc.unesco.org/en/list/1136/",
+      "image": null
+    },
+    {
+      "id": "cuadra-san-cristobal",
+      "title": "圣克里斯托瓦尔马厩 Cuadra San Cristóbal",
+      "creator": "路易斯·巴拉甘",
+      "year": "1968",
+      "sourceUrl": "https://www.pritzkerprize.com/laureates/1980",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "从照片提取颜色的平面色卡",
+    "description": "色卡可以概括配色，却无法保留体块朝向、视角、遮挡与表面受光。建筑色彩研究应把颜色重新放回墙面和空间关系中。"
+  },
+  "applications": [
+    "展陈空间：用一处明确的色面与开口引导观看，同时检查人在移动中的视线。",
+    "建筑摄影：分别记录远处的整体地标和近处的表面，避免只留下去掉环境的抽象色块。",
+    "视觉设计：借鉴色块的面积和间距关系，并明确平面布局与真实空间的差别。"
+  ],
+  "experiment": "在日光下把几本不同颜色的书竖放，留出间距。从正面与斜侧各看一次，记录哪块颜色被遮住、哪里出现阴影。只改变位置，不改颜色，比较整体关系如何变化；书本实验不代表建筑模型。",
+  "nextTopics": [
+    "建筑中的色墙与开口",
+    "公共地标与城市观看距离"
+  ],
+  "relatedIds": [
+    "2026-10-05-modern-architecture",
+    "2026-10-17-memphis-design"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+    "alt": "卫星城塔的2012年仰视实拍：左侧红色高塔与蓝、黄、白色塔体分布在天空下，混凝土表面保留水平纹路。",
+    "credit": "ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0，2012-02-26。作品：Luis Barragán、Mathias Goeritz；Chucho Reyes参与相关色彩讨论。原文件未修改，封面卡片仅调整显示范围；摄影许可不代表建筑或雕塑设计的全部权利。",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torres_de_Sat%C3%A9lite_-_4.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sources": [
+    {
+      "title": "Torres de Satélite",
+      "url": "https://www.barragan-foundation.org/works/list/torres-de-satelite",
+      "publisher": "Barragan Foundation",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取档案，核对1957年、地点、五个混凝土三角棱柱及与Mathias Goeritz合作。核对1958年初及之后的改色记录；不把2012年照片当作最初配色，也不采用与其他资料不一致的精确高度。"
+    },
+    {
+      "title": "Luis Barragán",
+      "url": "https://www.pritzkerprize.com/laureates/1980",
+      "publisher": "The Pritzker Architecture Prize",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取1980年获奖者资料及作品说明，核对人物、色彩与材质平面的组织；作品列表列故居1948、Cuadra San Cristobal 1968。与UNESCO及Museo Amparo交叉核对，不抄录获奖词或推测本人动机。"
+    },
+    {
+      "title": "Luis Barragán House and Studio",
+      "url": "https://whc.unesco.org/en/list/1136/",
+      "publisher": "UNESCO World Heritage Centre",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取遗产档案，核对故居及工作室1948年建造、建筑与小型私人花园的组合，以及现代和地方传统的结合。仅链接该建筑，不转载其另有权利的图片。"
+    },
+    {
+      "title": "Luis Barragán",
+      "url": "https://museoamparo.com/semblanzas/a/perfil/275/luis-barragan",
+      "publisher": "Museo Amparo",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取馆方人物资料，交叉确认1980年奖项与1957年卫星城塔，馆方列Barragán、Goeritz与Chucho Reyes共同关联，故不抹去合作背景。"
+    },
+    {
+      "title": "File:Torres de Satélite - 4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Torres_de_Sat%C3%A9lite_-_4.jpg",
+      "publisher": "Wikimedia Commons；ProtoplasmaKid",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际打开具体文件页，核对作者、2012-02-26、2896×1944及CC BY-SA 4.0和指定署名。下载并查看原始实拍；明确是2012年塔群仰视，非室内住宅或1957年历史照片。"
+    },
+    {
+      "title": "Ley Federal del Derecho de Autor（Artículo 148, VII）",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+      "publisher": "Cámara de Diputados, México",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际打开政府法条PDF第32—33页，核对148条总条件及VII项关于从公共地点可见作品的摄影复制、传播、分发。将公共地标的照片使用依据与摄影者CC许可分别记录，不声称取得建筑或雕塑设计本身的全部权利。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "巴拉甘的色彩空间｜把天空放进画面里",
+    "summary": "认识巴拉甘和伙伴们设计的卫星城塔，看颜色怎样长在立体的建筑上。",
+    "looking": "先看完整照片。这里是墨西哥的卫星城塔，照片从下面向上拍。红、蓝、黄、白的塔身之间，有一大片明亮天空。",
+    "featuredWorkIds": [
+      "torres-de-satelite"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "建筑师也安排颜色",
+          "paragraphs": [
+            "巴拉甘是墨西哥建筑师。他设计房子、花园，也和艺术家马蒂亚斯·戈里茨合作设计了这组塔。画家Chucho Reyes也参与了相关色彩研究。我们看到的是后来拍摄的照片，塔的颜色曾经改变过。",
+            "建筑师除了安排房间，也会安排高低、距离和颜色。这组塔不是住人的房子，而是城市里容易看见的标志。"
+          ]
+        },
+        {
+          "title": "先看红色的大面",
+          "paragraphs": [
+            "把目光移到左侧的红塔。红色铺得很大，表面还有一条条横向纹路。轮廓很直，表面却不是光滑纸片。它是有厚度的混凝土塔。",
+            "再看看旁边蓝、黄、白色的塔身。它们露出的高低和宽窄不一样，有些部分被前面的塔挡住。照片是仰着头拍的，所以向上的边线看起来会收拢。"
+          ]
+        },
+        {
+          "title": "回到整张照片",
+          "paragraphs": [
+            "现在再看全部。高塔之间没有塞满图案，天空从空隙里露出来，让每块颜色更容易分开。高低、遮挡和空隙一起，让安静的几何形状产生变化。",
+            "下次经过彩色墙面，可以和大人留意：同一面墙的亮处和阴影处，颜色看起来是否不同。无需找一座著名建筑，家门口的墙和天空也值得慢慢看。"
+          ]
+        }
+      ],
+      "reflection": "看着这些高高的色面和它们之间的天空，你想用怎样的词、动作或声音表达感受？"
+    },
+    "takeaway": "建筑里的颜色，会和高度、阴影、材料及天空一起改变我们的感受。",
+    "parentNote": "不要把照片当平面色卡，也不要要求孩子记住所有人名。先看红塔表面，再回到塔群和天空；可用手势表达高低，不必数塔或完成手工。"
+  }
+}

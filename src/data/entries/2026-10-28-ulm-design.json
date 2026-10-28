@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-28-ulm-design",
+  "date": "2026-10-28",
+  "status": "published",
+  "title": "乌尔姆设计学院｜把设计看成一套系统",
+  "subtitle": "从凳子、收音唱机到叠放餐具，理解功能、结构与视觉秩序怎样相互约束",
+  "topicType": "design_method",
+  "category": "product_design",
+  "period": "1953—1968",
+  "regions": [
+    "德国"
+  ],
+  "tags": [
+    "乌尔姆",
+    "系统设计",
+    "功能",
+    "工业设计",
+    "模块",
+    "信息秩序"
+  ],
+  "updatedAt": null,
+  "summary": "乌尔姆设计学院把产品放回使用、生产与信息的关系中。清楚的几何外观只是结果之一：凳子的材料、唱机的操作分区、餐具的叠放，都要在真实条件下成立，不能用“去掉装饰”概括全部方法。",
+  "style_summary": "乌尔姆设计学院｜把设计看成一套系统-基础几何，功能分区，对齐间距，材料显露，系统秩序",
+  "context": "认识学院与方法\n乌尔姆设计学院由英格·朔尔、奥托·艾舍与马克斯·比尔创办，比尔于1953年成为首任校长。学院不断调整教学，将实践与理论结合，研究工业设计、视觉传达、建筑、信息及后来的电影领域；1968年关闭后，师生继续把这些方法带到企业和教育中。它不能被缩成只有一种外观的“极简风”。\n\n用三个对象理解关系\n1954年的乌尔姆凳与比尔、汉斯·古格洛特、保罗·希尔丁格三人有关，档案馆特别把技术条件和学校经济状况纳入它的历史。SK 4系列由古格洛特和迪特·拉姆斯合作；本篇展示的是2008年拍摄的SK 4/1实例，不是Met所藏SK 4/10的照片。1959年Nick Roericht的TC 100餐具则把“多件物体怎样叠放”放进了单件造型的问题里。\n\n从可见布局到系统思考\n唱机照片中，左侧唱盘和唱臂负责播放唱片，右侧集中旋钮、按键与刻度，正面开孔另有明确位置。对齐和间距把不同操作组织起来。观察外形只能提出线索，不能由照片断言所有产品都易修、低成本或适合所有人；这些仍需测试、工艺和使用资料支持。\n\n艺术风格总结\n乌尔姆的形式秩序与任务相连：基础几何减少干扰，分组和对齐帮助读懂操作，材料和结构约束造型。值得学习的是同时检查使用者、部件与生产的关系，而非把白、灰、黑当成好设计的标准答案。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "功能分区：不同动作各有位置",
+      "description": "SK 4/1照片上，唱盘在左、控制区域在右，正面开孔集中排列。分区使形态有可解释的组织，但照片不能代替实际操作测试。"
+    },
+    {
+      "key": "form",
+      "label": "基础几何：圆与矩形表达不同任务",
+      "description": "圆盘与旋钮适应旋转，箱体建立清楚的外边界。简洁形状应有任务依据，不能反过来要求所有功能都迁就同一外形。"
+    },
+    {
+      "key": "material",
+      "label": "材料并置：透明、金属与木材",
+      "description": "透明盖让内部布局仍可见，白色金属箱体与两侧木板形成材质差异。外观克制并不等于只用一种材料或完全没有色彩。"
+    },
+    {
+      "key": "typography",
+      "label": "信息秩序：刻度和控件应互相对应",
+      "description": "旋钮、按键和选台刻度集中在一侧，信息靠近相关操作。这里讨论分组位置，不凭缩小照片判断每一行微小文字的内容。"
+    },
+    {
+      "key": "other",
+      "label": "系统关系：单件之外还有组合",
+      "description": "TC 100以可叠放餐具为例，让轮廓与存放相互影响。模块与系列需要接口一致，不能只把相似外观称为系统。"
+    }
+  ],
+  "people": [
+    {
+      "name": "英格·朔尔 Inge Scholl",
+      "role": "学院创办者"
+    },
+    {
+      "name": "奥托·艾舍 Otl Aicher",
+      "role": "学院创办者、设计师"
+    },
+    {
+      "name": "马克斯·比尔 Max Bill",
+      "role": "学院创办者、首任校长，参与乌尔姆凳"
+    },
+    {
+      "name": "汉斯·古格洛特 Hans Gugelot",
+      "role": "参与乌尔姆凳、Braun SK 4设计"
+    },
+    {
+      "name": "保罗·希尔丁格 Paul Hildinger",
+      "role": "乌尔姆凳的共同创作者"
+    },
+    {
+      "name": "迪特·拉姆斯 Dieter Rams",
+      "role": "Braun SK 4的共同设计师"
+    },
+    {
+      "name": "Nick Roericht",
+      "role": "TC 100餐具设计师"
+    }
+  ],
+  "works": [
+    {
+      "id": "ulm-stool",
+      "title": "乌尔姆凳 Ulmer Hocker",
+      "creator": "马克斯·比尔、汉斯·古格洛特、保罗·希尔丁格",
+      "year": "1954",
+      "sourceUrl": "https://hfg-archiv.museumulm.de/en/exhibition/ulm-stool/",
+      "image": null
+    },
+    {
+      "id": "sk4-1-instance",
+      "title": "Braun SK 4/1（既有系列的实拍实例）",
+      "creator": "迪特·拉姆斯、汉斯·古格洛特",
+      "year": "SK 4系列设计1956；照片2008；该实例生产年份未据照片确定",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+      "image": {
+        "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+        "alt": "Braun SK 4/1实拍：打开的透明盖、两侧木板和白色金属箱体，左侧唱盘与唱臂、右侧旋钮、按键和选台刻度并排排列",
+        "credit": "With Associates，Vitsœ场景，2008-10-02，CC BY-SA 2.0。照片对象为Braun SK 4/1，设计：Dieter Rams、Hans Gugelot；复用本库已核验原文件，未修改。封面卡片及局部仅调整显示范围，摄影许可不代表产品设计全部权利。",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    },
+    {
+      "id": "tc100",
+      "title": "可叠放餐具 Stacking Tableware（TC 100）",
+      "creator": "Nick Roericht",
+      "year": "1959",
+      "sourceUrl": "https://www.moma.org/collection/works/3562",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "只删掉装饰的造型改版",
+    "description": "删减装饰可能减少干扰，也可能移除必要的辨认线索。系统设计还要检查操作、结构、制造和组合，外观是否朴素不能单独证明设计质量。"
+  },
+  "applications": [
+    "产品界面：把控件和结果放在相关位置，用分组与间距表达任务顺序，再由真实使用验证。",
+    "收纳与包装：先比较物体之间的尺寸关系、叠放稳定和取用方式，再统一轮廓。",
+    "导视与资料版式：建立一致的字级、对齐与间距，让局部规则在整套系统中可复用。"
+  ],
+  "experiment": "挑选桌上三件常用物品，在纸上画出各自的拿取与使用顺序。先按外观整齐排列，再按实际任务重新分组，比较两种布局造成的寻找距离；记录保留下来的必要标识。",
+  "nextTopics": [
+    "视觉识别系统中的一致与差异",
+    "餐具的堆叠、清洗与取用"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-12-braun-sk4",
+    "2026-10-03-rams"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+    "alt": "Braun SK 4/1实拍：打开的透明盖、两侧木板和白色金属箱体，左侧唱盘与唱臂、右侧旋钮、按键和选台刻度并排排列",
+    "credit": "With Associates，Vitsœ场景，2008-10-02，CC BY-SA 2.0。照片对象为Braun SK 4/1，设计：Dieter Rams、Hans Gugelot；复用本库已核验原文件，未修改。封面卡片及局部仅调整显示范围，摄影许可不代表产品设计全部权利。",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "sources": [
+    {
+      "title": "The History of the Ulm School of Design",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/",
+      "publisher": "HfG-Archiv / Museum Ulm",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取档案馆校史，核对三位创办者、比尔1953年任首任校长、五个领域及1968年关闭。页面图片标题1955—1968指建筑时期，不拿它覆盖正文1953年的校史。"
+    },
+    {
+      "title": "The Ulm Stool: Idea ─ Icon ─ Idol",
+      "url": "https://hfg-archiv.museumulm.de/en/exhibition/ulm-stool/",
+      "publisher": "HfG-Archiv / Museum Ulm",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取展览说明和作品图注，核对1954年及Max Bill、Hans Gugelot、Paul Hildinger三位创作者；技术和经济条件参与功能形成。未下载标明版权所有的档案照片。"
+    },
+    {
+      "title": "Radio Phonograph (model SK 4/10)",
+      "url": "https://www.metmuseum.org/art/collection/search/491975",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取馆藏记录，核对Rams、Gugelot、1956及金属木塑料，馆藏号2023.356a,b，页面无图。只用于系列交叉核验；明确实拍是Commons的SK 4/1，不冒充Met的SK 4/10。"
+    },
+    {
+      "title": "Stacking Tableware (model TC 100)",
+      "url": "https://www.moma.org/collection/works/3562",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取作品记录，核对Nick Roericht、1959、釉面瓷、Thomas Der Rosenthal制造及428.1964.1-9。用餐具补充系统关系，不把它误写成Braun产品；图片仅链接。"
+    },
+    {
+      "title": "File:Braun SK 4.1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Braun_SK_4.1.jpg",
+      "publisher": "Wikimedia Commons；With Associates",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "今日重新打开文件页核对2008-10-02、With Associates、3648×2736与CC BY-SA 2.0；实际查看本库既有文件并复用，不复制或改写旧图证据。保留型号与产品两位作者，摄影权与产品设计权分开说明。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "乌尔姆设计｜机器上的东西为什么这样摆",
+    "summary": "从一台老式收音唱机，看设计师怎样把不同用途安排清楚。",
+    "looking": "先看完整实拍。它是Braun SK 4/1，能播放唱片和收听广播。透明盖打开了，左边是唱盘，右边是操作区域，下面还有成排开孔。",
+    "featuredWorkIds": [
+      "sk4-1-instance"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "设计也要考虑怎样使用",
+          "paragraphs": [
+            "德国曾有一所乌尔姆设计学院。这里的人研究家具、机器和图形，不只考虑好不好看，也考虑物品怎样用、怎样做出来。",
+            "这台唱机所属的设计系列，由汉斯·古格洛特和迪特·拉姆斯合作设计。照片是许多年后拍的，不能把拍照时间当作设计时间。"
+          ]
+        },
+        {
+          "title": "圆形和小按钮各有任务",
+          "paragraphs": [
+            "先把目光放到左边。大圆盘用来放唱片，旁边弯着的细长部件是唱臂。圆盘和唱臂靠在一起，属于同一个播放区域。",
+            "再移到右边。小旋钮、按键和长条刻度集中在这里。设计师把相关的东西放近一些，让不同用途分成几组。我们先看位置，不必猜照片里每个小字写了什么。"
+          ]
+        },
+        {
+          "title": "从一组零件回看整台机器",
+          "paragraphs": [
+            "现在再看全部。圆形部件装在方正的箱体上；透明盖可以让里面的东西仍然被看见。两侧木板和白色箱体的材料不同，整齐也能有变化。",
+            "生活里，书包和文具盒也需要安排位置。经常一起用的东西放近一点，取用时可能更方便。好设计需要试一试，不能只凭摆得整齐就下结论。"
+          ]
+        }
+      ],
+      "reflection": "看到这台机器的排列，你会想到怎样的感觉？可以用一个词、声音或手势表达。"
+    },
+    "takeaway": "不同的用途可以分组，形状和位置也能帮助我们理解物品。",
+    "parentNote": "这篇讨论系统关系，和既有SK 4单品档案角度不同。可指出唱盘、唱臂与控制区，避免让孩子背按钮功能或操作真实旧电器；只看和交谈已是完整阅读。"
+  }
+}

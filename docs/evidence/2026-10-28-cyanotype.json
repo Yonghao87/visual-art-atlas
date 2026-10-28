@@ -1,0 +1,446 @@
+{
+  "entryId": "2026-10-28-cyanotype",
+  "date": "2026-10-28",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-10-28/batch5",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "ab328065-868a-4d6b-b9bd-7483bcc42972",
+    "volume": "010",
+    "capturedAt": "2026-10-28T04:26:34.971Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "batch": {
+    "userRequest": "那先更新多5期吧",
+    "date": "2026-10-28",
+    "count": 5,
+    "selectionBeforeImageResearch": true,
+    "override": "用户本次明确要求批量补更5期；五篇均记真实上海当日日期，不伪造历史发布日期。单日一篇与卡题必须等待的常规定时限制，仅本次按用户批次要求例外；自动任务配置不改。",
+    "parked": [
+      {
+        "volume": "007",
+        "topic": "Mary Blair",
+        "reason": "此前尚未解决实际作品图授权，且当前原聊天分页无法再返回完整历史消息；保持待补，不计完成。"
+      },
+      {
+        "volume": "008",
+        "topic": null,
+        "reason": "当前原聊天返回窗口不含完整正文；不猜主题或消息身份，不计完成。"
+      },
+      {
+        "volume": "009",
+        "topic": "形而上绘画",
+        "sourceMessageId": "21d455e0-87d1-4b76-8648-f30a2740f42b",
+        "reason": "保存的完整候选仍在2026-10-27目录。de Chirico仍在版权期，已查看的机构作品页未授予本站图片复制许可；本批暂挂，不用仅有摄影许可或检索卡片代替作品授权。"
+      },
+      {
+        "volume": "011",
+        "topic": "Simon Stålenhag",
+        "sourceMessageId": "6cbff5eb-cc44-4e5b-aec3-0bfc75468dc8",
+        "reason": "艺术家官网作品可访问，但本次未取得作品图片复制的明确许可；暂挂，不以下载可用充当获准使用。"
+      },
+      {
+        "volume": "015",
+        "topic": "三宅一生",
+        "sourceMessageId": "a27d7e1e-7b9e-4e11-809e-8356dade15b0",
+        "reason": "与已发布Vol.004的褶皱、布与身体主题高度重叠，先保留待合并研究，不当作全新一期计数。"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ptilota plumosa",
+      "url": "https://www.metmuseum.org/art/collection/search/291528",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际打开作品页并读取官方API，核对阿特金斯、约1853、Cyanotype、25.3×20厘米与2005.100.557 (31)。页面标Public Domain，API isPublicDomain=true；下载并查看3266×4000原文件。不是皇家学会的另一册版本。"
+    },
+    {
+      "title": "Anna Atkins’s cyanotypes: The first book of photographs",
+      "url": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html",
+      "publisher": "Natural History Museum, London；Kerry Lotzof",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取机构图书馆专题，核对1843年起出版、1843—1853年续册、标本直接置于铁盐感光纸、光照和水洗，以及赫歇尔的关联；与Met册页身份和年代交叉核对。不采纳源聊天中关于创作动机的推测。"
+    }
+  ],
+  "crossChecks": "NHM工艺和书籍背景与Met具体册页、媒介及年代共同支持，不复制原聊天动机推测。",
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+      "candidatePath": "/private/tmp/visual-art-atlas-daily/2026-10-28/batch5/images/cyanotype-ptilota.jpg",
+      "downloadUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP-17302-034.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/291528",
+      "identity": "Ptilota plumosa",
+      "credit": "Anna Atkins，《Ptilota plumosa》，约1853；The Metropolitan Museum of Art，2005.100.557 (31)，Public Domain / Open Access。原始文件完整保存；封面卡片仅作显示范围调整。",
+      "rights": "public_domain",
+      "width": 3266,
+      "height": 4000,
+      "bytes": 4607327,
+      "sha256": "6cc5f20d8a1f5c3a131187d918cfbb3e23f1b10de4ae691bba67e92168841776",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "display": "作品与亲子完整展示；封面卡片可由前端调整显示范围。不新增局部，不上采样。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "metOpenAccess": {
+        "objectID": 291528,
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP-17302-034.jpg",
+        "accessionNumber": "2005.100.557 (31)",
+        "objectDate": "ca. 1853"
+      }
+    }
+  ],
+  "editorialReview": {
+    "adult": "同一JSON成人根层；包含背景、实际视觉讲解、作品、比较、应用、实验、真实关联、完整标题开头的ASCII连字符风格速记，context末尾保留几句艺术风格总结。",
+    "children": "同条目5–7岁讲解；完整欣赏—局部文字讲解—回到整体—感受与生活；3节，每节2段，约500字；只有一个开放感受引导。没有找不同、计数、连续问答、手工必做或AI素材。",
+    "detailDecision": "本篇整图已能支持所述形状、间距、功能分区或色面关系，局部通过文字指向后再回看整体；不为凑图新增detail，尤其低分辨率Winter Map不做放大。"
+  },
+  "newFiles": [
+    "src/data/entries/2026-10-28-cyanotype.json",
+    "public/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+    "docs/evidence/2026-10-28-cyanotype.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "dailyBatchMethod": "逐篇把候选作为仓库内实际发布文件运行原始validate:daily，其他本批候选暂留仓库外；各篇通过后，再合并全部5篇运行全库validate:content、Astro检查、单测、构建和e2e。原始daily脚本只有单篇模式，因此这不声称最终5篇同时满足一天一篇。保留用户批量例外与每篇日志，不修改门禁代码。",
+    "commands": [
+      {
+        "command": "npm run validate:daily -- src/data/entries/2026-10-28-cyanotype.json",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:19.545051+00:00",
+        "log": "2026-10-28-cyanotype-daily.log"
+      },
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:20.501842+00:00",
+        "log": "content.log"
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:20.853162+00:00",
+        "log": "astro-check.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:25.293037+00:00",
+        "log": "unit.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:25.759823+00:00",
+        "log": "build.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:27.370498+00:00",
+        "log": "e2e.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "startedAt": "2026-10-28T04:53:54.247331+00:00",
+        "log": "diff-check.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "contentCount": 18,
+    "astroCheck": {
+      "errors": 0,
+      "warnings": 0,
+      "hints": 0
+    },
+    "contentRepairs": 0,
+    "visualReview": {
+      "status": "passed",
+      "reviewedContactSheets": [
+        "contact-desktop-adult-style.jpg",
+        "contact-desktop-adult-work.jpg",
+        "contact-desktop-family-lesson.jpg",
+        "contact-desktop-family-work.jpg",
+        "contact-mobile-adult-style.jpg",
+        "contact-mobile-adult-work.jpg",
+        "contact-mobile-family-lesson.jpg",
+        "contact-mobile-family-work.jpg"
+      ],
+      "observations": [
+        "实际查看8张验收拼图，覆盖5篇×成人/亲子×1440/390两种宽度；图片加载成功、无横向溢出。",
+        "亲子整图与所述颜色、方向、分组及空隙对应。图注区分蓝晒册页、公共地标、SK4/1具体实例、单扇屏风与Winter Map。",
+        "5篇成人末尾均有完整标题开头的ASCII连字符速记，手机可读；context另含艺术风格总结。",
+        "Winter Map整图可辨色面及边带；不用于微观纹理分析或局部放大。",
+        "初次自定义验收把尚未滚入视野的关联卡片懒加载也计为本篇失败，补齐等待解码后20个视图全部通过；未因此改动应用或内容。"
+      ],
+      "metrics": [
+        {
+          "id": "2026-10-28-cyanotype",
+          "viewport": {
+            "name": "desktop",
+            "width": 1440,
+            "height": 1000
+          },
+          "edition": "adult",
+          "url": "http://127.0.0.1:4335/entries/2026-10-28-cyanotype/?edition=adult",
+          "metrics": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/bauhaus-dessau.jpg",
+                "width": 1280,
+                "height": 853,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797,
+                "loaded": true,
+                "objectFit": "cover"
+              }
+            ],
+            "readingVisible": true,
+            "styleSummary": "蓝晒摄影｜让阳光留下植物的形状-普鲁士蓝底，浅色植物负形，自然分枝，疏密留白，手写题签",
+            "familySections": 3,
+            "detailCount": 0
+          },
+          "errors": [],
+          "screenshots": [
+            "desktop-2026-10-28-cyanotype-adult-work.png",
+            "desktop-2026-10-28-cyanotype-adult-style.png"
+          ]
+        },
+        {
+          "id": "2026-10-28-cyanotype",
+          "viewport": {
+            "name": "desktop",
+            "width": 1440,
+            "height": 1000
+          },
+          "edition": "family",
+          "url": "http://127.0.0.1:4335/entries/2026-10-28-cyanotype/?edition=family",
+          "metrics": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/bauhaus-dessau.jpg",
+                "width": 1280,
+                "height": 853,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797,
+                "loaded": true,
+                "objectFit": "cover"
+              }
+            ],
+            "readingVisible": true,
+            "styleSummary": "蓝晒摄影｜让阳光留下植物的形状-普鲁士蓝底，浅色植物负形，自然分枝，疏密留白，手写题签",
+            "familySections": 3,
+            "detailCount": 0
+          },
+          "errors": [],
+          "screenshots": [
+            "desktop-2026-10-28-cyanotype-family-work.png",
+            "desktop-2026-10-28-cyanotype-family-lesson.png"
+          ]
+        },
+        {
+          "id": "2026-10-28-cyanotype",
+          "viewport": {
+            "name": "mobile",
+            "width": 390,
+            "height": 844
+          },
+          "edition": "adult",
+          "url": "http://127.0.0.1:4335/entries/2026-10-28-cyanotype/?edition=adult",
+          "metrics": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/bauhaus-dessau.jpg",
+                "width": 1280,
+                "height": 853,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797,
+                "loaded": true,
+                "objectFit": "cover"
+              }
+            ],
+            "readingVisible": true,
+            "styleSummary": "蓝晒摄影｜让阳光留下植物的形状-普鲁士蓝底，浅色植物负形，自然分枝，疏密留白，手写题签",
+            "familySections": 3,
+            "detailCount": 0
+          },
+          "errors": [],
+          "screenshots": [
+            "mobile-2026-10-28-cyanotype-adult-work.png",
+            "mobile-2026-10-28-cyanotype-adult-style.png"
+          ]
+        },
+        {
+          "id": "2026-10-28-cyanotype",
+          "viewport": {
+            "name": "mobile",
+            "width": 390,
+            "height": 844
+          },
+          "edition": "family",
+          "url": "http://127.0.0.1:4335/entries/2026-10-28-cyanotype/?edition=family",
+          "metrics": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+                "width": 3266,
+                "height": 4000,
+                "loaded": true,
+                "objectFit": "contain"
+              },
+              {
+                "src": "/images/bauhaus-dessau.jpg",
+                "width": 1280,
+                "height": 853,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944,
+                "loaded": true,
+                "objectFit": "cover"
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797,
+                "loaded": true,
+                "objectFit": "cover"
+              }
+            ],
+            "readingVisible": true,
+            "styleSummary": "蓝晒摄影｜让阳光留下植物的形状-普鲁士蓝底，浅色植物负形，自然分枝，疏密留白，手写题签",
+            "familySections": 3,
+            "detailCount": 0
+          },
+          "errors": [],
+          "screenshots": [
+            "mobile-2026-10-28-cyanotype-family-work.png",
+            "mobile-2026-10-28-cyanotype-family-lesson.png"
+          ]
+        }
+      ]
+    }
+  },
+  "entrySha256": "591acdd6d0eecd383dc20b8f51a7fa2f2d307613a745e1aeae91faa66ebc926d",
+  "categoryDistributionAfterBatch": {
+    "product_design": 4,
+    "fashion_craft": 3,
+    "world_painting": 4,
+    "eastern_art": 2,
+    "digital_art": 1,
+    "architecture": 2,
+    "graphic_design": 2
+  }
+}

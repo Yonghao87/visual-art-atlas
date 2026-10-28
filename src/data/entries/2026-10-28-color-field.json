@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-28-color-field",
+  "date": "2026-10-28",
+  "status": "published",
+  "title": "色域绘画｜让色彩关系成为主角",
+  "subtitle": "从罗斯科、纽曼到弗兰肯塔勒，看大色面、边界与观看尺度的不同作用",
+  "topicType": "movement",
+  "category": "world_painting",
+  "period": "20世纪中叶起",
+  "regions": [
+    "美国"
+  ],
+  "tags": [
+    "色域绘画",
+    "抽象",
+    "色彩",
+    "边缘",
+    "浸染",
+    "观看尺度"
+  ],
+  "updatedAt": null,
+  "summary": "色域绘画把观看集中到色面之间的面积、邻接与边缘，而不依赖可辨认的故事。罗斯科的柔和色块、纽曼的竖向色带、弗兰肯塔勒的流动色面各有方法；色彩能引起感受，却没有人人相同的情绪答案。",
+  "style_summary": "色域绘画｜让色彩关系成为主角-大面积色面，邻色作用，边界变化，形状疏简，尺度参与",
+  "context": "认识绘画方向\n色域绘画是战后美国抽象绘画中的重要方向，不是只用一种平涂法的统一配方。MoMA把罗斯科、纽曼和弗兰肯塔勒等人的作品与这一术语关联。它们让色面关系承担主要观看经验，但不能把所有抽象表现主义简单分成完全没有交集的两派。\n\n三个不同的入口\n罗斯科《No. 10》（1950）以宽大的冷暖色面和柔和边界形成层次。纽曼《Vir Heroicus Sublimis》（1950—1951）宽逾五米，以大色域和竖向色带建立整体关系。弗兰肯塔勒以稀释颜料进入未打底画布的浸染实践闻名，不过不能因此断言她的每一件画都按同一程序制作。\n\n本篇完整欣赏\n实图《Winter Map》（1965）是一件45.7×45.7厘米的布面丙烯作品，1968年由Contemporary Art Society赠予格拉斯哥大学Hunterian。灰蓝色区域包围不规则绿色形状，浅色边带和深色外缘又构成几层关系。先沿绿色边界看它怎样伸缩，再回到整体比较面积与明暗。“地图”是题名的一部分，不证明画的是可定位的国家，也不把它误标成《山与海》。\n\n艺术风格总结\n色域绘画使颜色之间的距离、面积与边缘成为内容。柔边可以渗入，直线可以划分，不规则形状也能构成色域；观看原作的身体尺度与屏幕图像不同，感受需要留给每位观看者自己描述。",
+  "visualFeatures": [
+    {
+      "key": "color",
+      "label": "关系：颜色在邻接中改变作用",
+      "description": "《Winter Map》的绿色被灰蓝区域包围，浅色边带又与深蓝外缘形成明暗差。分析关注相邻、面积与位置，不把某一种色相直接译成固定情绪。"
+    },
+    {
+      "key": "form",
+      "label": "简化形状：不依赖明确物象",
+      "description": "中央色面不规则地伸展，周围区域提供较开阔的连续背景。可联想到地图，但不必找出一个与现实对应的地名。"
+    },
+    {
+      "key": "linework",
+      "label": "边界：软、硬、曲、直可以并存",
+      "description": "本篇色面边缘有起伏，外侧边带相对方正；纽曼的竖向色带则提供另一种划分。色域绘画不能被单一的“全部柔边”概括。"
+    },
+    {
+      "key": "material",
+      "label": "材料：方法与具体作品分别核对",
+      "description": "弗兰肯塔勒的浸染实践由机构资料说明；《Winter Map》馆藏记录写丙烯画布。800像素图适合看整体关系，不足以检验纤维、颜料层厚或全部制作步骤。"
+    },
+    {
+      "key": "space",
+      "label": "尺度：屏幕上的同宽不等于原作一样大",
+      "description": "《Winter Map》宽45.7厘米，纽曼的作品宽541.7厘米。两者在网页上缩到相似宽度，不应抹掉身体观看与真实尺度的差别。"
+    }
+  ],
+  "people": [
+    {
+      "name": "马克·罗斯科 Mark Rothko",
+      "role": "以宽大色面和柔和边界著称的画家"
+    },
+    {
+      "name": "巴尼特·纽曼 Barnett Newman",
+      "role": "以大色域及竖向色带组织画面的画家"
+    },
+    {
+      "name": "海伦·弗兰肯塔勒 Helen Frankenthaler",
+      "role": "探索浸染色面与绘画材料的画家"
+    }
+  ],
+  "works": [
+    {
+      "id": "rothko-no-10",
+      "title": "No. 10",
+      "creator": "马克·罗斯科",
+      "year": "1950",
+      "sourceUrl": "https://www.moma.org/collection/works/78594",
+      "image": null
+    },
+    {
+      "id": "vir-heroicus-sublimis",
+      "title": "Vir Heroicus Sublimis",
+      "creator": "巴尼特·纽曼",
+      "year": "1950—1951",
+      "sourceUrl": "https://www.moma.org/collection/works/79250",
+      "image": null
+    },
+    {
+      "id": "winter-map",
+      "title": "Winter Map",
+      "creator": "海伦·弗兰肯塔勒",
+      "year": "1965",
+      "sourceUrl": "https://contemporaryartsociety.org/objects/winter-map-1965",
+      "image": {
+        "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+        "alt": "海伦·弗兰肯塔勒《Winter Map》1965：灰蓝色区域中有不规则绿色色面，周围带浅色边带和深蓝外缘，下方保留颜料痕迹与签名。",
+        "credit": "Helen Frankenthaler，《Winter Map》，1965，The Hunterian, University of Glasgow，GLAHA:43532；© Estate of Helen Frankenthaler / ARS, New York and DACS, London 2026；Image credit: The Hunterian, University of Glasgow。CAS具体作品页允许个人及教育用途复制，禁止商业复制、出租和出借。原始图像完整保存，封面卡片仅改变显示范围。",
+        "rights": "permission_granted",
+        "sourceUrl": "https://contemporaryartsociety.org/objects/winter-map-1965",
+        "permissionNote": "具体作品页Copyright段明确写明：Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited. 本站用于非商业艺术学习及亲子美育，不主张CC或公版。保留作品与图像双重署名，原文件不裁切、改色或重画；不设置局部放大。授权证据见本篇docs/evidence记录；用途改变需重新取得适用许可。"
+      }
+    }
+  ],
+  "comparison": {
+    "target": "奥普艺术中的重复条纹与视觉错觉",
+    "description": "两者都研究观看中的颜色关系；色域实例常把注意力放在大面积、边界与尺度，奥普实例常突出重复和比例变化。它们不是情感与理性的互斥标签。"
+  },
+  "applications": [
+    "色彩研究：比较面积与邻色，再记录自己的感受，避免把颜色心理写成适用于所有人的公式。",
+    "空间与界面背景：为主要信息保留稳定区域，关注大色面与小标记的比例和可读性。",
+    "作品展示：同时列明原作尺寸，使屏幕浏览不掩盖不同作品的真实尺度。"
+  ],
+  "experiment": "用三种现有彩纸摆出两种布局，保持颜色不变，只改变面积或相邻关系。并排观看后记录各自感受；不要求出现某种情绪，也不把彩纸拼贴当作浸染绘画。",
+  "nextTopics": [
+    "抽象绘画的边缘与观看距离",
+    "浸染绘画与纸本水彩的材料差别"
+  ],
+  "relatedIds": [
+    "2026-10-19-op-art",
+    "2026-10-08-impressionism",
+    "2026-10-10-cezanne-still-life"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+    "alt": "海伦·弗兰肯塔勒《Winter Map》1965：灰蓝色区域中有不规则绿色色面，周围带浅色边带和深蓝外缘，下方保留颜料痕迹与签名。",
+    "credit": "Helen Frankenthaler，《Winter Map》，1965，The Hunterian, University of Glasgow，GLAHA:43532；© Estate of Helen Frankenthaler / ARS, New York and DACS, London 2026；Image credit: The Hunterian, University of Glasgow。CAS具体作品页允许个人及教育用途复制，禁止商业复制、出租和出借。原始图像完整保存，封面卡片仅改变显示范围。",
+    "rights": "permission_granted",
+    "sourceUrl": "https://contemporaryartsociety.org/objects/winter-map-1965",
+    "permissionNote": "具体作品页Copyright段明确写明：Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited. 本站用于非商业艺术学习及亲子美育，不主张CC或公版。保留作品与图像双重署名，原文件不裁切、改色或重画；不设置局部放大。授权证据见本篇docs/evidence记录；用途改变需重新取得适用许可。"
+  },
+  "sources": [
+    {
+      "title": "Color-field painting",
+      "url": "https://www.moma.org/collection/terms/color-field-painting",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取术语页及其关联作品，确认该术语与Rothko、Newman、Frankenthaler、Gilliam的馆藏关联；页面正文有限，不把未显示的定义伪称为原文。通过具体作品页核对不同方法。"
+    },
+    {
+      "title": "No. 10",
+      "url": "https://www.moma.org/collection/works/78594",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取馆藏与2023年标签，核对Rothko、1950、229.6×145.1厘米、冷暖宽色面和柔和合并的边界；不用源聊天的检索缩略图作转载素材。"
+    },
+    {
+      "title": "Vir Heroicus Sublimis",
+      "url": "https://www.moma.org/collection/works/79250",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取作品记录及说明，核对Newman、1950—1951、242.2×541.7厘米、竖向色带与色域绘画关联。仅保留链接，不下载版权作品。"
+    },
+    {
+      "title": "Helen Frankenthaler",
+      "url": "https://art.state.gov/personnel/helen_frankenthaler/",
+      "publisher": "U.S. Department of State, Art in Embassies",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取机构艺术家说明，核对稀释颜料倾倒到未打底画布、透明色面及浸染方法；与CAS具体作品身份和MoMA术语关联交叉核对。方法概述不冒充Winter Map每一步的材料报告。"
+    },
+    {
+      "title": "Winter Map (1965)",
+      "url": "https://contemporaryartsociety.org/objects/winter-map-1965",
+      "publisher": "Contemporary Art Society；The Hunterian, University of Glasgow",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际通过Exa页面读取及Jina原站转读核对1965、布面丙烯、45.7×45.7厘米、GLAHA:43532和1968赠予。具体作品页明确授予个人与教育用途复制，禁止商业复制、出租及出借；保留权利人与图像双重署名。原站直连有403，不虚称浏览器直连成功。下载并查看800×797原图，按机构历史图例外完整展示、不做局部。"
+    },
+    {
+      "title": "Copyright Policy",
+      "url": "https://contemporaryartsociety.org/copyright-policy",
+      "publisher": "Contemporary Art Society",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取政策，确认CAS不持有所有作品与图像权利，需依具体作品页和署名判断；本篇依据Winter Map页面的明确教育使用许可，而非将网站可访问或非商业目的当成自动授权。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "色域绘画｜颜色怎样在一起",
+    "summary": "从海伦·弗兰肯塔勒的一幅画，看颜色的大小、位置和边缘。",
+    "looking": "先看完整的《Winter Map》。这幅画没有清楚的人物和房屋。绿色形状在灰蓝色里伸展，周围还有浅色边带和深色外缘。",
+    "featuredWorkIds": [
+      "winter-map"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "认识画家和色面",
+          "paragraphs": [
+            "海伦·弗兰肯塔勒是美国画家。这幅作品画于1965年，用的是丙烯颜料和画布。它的宽和高都不到半米，并不是一整面墙那么大的画。",
+            "有些画把颜色之间的关系放在最重要的位置，我们可以把连在一起的一片颜色叫作“色面”。色域绘画会让我们仔细看色面怎样相邻，而不急着找出画里是什么东西。"
+          ]
+        },
+        {
+          "title": "沿着绿色的边走一走",
+          "paragraphs": [
+            "先把目光放到中间的绿色。它不是规整的方块，边缘有的向外伸，有的向里收。灰蓝色围着它，靠近边缘时，两种颜色更容易被一起看见。",
+            "再看周围。浅色边带把中间区域衬出来，外面还有较深的蓝色。画里颜色不多，明暗、大小和位置却有变化。题名里有“地图”，我们也不必替它找到真实的国家。"
+          ]
+        },
+        {
+          "title": "回到全部，留下自己的感受",
+          "paragraphs": [
+            "现在把目光从绿色边缘移开，重新看完整画面。较大的灰蓝区域与较小的绿色形状一起工作，浅色和深色又让它们有了围绕的关系。",
+            "生活里，衣服和窗帘也会让颜色靠在一起。同一种颜色旁边换成浅色或深色，看起来可能有不同感觉。欣赏这幅画不需要猜对一个故事，也不用每个人说出相同感受。"
+          ]
+        }
+      ],
+      "reflection": "这几片颜色放在一起，给你怎样的感觉？可以用一个词、声音或身体动作表达。"
+    },
+    "takeaway": "颜色的大小、位置和邻居，都是我们可以欣赏的内容。",
+    "parentNote": "先看完整作品，再看绿色边缘，最后回到全部。不要把绿色说成必然安静、蓝色说成必然忧伤；本图只用于非商业教育欣赏，保持整图，不进行局部放大或要求孩子临摹。"
+  }
+}

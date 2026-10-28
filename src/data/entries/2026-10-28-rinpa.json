@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-28-rinpa",
+  "date": "2026-10-28",
+  "status": "published",
+  "title": "日本琳派｜让花叶和留白形成节奏",
+  "subtitle": "以光琳的金地屏风为入口，看自然形态怎样变成有疏密、有间隔的装饰语言",
+  "topicType": "movement",
+  "category": "eastern_art",
+  "period": "17—19世纪；本篇屏风1709年以后",
+  "regions": [
+    "日本"
+  ],
+  "tags": [
+    "琳派",
+    "屏风",
+    "金箔",
+    "非对称",
+    "装饰",
+    "留白",
+    "自然纹样"
+  ],
+  "updatedAt": null,
+  "summary": "琳派把自然与古典文学转化为屏风、书画和工艺中的视觉节奏。它是跨时代的艺术影响传统；花叶的简化、金地的空隙与偏置构图，使画面具有强烈的整体秩序，而不只是铺满装饰图案。",
+  "style_summary": "日本琳派｜让花叶和留白形成节奏-金地留白，蓝绿并置，花叶重复，斜桥引导，非对称节奏",
+  "context": "认识传统\n琳派与江户时代的京都文化、古典文学和多种工艺有关。俵屋宗达、尾形光琳、酒井抱一生活在不同时代，后来的创作者通过前人的作品受到影响；“琳派”是近现代形成的名称，不能把三人写成见过面的师徒或同一所学校成员。\n\n看完整屏风，再看花叶\n本篇实图是Met藏《八桥图》一对六曲屏风中的一扇，作于1709年以后，金箔纸本水墨设色。它以花叶和穿过画面的桥联系《伊势物语》的题材，不是根津美术馆那件没有桥的燕子花屏风。先看整体，斜桥使视线横向移动；再看局部，蓝花、绿叶有相似形状，却通过高低、聚散和方向避免机械铺排。\n\n留白为什么有力量\n金地不必解释成真实天空或一处被省略的背景。它围绕花叶延续，把密集处隔开，令桥与植物之间的距离成为构图。看过花群再退回整扇，才会发现空与满互相定义。琳派并非每件作品都用金地：抱一《柿图屏风》是纸本水墨设色，显示同一传统中的变化。\n\n艺术风格总结\n琳派把自然形态概括成可辨认的色块和线条，再用重复中的差异与大面积空隙建立节奏。金地增强整体性，却没有消除植物的方向和季节感；值得借鉴的是形态与间隔的组织，而非把金色当作万能装饰。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "偏置：斜桥带动横向观看",
+      "description": "桥以斜向穿过花群，与竖立叶片形成方向差。各部分不按中轴平均分配，观看在密集与开阔之间移动。"
+    },
+    {
+      "key": "color",
+      "label": "蓝绿与金：少量关系构成强识别",
+      "description": "花朵与叶片以蓝、绿的大致色类互相区分，金地把它们衬出。屏幕不能还原金箔在真实光照下的反射变化。"
+    },
+    {
+      "key": "form",
+      "label": "概括自然：重复却不完全一样",
+      "description": "花瓣与长叶简化为清楚形状，但朝向、伸展和聚散不同。这种有差异的重复既可辨认自然，也能形成装饰节奏。"
+    },
+    {
+      "key": "space",
+      "label": "空隙：金地参与形体组织",
+      "description": "花叶之间的金色并非无用剩余，它分开轮廓，连接远近花群。画面不靠完整的单点透视解释空间。"
+    },
+    {
+      "key": "material",
+      "label": "屏风：折面与金箔也是观看条件",
+      "description": "作品是一对六曲屏风，实图只显示其中一扇。图中折线、边框属于物件，不能把它们全解释成所画风景中的线条。"
+    }
+  ],
+  "people": [
+    {
+      "name": "俵屋宗达 Tawaraya Sōtatsu",
+      "role": "琳派传统中的早期重要创作者"
+    },
+    {
+      "name": "尾形光琳 Ogata Kōrin",
+      "role": "《八桥图》《波涛图》作者"
+    },
+    {
+      "name": "酒井抱一 Sakai Hōitsu",
+      "role": "后来的琳派创作者，《柿图屏风》作者"
+    }
+  ],
+  "works": [
+    {
+      "id": "yatsuhashi",
+      "title": "八桥图 Irises at Yatsuhashi（本图为一对屏风中的一扇）",
+      "creator": "尾形光琳",
+      "year": "1709年以后",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39664",
+      "image": {
+        "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+        "alt": "尾形光琳《八桥图》一对六曲屏风中的一扇（Met图像DT231）：金地上排列蓝色花朵、绿叶和斜行木桥，保留整扇边框。",
+        "credit": "Ogata Kōrin，《Irises at Yatsuhashi (Eight Bridges)》，1709年以后，一对六曲屏风中的一扇（DT231）；The Metropolitan Museum of Art，53.7.1, .2，Public Domain / Open Access。完整原图；局部与卡片仅调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39664",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "rough-waves",
+      "title": "波涛图屏风 Rough Waves",
+      "creator": "尾形光琳",
+      "year": "约1704—1709",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/44918",
+      "image": null
+    },
+    {
+      "id": "persimmon-tree",
+      "title": "柿图屏风 Persimmon Tree",
+      "creator": "酒井抱一",
+      "year": "1816",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45392",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "平均铺满的重复纹样",
+    "description": "重复纹样可以形成连续表面；琳派屏风常把相似花叶与大片空隙并用，让间距和偏置构成整体。不是所有装饰都需要覆盖全部背景。"
+  },
+  "applications": [
+    "书籍与海报：先安排主体和空隙，再用少量重复形状建立节奏，避免为装饰牺牲阅读。",
+    "纺织与包装：提炼自己的自然观察，保留方向与疏密变化，不把历史屏风简单当作无出处的素材库。",
+    "展陈：将局部花叶与整扇屏风对应，让材料、折面和观看距离进入说明。"
+  ],
+  "experiment": "在长条纸上画一种自己观察到的叶形，重复几次但改变高低和朝向。保留一处较大的空白，再用另一张纸试着填满它，比较观看节奏；练习组织间隔，不临摹光琳的具体构图。",
+  "nextTopics": [
+    "宗达与书画的共同组织",
+    "银地屏风与季节植物"
+  ],
+  "relatedIds": [
+    "2026-10-09-ukiyo-e",
+    "2026-10-06-bauhaus"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+    "alt": "尾形光琳《八桥图》一对六曲屏风中的一扇（Met图像DT231）：金地上排列蓝色花朵、绿叶和斜行木桥，保留整扇边框。",
+    "credit": "Ogata Kōrin，《Irises at Yatsuhashi (Eight Bridges)》，1709年以后，一对六曲屏风中的一扇（DT231）；The Metropolitan Museum of Art，53.7.1, .2，Public Domain / Open Access。完整原图；局部与卡片仅调整显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/39664",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Rinpa Painting Style",
+      "url": "https://www.metmuseum.org/essays/rinpa-painting-style",
+      "publisher": "The Metropolitan Museum of Art；Department of Asian Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取艺术史专题，核对自然与古典文学题材、绘画及工艺媒介、宗达光琳抱一的跨时代关联。与京都国立博物馆交叉核对，不将琳派写成固定师徒学校。"
+    },
+    {
+      "title": "RINPA: The Aesthetics of the Capital",
+      "url": "https://www.kyohaku.go.jp/old/eng/special/koremade/20151010_rinpa.html",
+      "publisher": "Kyoto National Museum",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取2015年展览档案，核对琳派名称为现代命名，三位代表创作者不同时代且未见面，传统主要通过作品影响延续；与Met交叉核对。"
+    },
+    {
+      "title": "Irises at Yatsuhashi (Eight Bridges)",
+      "url": "https://www.metmuseum.org/art/collection/search/39664",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取馆藏并核对API，确认尾形光琳、1709年以后、金箔纸本水墨设色、一对六曲屏风、53.7.1,.2及Public Domain。下载查看DT231（2000×970）和另一扇DT230（3811×1853）；本篇展示DT231完整一扇，不冒称整对或根津版本。"
+    },
+    {
+      "title": "Rough Waves",
+      "url": "https://www.metmuseum.org/art/collection/search/44918",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取作品档案，核对约1704—1709、两曲屏风、水墨设色金箔纸本、26.117，作为进一步研究链接。"
+    },
+    {
+      "title": "Persimmon Tree",
+      "url": "https://www.metmuseum.org/art/collection/search/45392",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取作品档案，核对酒井抱一、1816、纸本水墨设色、57.156.3；馆方说明有tarashikomi斑驳墨法。未据此声称本篇八桥花朵局部一定使用同一技法。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "琳派屏风｜花叶之间的金色空隙",
+    "summary": "和尾形光琳一起看花：相似的形状，怎样排出不一样的节奏。",
+    "looking": "先看这整扇屏风。屏风是一种可以折起来、放在室内的物件。这件作品原有一对，我们先欣赏其中一扇：金色底上有花、长叶和一道斜桥。",
+    "featuredWorkIds": [
+      "yatsuhashi"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "认识光琳的屏风",
+          "paragraphs": [
+            "尾形光琳是日本艺术家。这幅作品叫《八桥图》，属于琳派艺术传统。琳派艺术家常从植物和古老文学中选择题材，再把形状组织成画面。",
+            "金色来自贴在纸上的金箔。金箔是很薄的金片。照片能让我们看见金色和画面，却不能完全带来真实金箔在灯光下的变化。"
+          ]
+        },
+        {
+          "title": "看花叶，也看它们的间隔",
+          "paragraphs": [
+            "先把目光移到花丛。蓝色花朵旁边伸出长长的绿叶。相似的形状反复出现，但有的高，有的低，有的聚在一起，有的隔得远。它们没有排成完全一样的队伍。",
+            "花叶之间露出金色小空隙，轮廓就能分开。桥的方向是斜的，长叶多向上伸，两种方向放在一起，眼睛会沿着画面移动。"
+          ]
+        },
+        {
+          "title": "退回来，看空和满一起工作",
+          "paragraphs": [
+            "现在回看整扇。没有画满花的金色区域，也属于这幅画。它让密密的花丛有地方停下来，使我们更容易看出高低和方向。",
+            "生活里的窗帘、衣服和包装也会重复花叶形状。可以留意图案之间有没有空隙，排得紧和排得松有什么不同。不必照着屏风画，也能欣赏它的安排。"
+          ]
+        }
+      ],
+      "reflection": "看完花叶和金色空隙，你愿意用一个词、一种声音或一个手势表达感受吗？"
+    },
+    "takeaway": "相似的形状加上不同的间隔，能让画面出现节奏。",
+    "parentNote": "先看整扇，再看花叶，最后回到整扇。说明图像是一对屏风中的一扇，不要求记人物谱系；“像现代设计”是比较视角，不表示古人正在做现代品牌。"
+  }
+}

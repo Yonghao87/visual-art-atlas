@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-28-cyanotype",
+  "date": "2026-10-28",
+  "status": "published",
+  "title": "蓝晒摄影｜让阳光留下植物的形状",
+  "subtitle": "从安娜·阿特金斯的海藻册页，理解接触印相、负形与蓝白构图",
+  "topicType": "technique",
+  "category": "graphic_design",
+  "period": "19世纪中叶起",
+  "regions": [
+    "英国"
+  ],
+  "tags": [
+    "蓝晒",
+    "摄影",
+    "接触印相",
+    "负形",
+    "植物图谱",
+    "普鲁士蓝"
+  ],
+  "updatedAt": null,
+  "summary": "蓝晒可以让物体直接参与成像。阿特金斯把海藻放在感光纸上，以蓝色背景和浅色轮廓记录分枝；科学图谱因此也成为一次关于疏密、留白与纸面秩序的探索。",
+  "style_summary": "蓝晒摄影｜让阳光留下植物的形状-普鲁士蓝底，浅色植物负形，自然分枝，疏密留白，手写题签",
+  "context": "认识媒介与创作者\n蓝晒是一种以铁盐感光、经光照与水洗形成蓝色影像的摄影工艺。接触印相把物体直接放在感光纸上，不必先用相机取得底片。约翰·赫歇尔发展了这项方法；阿特金斯从1843年开始以它制作《英国藻类摄影图谱》，将植物标本、摄影与书籍组织在一起。\n\n作品怎样展开\n本篇实图是Met收藏的《Ptilota plumosa》，约1853年，不能把它标成1843年的首册封面。先看整页：蓝色连续铺开，浅色海藻分散伸展，底部手写名称留出辨认的位置。再看分枝：细小空隙让蓝色穿入植物轮廓，形体既连贯又透气。物体遮挡和透光的差别参与成像，画面并非用白色笔逐根描出。\n\n为什么它也关乎平面设计\n这不是把自然轮廓平均铺满纸张。标本之间的距离、朝向和题签的位置，让复杂形态可以被逐一辨认。分类图谱的阅读秩序与图像的视觉节奏在同一页相遇。蓝晒也能记录其他对象，不能把植物题材当作工艺的定义。\n\n艺术风格总结\n蓝晒把丰富形态压缩进蓝白关系，却保留自然分枝的不规则性。它的辨识度来自深浅对照、细密轮廓与安静空隙的共同作用；单色并不意味着画面缺少层次。",
+  "visualFeatures": [
+    {
+      "key": "color",
+      "label": "蓝白关系：用少量颜色分出形体",
+      "description": "蓝底连接全页，接近白色的海藻轮廓从中显现。浅色是成像关系的一部分，不能把它误认成标本本来的颜色。"
+    },
+    {
+      "key": "linework",
+      "label": "分枝：连续主干与细小岔口",
+      "description": "分枝由粗到细，方向相似而形状并不一致。蓝色在枝条之间穿行，使复杂轮廓仍能分辨。"
+    },
+    {
+      "key": "composition",
+      "label": "疏密：标本之间保留读图空间",
+      "description": "下方密集的形态与上方更开阔的区域相接，题签和页边让植物形状获得停顿。不要把册页装订阴影误读为作品中的植物。"
+    },
+    {
+      "key": "material",
+      "label": "接触印相：物体与纸面的距离留下痕迹",
+      "description": "工艺以遮挡光线建立图像。贴合程度与物体透光性都可能影响边缘，但这幅扫描不足以反推每一次曝光条件。"
+    }
+  ],
+  "people": [
+    {
+      "name": "安娜·阿特金斯 Anna Atkins",
+      "role": "以蓝晒制作植物摄影图谱的创作者"
+    },
+    {
+      "name": "约翰·赫歇尔 John Herschel",
+      "role": "蓝晒工艺的发展者"
+    }
+  ],
+  "works": [
+    {
+      "id": "ptilota-plumosa",
+      "title": "Ptilota plumosa",
+      "creator": "安娜·阿特金斯",
+      "year": "约1853",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/291528",
+      "image": {
+        "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+        "alt": "安娜·阿特金斯《Ptilota plumosa》约1853年蓝晒册页：蓝底上展开浅色海藻分枝，下方有手写名称，左侧保留书册装订边。",
+        "credit": "Anna Atkins，《Ptilota plumosa》，约1853；The Metropolitan Museum of Art，2005.100.557 (31)，Public Domain / Open Access。原始文件完整保存；封面卡片仅作显示范围调整。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/291528",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "british-algae",
+      "title": "Photographs of British Algae: Cyanotype Impressions（英国藻类摄影图谱）",
+      "creator": "安娜·阿特金斯",
+      "year": "1843—1853",
+      "sourceUrl": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "手绘植物图谱",
+    "description": "手绘可以选择线条、剖面与颜色来解释结构；接触蓝晒由实物参与成像，突出轮廓、透光和纸面距离。两者都需要选择和组织，不宜简单分成主观与客观。"
+  },
+  "applications": [
+    "植物主题海报：保留自然形状的大小变化，用空隙分组，避免把所有边角填满。",
+    "摄影书与资料册：让图像、名称和页边建立稳定关系，使欣赏与检索兼容。",
+    "单色视觉系统：先比较形体和底色的面积，再决定要不要增加颜色。"
+  ],
+  "experiment": "用蓝纸和几片落叶研究负形：先只摆放叶片并留出题签位置，再移开一片，比较空隙怎样改变画面重心。可用铅笔记录两种布局；这是构图练习，不是假装完成蓝晒。",
+  "nextTopics": [
+    "无相机摄影的物影实践",
+    "植物图谱中的分类与版面"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-09-ukiyo-e"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-10-28-cyanotype-ptilota.jpg",
+    "alt": "安娜·阿特金斯《Ptilota plumosa》约1853年蓝晒册页：蓝底上展开浅色海藻分枝，下方有手写名称，左侧保留书册装订边。",
+    "credit": "Anna Atkins，《Ptilota plumosa》，约1853；The Metropolitan Museum of Art，2005.100.557 (31)，Public Domain / Open Access。原始文件完整保存；封面卡片仅作显示范围调整。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/291528",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Ptilota plumosa",
+      "url": "https://www.metmuseum.org/art/collection/search/291528",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际打开作品页并读取官方API，核对阿特金斯、约1853、Cyanotype、25.3×20厘米与2005.100.557 (31)。页面标Public Domain，API isPublicDomain=true；下载并查看3266×4000原文件。不是皇家学会的另一册版本。"
+    },
+    {
+      "title": "Anna Atkins’s cyanotypes: The first book of photographs",
+      "url": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html",
+      "publisher": "Natural History Museum, London；Kerry Lotzof",
+      "verifiedAt": "2026-10-28",
+      "verificationNote": "实际读取机构图书馆专题，核对1843年起出版、1843—1853年续册、标本直接置于铁盐感光纸、光照和水洗，以及赫歇尔的关联；与Met册页身份和年代交叉核对。不采纳源聊天中关于创作动机的推测。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "蓝晒摄影｜植物怎样留下蓝白的影子",
+    "summary": "认识安娜·阿特金斯的一页海藻图谱，看阳光怎样帮助留下植物的形状。",
+    "looking": "先完整看这页蓝晒。照片左边有书册的边，蓝色纸页上是浅色海藻。它是摄影图像，不是把海藻涂成了白色。",
+    "featuredWorkIds": [
+      "ptilota-plumosa"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "把植物放到感光纸上",
+          "paragraphs": [
+            "安娜·阿特金斯生活在英国。她收集植物，也用一种叫“蓝晒”的方法制作图谱。这页海藻的名字是Ptilota plumosa。图谱把植物图像和名字放在一起，方便人们认识它。",
+            "蓝晒纸经过特别处理，会对光发生变化。把标本放在纸上晒光，再用水洗，就能留下蓝色背景和浅色形状。这种让物体贴着纸成像的方法，叫接触印相。"
+          ]
+        },
+        {
+          "title": "细枝之间也有蓝色",
+          "paragraphs": [
+            "把目光移到下方展开的海藻。较粗的枝伸出去，又分出细枝。浅色形状连在一起，枝与枝之间仍露出小块蓝色。我们能同时看见植物和它周围的空隙。",
+            "再回到整页。不同方向的海藻没有挤成一团，蓝色把它们隔开。下面的手写名称也有自己的位置。画面只有少量颜色，细枝、空隙和文字却各有不同的样子。"
+          ]
+        },
+        {
+          "title": "形状可以带我们看自然",
+          "paragraphs": [
+            "这页没有画出海藻在水里摇动的场景。它把形状放到眼前，让我们慢慢看分枝怎样伸展。海藻原来的颜色，也不能只靠这张蓝白图来判断。",
+            "下次看到树枝投在地上的影子，可以留意粗枝和细枝怎样连在一起。影子与蓝晒的制作方法不同，但都能让我们注意形状和空隙。只看、只聊，也完成了一次欣赏。"
+          ]
+        }
+      ],
+      "reflection": "看完这片蓝色，你愿意用一个词、一种声音或一个手势，表达自己的感受吗？"
+    },
+    "takeaway": "植物的形状和周围的空隙，可以一起组成一幅画。",
+    "parentNote": "先说明海藻是真实对象、蓝白是成像结果，再陪孩子从分枝回看整页。不要求记住拉丁名称，不把亲子阅读变成化学实验；孩子只欣赏和表达就已完整。"
+  }
+}
