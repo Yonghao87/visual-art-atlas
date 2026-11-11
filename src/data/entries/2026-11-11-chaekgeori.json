@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-chaekgeori",
+  "date": "2026-11-11",
+  "status": "published",
+  "title": "朝鲜册巨里｜让书架成为观看的舞台",
+  "subtitle": "从李宅均的深蓝书架到文字屏风，看物品陈列怎样组织空间与文化意味",
+  "topicType": "movement",
+  "category": "eastern_art",
+  "period": "18世纪后期至20世纪前半叶；本篇作品为19世纪后期与20世纪初",
+  "regions": [
+    "朝鲜半岛"
+  ],
+  "tags": [
+    "册巨里",
+    "册架图",
+    "屏风",
+    "静物",
+    "多视角",
+    "书籍",
+    "器物陈列"
+  ],
+  "summary": "册巨里以书籍和相关器物为主题，把阅读、收藏与日常愿望放在同一个画面中。书架式作品通过架格、斜线和明暗制造纵深；其他作品则让文字、花木和器物共同排列，不能把这一题材等同于一种固定的书架模板。",
+  "style_summary": "朝鲜册巨里｜让书架成为观看的舞台-架格分区，书册叠置，深蓝衬金黄，多向斜线，器物纹样，图文交织",
+  "context": "一句话认识\n册巨里（Chaekgeori，책거리）可译为“书与物”，是朝鲜王朝绘画中以书籍及相关器物为主的静物题材。包含书架的分支称册架图（Chaekgado，책가도）。物品的摆放既建立图像秩序，也指向学识、收藏与生活愿望。\n\n历史背景：书籍进入屏风\n克利夫兰艺术博物馆把这一题材的流行期概括为18世纪后期至20世纪前半叶，并介绍正祖对它的赞助；吉美馆也记述正祖的欣赏，以及题材由上层社会向更多家庭传播。它不只是一张陈列清单：被选择、排列的物品可以呈现拥有者想表达的文化趣味。\n\n完整欣赏：先看这座画出来的书架\n李宅均的《书籍与文房清供》是一件19世纪后期的绢本水墨设色十扇屏风。整幅深蓝背景把许多书册连成一个整体。架格大小不一，书的横线反复出现；花瓶、植物和器具穿插其中，让密集的书堆有停顿。照片里的折缝与装裱边框属于屏风实物，不应都读成画中的架线。\n\n具体讲解：平面怎样显得有深度\n先看左侧架格：格口、顶面和侧面以不同深浅区分，斜边提示向里延伸，书册又遮挡后方色面。纵深由这些线与色的关系共同产生，不是因为纸面真的凹下去。再回看整幅，各格让视线不断重新定位；无需强求所有局部服从同一个消失点，便能感到陈列空间。此处是对本幅图像的分析，不把所有册巨里概括为同一种透视公式。\n\n再看一件：文字也能参与陈列\n《文字册巨里屏风》作于20世纪初。八扇中，上部的汉字与动物、植物形象交织，下部排列书册和器物。相较深蓝书架，这件作品更突出黑色字形与细小图像的尺度差。它结合文字画与册巨里，也说明“书与物”可以脱离书架隔间，发展出其他组织方式。\n\n艺术风格总结\n册巨里把日常物品变成可观看的关系：架格分区，叠放形成节奏，斜线与色面带来深度，纹样又把观看拉回平面。它的丰富来自物与物之间的安排；看懂结构，再看局部，最后退回整幅，才能体会繁密与秩序怎样同时成立。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "架格分区：复杂信息有了停靠点",
+      "description": "深蓝书架以竖向屏面和大小不一的隔间组织器物。横叠书册形成密集短线，花木和器物打断连续重复；局部变化仍被整体框架连接。"
+    },
+    {
+      "key": "space",
+      "label": "斜边与遮挡：画出向里的感觉",
+      "description": "架格的顶面、侧面与后壁用深浅色面区分，斜边和物体遮挡提示纵深。各处观看方向需逐格观察，不能把它当作建筑测绘图。"
+    },
+    {
+      "key": "color",
+      "label": "深蓝衬暖色：陈列连成整体",
+      "description": "第一幅以深蓝衬托黄褐书册，并穿插红、绿器物和装饰。黄褐短线多次出现，帮助视线跨越不同架格。"
+    },
+    {
+      "key": "texture",
+      "label": "线与纹样：既说材料，也留住平面",
+      "description": "书页的平行细线、器物表面的纹样与较大的平涂色面并置。它们使材质可区分，又不会完全消除装饰图案的平面感。"
+    },
+    {
+      "key": "typography",
+      "label": "图文交织：字形成为画面主体",
+      "description": "第二幅的黑色汉字在上方占据大块面积，动物植物与笔画穿插，下面的器物小而密。文字兼有意义和形状，形成与书架式陈列不同的观看重心。"
+    }
+  ],
+  "people": [
+    {
+      "name": "李宅均 Yi Taek-gyun（이택균）",
+      "role": "朝鲜王朝宫廷画家，本篇十扇书架屏风作者；馆方记为1808—1883年后"
+    },
+    {
+      "name": "正祖 Jeongjo",
+      "role": "1776—1800年在位，馆方专题介绍的册巨里早期重要赞助者"
+    }
+  ],
+  "works": [
+    {
+      "id": "bookshelves",
+      "title": "书籍与文房清供 Books and Scholars’ Accoutrements（十扇屏风）",
+      "creator": "李宅均 Yi Taek-gyun",
+      "year": "19世纪后期",
+      "sourceUrl": "https://www.clevelandart.org/art/2011.37",
+      "image": {
+        "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+        "alt": "李宅均十扇屏风：深蓝底书架中排列黄褐色书册、花瓶与文房器物，架格侧面带有深浅不同的色面。",
+        "credit": "李宅均 Yi Taek-gyun，《Books and Scholars’ Accoutrements》，19世纪后期，绢本水墨设色十扇屏风，2011.37，Leonard C. Hanna Jr. Fund；The Cleveland Museum of Art，CC0 / Public Domain。保留完整扫描图与原色；卡片与局部只调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.clevelandart.org/art/2011.37",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "character-books",
+      "title": "文字册巨里屏风 Munja-Chaekgeori Screen（八扇）",
+      "creator": "佚名，朝鲜王朝",
+      "year": "20世纪初",
+      "sourceUrl": "https://www.clevelandart.org/art/2017.6",
+      "image": {
+        "src": "/images/entries/2026-11-11-chaekgeori-2017.6.jpg",
+        "alt": "八扇屏风上方是与动物植物穿插的黑色汉字，下方排列书册、花瓶及器物，保留装裱和整扇边框。",
+        "credit": "佚名，朝鲜王朝，《Munja-Chaekgeori Screen (Character-Books Screen)》，20世纪初，八扇屏风，2017.6，Severance and Greta Millikin Purchase Fund；The Cleveland Museum of Art，CC0 / Public Domain。保留完整扫描图与原色；卡片与局部只调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.clevelandart.org/art/2017.6",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "guimet-screen",
+      "title": "六扇书画屏风 Screens with books on 6 panels（LUF 15）",
+      "creator": "佚名，朝鲜王朝",
+      "year": null,
+      "sourceUrl": "https://www.guimet.fr/en/our-collections/korea/screens-books-6-panels-chaekgeori",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "把册巨里理解为固定的书架网格",
+    "description": "含书架的册架图是册巨里的一支。文字册巨里屏风把汉字、动物植物与书物组合，提示同一题材可以有不同结构。比较应落实到具体作品，避免把整个传统缩成一套配色与网格。"
+  },
+  "applications": [
+    "编辑与信息设计：先确定分区，再用大小、方向和疏密建立层级，避免把每格都塞得同样满。",
+    "展陈与静物摄影：选择彼此有关系的物品，通过相邻、遮挡和间隔表达主题；注明它们的真实身份。",
+    "图文编排：比较文字的大轮廓与图像的小细节，让字和图共同承担视觉重心。"
+  ],
+  "experiment": "用纸笔画三个大小不同的格子，把自己熟悉的书、杯子和植物分别安排进去。先画轮廓，再给格子的顶面和侧面加不同深浅，最后退远比较：斜线、遮挡和间隔怎样改变空间感。只研究关系，不照搬历史屏风构图。",
+  "nextTopics": [
+    "册巨里中的收藏文化与器物身份",
+    "文字画怎样把汉字变成图像"
+  ],
+  "relatedIds": [
+    "2026-10-28-rinpa",
+    "2026-10-10-cezanne-still-life"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+    "alt": "李宅均十扇屏风：深蓝底书架中排列黄褐色书册、花瓶与文房器物，架格侧面带有深浅不同的色面。",
+    "credit": "李宅均 Yi Taek-gyun，《Books and Scholars’ Accoutrements》，19世纪后期，绢本水墨设色十扇屏风，2011.37，Leonard C. Hanna Jr. Fund；The Cleveland Museum of Art，CC0 / Public Domain。保留完整扫描图与原色；卡片与局部只调整显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.clevelandart.org/art/2011.37",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Chaekgeori",
+      "url": "https://www.clevelandart.org/articles/chaekgeori",
+      "publisher": "The Cleveland Museum of Art；Sooa McCormick",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取2017年6月14日策展文章，核对册巨里为books and things、18世纪后期至20世纪前半叶的流行、册架图为含书架的分支及正祖的赞助。与吉美馆独立交叉核对书籍、器物、屏风、正祖与跨阶层传播；两馆对更早起源的表述不完全相同，本文采用CMA所述流行时期，不宣称确定的单一诞生年。"
+    },
+    {
+      "title": "Screens with books on 6 panels (Chaekgeori)",
+      "url": "https://www.guimet.fr/en/our-collections/korea/screens-books-6-panels-chaekgeori",
+      "publisher": "Musée national des arts asiatiques – Guimet",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取LUF 15馆藏页，交叉核对书籍与书写器物、书架或堆叠两类组织、几何和反向透视、正祖欣赏及社会传播。其图像为RMN署名版权照片，本文仅提供作品参考链接，不下载或展示该图。"
+    },
+    {
+      "title": "Books and Scholars’ Accoutrements",
+      "url": "https://www.clevelandart.org/art/2011.37",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取馆藏页及官方开放API（id 169545），核对李宅均、19世纪后期、绢本水墨设色十扇屏风、2011.37及CC0。下载并查看馆方3400×1915 print JPG，确认完整十扇与深蓝架格、书册和器物；局部坐标以该文件真实像素计。馆方文章和藏品页对印章左右位置不同，本篇不引用印章位置。"
+    },
+    {
+      "title": "Munja-Chaekgeori Screen (Character-Books Screen)",
+      "url": "https://www.clevelandart.org/art/2017.6",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取馆藏页及官方API（id 294203），核对20世纪初、八扇屏风、作者未登记、上方汉字与下方器物结合、2017.6及CC0。馆方媒介字段为ink on paper，未据彩色图像自行补造颜料信息。下载并查看3400×1593 print JPG，作为与书架式构图的实图比较。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.clevelandart.org/open-access",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取开放访问政策，核对公版作品高分辨率图像以CC0开放；逐件API share_license_status均为CC0，作品页均明示允许复制、修改和分发。未把全站政策自动套给未标注的第三方图。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "册巨里｜画在屏风上的书架",
+    "summary": "册巨里是朝鲜半岛的一种绘画题材，常画书和身边的物品。今天看李宅均怎样把它们安排在一座画出来的书架里。",
+    "looking": "先看完整屏风。屏风是可以折起来、摆在室内的物件。深蓝色的格子里，书册和花瓶排在一起。我们看到的是它的照片，书架本身是画出来的。",
+    "featuredWorkIds": [
+      "bookshelves"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "走近一格，看看深浅",
+          "paragraphs": [
+            "目光先移到左边的架格。黄褐色书册叠在一起，细细的平行线把书页和书的边缘画得很清楚。深蓝色在后面，书册显得更亮。",
+            "格子的顶面和侧面颜色有深有浅，边线斜着向里走。几种色面围在一起，我们就会觉得这格有深度。画家在平平的材料上，让眼睛感到“里面”还有地方。"
+          ],
+          "detail": {
+            "workId": "bookshelves",
+            "imageWidth": 3400,
+            "imageHeight": 1915,
+            "x": 140,
+            "y": 160,
+            "width": 580,
+            "height": 720,
+            "alt": "屏风左侧架格局部：黄褐色书册、深蓝后壁与深浅不同的顶面和侧面。",
+            "caption": "看斜边和深浅色面怎样围住书册，再回到完整屏风，看看这些架格怎样接在一起。"
+          }
+        },
+        {
+          "title": "回到整幅，看看重复和变化",
+          "paragraphs": [
+            "现在回看整座书架。书册一叠接一叠，横线反复出现，像有节奏的短音。中间又穿插花瓶、花叶和其他器物，形状一下子变了。",
+            "格子没有全画成一样大，物品也没有全朝同一个方向。深蓝色把不同的部分连起来，许多细节仍属于同一幅画。屏风上的竖直折缝，是实物折起来的地方。"
+          ]
+        },
+        {
+          "title": "把观看带回生活",
+          "paragraphs": [
+            "这些书与物，也让人看见当时的阅读和收藏生活。画里没有人物，物品的安排仍能表达人的兴趣。",
+            "看看自己熟悉的书桌：书本、杯子或一片叶子，放在一起也会形成高低、疏密和颜色的关系。欣赏和聊一聊，就完成了这次阅读，不需要再做一件手工。"
+          ]
+        }
+      ],
+      "reflection": "看完这座画出来的书架，你愿意用一个词、一个动作或一段声音表达自己的感受吗？"
+    },
+    "takeaway": "看一小格，再回看整幅，能发现物品怎样一起组成画面。",
+    "parentNote": "先完整欣赏，再看原图局部，最后回看整幅。接纳孩子自己的感受，不把欣赏变成认字、数物品或猜用途。架格深度是绘画效果，折缝和装裱边框则属于真实屏风。"
+  }
+}

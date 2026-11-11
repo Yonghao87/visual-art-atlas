@@ -1,0 +1,176 @@
+{
+  "entryId": "2026-11-11-chaekgeori",
+  "date": "2026-11-11",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "0c93755b-3047-49d5-a27d-24dc79afd705",
+    "volume": "025",
+    "capturedAt": "2026-11-11T09:39:25.772Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "userApprovedSkippingBlockedTopics": "2026-11-11",
+    "selectionBeforeImageResearch": true,
+    "skipped": [
+      {
+        "volume": "023",
+        "reason": "重复已发布巴拉甘主题，不计新篇"
+      },
+      {
+        "volume": "024",
+        "reason": "目前未取得可转载的实际作品图；工作室Jina读取超时，授权经销商页说明版权许可需联系工作室，不能视为已授权",
+        "sourceUrl": "https://charleyharperprints.com/about/"
+      }
+    ],
+    "historicalHolds": "缺完整原文或身份的旧候选单独挂起；不标为完成。"
+  },
+  "sources": [
+    {
+      "title": "Chaekgeori",
+      "url": "https://www.clevelandart.org/articles/chaekgeori",
+      "publisher": "The Cleveland Museum of Art；Sooa McCormick",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取2017年6月14日策展文章，核对册巨里为books and things、18世纪后期至20世纪前半叶的流行、册架图为含书架的分支及正祖的赞助。与吉美馆独立交叉核对书籍、器物、屏风、正祖与跨阶层传播；两馆对更早起源的表述不完全相同，本文采用CMA所述流行时期，不宣称确定的单一诞生年。"
+    },
+    {
+      "title": "Screens with books on 6 panels (Chaekgeori)",
+      "url": "https://www.guimet.fr/en/our-collections/korea/screens-books-6-panels-chaekgeori",
+      "publisher": "Musée national des arts asiatiques – Guimet",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取LUF 15馆藏页，交叉核对书籍与书写器物、书架或堆叠两类组织、几何和反向透视、正祖欣赏及社会传播。其图像为RMN署名版权照片，本文仅提供作品参考链接，不下载或展示该图。"
+    },
+    {
+      "title": "Books and Scholars’ Accoutrements",
+      "url": "https://www.clevelandart.org/art/2011.37",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取馆藏页及官方开放API（id 169545），核对李宅均、19世纪后期、绢本水墨设色十扇屏风、2011.37及CC0。下载并查看馆方3400×1915 print JPG，确认完整十扇与深蓝架格、书册和器物；局部坐标以该文件真实像素计。馆方文章和藏品页对印章左右位置不同，本篇不引用印章位置。"
+    },
+    {
+      "title": "Munja-Chaekgeori Screen (Character-Books Screen)",
+      "url": "https://www.clevelandart.org/art/2017.6",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取馆藏页及官方API（id 294203），核对20世纪初、八扇屏风、作者未登记、上方汉字与下方器物结合、2017.6及CC0。馆方媒介字段为ink on paper，未据彩色图像自行补造颜料信息。下载并查看3400×1593 print JPG，作为与书架式构图的实图比较。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.clevelandart.org/open-access",
+      "publisher": "The Cleveland Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取开放访问政策，核对公版作品高分辨率图像以CC0开放；逐件API share_license_status均为CC0，作品页均明示允许复制、修改和分发。未把全站政策自动套给未标注的第三方图。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+      "downloadUrl": "https://openaccess-cdn.clevelandart.org/2011.37/2011.37_print.jpg",
+      "sourceUrl": "https://www.clevelandart.org/art/2011.37",
+      "width": 3400,
+      "height": 1915,
+      "bytes": 1047967,
+      "sha256": "d108f0bcae36a5a573e7c4c03367124c22a91a24e6cce129af9b37989a294b8a",
+      "rights": "public_domain",
+      "shareLicenseStatus": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "李宅均 Yi Taek-gyun，《Books and Scholars’ Accoutrements》，19世纪后期，绢本水墨设色十扇屏风，2011.37，Leonard C. Hanna Jr. Fund；The Cleveland Museum of Art，CC0 / Public Domain。保留完整扫描图与原色；卡片与局部只调整显示范围。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "identity": "Books and Scholars’ Accoutrements",
+      "objectId": 169545
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-11-chaekgeori-2017.6.jpg",
+      "downloadUrl": "https://openaccess-cdn.clevelandart.org/2017.6/2017.6_print.jpg",
+      "sourceUrl": "https://www.clevelandart.org/art/2017.6",
+      "width": 3400,
+      "height": 1593,
+      "bytes": 2265659,
+      "sha256": "f3ecc4cf91c2c49669a3bc7e18bf0289d20d1b5b0e1f0642c347ff695e74d7e9",
+      "rights": "public_domain",
+      "shareLicenseStatus": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "佚名，朝鲜王朝，《Munja-Chaekgeori Screen (Character-Books Screen)》，20世纪初，八扇屏风，2017.6，Severance and Greta Millikin Purchase Fund；The Cleveland Museum of Art，CC0 / Public Domain。保留完整扫描图与原色；卡片与局部只调整显示范围。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "identity": "Munja-Chaekgeori Screen (Character-Books Screen)",
+      "objectId": 294203
+    }
+  ],
+  "crossChecks": "CMA策展文章与吉美馆藏页独立交叉核对书与物题材、正祖、屏风及跨阶层传播；具体两件图像的作者、年代、媒介和许可逐项使用CMA作品页及API确认。",
+  "editorialReview": {
+    "adult": "背景—完整观看—具体空间和颜色分析—作品比较—应用实验—艺术风格总结。",
+    "children": "5–7岁，完整欣赏、原图局部、回到整幅、一个开放表达和生活联系；3节，不做问答测试。",
+    "detail": "3400×1915同一原图，x140 y160 w580 h720，支持左侧书册和架格深浅讲解。第二件八扇屏风仅成人比较，不用于亲子局部。"
+  },
+  "newFiles": [
+    "src/data/entries/2026-11-11-chaekgeori.json",
+    "public/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+    "public/images/entries/2026-11-11-chaekgeori-2017.6.jpg",
+    "docs/evidence/2026-11-11-chaekgeori.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "commands": [
+      {
+        "command": "npm run validate:daily -- src/data/entries/2026-11-11-chaekgeori.json",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori/check.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori/unit.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori/build.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori/e2e.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/chaekgeori/diff.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "contentCount": 19,
+    "contentRepairs": 0,
+    "visualReview": {
+      "status": "passed",
+      "viewports": [
+        1440,
+        390
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-context.png",
+        "1440-family-whole.png",
+        "390-family-whole.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "notes": "原图均3400长边，完整屏风与讲解对应；局部仅放大同一原图的左侧架格，深浅、斜边、书册与文字说明对应。两尺寸无横向溢出，图片全部加载，无浏览器异常；吉美仅保留紧凑来源行。"
+    }
+  }
+}
