@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-photogram",
+  "date": "2026-11-11",
+  "status": "published",
+  "title": "无相机摄影｜让物体替光留下形状",
+  "subtitle": "从19世纪的植物与羽毛，到先锋艺术家的抽象实验，看遮挡怎样变成影像",
+  "topicType": "technique",
+  "category": "graphic_design",
+  "period": "19世纪早期实验；1910—1920年代先锋发展",
+  "regions": [
+    "英国",
+    "欧洲"
+  ],
+  "tags": [
+    "无相机摄影",
+    "Photogram",
+    "感光纸",
+    "遮挡",
+    "明暗反转",
+    "材料实验",
+    "平面构成"
+  ],
+  "summary": "把物体放在感光材料上曝光，影像可以绕过相机和镜头。物体的轮廓、透光程度与摆放关系直接参与成像；从记录植物到组织抽象形状，同一原理可以产生不同的观看经验。",
+  "style_summary": "无相机摄影｜让物体替光留下形状-浅形暗底，枝叶留痕，透光灰阶，疏密对照，材料成像",
+  "context": "一句话认识\n无相机摄影中的物影成像（photogram），通过物体遮挡、透过或改变到达感光材料的光，留下影像。它不靠镜头投射远处场景，也不等于把一张普通照片套上负片滤镜。不同材料和工艺会形成不同颜色，不能一概说成黑白照片。\n\n历史背景：从记录走向构成\n塔尔博特在1830年代探索称为photogenic drawing的光绘方法。19世纪的植物和羽毛可以留下细密影迹；到1919年的沙德、1920年代的曼·雷和莫霍利-纳吉，日常物体又进入先锋艺术的构成实验。技法不是某一位现代艺术家凭空发明的；Rayograph和Schadograph也不应当作独立艺术流派。\n\n完整欣赏：枝条怎样留在纸上\n本篇第一张实图是塔尔博特1839年的《Wrack》。海藻直接放在感光纸上，遮住部分日光，在较暗底色中留下浅色分枝。由下向上的主干分出许多细枝，空隙把它们彼此分开。册页的白边、装裱和手写标签也保留在馆方图中，不是海藻原有的一部分。\n\n具体讲解：影像不只是外轮廓\n再看斯托里-马斯基林约1840年的《鸡羽》。羽毛较厚处、轻薄绒毛及细缝，让光以不同程度到达纸面，留下成片浅色、较深条纹与细羽丝。这里的深浅不是画笔涂出的体积阴影，而与材料和曝光有关；也不能从最终照片反推出每处精确的照明参数。\n\n从局部回到整体\n在整张鸡羽影像里，大小不同的羽毛改变了空隙和重心。细羽丝提供局部质感，周围较宽的暗底让轮廓显现。先看一根羽毛的边缘，再退回整张，便能同时读到自然材料的结构与人为安排的构图。两张历史实图的棕色调属于这些具体印相，不用数字反色替它们制造“标准黑白”。\n\n先锋实验：物品也能成为抽象语言\n沙德让碎纸和织物参与曝光；曼·雷把日用品组织成抽象影像；莫霍利-纳吉把手、画笔与光的关系纳入实验。这些重要参考作品保留馆方链接，供进一步阅读。它们与早期光绘共享直接成像的思路，却在对象选择、摆放和艺术语境上不同。\n\n艺术风格总结\n无相机摄影把“描绘物体”变成“安排物体怎样改变光”。浅形与暗底互相定义，透明度带来层次，边缘保留材料的痕迹；构图既来自真实物体，也来自创作者的选择。值得学习的是光、材料和空隙的关系，而非复制一种反色外观。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "材料的摆放就是构图",
+      "description": "海藻分枝向上伸展，羽毛则以不同大小和位置分布。方向、间隔和重心来自物体的选择与摆放，并非必须遵循镜头中的场景透视。"
+    },
+    {
+      "key": "lighting",
+      "label": "光被挡住，形状留下",
+      "description": "在本篇早期光绘中，受到较多日光的背景变暗，遮光处留下浅形。半透明结构和缝隙带来层次；这一明暗关系不能机械套用到所有摄影材料和后续翻印。"
+    },
+    {
+      "key": "form",
+      "label": "轮廓与细线一起描述对象",
+      "description": "海藻的主干、细枝及周围空隙形成可辨认的整体；鸡羽的边缘由细羽丝构成，柔软质感并非靠额外画出阴影表现。"
+    },
+    {
+      "key": "material",
+      "label": "透光差异进入影像",
+      "description": "物体不是单纯被拍摄的对象，也参与控制光。厚薄、孔隙和相互遮挡可以改变记录；屏幕上看到的是历史印相的数字图像，不是原物的完整触感。"
+    },
+    {
+      "key": "color",
+      "label": "具体作品有具体色调",
+      "description": "两张实图保留棕褐或棕灰底与浅色形迹。photogram描述成像方式，并不规定作品只能是纯黑与纯白；材料、工艺与保存状态也关系到今天所见的色调。"
+    }
+  ],
+  "people": [
+    {
+      "name": "威廉·亨利·福克斯·塔尔博特 William Henry Fox Talbot",
+      "role": "早期光绘实践者，《Wrack》作者"
+    },
+    {
+      "name": "内维尔·斯托里-马斯基林 Nevil Story Maskelyne",
+      "role": "《鸡羽》作者，早期无相机光绘实践者"
+    },
+    {
+      "name": "克里斯蒂安·沙德 Christian Schad；曼·雷 Man Ray；拉斯洛·莫霍利-纳吉 László Moholy-Nagy",
+      "role": "20世纪先锋无相机摄影的重要实践者，各有不同语境和命名"
+    }
+  ],
+  "works": [
+    {
+      "id": "wrack",
+      "title": "海藻 Wrack（册页原图）",
+      "creator": "William Henry Fox Talbot",
+      "year": "1839",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/282756",
+      "image": {
+        "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+        "alt": "棕色感光影像中，浅色海藻从下方向上分出细枝；原图保留册页边框与下方手写标签。",
+        "credit": "William Henry Fox Talbot，《Wrack》，1839，盐纸印相，36.37 (25)，Harris Brisbane Dick Fund, 1936；The Metropolitan Museum of Art，Public Domain / Open Access，CC0。保留馆方完整图像和原色；卡片仅调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/282756",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "feathers",
+      "title": "鸡羽 [Chicken Feathers]",
+      "creator": "Nevil Story Maskelyne",
+      "year": "约1840",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/282008",
+      "image": {
+        "src": "/images/entries/2026-11-11-photogram-feathers.jpg",
+        "alt": "棕灰色底上排列大小不同的浅色鸡羽影像，细羽丝和条纹形成深浅变化，保留不规则纸边。",
+        "credit": "Nevil Story Maskelyne，《[Chicken Feathers]》，约1840，盐纸印相，1997.382.5；The Rubel Collection, Purchase, Lila Acheson Wallace and Anonymous Gifts, 1997；The Metropolitan Museum of Art，Public Domain / Open Access，CC0。保留馆方完整图像和原色；卡片仅调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/282008",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "schadograph",
+      "title": "Schadograph 27 (Jeudi IV)",
+      "creator": "Christian Schad",
+      "year": "1919，印制于1919",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/265416",
+      "image": null
+    },
+    {
+      "id": "rayograph",
+      "title": "[Rayograph; Comb, Straight Razor Blade, Needle and Other Forms]",
+      "creator": "Man Ray",
+      "year": "1922",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/265347",
+      "image": null
+    },
+    {
+      "id": "fotogramm",
+      "title": "Fotogramm（Met 1987.1100.158）",
+      "creator": "László Moholy-Nagy",
+      "year": "1926",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/265197",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "相机摄影与数字反色",
+    "description": "相机通常让镜头把场景投到感光表面；photogram直接安排物体与感光材料的关系。数字反色只改变已有像素的明暗颜色，不能重现原物厚薄、位置和实际曝光所生成的全部信息。三者都能创作，但媒介过程不同。"
+  },
+  "applications": [
+    "平面构成：先用实物轮廓和空隙建立主次，再加入文字，观察画面是否仍有清晰入口。",
+    "材料研究：比较叶片、织物或半透明包装怎样透光，把观察结果转成自己的设计语言，并准确注明实作方法。",
+    "图像教学：把成像过程与最终影像对应，区分真实原作、模拟练习与数字处理，避免用相似外观混淆媒介。"
+  ],
+  "experiment": "在成人协助下，用手电筒把纸片和半透明纸的影子投在白纸上，改变距离与重叠，再比较轮廓和明暗。用普通笔记录观察即可。这只是光影观察，不会在纸上形成photogram，也不需要自行配制感光药剂。",
+  "nextTopics": [
+    "相纸上的接触曝光与后续翻印怎样区分",
+    "摄影中的透明、半透明与不透明材料"
+  ],
+  "relatedIds": [
+    "2026-10-28-cyanotype",
+    "2026-10-06-bauhaus"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+    "alt": "棕色感光影像中，浅色海藻从下方向上分出细枝；原图保留册页边框与下方手写标签。",
+    "credit": "William Henry Fox Talbot，《Wrack》，1839，盐纸印相，36.37 (25)，Harris Brisbane Dick Fund, 1936；The Metropolitan Museum of Art，Public Domain / Open Access，CC0。保留馆方完整图像和原色；卡片仅调整显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/282756",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "An A to Z of photographic processes",
+      "url": "https://www.vam.ac.uk/articles/photographic-processes",
+      "publisher": "Victoria and Albert Museum",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取Photogenic drawing与Photogram小节，核对无相机、无镜头、物体遮挡感光材料后曝光的定义；早期光绘形成浅物暗底。与Harvard和Met交叉核对。未将所有无相机影像写成黑白或同一种化学工艺。"
+    },
+    {
+      "title": "Photogenic Drawings",
+      "url": "https://saltprintsatharvard.hsites.harvard.edu/photogenic-drawing",
+      "publisher": "Harvard Library；Salt Prints at Harvard",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取原始研究教学页，核对塔尔博特1834年开始实验、早期光绘不用相机、感光纸受日光变暗、遮挡处浅，及植物和蕾丝的应用。与V&A和Met具体作品页交叉核对，不把本篇做成化学配方教程。"
+    },
+    {
+      "title": "Wrack",
+      "url": "https://www.metmuseum.org/art/collection/search/282756",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与API objectID 282756，核对塔尔博特、1839、盐纸印相、36.37 (25)，略透光海藻直接置于感光纸。页面Public Domain与API isPublicDomain true一致。官网原图CDN连接重置后改用作品页实际提供的官方IIIF main-image入口，下载查看950×1200，保留整张册页；不是另一个版本，也不是AI重画。"
+    },
+    {
+      "title": "[Chicken Feathers]",
+      "url": "https://www.metmuseum.org/art/collection/search/282008",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与API objectID 282008，核对Nevil Story Maskelyne、约1840、盐纸印相、1997.382.5、Public Domain和isPublicDomain true。由同页官方IIIF入口下载查看1200×1136图，条纹、羽丝与不规则纸边实际可读，不上采样或新造细节。"
+    },
+    {
+      "title": "Schadograph 27 (Jeudi IV)",
+      "url": "https://www.metmuseum.org/art/collection/search/265416",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页，核对沙德、1919制作并印制、纸片报纸与织物放在相纸上曝光；Schadograph名称来自特里斯坦·查拉的命名。页面标注ARS版权，未取得转载许可，作品仅作链接参考。"
+    },
+    {
+      "title": "[Rayograph; Comb, Straight Razor Blade, Needle and Other Forms]",
+      "url": "https://www.metmuseum.org/art/collection/search/265347",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页，核对曼·雷、1922、银盐照片、将日常物体在感光纸上直接曝光，与塔尔博特技法有延续。页面标注ARS版权，本篇不下载、不嵌入或生成该作品替代图。"
+    },
+    {
+      "title": "Fotogramm",
+      "url": "https://www.metmuseum.org/art/collection/search/265197",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与官方API，核对莫霍利-纳吉、1926、银盐照片、1987.1100.158、手和画笔的直接曝光。API isPublicDomain false且primaryImage为空，本篇只保留参考链接；未按作者逝世年份擅自推定具体图像开放。"
+    },
+    {
+      "title": "The Photograms",
+      "url": "https://www.moholy-nagy.org/photograms/",
+      "publisher": "Moholy-Nagy Foundation",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取基金会作品总目介绍，交叉核对莫霍利-纳吉与包豪斯、1922—1943年的无相机摄影实践及物体在感光纸上留下光迹。该页关于术语创造者的表述不用于本篇，不将艺术家写成这一技法唯一发明者；书封及作品图不转载。"
+    },
+    {
+      "title": "Open Access at The Met",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取公版图像以CC0开放的政策；仅对作品页与API逐件确认为公版的Wrack和Chicken Feathers使用该许可，不将馆方全站开放政策套给沙德、曼·雷或莫霍利-纳吉作品。"
+    }
+  ],
+  "updatedAt": null,
+  "children": {
+    "ageRange": "5-7",
+    "title": "无相机摄影｜光留下的海藻和羽毛",
+    "summary": "摄影有时可以不用相机。很久以前，塔尔博特把海藻放在特别处理过的纸上，让光留下它的形状。另一位创作者斯托里-马斯基林，也用羽毛留下了影像。",
+    "looking": "先看完整的《海藻》和《鸡羽》。它们是历史作品的照片。浅色枝条和羽毛，出现在较暗的纸面上；不是用白色画笔一根根涂出来的。",
+    "featuredWorkIds": [
+      "wrack",
+      "feathers"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "看海藻，也看枝条间的空隙",
+          "paragraphs": [
+            "先把目光移到海藻的细枝。粗一些的主干分出小枝，小枝之间露出棕色。那些空隙把不同方向的枝条分开，形状就能看清。",
+            "这张作品用光留下形状：海藻放在会随光变化的感光纸上。日光照到的地方变暗，被海藻挡住的地方比较浅。光和海藻一起留下了影像。"
+          ]
+        },
+        {
+          "title": "走近羽毛的边缘，再看整张",
+          "paragraphs": [
+            "再看羽毛边缘。细细的羽丝向外伸，旁边有轻有重的灰色。羽毛的厚薄和细缝，会改变到达纸上的光，所以留下的不只是一块简单的白色。",
+            "现在回看完整作品。大的羽毛和小的羽毛旁边，留着不同宽度的暗色空隙。细羽丝帮助我们感到柔软，空隙又让整张影像有松有紧。"
+          ]
+        },
+        {
+          "title": "把光的发现带回生活",
+          "paragraphs": [
+            "回看两张作品，海藻和羽毛都来自真实物品，却留下了和平时不同的明暗。第一张外面的白色册页和小标签，是保存作品的页面，不是海藻。",
+            "阳光透过窗帘，或灯光被手掌挡住时，也会出现明暗和轮廓。生活中的影子可以帮助理解光，但普通纸上的影子不会自己留下照片。我们欣赏、聊一聊，就完成这次阅读。"
+          ]
+        }
+      ],
+      "reflection": "这些浅浅的形状带给你什么感受？可以用一个词、一个动作或一小段声音表达。"
+    },
+    "takeaway": "物体能改变光，光也能帮助我们重新看见物体。",
+    "parentNote": "先看完整实图，再用目光走近枝条和羽丝，最后回看整张。无需辨认物种、数羽毛或背化学名称。两张原图长边1200像素，已能支持本篇讲解，不另做放大裁切；只欣赏与交谈就是完整阅读。"
+  }
+}

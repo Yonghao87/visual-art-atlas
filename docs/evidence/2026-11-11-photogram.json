@@ -1,0 +1,221 @@
+{
+  "entryId": "2026-11-11-photogram",
+  "date": "2026-11-11",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "4ec7f1c5-0fdd-42d9-89cd-c2825376b541",
+    "volume": "027",
+    "capturedAt": "2026-11-11T09:39:25.772Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "sameDayExtra": {
+    "userRequest": "再制作一篇",
+    "approvedDate": "2026-11-11",
+    "otherPublishedEntry": "2026-11-11-chaekgeori",
+    "scope": "用户明确要求同日额外一篇，真实记当日日期；常规定时任务仍一天一篇。本次原始validate:daily的当天唯一性条件与明确加更冲突，记录这一单项例外；其余字段、来源、实图、内容检查、测试和部署要求全部保留。不修改验证器或既有档案。"
+  },
+  "selection": {
+    "selectedVolume": "027",
+    "selectedBeforeImageResearch": true,
+    "parked": [
+      {
+        "volume": "026",
+        "topic": "Syd Mead",
+        "reason": "实际读取官方商店作品页，未取得可覆盖本站转载的作品图许可；挂起后继续，未标完成。",
+        "sourceUrl": "https://shop.sydmead.com/products/future-pebble-beach-panoramic-print-unframed"
+      }
+    ],
+    "categoryReason": "沿用现有graphic_design，定位为摄影与平面视觉构成的技法专题，正文明确模拟摄影媒介，不称为数字绘画。",
+    "scope": "保留原选题19世纪起源及1910—1920年代先锋实验；两件早期实图解释同一技法，原选题沙德、曼雷、莫霍利-纳吉作品均保留为真实链接参考。"
+  },
+  "sources": [
+    {
+      "title": "An A to Z of photographic processes",
+      "url": "https://www.vam.ac.uk/articles/photographic-processes",
+      "publisher": "Victoria and Albert Museum",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取Photogenic drawing与Photogram小节，核对无相机、无镜头、物体遮挡感光材料后曝光的定义；早期光绘形成浅物暗底。与Harvard和Met交叉核对。未将所有无相机影像写成黑白或同一种化学工艺。"
+    },
+    {
+      "title": "Photogenic Drawings",
+      "url": "https://saltprintsatharvard.hsites.harvard.edu/photogenic-drawing",
+      "publisher": "Harvard Library；Salt Prints at Harvard",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取原始研究教学页，核对塔尔博特1834年开始实验、早期光绘不用相机、感光纸受日光变暗、遮挡处浅，及植物和蕾丝的应用。与V&A和Met具体作品页交叉核对，不把本篇做成化学配方教程。"
+    },
+    {
+      "title": "Wrack",
+      "url": "https://www.metmuseum.org/art/collection/search/282756",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与API objectID 282756，核对塔尔博特、1839、盐纸印相、36.37 (25)，略透光海藻直接置于感光纸。页面Public Domain与API isPublicDomain true一致。官网原图CDN连接重置后改用作品页实际提供的官方IIIF main-image入口，下载查看950×1200，保留整张册页；不是另一个版本，也不是AI重画。"
+    },
+    {
+      "title": "[Chicken Feathers]",
+      "url": "https://www.metmuseum.org/art/collection/search/282008",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与API objectID 282008，核对Nevil Story Maskelyne、约1840、盐纸印相、1997.382.5、Public Domain和isPublicDomain true。由同页官方IIIF入口下载查看1200×1136图，条纹、羽丝与不规则纸边实际可读，不上采样或新造细节。"
+    },
+    {
+      "title": "Schadograph 27 (Jeudi IV)",
+      "url": "https://www.metmuseum.org/art/collection/search/265416",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页，核对沙德、1919制作并印制、纸片报纸与织物放在相纸上曝光；Schadograph名称来自特里斯坦·查拉的命名。页面标注ARS版权，未取得转载许可，作品仅作链接参考。"
+    },
+    {
+      "title": "[Rayograph; Comb, Straight Razor Blade, Needle and Other Forms]",
+      "url": "https://www.metmuseum.org/art/collection/search/265347",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页，核对曼·雷、1922、银盐照片、将日常物体在感光纸上直接曝光，与塔尔博特技法有延续。页面标注ARS版权，本篇不下载、不嵌入或生成该作品替代图。"
+    },
+    {
+      "title": "Fotogramm",
+      "url": "https://www.metmuseum.org/art/collection/search/265197",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取作品页与官方API，核对莫霍利-纳吉、1926、银盐照片、1987.1100.158、手和画笔的直接曝光。API isPublicDomain false且primaryImage为空，本篇只保留参考链接；未按作者逝世年份擅自推定具体图像开放。"
+    },
+    {
+      "title": "The Photograms",
+      "url": "https://www.moholy-nagy.org/photograms/",
+      "publisher": "Moholy-Nagy Foundation",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取基金会作品总目介绍，交叉核对莫霍利-纳吉与包豪斯、1922—1943年的无相机摄影实践及物体在感光纸上留下光迹。该页关于术语创造者的表述不用于本篇，不将艺术家写成这一技法唯一发明者；书封及作品图不转载。"
+    },
+    {
+      "title": "Open Access at The Met",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-11",
+      "verificationNote": "实际读取公版图像以CC0开放的政策；仅对作品页与API逐件确认为公版的Wrack和Chicken Feathers使用该许可，不将馆方全站开放政策套给沙德、曼·雷或莫霍利-纳吉作品。"
+    }
+  ],
+  "crossChecks": "V&A、Harvard和Met独立交叉核对直接曝光及浅形暗底；Met作品页与API核对具体身份和逐图公版；基金会与Met交叉核对莫霍利-纳吉实践。",
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-11-photogram-wrack.jpg",
+      "downloadUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/282756/612837/main-image",
+      "apiPrimaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP202248.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/282756",
+      "width": 950,
+      "height": 1200,
+      "bytes": 141626,
+      "sha256": "67392476ca99e932298dd874b31d1405ee65b9846d9ba8021cf408d93e2d6fe7",
+      "objectID": 282756,
+      "accessionNumber": "36.37 (25)",
+      "isPublicDomain": true,
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "William Henry Fox Talbot，《Wrack》，1839，盐纸印相，36.37 (25)，Harris Brisbane Dick Fund, 1936；The Metropolitan Museum of Art，Public Domain / Open Access，CC0。保留馆方完整图像和原色；卡片仅调整显示范围。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "note": "下载自作品页实际提供的官方IIIF入口，完整保留纸边与册页，不作AI处理、重画、上采样或色彩反转。无局部裁切。"
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-11-photogram-feathers.jpg",
+      "downloadUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/282008/611869/main-image",
+      "apiPrimaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP167354.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/282008",
+      "width": 1200,
+      "height": 1136,
+      "bytes": 125248,
+      "sha256": "fdb14f1317d4a503e0b408751bbc0c2c45561f76d9a18a5e7bf5ee2f60b6977b",
+      "objectID": 282008,
+      "accessionNumber": "1997.382.5",
+      "isPublicDomain": true,
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Nevil Story Maskelyne，《[Chicken Feathers]》，约1840，盐纸印相，1997.382.5；The Rubel Collection, Purchase, Lila Acheson Wallace and Anonymous Gifts, 1997；The Metropolitan Museum of Art，Public Domain / Open Access，CC0。保留馆方完整图像和原色；卡片仅调整显示范围。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "note": "下载自作品页实际提供的官方IIIF入口，完整保留纸边与册页，不作AI处理、重画、上采样或色彩反转。无局部裁切。"
+    }
+  ],
+  "editorialReview": {
+    "adult": "背景—完整观看—材料与曝光的具体分析—整体构图—先锋参考—应用实验—艺术风格总结。",
+    "children": "5–7岁，3节、每节2段、先整体—局部文字观察—整体—一个开放感受—生活联系；不做认字计数问答，不强制活动。",
+    "detailDecision": "实际查看950×1200及1200×1136图。边缘和枝条在原图中可读，但不以局部放大声称出现新信息；本篇不填detail。"
+  },
+  "newFiles": [
+    "src/data/entries/2026-11-11-photogram.json",
+    "public/images/entries/2026-11-11-photogram-wrack.jpg",
+    "public/images/entries/2026-11-11-photogram-feathers.jpg",
+    "docs/evidence/2026-11-11-photogram.json"
+  ],
+  "validation": {
+    "status": "passed-with-user-authorized-same-day-exception",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-11-photogram.json",
+      "exitCode": 1,
+      "soleError": "当天已有另一份正式档案，禁止重复日更",
+      "userOverride": "本次用户明确要求“再制作一篇”，同日加更一篇；常规定时仍一天一篇。",
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/daily-original.log"
+    },
+    "dailyOtherConditions": {
+      "command": "node --import tsx /private/tmp/visual-art-atlas-daily/2026-11-11/photogram/extra-audit.mts",
+      "exitCode": 0,
+      "assertion": "原始dailyEntryErrors仅有上述唯一性一项；日期、published、亲子lesson、主题风格速记、schema及全库引用全部正常。"
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/check.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/unit.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/build.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/e2e.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-11/photogram/diff.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "contentCount": 20,
+    "contentRepairs": 0,
+    "visualReview": {
+      "status": "passed",
+      "viewports": [
+        1440,
+        390
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-works.png",
+        "1440-family-whole.png",
+        "390-family-whole.png",
+        "390-family-feathers.png",
+        "1440-family-lesson.png",
+        "390-family-lesson.png"
+      ],
+      "notes": "完整原图与纸边保留，枝条、羽丝和空隙与讲解对应；两版两尺寸图像均加载，页面无横向溢出或浏览器异常；未展示现代受限作品图，不做低分辨率局部放大。"
+    }
+  }
+}
