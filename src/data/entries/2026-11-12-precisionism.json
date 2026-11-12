@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12-precisionism",
+  "date": "2026-11-12",
+  "status": "published",
+  "title": "美国精确主义｜把工业景观变成几何秩序",
+  "subtitle": "从粮仓、厂房与烟囱，看清晰边线和色面怎样建立现代生活的纪念碑感",
+  "topicType": "movement",
+  "category": "world_painting",
+  "period": "约1920年代起，延续至1930—1940年代",
+  "regions": [
+    "美国"
+  ],
+  "tags": [
+    "精确主义",
+    "工业景观",
+    "几何形体",
+    "硬边",
+    "纪念碑感",
+    "美国现代主义"
+  ],
+  "summary": "精确主义保留可辨认的现实对象，又用清楚轮廓、概括色面和受控制的表面处理重组它们。它是一批艺术家共享的倾向，并非有统一宣言的团体；工业景观中的秩序可以同时带来赞叹、安静或不安。",
+  "style_summary": "美国精确主义｜把工业景观变成几何秩序-清晰硬边，几何体块，克制色面，尺度对照，斜线切分",
+  "context": "认识风格\n约1920年前后，一些美国艺术家把现代厂房、粮仓和城市建筑作为绘画题材，以几何简化和清晰边线处理现实景象。他们没有正式组成团体或发布共同宣言。摄影的清晰取景与欧洲现代艺术的形体分析，都参与了这一视觉语言的形成。题材也包括农舍和静物，不能把精确主义限定成所有工厂画的统称。\n\n完整欣赏：《我的埃及》\n德穆斯1927年的《我的埃及》画的是家乡兰开斯特的粮食升降储存设施。中央浅色体块、右侧深色烟囱与下面较小的屋顶形成尺度关系；低视点让粮仓显得高大。它并非真正的古代建筑，标题把现代工业与古代纪念物联系起来。馆方提出不止一种解读，本篇不把其中某一种说成作者唯一意图。\n\n具体讲解：边线怎样建立体积\n先看粮仓：竖向轮廓稳定形状，圆弧提示筒体，冷暖、深浅略有区别的色面让表面转折可辨。再看穿过墙面和天空的斜向分区，它们给沉稳建筑增加方向变化。不是每条线都对应一个真实构件；画家仍在主动组织景物，而非机械抄录工程图。\n\n退回整体：精密不等于细节堆满\n右侧深色竖线与中央宽亮体块互相支撑，下面小屋顶提供尺度。将窗口、屋顶和筒体概括后，画面仍然可辨，却减少了零碎干扰。当前历史复制图适合辨认这种整体关系，不用它推断肉眼不可见的微小笔触。\n\n与其他作品比较\n希勒1930年的《美国风景》把福特River Rouge工厂当作风景；德里格斯1927年的《匹兹堡》则以灰色烟囱与钢架构成工业景象。工业形体可以显得严整，也可以令人感到压迫。精确主义的清晰表面不自动等于对技术的无条件歌颂。两件作品均保留馆藏参考链接。\n\n艺术风格总结\n精确主义以现实对象为基础，让硬边、几何体块和克制色面组成秩序。它的力量常来自尺度对照、方向关系与少而有效的细节；熟悉的建筑因此显得安静、稳定，甚至陌生。学习重点是选择和组织形体，而非把每一处表面画得同样细。",
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "几何概括：现实仍可辨认",
+      "description": "粮仓、烟囱和屋顶被概括为筒体、竖条与斜面；轮廓与部件保持对象身份，几何简化没有消除现实题材。"
+    },
+    {
+      "key": "composition",
+      "label": "尺度与方向：体块建立主次",
+      "description": "《我的埃及》的大粮仓、细长烟囱和下方小屋顶形成大小差。竖向边线稳定画面，斜色面又打破完全静止的排列。"
+    },
+    {
+      "key": "color",
+      "label": "有限色类中的深浅变化",
+      "description": "浅色墙面与蓝灰天空、深色烟囱互相区分；墙面内部仍有冷暖和明暗。不是每件精确主义作品都采用同一套工业灰配色。"
+    },
+    {
+      "key": "space",
+      "label": "低视点与分面：重组观看",
+      "description": "建筑被从较低位置观看，斜向平面跨越不同部位。由此形成纪念碑感与平面分割的并存，不能把整幅当成严格建筑测绘。"
+    }
+  ],
+  "people": [
+    {
+      "name": "查尔斯·德穆斯 Charles Demuth",
+      "role": "《我的埃及》作者，精确主义的重要实践者"
+    },
+    {
+      "name": "查尔斯·希勒 Charles Sheeler",
+      "role": "画家与摄影师，《美国风景》作者"
+    },
+    {
+      "name": "埃尔西·德里格斯 Elsie Driggs",
+      "role": "《匹兹堡》作者，工业题材绘画实践者"
+    }
+  ],
+  "works": [
+    {
+      "id": "my-egypt",
+      "title": "我的埃及 My Egypt",
+      "creator": "Charles Demuth",
+      "year": "1927",
+      "sourceUrl": "https://whitney.org/collection/works/635",
+      "image": {
+        "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+        "alt": "浅色粮仓占据画面中央，右侧深色烟囱直立，蓝灰天空与建筑被斜向色面穿过，下方可见较小屋顶。",
+        "credit": "Charles Demuth，《My Egypt》，1927；Whitney Museum of American Art，31.172。图像：Wikimedia Commons 的忠实二维复制，Public Domain / PD-Art。完整原图652×777；保留原色，不上采样、不另做局部放大，卡片可调整显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Demuth_-_My_Egypt.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    },
+    {
+      "id": "american-landscape",
+      "title": "美国风景 American Landscape",
+      "creator": "Charles Sheeler",
+      "year": "1930",
+      "sourceUrl": "https://www.moma.org/collection/works/79032",
+      "image": null
+    },
+    {
+      "id": "pittsburgh",
+      "title": "匹兹堡 Pittsburgh",
+      "creator": "Elsie Driggs",
+      "year": "1927",
+      "sourceUrl": "https://whitney.org/collection/works/125",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "立体主义与未来主义",
+    "description": "精确主义吸收了几何简化和动态构图等方法，但常保留可辨认的美国景物，以受控制的形体关系组织观看。不能仅凭硬边就把作品归类，也不能将立体主义或未来主义各缩减成一种固定公式。"
+  },
+  "applications": [
+    "建筑插画：先整理主要体块、观看角度和明暗，再选择必须保留的识别细节。",
+    "产品摄影与海报：利用宽窄、明暗和大小对照建立主次，不用无关纹理掩盖结构。",
+    "展陈讲解：把低视点、斜向分面和现实建筑身份对应，区分作品形式分析与未经证实的作者动机。"
+  ],
+  "experiment": "选择自己熟悉的建筑或纸盒组合，用普通纸笔画出主要轮廓，只用三种深浅区分相邻表面。退远观察，比较哪条边线帮助体积成立，哪条细节可以省略；不照搬德穆斯的具体构图。",
+  "nextTopics": [
+    "希勒的摄影怎样转入绘画构成",
+    "同一工业景观为何可以引出不同感受"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-10-cezanne-still-life"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+    "alt": "浅色粮仓占据画面中央，右侧深色烟囱直立，蓝灰天空与建筑被斜向色面穿过，下方可见较小屋顶。",
+    "credit": "Charles Demuth，《My Egypt》，1927；Whitney Museum of American Art，31.172。图像：Wikimedia Commons 的忠实二维复制，Public Domain / PD-Art。完整原图652×777；保留原色，不上采样、不另做局部放大，卡片可调整显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Demuth_-_My_Egypt.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Precisionism",
+      "url": "https://www.metmuseum.org/essays/precisionism",
+      "publisher": "The Metropolitan Museum of Art；Jessica Murphy",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取艺术史专题，核对约1920年发展、艺术家无正式团体或宣言、几何简化、清晰轮廓、摄影影响及工业/农业题材。与Whitney和MoMA作品解读交叉核对，不将艺术家写成一律赞美机器或一律省略人物。"
+    },
+    {
+      "title": "My Egypt",
+      "url": "https://whitney.org/collection/works/635",
+      "publisher": "Whitney Museum of American Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取31.172馆藏页，核对德穆斯、1927、板上油彩/人工粉笔/石墨、兰开斯特Eshelman粮食升降储存设施、低视点、邻屋尺度及交叉斜面。馆方对标题的多种解释仅视为解读，不写成确定动机。该站通用artist/estate版权标注不作为本篇图像许可，图像来自另行核验的Commons公版复制文件。"
+    },
+    {
+      "title": "American Landscape",
+      "url": "https://www.moma.org/collection/works/79032",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取作品页，核对希勒、1930、布面油画、166.1934、福特River Rouge工厂及1927摄影背景。页面复制许可需联系Art Resource/Scala，本篇仅保留作品链接，不下载该图。"
+    },
+    {
+      "title": "Pittsburgh",
+      "url": "https://whitney.org/collection/works/125",
+      "publisher": "Whitney Museum of American Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取31.177馆藏页，核对德里格斯、1927、布面油画、灰色工业构图及结构秩序。馆方标注艺术家遗产版权，本篇仅作参考链接，不展示原图，不把解读写成作者确定心理。"
+    },
+    {
+      "title": "File:Charles Demuth - My Egypt.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_Demuth_-_My_Egypt.jpg",
+      "publisher": "Wikimedia Commons",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取文件详情，作者1935年去世、1927作品、Whitney 31.172、来源指向布法罗大学教学图；明确PD-old-80-expired、美国1931年前发表公版和PD-Art忠实二维复制。下载实际查看652×777、55723字节原文件，与Whitney图像构图和作品身份对应。此历史复制图低于1200长边目标，但粮仓体块、烟囱与斜色面实际清楚；只讲大关系，不作笔触微观或放大细节。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "精确主义｜粮仓的直线和圆弧",
+    "summary": "精确主义是一些美国艺术家共同使用过的绘画方式。他们常把建筑画得轮廓清楚、形状简洁。今天看德穆斯1927年的《我的埃及》，一座存放粮食的建筑怎样变成画面主角。",
+    "looking": "先看完整作品。中央是浅色粮仓，右边立着深色烟囱，下面露出小屋顶。蓝灰色天空和墙面上，还有斜着穿过的色带。这是一幅画，不是建筑照片。",
+    "featuredWorkIds": [
+      "my-egypt"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "先看粮仓的边缘",
+          "paragraphs": [
+            "目光先移到中央。直直的边线围住大块浅色，顶部又弯成圆弧。圆柱就是像罐子一样、带圆弧和直边的立体形状。画家让我们很容易看出这些大形状。",
+            "墙面不是完全一样的白：有的偏暖，有的偏灰。相邻的深浅色块让平平的画面显出体积，不必把每一块砖都画出来。"
+          ]
+        },
+        {
+          "title": "跟着斜线，再退回整幅",
+          "paragraphs": [
+            "再看穿过建筑的斜色带。它们把大色面分开，眼睛会沿着方向移动。这是画家组织画面的方式，不能把每条斜线都当作真实管道。",
+            "现在回看整幅。右边深色烟囱又高又直，中央粮仓宽而亮，下面的小屋顶显得更小。几种大小和方向放在一起，粮仓就像站到了我们面前。"
+          ]
+        },
+        {
+          "title": "把形状带回生活",
+          "paragraphs": [
+            "德穆斯没有把建筑画成完全抽象的图案：窗、粮仓和烟囱仍然可以辨认。精确主义把熟悉的物体概括得清楚，又让它们有特别的秩序。",
+            "生活里水杯的圆弧、门框的直线和屋顶的斜边，也能这样观察。看近一点，再看整个物件，能发现小形状怎样组成大形状。只欣赏和交谈，就完成了这次阅读。"
+          ]
+        }
+      ],
+      "reflection": "这座粮仓带给你什么感受？可以用一个词、一个动作或一段声音表达。"
+    },
+    "takeaway": "清楚的边线、不同的色面和大小关系，能让普通建筑变得有力量。",
+    "parentNote": "先看完整图，再用目光指向轮廓和色面，最后回到整幅。不要求数形状、背人物或画出标准圆柱。图像是652×777的历史公版复制，适合看整体构图，不据放大推断微小笔触；不把粮仓说成真实的埃及神庙。"
+  },
+  "updatedAt": null
+}

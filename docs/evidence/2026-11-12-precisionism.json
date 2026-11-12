@@ -1,0 +1,147 @@
+{
+  "entryId": "2026-11-12-precisionism",
+  "date": "2026-11-12",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-12/precisionism",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "4bb49569-9aab-4036-8363-1b934189b846",
+    "volume": "029",
+    "capturedAt": "2026-11-11T09:39:25.772Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "selectedBeforeImageResearch": true,
+    "held": [
+      {
+        "volume": "028",
+        "reason": "实际读取MoMA沃采克馆藏，复制图像需向Art Resource或Scala申请；未取得本站展示许可。挂起而非完成。",
+        "sourceUrl": "https://www.moma.org/collection/works/7203"
+      }
+    ],
+    "duplicateVolume": "034与已发布012巴拉甘主题重复，单列重复，不计新篇"
+  },
+  "sources": [
+    {
+      "title": "Precisionism",
+      "url": "https://www.metmuseum.org/essays/precisionism",
+      "publisher": "The Metropolitan Museum of Art；Jessica Murphy",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取艺术史专题，核对约1920年发展、艺术家无正式团体或宣言、几何简化、清晰轮廓、摄影影响及工业/农业题材。与Whitney和MoMA作品解读交叉核对，不将艺术家写成一律赞美机器或一律省略人物。"
+    },
+    {
+      "title": "My Egypt",
+      "url": "https://whitney.org/collection/works/635",
+      "publisher": "Whitney Museum of American Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取31.172馆藏页，核对德穆斯、1927、板上油彩/人工粉笔/石墨、兰开斯特Eshelman粮食升降储存设施、低视点、邻屋尺度及交叉斜面。馆方对标题的多种解释仅视为解读，不写成确定动机。该站通用artist/estate版权标注不作为本篇图像许可，图像来自另行核验的Commons公版复制文件。"
+    },
+    {
+      "title": "American Landscape",
+      "url": "https://www.moma.org/collection/works/79032",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取作品页，核对希勒、1930、布面油画、166.1934、福特River Rouge工厂及1927摄影背景。页面复制许可需联系Art Resource/Scala，本篇仅保留作品链接，不下载该图。"
+    },
+    {
+      "title": "Pittsburgh",
+      "url": "https://whitney.org/collection/works/125",
+      "publisher": "Whitney Museum of American Art",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取31.177馆藏页，核对德里格斯、1927、布面油画、灰色工业构图及结构秩序。馆方标注艺术家遗产版权，本篇仅作参考链接，不展示原图，不把解读写成作者确定心理。"
+    },
+    {
+      "title": "File:Charles Demuth - My Egypt.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_Demuth_-_My_Egypt.jpg",
+      "publisher": "Wikimedia Commons",
+      "verifiedAt": "2026-11-12",
+      "verificationNote": "实际读取文件详情，作者1935年去世、1927作品、Whitney 31.172、来源指向布法罗大学教学图；明确PD-old-80-expired、美国1931年前发表公版和PD-Art忠实二维复制。下载实际查看652×777、55723字节原文件，与Whitney图像构图和作品身份对应。此历史复制图低于1200长边目标，但粮仓体块、烟囱与斜色面实际清楚；只讲大关系，不作笔触微观或放大细节。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Demuth_-_My_Egypt.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Charles_Demuth_-_My_Egypt.jpg",
+      "identity": "Charles Demuth, My Egypt, 1927, Whitney 31.172",
+      "width": 652,
+      "height": 777,
+      "sha256": "c3c553ad261fd6ec890b6d0e6c0b59640163313e2aad3d86db1e2ffa60b72ca8",
+      "bytes": 55723,
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Charles Demuth，《My Egypt》，1927；Whitney Museum of American Art，31.172。图像：Wikimedia Commons 的忠实二维复制，Public Domain / PD-Art。完整原图652×777；保留原色，不上采样、不另做局部放大，卡片可调整显示范围。",
+      "rightsReason": "Commons文件明确PD-old-80-expired、PD-Art及美国1931年前发表。作者1935逝世，非仅摄影师CC许可；不声称Whitney已授权站点转载，使用独立公版二维复制。",
+      "resolutionException": "历史作品复制图低于1200长边目标；已实际查看，主要筒体、烟囱、屋顶和斜向分面可读。本篇只讲整体色面和轮廓，不做局部放大，不上采样，不推断新细节。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true
+    }
+  ],
+  "crossChecks": "Met精确主义专题与Whitney、MoMA作品解读独立核对工业题材、几何概括与秩序感；作品身份逐件馆藏核对，图像许可另读Commons文件。",
+  "newFiles": [
+    "src/data/entries/2026-11-12-precisionism.json",
+    "public/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+    "docs/evidence/2026-11-12-precisionism.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "daily": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-12-precisionism.json",
+      "exitCode": 0
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-12/precisionism/content.log"
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-12/precisionism/check.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-12/precisionism/unit.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-12/precisionism/build.log"
+      },
+      {
+        "command": "ASTRO_TELEMETRY_DISABLED=1 npm run test:e2e",
+        "exitCode": 0,
+        "tests": 26,
+        "environmentRetry": "首次沙盒禁止绑定127.0.0.1，授权后原命令通过；无内容或测试修改。"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "contentRepairs": 0,
+    "contentCount": 21,
+    "visualReview": {
+      "status": "passed",
+      "viewports": [
+        1440,
+        390
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-family-whole.png",
+        "1440-family-lesson.png",
+        "390-family-lesson.png"
+      ],
+      "notes": "原图与所述粮仓轮廓、圆弧、深浅色面和烟囱大小对应。历史图652×777可读；没有以低清局部放大虚构细节。两版图片均加载，无溢出及浏览器异常。"
+    }
+  }
+}
