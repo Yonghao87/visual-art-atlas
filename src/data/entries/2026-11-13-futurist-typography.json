@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-13-futurist-typography",
+  "date": "2026-11-13",
+  "status": "published",
+  "title": "意大利未来主义字体实验｜让文字像爆炸一样冲出纸面",
+  "subtitle": "从1914年书封与折页，看字号、字重、方向和空白怎样把阅读变成观看",
+  "topicType": "design_method",
+  "category": "graphic_design",
+  "period": "1910年代至1930年代；核心实例为1914年版书籍",
+  "regions": [
+    "意大利"
+  ],
+  "tags": [
+    "未来主义",
+    "实验字体",
+    "自由文字",
+    "活版印刷",
+    "书籍设计",
+    "视觉节奏"
+  ],
+  "summary": "未来主义字体实验让文字的意义和可见形态共同表达：大小、粗细、方向、重复与空白都参与构图。本篇以同一本1914年书籍的封面与折页为实例，讲清形式如何工作，也保留其战争与政治背景。",
+  "style_summary": "意大利未来主义字体实验｜让文字像爆炸一样冲出纸面-字号跳变，斜向动势，拟声重复，符号入画，疏密节奏",
+  "context": "认识方法：文字同时可以读、可以看\n1909年马里内蒂发表未来主义宣言。1912年前后，他开始发展自由文字；1913年的宣言进一步阐述这种方法。它松开惯常句法和版面顺序，让拟声、符号、字形与空间共同传达感受。这里的“未来主义”是具体的历史运动，并非所有带科技感字体的统称。[1][4][5]\n\n完整欣赏：1914年的《Zang tumb tuuum》\n这本书在米兰出版，背景是作者作为战地记者经历的1912年阿德里安堡围城。书封上的1912是题材时间，底部出版行的1914才是本书出版年。MoMA将该书记录为活版印刷，并另记Cesare Cavanna承担排印设计；诗人与排印实践共同构成了作品的物质形态。本篇封面和折页来自普林斯顿的同一个馆藏本。[1][3]\n\n具体讲解一：字号和字重构成分量\n先看书封中央的粗体TUMB，再看上方相对细的署名。大面积黑色字形在黄底上形成强对比；粗细与大小区别提供阅读入口。下半部重复的TUUUMB沿斜线逐渐缩小，视觉上形成延续和减弱的节奏。这是对可见形式的分析，不是把每种大小都机械翻译成固定音量。\n\n具体讲解二：方向、空白与符号组织关系\n再看Carta sincrona折页。横向标题、斜向文字、竖排词组与长直线并存，加号、等号和箭头也进入布局。目光无法只沿一条普通正文行走，而要在不同区域之间移动。空白让密集片段分开；变化仍然依赖可辨认的方向和间隔，并非把整页无差别填满。这里展示的是书内折页扫描，不是另作的一幅独立海报。\n\n退回整体：声音的视觉化，也有历史代价\n书名关联机械战争的声响，这种实验不能只当成轻快的现代装饰。未来主义的战争美化、马里内蒂后来与法西斯主义的结盟，都属于理解作品的必要语境。学习字体如何表达力量，同时需要审视力量服务的内容。达达也打破文字常规，却在军国主义问题上采取不同立场；两者不能因版面都“乱”就混为一谈。[4][5]\n\n延伸到书籍对象\n德佩罗1927年的《Depero Futurista》将螺栓装订纳入书籍形象。它提醒我们，视觉传达还包括书如何打开、如何被拿起，而不止一张平面。该书在本篇保留馆藏参考入口；不把现代复刻本、原版及本篇1914年的书混称为同一版本。[6][7]\n\n艺术风格总结\n未来主义字体把字形当作有分量、有方向的视觉材料，以尺度跳变、斜向运动和重复建立节奏。黑色印迹与纸面空白互相作用，文字的意义与外形一起参与表达。借鉴时应明确阅读入口与内容目的：动感来自有组织的关系，不来自任意倾斜和堆满，也不能脱离原作的战争与政治语境。",
+  "visualFeatures": [
+    {
+      "key": "typography",
+      "label": "字号与字重：形成视觉分量",
+      "description": "书封大而粗的TUMB与较小较细的文字形成层级；不同字形的黑色面积改变观看重点，不必另加插画才能产生力量。"
+    },
+    {
+      "key": "composition",
+      "label": "方向与重复：组织运动感",
+      "description": "下方斜向重复字形逐渐缩小，形成延续路径；折页横、竖、斜向并置，让观看在不同区域间切换。"
+    },
+    {
+      "key": "space",
+      "label": "空白与间隔：变化需要停顿",
+      "description": "文字组之间保留纸面空隙，折页的直线与箭头建立分区和联系。留白使变化可辨，繁忙不等于没有组织。"
+    },
+    {
+      "key": "color",
+      "label": "黑色印迹与纸底：有限颜色也能有层次",
+      "description": "本馆藏本书封为赭黄底、黑字，折页为浅色纸面上的黑色印迹；强弱主要由大小、粗细和疏密构成，不能把所有未来主义作品概括成同一配色。"
+    },
+    {
+      "key": "material",
+      "label": "活版与书籍：实验落在物质上",
+      "description": "排印把文字变成可以复制的纸上图形，折页改变展开后的阅读范围；后续螺栓装订书又把结构纳入视觉传达。"
+    }
+  ],
+  "people": [
+    {
+      "name": "菲利波·托马索·马里内蒂 Filippo Tommaso Marinetti",
+      "role": "意大利诗人，未来主义及自由文字的重要倡导者，《Zang tumb tuuum》作者"
+    },
+    {
+      "name": "Cesare Cavanna",
+      "role": "MoMA馆藏记录所列《Zang Tumb Tumb》排印设计者"
+    },
+    {
+      "name": "福尔图纳托·德佩罗 Fortunato Depero",
+      "role": "1927年《Depero Futurista》作者，将实验字体与书籍对象结合"
+    }
+  ],
+  "works": [
+    {
+      "id": "zang-cover",
+      "title": "《Zang tumb tuuum》书封（普林斯顿1914年馆藏本）",
+      "creator": "Filippo Tommaso Marinetti；排印设计记录：Cesare Cavanna",
+      "year": "1914",
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "image": {
+        "src": "/images/entries/2026-11-13-futurist-typography-cover.jpg",
+        "alt": "赭黄色书封上，黑色ZANG与粗体TUMB沿斜向排列；下方重复的TUUUMB逐渐变小，出版行印有1914。",
+        "credit": "Filippo Tommaso Marinetti，《Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà》，米兰，1914。Marquand Library of Art and Archaeology, Princeton University (SAX Rare Books 3132.06.398)，L.2013.6.14。Image courtesy of the Princeton University Art Museum。馆方公版开放图像；原文件未改色、未修补，卡片可裁切显示；局部仅放大同一原图。MoMA另记本书排印设计为Cesare Cavanna。 本图：YM-17，书封完整扫描2814×4000。",
+        "rights": "public_domain",
+        "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+        "licenseUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access"
+      }
+    },
+    {
+      "id": "zang-chart",
+      "title": "同书《Carta sincrona》折页（非独立书籍）",
+      "creator": "Filippo Tommaso Marinetti；排印设计记录：Cesare Cavanna",
+      "year": "1914",
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "image": {
+        "src": "/images/entries/2026-11-13-futurist-typography-chart.jpg",
+        "alt": "浅色书页上方横排标题，下方散布横向、竖向和斜向文字，长直线、箭头与加号连接不同区域。",
+        "credit": "Filippo Tommaso Marinetti，《Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà》，米兰，1914。Marquand Library of Art and Archaeology, Princeton University (SAX Rare Books 3132.06.398)，L.2013.6.14。Image courtesy of the Princeton University Art Museum。馆方公版开放图像；原文件未改色、未修补，卡片可裁切显示；局部仅放大同一原图。MoMA另记本书排印设计为Cesare Cavanna。 本图：YM-17_2，Carta sincrona折页扫描2383×4000。",
+        "rights": "public_domain",
+        "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+        "licenseUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access"
+      }
+    },
+    {
+      "id": "depero-futurista",
+      "title": "Depero Futurista（德佩罗未来主义者）",
+      "creator": "Fortunato Depero",
+      "year": "1927",
+      "sourceUrl": "https://www.moma.org/collection/works/13429",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "达达的文字拼贴",
+    "description": "二者都使字母超出透明传递信息的功能，也都涉及声音与表演。未来主义常与速度、机器及战争动员结合；达达的重要实践则拒绝军国主义。比较时同时看形式和具体语境，不将“倾斜文字”或“拼贴”当成任何一派的专属标志。"
+  },
+  "applications": [
+    "音乐与活动海报：把大小、重复和间距对应节奏变化，同时保留活动名称与时间的清晰阅读入口。",
+    "动态字体：让尺度、位置和方向沿时间变化，先建立稳定基准，再突出少数有意义的转折。",
+    "书籍与展陈：将翻页、展开与物理结构纳入阅读体验，区分原版、复刻和局部展示的身份。"
+  ],
+  "experiment": "选一个日常声音，例如雨声，用普通纸笔写同一个拟声词。只改变大小、粗细、方向或间距中的两项，比较哪种安排更贴近自己的感受；保留一个容易读出的词作为入口。最后把纸拿远，检查整体节奏，不复刻原书的战争内容。",
+  "nextTopics": [
+    "构成主义如何用几何组织动态文字",
+    "实验书籍的装订怎样改变阅读"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-10-28-ulm-design"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-13-futurist-typography-cover.jpg",
+    "alt": "赭黄色书封上，黑色ZANG与粗体TUMB沿斜向排列；下方重复的TUUUMB逐渐变小，出版行印有1914。",
+    "credit": "Filippo Tommaso Marinetti，《Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà》，米兰，1914。Marquand Library of Art and Archaeology, Princeton University (SAX Rare Books 3132.06.398)，L.2013.6.14。Image courtesy of the Princeton University Art Museum。馆方公版开放图像；原文件未改色、未修补，卡片可裁切显示；局部仅放大同一原图。MoMA另记本书排印设计为Cesare Cavanna。 本图：YM-17，书封完整扫描2814×4000。",
+    "rights": "public_domain",
+    "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+    "licenseUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access"
+  },
+  "sources": [
+    {
+      "title": "Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà",
+      "url": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "publisher": "Princeton University Art Museum / Marquand Library of Art and Archaeology",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取L.2013.6.14馆藏页与IIIF清单，核对米兰1914年出版、作者、馆藏本身份和自由文字的字号/字体/布局实验。与MoMA及Met交叉核对。下载区域明确把本对象图像列为公版可下载使用；本篇采用馆方原始YM-17、YM-17_2扫描，不用其他馆藏本冒充。"
+    },
+    {
+      "title": "Image Use and Access",
+      "url": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access",
+      "publisher": "Princeton University Art Museum",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取Public Domain条款：馆藏公版作品高分辨率图像可下载使用，无须另申请；按要求完整署名Image courtesy of the Princeton University Art Museum。对象页也明确给出公版下载提示。此依据覆盖所用馆方图像，不把任意摄影CC许可扩大为书籍全部权利。"
+    },
+    {
+      "title": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà",
+      "url": "https://www.moma.org/collection/works/31450",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取1089.2001记录，核对1914出版、活版印刷、Edizioni Futuriste di Poesia及排印设计Cesare Cavanna；1912为作品背景年代，非本篇书籍出版年。本篇实图来自普林斯顿的另一馆藏本，不下载或借用MoMA图像许可。"
+    },
+    {
+      "title": "Words in Freedom: Futurism at 100",
+      "url": "https://www.moma.org/interactives/exhibitions/2009/futurism/index.html",
+      "publisher": "The Museum of Modern Art；Laura Beiles策展",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取机构展览的原始文献清单，区分1909运动宣言、1912文学技术宣言和1913自由文字宣言；核对拟声词、符号与非惯常排版，以及马里内蒂与法西斯政治的关系。不将所有实验归为某一天突然发明。"
+    },
+    {
+      "title": "A Revolution in Language",
+      "url": "https://www.metmuseum.org/perspectives/a-revolution-in-language",
+      "publisher": "The Metropolitan Museum of Art；Jennifer Farrell",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取2016年馆方文章，交叉核对1909背景、1912开始发展的自由文字、文字图像与声音的结合；核对未来主义战争表达和达达对军国主义的拒绝。只将差异作为历史语境，不把两者简化为固定字体公式。"
+    },
+    {
+      "title": "Depero Futurista (Depero the Futurist)",
+      "url": "https://www.moma.org/collection/works/13429",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取202.1997馆藏记录，核对Fortunato Depero、1927、活版与线版插图书及出版者。图像标有版权并要求向Art Resource/Scala申请复制，故本篇仅保留参考链接，不将其照片下载展示。"
+    },
+    {
+      "title": "Archivio del ’900",
+      "url": "https://www.mart.tn.it/archivio-del-900",
+      "publisher": "Mart, Museo di arte moderna e contemporanea di Trento e Rovereto",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取Depero futurista条目，核对1927的螺栓装订艺术家书、记录和推广创作的用途。仅摘要装订与出版事实，不复制馆方图片或长段引语。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "未来主义字体｜字母也有大小和方向",
+    "summary": "意大利诗人马里内蒂让文字也成为可以欣赏的图形。今天看他1914年出版的一本书：除了读字，眼睛还能感受字的大小、粗细和方向。这些安排叫作排版。",
+    "looking": "先看完整书封：黄色底上有很粗的大字，也有斜斜的小字。再看同一本书的折页：字有横着的、竖着的，还有线和箭头。不认识意大利文，也能先欣赏它们怎样摆放。",
+    "featuredWorkIds": [
+      "zang-cover",
+      "zang-chart"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "大字、小字，带来不同分量",
+          "paragraphs": [
+            "先看书封中央。粗黑的大字占了很大地方，小字显得轻一些。字的大小叫字号，笔画的粗细叫字重。两种变化让眼睛感到不同的分量。",
+            "再移到下方斜着排列的一串字。相似的字形反复出现，却逐渐变小，中间还留着空隙。眼睛会沿这条斜线往前走。"
+          ],
+          "detail": {
+            "workId": "zang-cover",
+            "imageWidth": 2814,
+            "imageHeight": 4000,
+            "x": 280,
+            "y": 2050,
+            "width": 2320,
+            "height": 1570,
+            "alt": "书封下半部的斜向重复字形，从较大较粗的一组过渡到较小的几组。",
+            "caption": "同一书封下半部：重复、大小变化和空隙共同组成方向。看完局部，再回看完整书封。"
+          }
+        },
+        {
+          "title": "折页里的文字换了方向",
+          "paragraphs": [
+            "接着看折页。它是书里可以展开的一张纸。上面的字横着排，中间又有斜字，细长的线把眼睛带向下方。有些字笔画粗，有些细，纸面也有空着的地方。",
+            "回看整张折页，这些方向一起形成了布局：文字不仅说内容，也像线条和形状一样组织画面。不是每一本书都需要这样排。"
+          ]
+        },
+        {
+          "title": "回到整体，再看看身边",
+          "paragraphs": [
+            "把目光放回完整书封。大字先吸引眼睛，斜向的小字接着引导目光，空隙让它们分得开。大小、方向和空白一起，让纸面有了节奏。",
+            "生活里，绘本封面和商店招牌也会这样安排文字。字形可以传达感受，同时还要让人看清内容。只看图和交谈，就是一次完整欣赏。"
+          ]
+        }
+      ],
+      "reflection": "这些字的排列带给你什么感受？可以用一个词、一个动作或一小段声音表达。"
+    },
+    "takeaway": "字的大小、粗细、方向和空隙，也能组成一幅有节奏的画面。",
+    "parentNote": "无需孩子读出意大利文或模仿书封。先看完整扫描，再用局部指认大小变化，最后回到整体；不把字号大小等同于唯一的音量答案。本书源于战争报道，成人可按需要简短说明历史背景，不把战争声响改成庆祝战争的游戏。两张图是同一本1914年书的封面与折页，不是两本不同的书。"
+  },
+  "updatedAt": null
+}

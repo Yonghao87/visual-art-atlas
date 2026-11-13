@@ -1,0 +1,231 @@
+{
+  "entryId": "2026-11-13-futurist-typography",
+  "date": "2026-11-13",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "a2d0c049-ed25-4c4d-8a43-c92ebaa3a2ab",
+    "volume": "032",
+    "capturedAt": "2026-11-11T09:39:25.772Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "selectedBeforeImageResearch": true,
+    "categoryDistributionAfterPublication": {
+      "product_design": 4,
+      "fashion_craft": 3,
+      "world_painting": 5,
+      "eastern_art": 3,
+      "digital_art": 1,
+      "architecture": 2,
+      "graphic_design": 4
+    },
+    "heldVolumes": [
+      "028",
+      "031"
+    ],
+    "note": "028未获海报实图许可，031馆藏仍标作品版权，逐条挂起后选032；并未另造无关题材。原推送卡拉链接本次不可读取，未据其写入未经核验的作品事实；德佩罗保留已核验馆藏链接。"
+  },
+  "sources": [
+    {
+      "title": "Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà",
+      "url": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "publisher": "Princeton University Art Museum / Marquand Library of Art and Archaeology",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取L.2013.6.14馆藏页与IIIF清单，核对米兰1914年出版、作者、馆藏本身份和自由文字的字号/字体/布局实验。与MoMA及Met交叉核对。下载区域明确把本对象图像列为公版可下载使用；本篇采用馆方原始YM-17、YM-17_2扫描，不用其他馆藏本冒充。"
+    },
+    {
+      "title": "Image Use and Access",
+      "url": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access",
+      "publisher": "Princeton University Art Museum",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取Public Domain条款：馆藏公版作品高分辨率图像可下载使用，无须另申请；按要求完整署名Image courtesy of the Princeton University Art Museum。对象页也明确给出公版下载提示。此依据覆盖所用馆方图像，不把任意摄影CC许可扩大为书籍全部权利。"
+    },
+    {
+      "title": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà",
+      "url": "https://www.moma.org/collection/works/31450",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取1089.2001记录，核对1914出版、活版印刷、Edizioni Futuriste di Poesia及排印设计Cesare Cavanna；1912为作品背景年代，非本篇书籍出版年。本篇实图来自普林斯顿的另一馆藏本，不下载或借用MoMA图像许可。"
+    },
+    {
+      "title": "Words in Freedom: Futurism at 100",
+      "url": "https://www.moma.org/interactives/exhibitions/2009/futurism/index.html",
+      "publisher": "The Museum of Modern Art；Laura Beiles策展",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取机构展览的原始文献清单，区分1909运动宣言、1912文学技术宣言和1913自由文字宣言；核对拟声词、符号与非惯常排版，以及马里内蒂与法西斯政治的关系。不将所有实验归为某一天突然发明。"
+    },
+    {
+      "title": "A Revolution in Language",
+      "url": "https://www.metmuseum.org/perspectives/a-revolution-in-language",
+      "publisher": "The Metropolitan Museum of Art；Jennifer Farrell",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取2016年馆方文章，交叉核对1909背景、1912开始发展的自由文字、文字图像与声音的结合；核对未来主义战争表达和达达对军国主义的拒绝。只将差异作为历史语境，不把两者简化为固定字体公式。"
+    },
+    {
+      "title": "Depero Futurista (Depero the Futurist)",
+      "url": "https://www.moma.org/collection/works/13429",
+      "publisher": "The Museum of Modern Art",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取202.1997馆藏记录，核对Fortunato Depero、1927、活版与线版插图书及出版者。图像标有版权并要求向Art Resource/Scala申请复制，故本篇仅保留参考链接，不将其照片下载展示。"
+    },
+    {
+      "title": "Archivio del ’900",
+      "url": "https://www.mart.tn.it/archivio-del-900",
+      "publisher": "Mart, Museo di arte moderna e contemporanea di Trento e Rovereto",
+      "verifiedAt": "2026-11-13",
+      "verificationNote": "实际读取Depero futurista条目，核对1927的螺栓装订艺术家书、记录和推广创作的用途。仅摘要装订与出版事实，不复制馆方图片或长段引语。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-13-futurist-typography-cover.jpg",
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "downloadUrl": "https://media.artmuseum.princeton.edu/iiif/3/collection/YM-17/full/max/0/default.jpg",
+      "identity": "Princeton L.2013.6.14; YM-17",
+      "width": 2814,
+      "height": 4000,
+      "sha256": "1f7c005066befec014bd434ffcf37913f82e1627585e1d26d0aad6d2f2e64ee4",
+      "bytes": 1069792,
+      "rights": "public_domain",
+      "licenseUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access",
+      "credit": "Filippo Tommaso Marinetti，《Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà》，米兰，1914。Marquand Library of Art and Archaeology, Princeton University (SAX Rare Books 3132.06.398)，L.2013.6.14。Image courtesy of the Princeton University Art Museum。馆方公版开放图像；原文件未改色、未修补，卡片可裁切显示；局部仅放大同一原图。MoMA另记本书排印设计为Cesare Cavanna。 本图：YM-17，书封完整扫描2814×4000。",
+      "rightsReason": "对象页明确公版下载，馆方政策明确公版高分辨率图像可自由使用且无需审批。采用此对象的馆方扫描；不依赖摄影许可或仅作者生卒推定所有排印权利。MoMA的通用版权标注不转作本图授权。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-13-futurist-typography-chart.jpg",
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/81265",
+      "downloadUrl": "https://media.artmuseum.princeton.edu/iiif/3/collection/YM-17_2/full/max/0/default.jpg",
+      "identity": "Princeton L.2013.6.14; YM-17_2",
+      "width": 2383,
+      "height": 4000,
+      "sha256": "e58262b644dee41a40160ccaed88c47196b7f06a962b839ec9ffe5f2c7f41952",
+      "bytes": 796402,
+      "rights": "public_domain",
+      "licenseUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access",
+      "credit": "Filippo Tommaso Marinetti，《Zang tumb tuuum: Adrianopoli ottobre 1912: parole in libertà》，米兰，1914。Marquand Library of Art and Archaeology, Princeton University (SAX Rare Books 3132.06.398)，L.2013.6.14。Image courtesy of the Princeton University Art Museum。馆方公版开放图像；原文件未改色、未修补，卡片可裁切显示；局部仅放大同一原图。MoMA另记本书排印设计为Cesare Cavanna。 本图：YM-17_2，Carta sincrona折页扫描2383×4000。",
+      "rightsReason": "对象页明确公版下载，馆方政策明确公版高分辨率图像可自由使用且无需审批。采用此对象的馆方扫描；不依赖摄影许可或仅作者生卒推定所有排印权利。MoMA的通用版权标注不转作本图授权。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true
+    }
+  ],
+  "crossChecks": "MoMA、Met与Princeton交叉核对1909/1912—1913/1914时间层次、文字图像和战争背景。Mart与MoMA核对1927德佩罗书。作品身份、扫描视图与版权逐图分开核对。",
+  "detail": {
+    "workId": "zang-cover",
+    "actualPixels": [
+      2814,
+      4000
+    ],
+    "crop": [
+      280,
+      2050,
+      2320,
+      1570
+    ],
+    "reason": "放大同一书封下半部重复字形，支持字号变化及斜向路径讲解；不生成新细节，不复制独立权利记录。"
+  },
+  "newFiles": [
+    "src/data/entries/2026-11-13-futurist-typography.json",
+    "public/images/entries/2026-11-13-futurist-typography-cover.jpg",
+    "public/images/entries/2026-11-13-futurist-typography-chart.jpg",
+    "docs/evidence/2026-11-13-futurist-typography.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "commands": [
+      {
+        "command": [
+          "npm",
+          "run",
+          "validate:daily",
+          "--",
+          "src/data/entries/2026-11-13-futurist-typography.json"
+        ],
+        "exitCode": 0,
+        "seconds": 0.57,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-1.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "validate:content"
+        ],
+        "exitCode": 0,
+        "seconds": 0.3,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-2.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "check"
+        ],
+        "exitCode": 0,
+        "seconds": 3.98,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-3.log"
+      },
+      {
+        "command": [
+          "npm",
+          "test"
+        ],
+        "exitCode": 0,
+        "seconds": 0.42,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-4.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "build"
+        ],
+        "exitCode": 0,
+        "seconds": 1.53,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-5.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "test:e2e"
+        ],
+        "exitCode": 0,
+        "seconds": 16.76,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-6.log"
+      },
+      {
+        "command": [
+          "git",
+          "diff",
+          "--check"
+        ],
+        "exitCode": 0,
+        "seconds": 0.05,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography/check-7.log"
+      }
+    ],
+    "contentRepairAttempts": 0,
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "visualReview": {
+      "widths": [
+        1440,
+        390
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "screenshotsDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-13/futurist-typography",
+      "imagesDecoded": true,
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "actualScreenshotsInspected": true,
+      "detailReview": "书封下半部放大范围与原图定位框一致，重复字形及大小变化可见；完整书封和折页均保持长宽比例，手机/桌面逐一实际查看。"
+    }
+  }
+}
