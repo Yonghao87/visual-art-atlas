@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-vanitas",
+  "date": "2026-11-18",
+  "status": "published",
+  "title": "虚空静物画｜用一张桌子画出时间",
+  "subtitle": "从将熄的油灯、透明的杯壁和深色拱龛，看17世纪静物如何呈现转瞬即逝",
+  "topicType": "movement",
+  "category": "world_painting",
+  "period": "17世纪前半叶",
+  "regions": [
+    "荷兰"
+  ],
+  "tags": [
+    "虚空静物",
+    "Vanitas",
+    "荷兰静物画",
+    "明暗",
+    "材料质感",
+    "象征"
+  ],
+  "summary": "荷兰虚空静物画把熟悉的器物和时间的线索放在一处。杯壁的反光、将熄的灯芯与泡沫一起，让安静的画面看起来随时会发生变化。",
+  "style_summary": "虚空静物画｜用一张桌子画出时间-17世纪荷兰静物油画，有限棕灰调色，局部反光，横向台面与暗部留白，时间寓意",
+  "context": "虚空静物画（Vanitas）借助物件呈现生命与财富的短暂，在17世纪尼德兰绘画中发展。它与描写食物、花卉或饮宴的静物画共享对光线与质感的观察。德·赫因二世的1603年《虚空静物》常被列为最早的独立虚空静物之一。拱龛里圆泡泡与颅骨上下呼应，下面的钱币横列，使财富的痕迹也成了画的一部分。\n\n彼得·克拉斯在哈勒姆工作。1628年的《颅骨与羽毛笔静物》把人眼移到接近石台的位置。横放羽毛笔拉出一道斜线，倒下的杯壁用亮小方块写出窗格倒影。油灯左侧浮出一缕几乎融进背景的烟。克拉斯在1630年另画了一幅《虚空静物》，现藏莫瑞泰斯皇家美术馆。蓝色表带属于后者，羽毛笔属于图中的1628年作品。\n\n观看时可以先辨认距离和材料，再联想变化。交叠的书角与杯壁把空间拉近，骨、纸和玻璃的亮度各异。暗部让细节隔开，小而有形的光痕才有空间显出来。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "石台与斜线",
+      "description": "石台横边像一条稳定的基准，羽毛笔的斜线穿过层层纸页，把眼睛引向杯壁。"
+    },
+    {
+      "key": "lighting",
+      "label": "暗背景上的小亮点",
+      "description": "油灯残亮很小，杯壁的窗格反光有锐边，纸缘的亮色更漫散。"
+    },
+    {
+      "key": "material",
+      "label": "有限颜色里的质地",
+      "description": "灰棕统一主要色调，纸页、骨头和玻璃靠边缘、层次与反光而区分。"
+    }
+  ],
+  "people": [
+    {
+      "name": "彼得·克拉斯",
+      "role": "哈勒姆静物画家"
+    },
+    {
+      "name": "雅克·德·赫因二世",
+      "role": "创作1603年《虚空静物》的画家"
+    }
+  ],
+  "works": [
+    {
+      "id": "claesz-quill",
+      "title": "颅骨与羽毛笔静物 Still Life with a Skull and a Writing Quill",
+      "creator": "彼得·克拉斯",
+      "year": "1628",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/435904",
+      "image": {
+        "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+        "alt": "昏暗的石台上放着羽毛笔、折起的纸、将熄的油灯、一只倒下的玻璃杯和颅骨。",
+        "credit": "彼得·克拉斯，《颅骨与羽毛笔静物》，1628。The Metropolitan Museum of Art，49.107，Rogers Fund, 1949。馆藏数字图像 CC0。完整图未改动，亲子局部复用原图。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/435904",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "gheyn-vanitas",
+      "title": "虚空静物 Vanitas Still Life",
+      "creator": "雅克·德·赫因二世",
+      "year": "1603",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436485",
+      "image": {
+        "src": "/images/entries/2026-11-18-vanitas-gheyn.jpg",
+        "alt": "一座暗色拱龛里，上方有大泡泡，下方有颅骨，两边立着花瓶与烟罐。",
+        "credit": "雅克·德·赫因二世，《虚空静物》，1603。The Metropolitan Museum of Art，1974.1。Charles B. Curtis, Marquand, Victor Wilbour Memorial, and The Alfred N. Punnett Endowment Funds, 1974。馆藏数字图像 CC0，原图未改动。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/436485",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "claesz-watch",
+      "title": "虚空静物 Vanitas Still Life",
+      "creator": "彼得·克拉斯",
+      "year": "1630",
+      "sourceUrl": "https://www.mauritshuis.nl/en/our-collection/artworks/943-vanitas-still-life",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "虚空静物与宴席静物",
+    "description": "两者都精确描绘器物。宴席画可让丰厚的食物主导视线，虚空静物常用怀表、泡泡和将熄的灯把观察引向时间。"
+  },
+  "applications": [
+    "静物摄影把一处有形状的反光留给玻璃，旁边的纸面使用更柔的光。",
+    "绘画用近似色画几种材质，再通过边缘和明暗表现触感。",
+    "叙事视觉可以用带有变化痕迹的普通物件替代抽象的时间说明。"
+  ],
+  "experiment": "把一只空玻璃杯和一本书放在窗边。用手机拍两张，一张让玻璃接住明亮窗格，一张转动杯子让反光移开。比较两张图里眼睛先停在哪里。",
+  "nextTopics": [
+    "哈勒姆静物画的有限调色",
+    "17世纪画家描写玻璃的手法"
+  ],
+  "relatedIds": [
+    "2026-11-12-precisionism",
+    "2026-11-11-chaekgeori"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+    "alt": "昏暗的石台上放着羽毛笔、折起的纸、将熄的油灯、一只倒下的玻璃杯和颅骨。",
+    "credit": "彼得·克拉斯，《颅骨与羽毛笔静物》，1628。The Metropolitan Museum of Art，49.107，Rogers Fund, 1949。馆藏数字图像 CC0。完整图未改动，亲子局部复用原图。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/435904",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Still Life with a Skull and a Writing Quill",
+      "url": "https://www.metmuseum.org/art/collection/search/435904",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对1628年、馆藏号49.107、木板油画、油灯将熄、倒杯与颅骨的时间寓意，作品图标为公版。"
+    },
+    {
+      "title": "Vanitas Still Life",
+      "url": "https://www.metmuseum.org/art/collection/search/436485",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对1603年作品、1974.1和拱龛、泡泡、瓶花与烟罐，馆方称通常被视为现知最早独立成篇的虚空静物画。"
+    },
+    {
+      "title": "Vanitas Still Life",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/943-vanitas-still-life",
+      "publisher": "Mauritshuis",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对同作者的1630年作品为独立作品，馆号943。馆方说明棕与绿的限定配色、蓝色怀表缎带。"
+    },
+    {
+      "title": "Still lifes in 17th century paintings",
+      "url": "https://www.mauritshuis.nl/en/our-collection/our-genres/still-lifes",
+      "publisher": "Mauritshuis",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "交叉核对17世纪虚空静物的蜡烛、空杯、怀表和颅骨的寓意。"
+    },
+    {
+      "title": "Pieter Claesz",
+      "url": "https://www.nga.gov/artists/18426-pieter-claesz",
+      "publisher": "National Gallery of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对画家在哈勒姆的活动与层叠物件、光线和受限调色的手法。"
+    },
+    {
+      "title": "Image and Data Resources",
+      "url": "https://www.metmuseum.org/policies/image-resources",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "两幅图都经馆藏页和开放 API 确认为公版，适用 CC0。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "虚空静物画｜一张桌子，怎样画出时间",
+    "summary": "荷兰画家彼得·克拉斯擅长画静物。静物画常画杯子、书和花这样能摆在桌上的东西。在这幅画里，摆得安安静静的东西让我们想起时间。",
+    "looking": "先看完整画面。桌上有羽毛笔和倒着的杯子，左边有小油灯，中间靠上是颅骨，也就是头部的骨头。可以先顺着桌边慢慢看。",
+    "featuredWorkIds": [
+      "claesz-quill"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "杯子上的光",
+          "paragraphs": [
+            "看右下角。杯子横着躺，杯口是一条细细的弧线。杯身有几块亮白，像窗格的倒影。旁边的书页却是又细又密的一层层黄线。",
+            "画家用了很接近的棕色和灰色，让我们凭这些亮斑和细线看出透明的玻璃和柔软的纸。再回到整幅画，那一点亮也会把你的目光带到桌边。"
+          ],
+          "detail": {
+            "workId": "claesz-quill",
+            "imageWidth": 3811,
+            "imageHeight": 2569,
+            "x": 2200,
+            "y": 1500,
+            "width": 1500,
+            "height": 870,
+            "alt": "横放杯身上的浅色窗格式反光，左侧露出一小部分书页。",
+            "caption": "倒下的玻璃杯照见白亮的窗格，杯旁一层层细线画出了纸。"
+          }
+        },
+        {
+          "title": "一盏快熄的灯",
+          "paragraphs": [
+            "再看全图左边。油灯的灯芯上只有一个小亮点，上面有淡淡的烟。大部分背景都很暗，小小的亮点也能被看见。",
+            "画里的东西静止着，可烟会散，灯光也会消失。过去有些画家会把这样的物件摆在一起，让看到画的人想到时间和变化。"
+          ]
+        },
+        {
+          "title": "回到我们的桌边",
+          "paragraphs": [
+            "平常有阳光时，杯子也会在桌边照出白亮的影子。过一会儿再看，反光的位置也许已经变了。画家能把这样的一小会儿留在画里。"
+          ]
+        }
+      ],
+      "reflection": "这张桌子让你觉得时间过得快、过得慢，还是有别的感觉？可以用一个词或动作告诉身边的人。"
+    },
+    "takeaway": "画家可以用桌上的小物件和变化的光，让一幅安静的画也讲到时间。",
+    "parentNote": "从杯子的光和书边入手，先整体、再细看、最后返回整体。孩子对画中的骨头如果不自在，可以停在一处喜欢的细节。"
+  },
+  "updatedAt": null
+}

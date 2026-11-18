@@ -1,0 +1,380 @@
+{
+  "entryId": "2026-11-18-vanitas",
+  "date": "2026-11-18",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "a8436e96-c9f8-4008-8195-c028dc9f5f59",
+    "volume": "020",
+    "capturedAt": "2026-11-04T04:35:11.499Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "recoveredFrom": {
+      "type": "fileChange",
+      "codexItemId": "exec-58eea62a-3dc0-409e-a257-e969f418e4cc",
+      "priorArtifact": "/private/tmp/visual-art-atlas-daily/2026-11-04/source-candidates.json"
+    }
+  },
+  "batch": {
+    "mode": "manual-backlog-resume",
+    "dailyLimitException": "用户明确要求续做当前一期，使用真实上海发布日期，单日一篇限制按本次手动加更处理。"
+  },
+  "sources": [
+    {
+      "title": "Still Life with a Skull and a Writing Quill",
+      "url": "https://www.metmuseum.org/art/collection/search/435904",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对1628年、馆藏号49.107、木板油画、油灯将熄、倒杯与颅骨的时间寓意，作品图标为公版。"
+    },
+    {
+      "title": "Vanitas Still Life",
+      "url": "https://www.metmuseum.org/art/collection/search/436485",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对1603年作品、1974.1和拱龛、泡泡、瓶花与烟罐，馆方称通常被视为现知最早独立成篇的虚空静物画。"
+    },
+    {
+      "title": "Vanitas Still Life",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/943-vanitas-still-life",
+      "publisher": "Mauritshuis",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对同作者的1630年作品为独立作品，馆号943。馆方说明棕与绿的限定配色、蓝色怀表缎带。"
+    },
+    {
+      "title": "Still lifes in 17th century paintings",
+      "url": "https://www.mauritshuis.nl/en/our-collection/our-genres/still-lifes",
+      "publisher": "Mauritshuis",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "交叉核对17世纪虚空静物的蜡烛、空杯、怀表和颅骨的寓意。"
+    },
+    {
+      "title": "Pieter Claesz",
+      "url": "https://www.nga.gov/artists/18426-pieter-claesz",
+      "publisher": "National Gallery of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "核对画家在哈勒姆的活动与层叠物件、光线和受限调色的手法。"
+    },
+    {
+      "title": "Image and Data Resources",
+      "url": "https://www.metmuseum.org/policies/image-resources",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "两幅图都经馆藏页和开放 API 确认为公版，适用 CC0。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-vanitas-claesz.jpg",
+      "stagedFilename": "claesz.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/435904",
+      "downloadUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145929.jpg",
+      "identity": "Met 49.107，1628原画全幅",
+      "width": 3811,
+      "height": 2569,
+      "bytes": 1867831,
+      "sha256": "344e95e1c3aa552d46c615df4b7cef37f3aea471e2e0444ddb25c79d0eacbfb9",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "彼得·克拉斯，《颅骨与羽毛笔静物》，1628。The Metropolitan Museum of Art，49.107，Rogers Fund, 1949。馆藏数字图像 CC0。完整图未改动，亲子局部复用原图。",
+      "rightsReason": "作品页公版与开放 API isPublicDomain=true 一致，适用 Met Open Access CC0。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "detailPixels": [
+        2200,
+        1500,
+        1500,
+        870
+      ]
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-vanitas-gheyn.jpg",
+      "stagedFilename": "gheyn.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436485",
+      "downloadUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP143209.jpg",
+      "identity": "Met 1974.1，1603原画全幅",
+      "width": 2434,
+      "height": 3722,
+      "bytes": 1744831,
+      "sha256": "dbb37db4f0d71ec5607f2147f68375ce6816b9860ca847650d96828252c837e3",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "雅克·德·赫因二世，《虚空静物》，1603。The Metropolitan Museum of Art，1974.1。Charles B. Curtis, Marquand, Victor Wilbour Memorial, and The Alfred N. Punnett Endowment Funds, 1974。馆藏数字图像 CC0，原图未改动。",
+      "rightsReason": "作品页公版与开放 API isPublicDomain=true 一致，适用 Met Open Access CC0。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true
+    }
+  ],
+  "editorialNotes": "源聊天以克拉斯1630年作品为例。本篇采用馆藏编号49.107的1628年作品和1974.1的1603年作品为实图，将1630年作品单列链接。",
+  "newFiles": [
+    "src/data/entries/2026-11-18-vanitas.json",
+    "public/images/entries/2026-11-18-vanitas-claesz.jpg",
+    "public/images/entries/2026-11-18-vanitas-gheyn.jpg",
+    "docs/evidence/2026-11-18-vanitas.json"
+  ],
+  "validation": {
+    "status": "passed-with-user-authorized-same-day-exception",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-18-vanitas.json",
+      "exitCode": 1,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-1.log",
+      "accepted": true,
+      "soleError": "当天已有另一份正式档案，禁止重复日更"
+    },
+    "dailyOtherConditions": {
+      "command": "node --import tsx /private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/validate-extra.mts",
+      "exitCode": 0,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-2.log",
+      "accepted": true
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-3.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-4.log",
+        "accepted": true
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-5.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-6.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-7.log",
+        "accepted": true
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/vanitas/check-8.log",
+        "accepted": true
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "publishedContentCount": 26,
+    "contentRepairs": 2,
+    "visualReview": {
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-summary.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "checks": [
+        {
+          "slug": "vanitas",
+          "edition": "adult",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-gheyn.jpg",
+                "width": 2434,
+                "height": 3722
+              },
+              {
+                "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+                "width": 652,
+                "height": 777
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "vanitas",
+          "edition": "family",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+                "width": 652,
+                "height": 777
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+            "x": 2200,
+            "y": 1500,
+            "width": 1500,
+            "height": 870,
+            "imageWidth": 3811,
+            "imageHeight": 2569
+          },
+          "pageErrors": []
+        },
+        {
+          "slug": "vanitas",
+          "edition": "adult",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-gheyn.jpg",
+                "width": 2434,
+                "height": 3722
+              },
+              {
+                "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+                "width": 652,
+                "height": 777
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "vanitas",
+          "edition": "family",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-12-precisionism-my-egypt.jpg",
+                "width": 652,
+                "height": 777
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-10-28-color-field-winter-map.jpg",
+                "width": 800,
+                "height": 797
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+            "x": 2200,
+            "y": 1500,
+            "width": 1500,
+            "height": 870,
+            "imageWidth": 3811,
+            "imageHeight": 2569
+          },
+          "pageErrors": []
+        }
+      ]
+    }
+  },
+  "publishedCategoryDistribution": {
+    "architecture": 3,
+    "digital_art": 1,
+    "eastern_art": 4,
+    "fashion_craft": 3,
+    "graphic_design": 4,
+    "product_design": 4,
+    "world_painting": 7
+  }
+}
