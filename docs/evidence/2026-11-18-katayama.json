@@ -1,0 +1,359 @@
+{
+  "entryId": "2026-11-18-katayama",
+  "date": "2026-11-18",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/katayama",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "ca5a60c9-78bd-4d74-8450-e81cebb18712",
+    "volume": "036",
+    "capturedAt": "2026-11-18T00:55:00Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "batch": {
+    "mode": "manual-backlog",
+    "dailyLimitException": "用户要求本次集中补更16期，真实发布日期仍为上海当天。单日唯一性为本批人工补更例外，其他验证保留。"
+  },
+  "sources": [
+    {
+      "title": "Lexus to Open Luxury Brand Experience Space in Tokyo",
+      "url": "https://global.toyota/en/detail/64119",
+      "publisher": "Toyota Motor Corporation",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2013年8月新闻稿，核对青山店2013年8月30日开幕、地址、片山正通/Wonderwall参与及一层咖啡与展览、二层商店与休息区。另核对第五大道店和香港OZONE是不同项目。"
+    },
+    {
+      "title": "INTERSECT / Tokyo",
+      "url": "https://ryuitadani.com/projects/intersect-tokyo/",
+      "publisher": "Ryu Itadani",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取参与项目的艺术家原始档案，并与Toyota交叉核对2013年及片山正通/Wonderwall室内设计署名。本篇不转载该页室内照片或艺术品。"
+    },
+    {
+      "title": "Living the Lexus Experience in Tokyo",
+      "url": "https://www.azuremagazine.com/article/living-the-lexus-experience-in-tokyo/",
+      "publisher": "Azure Magazine，Elizabeth Pagliacolo",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2014年片山正通访谈，他解释竹格屏如何在室内外之间形成视觉边界，并说明重复图形取自品牌汽车格栅。本文概括访谈，不自行推断作者动机。"
+    },
+    {
+      "title": "2011年10月、ユニクロは2週続けて超巨大店舗をニューヨークにオープンします。",
+      "url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2011/08/083109_ny.html",
+      "publisher": "UNIQLO",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取官方公告，核对纽约第五大道店2011年10月14日开幕和一至三层卖场，区分同期34街店。项目参与者另与Toyota档案交叉核对。"
+    },
+    {
+      "title": "UNIQLO’s 9th Global Flagship Store And World’s Largest UNIQLO Store Opens In Ginza on March 16",
+      "url": "https://www.fastretailing.com/eng/group/news/1203141600.html",
+      "publisher": "Fast Retailing",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取官方开幕稿，核对2012银座店开放日期、多层玻璃立面、低层挑空、片山正通室内设计与佐藤可士和总体创意方向。作为同一设计师另一商业项目的链接参照。"
+    },
+    {
+      "title": "File:INTERSECT BY LEXUS.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:INTERSECT_BY_LEXUS.jpg",
+      "publisher": "Kakidai / Wikimedia Commons",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取文件页并下载查看原图，核对东京港区南青山、Kakidai自摄、2018-10-07、2500×1717及CC BY-SA 4.0。本站裁切保留目标立面，移除侧边行人和相邻橱窗图像。"
+    },
+    {
+      "title": "著作権テキスト 令和8年度版",
+      "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf",
+      "publisher": "日本文化庁 著作権課",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取第46条讲解，核对公共场所可见建筑外立面的照片利用边界；本图从街道拍摄已建成的建筑立面，附来源和设计署名。"
+    },
+    {
+      "title": "17 U.S. Code § 120 - Scope of exclusive rights in architectural works",
+      "url": "https://www.law.cornell.edu/uscode/text/17/120",
+      "publisher": "Cornell Law School Legal Information Institute / U.S. Code",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取第120(a)款对公共位置通常可见的已建成建筑照片的制作、分发和公开展示规则，仅用于核验本图立面范围。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-katayama-facade.jpg",
+      "stagedFilename": "facade.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:INTERSECT_BY_LEXUS.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/INTERSECT_BY_LEXUS.jpg",
+      "identity": "东京港区南青山4-21-26，2013年开幕项目的2018年临街照",
+      "width": 1510,
+      "height": 1460,
+      "bytes": 1116351,
+      "sha256": "08ec4039a75d6c11e01464cae1c03b31993b3ff508d4948478cd5c0b4d33caff",
+      "rights": "cc_licensed",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "INTERSECT BY LEXUS – TOKYO，2013，空间设计片山正通／Wonderwall。照片《INTERSECT BY LEXUS》由 Kakidai 于2018年10月7日拍摄，Wikimedia Commons，CC BY-SA 4.0。本站从原图裁切边缘，保留立面全高及入口。裁切版沿用同一许可。",
+      "rightsReason": "摄影CC BY-SA 4.0。建筑立面从公共街道可见，按文化庁第46条说明及美国17 U.S.C. §120(a)独立核验在建成建筑照片方面的适用范围。竹格为立面固设构件。未采用室内作品图或官网摄影。",
+      "visuallyInspected": true,
+      "originalWidth": 2500,
+      "originalHeight": 1717,
+      "originalSha256": "c94a12f6696556a005f0056028f041728ec8cee0bfda4f6cc8539ed2fc017074",
+      "originalCrop": [
+        500,
+        250,
+        1510,
+        1460
+      ],
+      "changes": "剪去边缘的相邻橱窗图像与行人，保留项目立面，不补绘或放大。裁切与局部展示沿用CC BY-SA 4.0。",
+      "detailPixels": [
+        750,
+        865,
+        430,
+        350
+      ],
+      "underlyingRightsReferences": [
+        "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf",
+        "https://www.law.cornell.edu/uscode/text/17/120"
+      ]
+    }
+  ],
+  "editorialNotes": "先选Vol.036，再核查配图。源推送的东京OZONE项目没有找到对应机构记录，Toyota资料中的OZONE实际是香港酒廊。用可核验的银座店作同一设计师的参照，未将两地混写。",
+  "newFiles": [
+    "src/data/entries/2026-11-18-katayama.json",
+    "public/images/entries/2026-11-18-katayama-facade.jpg",
+    "docs/evidence/2026-11-18-katayama.json"
+  ],
+  "validation": {
+    "status": "passed-with-user-authorized-same-day-exception",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-18-katayama.json",
+      "exitCode": 1,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-1.log",
+      "accepted": true,
+      "soleError": "当天已有另一份正式档案，禁止重复日更"
+    },
+    "dailyOtherConditions": {
+      "command": "node --import tsx /private/tmp/visual-art-atlas-daily/2026-11-18/backlog/validate-batch.mts",
+      "exitCode": 0,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-3.log",
+      "accepted": true
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-4.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-5.log",
+        "accepted": true
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-6.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-7.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-8.log",
+        "accepted": true
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-9.log",
+        "accepted": true
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "publishedContentCount": 25,
+    "contentRepairs": 1,
+    "visualReview": {
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-summary.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "checks": [
+        {
+          "slug": "katayama",
+          "edition": "adult",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "katayama",
+          "edition": "family",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-katayama-facade.jpg",
+            "x": 750,
+            "y": 865,
+            "width": 430,
+            "height": 350,
+            "imageWidth": 1510,
+            "imageHeight": 1460
+          },
+          "pageErrors": []
+        },
+        {
+          "slug": "katayama",
+          "edition": "adult",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "katayama",
+          "edition": "family",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              },
+              {
+                "src": "/images/entries/2026-10-28-barragan-torres.jpg",
+                "width": 2896,
+                "height": 1944
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-katayama-facade.jpg",
+            "x": 750,
+            "y": 865,
+            "width": 430,
+            "height": 350,
+            "imageWidth": 1510,
+            "imageHeight": 1460
+          },
+          "pageErrors": []
+        }
+      ]
+    }
+  },
+  "batchPublication": {
+    "request": "把这16期要更新的先更新，到10:15分的时候如果没有完成，就先暂停任务",
+    "scope": "本次手动补更接受同日多篇，所有条目使用实际上海日期。日更命令仍按原样运行，附核验结果。",
+    "deadlineShanghai": "2026-11-18T10:15:00+08:00"
+  },
+  "publishedCategoryDistributionAfterBatch": {
+    "architecture": 3,
+    "digital_art": 1,
+    "eastern_art": 4,
+    "fashion_craft": 3,
+    "graphic_design": 4,
+    "product_design": 4,
+    "world_painting": 6
+  }
+}

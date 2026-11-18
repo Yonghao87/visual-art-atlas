@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-katayama",
+  "date": "2026-11-18",
+  "status": "published",
+  "title": "片山正通与日本当代空间设计｜让商业空间拥有自己的叙事",
+  "subtitle": "从东京青山的玻璃门面与竹格屏，理解入口如何连接街道、展示和停留",
+  "topicType": "artist",
+  "category": "architecture",
+  "period": "以2011—2013年的项目为主，青山外观照片拍于2018年",
+  "regions": [
+    "日本",
+    "美国"
+  ],
+  "tags": [
+    "片山正通",
+    "Wonderwall",
+    "商业空间",
+    "立面",
+    "重复构成",
+    "材料"
+  ],
+  "summary": "片山正通把品牌线索转成可行走的空间关系。青山项目的竹格屏为玻璃界面增加层次，入口、展览与休息空间承接不同距离和速度的观看。",
+  "style_summary": "片山正通与日本当代空间设计｜让商业空间拥有自己的叙事-临街玻璃，重复竹格，透视叠层，深色入口，停留分区",
+  "context": "认识项目\n片山正通与Wonderwall为多个零售和品牌空间设计室内。东京青山的INTERSECT BY LEXUS于2013年开幕。一层设置咖啡区和展览区，二层结合生活用品展示与休息空间。汽车是项目的背景，访客体验也包括停留、看展和交谈。\n\n从街道看完整门面\n2018年照片保留了临街立面、街树和入口。建筑的大玻璃面形成几层水平带，下方竹格屏以更紧密的节奏围住入口。门框是较大的深色矩形，让入内的位置从连续纹样里显出来。玻璃反射、树影和格屏在照片中叠加。每次经过时的光线不同，现场的通透感也会变化。\n\n局部材料怎样服务于体验\n片山在访谈中解释，竹格屏为咖啡区和休息区形成介于街道与室内之间的边界，重复图形来自品牌汽车格栅。这里可以观察一种设计转换：汽车上的轮廓被拆成单元，连续拼接成可透看的建筑表面。借鉴时先想清楚需要遮挡多少视线，再决定图案密度。\n\n比较三种商业空间\nUNIQLO纽约第五大道店2011年开幕，官方资料确认其三层卖场，片山的项目经历也列有该店。2012年的银座旗舰店则用多层玻璃立面和低层挑空呈现规模，室内设计由片山负责，总体创意方向由佐藤可士和负责。东京青山项目的阅读重点是视线过滤、入口和停留。三个实例可用来比较不同活动对立面透明度、陈列密度和尺度提出的要求。\n\n艺术风格总结\n片山正通的商业空间可以从人的移动来读：远处先辨认轮廓和入口，近处再感受材质与重复细节，入内后由分区安排活动。玻璃与格屏的关系具体表现了视觉连通和遮挡如何并存。把品牌线索转成能使用、能感受的空间组织，比单纯添加标志更能说明这种设计方法。",
+  "visualFeatures": [
+    {
+      "key": "composition",
+      "label": "重复的格纹和大门框",
+      "description": "连续小格组成整体纹理，深色门框把视线引到可进入的位置。"
+    },
+    {
+      "key": "material",
+      "label": "竹格与玻璃形成两层",
+      "description": "竹格提供细密边界，玻璃提供反射与通透。照片中的枝叶同时出现在实体街景和反射里。"
+    },
+    {
+      "key": "space",
+      "label": "由街道接入不同活动",
+      "description": "门内的咖啡、展览和休息区容纳不同停留方式。两层分区来自2013年开幕资料，外观照片只支持入口的视觉分析。"
+    },
+    {
+      "key": "form",
+      "label": "将产品轮廓变成空间单元",
+      "description": "设计者在访谈中说明格纹来自汽车格栅。单元重复以后成为建筑表面，而非一个放大的商标。"
+    }
+  ],
+  "people": [
+    {
+      "name": "片山正通 Masamichi Katayama",
+      "role": "Wonderwall负责人，青山项目空间设计者"
+    },
+    {
+      "name": "佐藤可士和 Kashiwa Sato",
+      "role": "银座UNIQLO项目总体创意方向"
+    }
+  ],
+  "works": [
+    {
+      "id": "intersect-tokyo",
+      "title": "INTERSECT BY LEXUS – TOKYO（2018年街道外观）",
+      "creator": "片山正通／Wonderwall，摄影 Kakidai",
+      "year": "项目2013年，照片2018年",
+      "sourceUrl": "https://global.toyota/en/detail/64119",
+      "image": {
+        "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+        "alt": "街树之间是一座玻璃立面，暖色格纹覆盖入口周围，深色方形门框在浅色重复纹样中突出。",
+        "credit": "INTERSECT BY LEXUS – TOKYO，2013，空间设计片山正通／Wonderwall。照片《INTERSECT BY LEXUS》由 Kakidai 于2018年10月7日拍摄，Wikimedia Commons，CC BY-SA 4.0。本站从原图裁切边缘，保留立面全高及入口。裁切版沿用同一许可。",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:INTERSECT_BY_LEXUS.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    },
+    {
+      "id": "uniqlo-fifth-avenue",
+      "title": "UNIQLO纽约第五大道全球旗舰店",
+      "creator": "片山正通／Wonderwall参与设计",
+      "year": "2011",
+      "sourceUrl": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2011/08/083109_ny.html",
+      "image": null
+    },
+    {
+      "id": "uniqlo-ginza",
+      "title": "UNIQLO银座全球旗舰店",
+      "creator": "室内片山正通／Wonderwall，总体创意佐藤可士和",
+      "year": "2012",
+      "sourceUrl": "https://www.fastretailing.com/eng/group/news/1203141600.html",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "青山体验空间与银座多层旗舰店",
+    "description": "两者都使用玻璃面。青山项目通过竹格过滤视线并提示停留。银座店在临街立面沿高度展示多个楼层，以透明度传达规模。对照时结合用途、地点和开店版本。"
+  },
+  "applications": [
+    "展览或小店入口先在远处建立清楚的门口位置，再在近处加入能看清的材料细节。",
+    "有透明界面的店面可以试验局部格屏密度，比较视线保留和遮挡在体验上的变化。",
+    "品牌导视可用同一种几何单元联系招牌、陈列和空间边缘，让字号及摆放服从现场阅读距离。"
+  ],
+  "experiment": "用纸笔画一个社区阅读角的入口。画出门、窗和一块格屏，分别画稀格和密格两稿。把纸拿远、再移近，比较从何处最容易认出入口和里面能看见多少。",
+  "nextTopics": [
+    "零售空间如何安排停留与通过",
+    "商店玻璃界面的视线控制"
+  ],
+  "relatedIds": [
+    "2026-10-28-barragan",
+    "2026-11-18-vienna-secession"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+    "alt": "街树之间是一座玻璃立面，暖色格纹覆盖入口周围，深色方形门框在浅色重复纹样中突出。",
+    "credit": "INTERSECT BY LEXUS – TOKYO，2013，空间设计片山正通／Wonderwall。照片《INTERSECT BY LEXUS》由 Kakidai 于2018年10月7日拍摄，Wikimedia Commons，CC BY-SA 4.0。本站从原图裁切边缘，保留立面全高及入口。裁切版沿用同一许可。",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:INTERSECT_BY_LEXUS.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sources": [
+    {
+      "title": "Lexus to Open Luxury Brand Experience Space in Tokyo",
+      "url": "https://global.toyota/en/detail/64119",
+      "publisher": "Toyota Motor Corporation",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2013年8月新闻稿，核对青山店2013年8月30日开幕、地址、片山正通/Wonderwall参与及一层咖啡与展览、二层商店与休息区。另核对第五大道店和香港OZONE是不同项目。"
+    },
+    {
+      "title": "INTERSECT / Tokyo",
+      "url": "https://ryuitadani.com/projects/intersect-tokyo/",
+      "publisher": "Ryu Itadani",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取参与项目的艺术家原始档案，并与Toyota交叉核对2013年及片山正通/Wonderwall室内设计署名。本篇不转载该页室内照片或艺术品。"
+    },
+    {
+      "title": "Living the Lexus Experience in Tokyo",
+      "url": "https://www.azuremagazine.com/article/living-the-lexus-experience-in-tokyo/",
+      "publisher": "Azure Magazine，Elizabeth Pagliacolo",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2014年片山正通访谈，他解释竹格屏如何在室内外之间形成视觉边界，并说明重复图形取自品牌汽车格栅。本文概括访谈，不自行推断作者动机。"
+    },
+    {
+      "title": "2011年10月、ユニクロは2週続けて超巨大店舗をニューヨークにオープンします。",
+      "url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2011/08/083109_ny.html",
+      "publisher": "UNIQLO",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取官方公告，核对纽约第五大道店2011年10月14日开幕和一至三层卖场，区分同期34街店。项目参与者另与Toyota档案交叉核对。"
+    },
+    {
+      "title": "UNIQLO’s 9th Global Flagship Store And World’s Largest UNIQLO Store Opens In Ginza on March 16",
+      "url": "https://www.fastretailing.com/eng/group/news/1203141600.html",
+      "publisher": "Fast Retailing",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取官方开幕稿，核对2012银座店开放日期、多层玻璃立面、低层挑空、片山正通室内设计与佐藤可士和总体创意方向。作为同一设计师另一商业项目的链接参照。"
+    },
+    {
+      "title": "File:INTERSECT BY LEXUS.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:INTERSECT_BY_LEXUS.jpg",
+      "publisher": "Kakidai / Wikimedia Commons",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取文件页并下载查看原图，核对东京港区南青山、Kakidai自摄、2018-10-07、2500×1717及CC BY-SA 4.0。本站裁切保留目标立面，移除侧边行人和相邻橱窗图像。"
+    },
+    {
+      "title": "著作権テキスト 令和8年度版",
+      "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf",
+      "publisher": "日本文化庁 著作権課",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取第46条讲解，核对公共场所可见建筑外立面的照片利用边界；本图从街道拍摄已建成的建筑立面，附来源和设计署名。"
+    },
+    {
+      "title": "17 U.S. Code § 120 - Scope of exclusive rights in architectural works",
+      "url": "https://www.law.cornell.edu/uscode/text/17/120",
+      "publisher": "Cornell Law School Legal Information Institute / U.S. Code",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取第120(a)款对公共位置通常可见的已建成建筑照片的制作、分发和公开展示规则，仅用于核验本图立面范围。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "片山正通｜玻璃前的格纹怎样引我们进门",
+    "summary": "片山正通设计过许多让人走进去体验的空间。今天看东京青山的一张街景照片。玻璃、竹格屏和深色门框放在一起，给了门面不同的层次。",
+    "looking": "先看整张照片。树后面有高高的玻璃，前面有一大片浅色小格。底部的深色方框是入口。玻璃映出了树和天空。",
+    "featuredWorkIds": [
+      "intersect-tokyo"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "小格连成一面屏",
+          "paragraphs": [
+            "目光移到门口右上方。许多相似的形状一个接一个，像一片排得很整齐的网。这样的构件叫格屏，格子之间有空隙。",
+            "小格紧挨着，但还看得见后面的明暗。玻璃里也有树影。同一处看起来像有好几层，因为眼睛能同时看见格子、玻璃和玻璃映出来的东西。"
+          ],
+          "detail": {
+            "workId": "intersect-tokyo",
+            "imageWidth": 1510,
+            "imageHeight": 1460,
+            "x": 750,
+            "y": 865,
+            "width": 430,
+            "height": 350,
+            "alt": "展示窗周围是浅色重复竹格，玻璃上能看见反光。",
+            "caption": "门口右侧的原照局部。浅色小格围着一扇深色边框的展示窗，玻璃留出一块向里看的地方。"
+          }
+        },
+        {
+          "title": "回到整座门面",
+          "paragraphs": [
+            "现在回看整张照片。上部玻璃比较开阔，下部的小格比较密，门框又是一个清楚的大形状。即使隔着街，也比较容易看到门在哪里。",
+            "这里既能看展览，也能坐下来休息。我们虽然站在照片外面，却可以先用目光感受从街道到门口的变化。"
+          ]
+        },
+        {
+          "title": "留意身边的门",
+          "paragraphs": [
+            "走到图书馆或小店门口时，也可以先从远处看，再走近看。窗格、门框、地上的路和灯光，都可能帮助人认出入口。",
+            "每个地方的做法可以不一样。你可以慢慢看自己喜欢的那一处，再回到整个门面。只欣赏和交谈就很好。"
+          ]
+        }
+      ],
+      "reflection": "这片格纹和门口让你有什么感受？可以说一个词，也可以用手势表达。"
+    },
+    "takeaway": "重复的小形状能组成一大片表面，清楚的大门框能让入口显出来。",
+    "parentNote": "先看完整街景，再看格屏局部，最后退回街景。照片记录2018年的外观，室内空间由原始资料补充。孩子不必认品牌或数格子。"
+  },
+  "updatedAt": null
+}

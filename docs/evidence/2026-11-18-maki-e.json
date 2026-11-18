@@ -1,0 +1,391 @@
+{
+  "entryId": "2026-11-18-maki-e",
+  "date": "2026-11-18",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/maki-e",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "1c7fbdce-3a94-456a-a4f8-1208dff58c62",
+    "volume": "037",
+    "capturedAt": "2026-11-18T00:55:00Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "batch": {
+    "mode": "manual-backlog",
+    "dailyLimitException": "用户要求本次集中补更16期，真实发布日期仍为上海当天。单日唯一性为本批人工补更例外，其他验证保留。"
+  },
+  "sources": [
+    {
+      "title": "Lacquerware of East Asia",
+      "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+      "publisher": "The Metropolitan Museum of Art，Department of Asian Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取技法释义，核对未干漆面撒金银粉，以及不同地区和技法的材料边界。没有把撒粉推广为一切金色漆器的做法。"
+    },
+    {
+      "title": "Writing Box with Eight Bridges",
+      "url": "https://emuseum.nich.go.jp/detail?content_base_id=100196&content_part_id=0&content_pict_id=0&langId=en",
+      "publisher": "Tokyo National Museum / National Institutes for Cultural Heritage",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取H-86，核对尾形光琳、江户18世纪、木胎漆、莳绘金色叶茎、鲍贝花朵、铅片桥板及银片桥柱，与Met撒粉定义交叉印证。仅链接馆藏。"
+    },
+    {
+      "title": "Tiered Box (Jūbako) with Design of Boats and Plovers",
+      "url": "https://www.metmuseum.org/art/collection/search/40491",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2015.500.2.53a–g，核对柴田是真、19世纪下半叶、莳绘稻束、锡合金船体与螺钿。馆藏及API确认公版，使用同一馆藏的正面斜角实物照。"
+    },
+    {
+      "title": "Writing Box with Flying Geese in the Autumn Night",
+      "url": "https://www.metmuseum.org/art/collection/search/58276",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取38.25.102a–e，核对18世纪、江户、黑漆金莳绘、未具名作者。馆藏及API确认公版，刊用这件砚箱的官方正面斜角视图。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取开放政策，公版馆藏图按CC0开放。两图均实际下载、解码并检查像素，未上采样或调色。"
+    },
+    {
+      "title": "About e-Museum",
+      "url": "https://emuseum.nich.go.jp/about?langId=en",
+      "publisher": "National Institutes for Cultural Heritage",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取图像条款，e-Museum网站图片转载须另行许可，故八桥砚箱只链接，不复制该图。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-maki-e-boats.jpg",
+      "stagedFilename": "boats.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/40491",
+      "downloadUrl": "https://images.metmuseum.org/CRDImages/as/original/DP156555.jpg",
+      "identity": "Met 2015.500.2.53a–g，原物斜视图",
+      "width": 3001,
+      "height": 4000,
+      "bytes": 1547335,
+      "sha256": "adfd27656edfbd1bb0746d4edc1f4103658bb7edd1eee1eea9abdb2c9379765c",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "柴田是真，《舟与千鸟纹重盒》，19世纪下半叶。The Metropolitan Museum of Art，2015.500.2.53a–g，Gift of Florence and Herbert Irving, 2015。馆方原图CC0，详情保留完整图，卡片和讲解局部改变显示范围。",
+      "rightsReason": "作品页公版与API isPublicDomain=true一致，适用Met Open Access CC0。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "detailPixels": [
+        1040,
+        1920,
+        1170,
+        610
+      ]
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-maki-e-geese.jpg",
+      "stagedFilename": "geese.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/58276",
+      "downloadUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/58276/128225/main-image",
+      "identity": "Met 38.25.102a–e，原物斜视图",
+      "width": 1000,
+      "height": 693,
+      "bytes": 188099,
+      "sha256": "e93201e1171d30055adf35d5d81e44bf63a05da6f592b587080e9942af7dba5b",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "日本，《秋夜飞雁纹砚箱》，18世纪。The Metropolitan Museum of Art，38.25.102a–e，Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937。馆方作品页公开图像CC0，长边1000像素，保留完整图，不上采样。",
+      "rightsReason": "作品页公版与API isPublicDomain=true一致，适用Met Open Access CC0。原图地址网络失败后使用同一作品页链接的实际图。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "resolutionException": "历史作品的辅助参照，主图另有4000像素。已实际查看1000×693，月、雁、点纹与完整构图可辨。保留原始大小及构图，不做局部放大。"
+    }
+  ],
+  "editorialNotes": "先选Vol.037，再核对馆藏许可。琳派已发布篇重在流派，本篇辨认工艺、表面与反光，选择独立实物作为主例。八桥的桥、叶茎、花各有不同材料，依H-86原记录标注。",
+  "newFiles": [
+    "src/data/entries/2026-11-18-maki-e.json",
+    "public/images/entries/2026-11-18-maki-e-boats.jpg",
+    "public/images/entries/2026-11-18-maki-e-geese.jpg",
+    "docs/evidence/2026-11-18-maki-e.json"
+  ],
+  "validation": {
+    "status": "passed-with-user-authorized-same-day-exception",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-18-maki-e.json",
+      "exitCode": 1,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-2.log",
+      "accepted": true,
+      "soleError": "当天已有另一份正式档案，禁止重复日更"
+    },
+    "dailyOtherConditions": {
+      "command": "node --import tsx /private/tmp/visual-art-atlas-daily/2026-11-18/backlog/validate-batch.mts",
+      "exitCode": 0,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-3.log",
+      "accepted": true
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-4.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-5.log",
+        "accepted": true
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-6.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-7.log",
+        "accepted": true
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-8.log",
+        "accepted": true
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/backlog/check-9.log",
+        "accepted": true
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "publishedContentCount": 25,
+    "contentRepairs": 0,
+    "visualReview": {
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-summary.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "checks": [
+        {
+          "slug": "maki-e",
+          "edition": "adult",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-geese.jpg",
+                "width": 1000,
+                "height": 693
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+                "width": 2000,
+                "height": 970
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "maki-e",
+          "edition": "family",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-geese.jpg",
+                "width": 1000,
+                "height": 693
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+                "width": 2000,
+                "height": 970
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-maki-e-boats.jpg",
+            "x": 1040,
+            "y": 1920,
+            "width": 1170,
+            "height": 610,
+            "imageWidth": 3001,
+            "imageHeight": 4000
+          },
+          "pageErrors": []
+        },
+        {
+          "slug": "maki-e",
+          "edition": "adult",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-geese.jpg",
+                "width": 1000,
+                "height": 693
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+                "width": 2000,
+                "height": 970
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "maki-e",
+          "edition": "family",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-geese.jpg",
+                "width": 1000,
+                "height": 693
+              },
+              {
+                "src": "/images/entries/2026-11-11-chaekgeori-2011.37.jpg",
+                "width": 3400,
+                "height": 1915
+              },
+              {
+                "src": "/images/entries/2026-10-28-rinpa-yatsuhashi.jpg",
+                "width": 2000,
+                "height": 970
+              },
+              {
+                "src": "/images/hokusai-great-wave.jpg",
+                "width": 600,
+                "height": 403
+              },
+              {
+                "src": "/images/entries/2026-11-18-katayama-facade.jpg",
+                "width": 1510,
+                "height": 1460
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-18-maki-e-boats.jpg",
+            "x": 1040,
+            "y": 1920,
+            "width": 1170,
+            "height": 610,
+            "imageWidth": 3001,
+            "imageHeight": 4000
+          },
+          "pageErrors": []
+        }
+      ]
+    }
+  },
+  "batchPublication": {
+    "request": "把这16期要更新的先更新，到10:15分的时候如果没有完成，就先暂停任务",
+    "scope": "本次手动补更接受同日多篇，所有条目使用实际上海日期。日更命令仍按原样运行，附核验结果。",
+    "deadlineShanghai": "2026-11-18T10:15:00+08:00"
+  },
+  "publishedCategoryDistributionAfterBatch": {
+    "architecture": 3,
+    "digital_art": 1,
+    "eastern_art": 4,
+    "fashion_craft": 3,
+    "graphic_design": 4,
+    "product_design": 4,
+    "world_painting": 6
+  }
+}

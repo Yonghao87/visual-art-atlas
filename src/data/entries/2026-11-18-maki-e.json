@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-maki-e",
+  "date": "2026-11-18",
+  "status": "published",
+  "title": "莳绘｜用金粉与漆层创造流动的东方光泽",
+  "subtitle": "从柴田是真的金色稻束和江户砚箱的夜景，看金粉怎样在漆面上安排亮暗",
+  "topicType": "technique",
+  "category": "eastern_art",
+  "period": "江户18世纪至明治19世纪的馆藏实例",
+  "regions": [
+    "日本"
+  ],
+  "tags": [
+    "莳绘",
+    "漆器",
+    "螺钿",
+    "金粉",
+    "器物纹样"
+  ],
+  "summary": "莳绘利用湿漆承接细小的金属粉末。黑漆、金色纹样与贝壳反光各有角色，图案的疏密及器物表面共同组织观看。",
+  "style_summary": "莳绘｜用金粉与漆层创造流动的东方光泽-黑漆深底，金粉疏密，船纹斜展，转角连纹，异材反光",
+  "context": "认识工艺\n莳绘是将金、银等粉末撒在还湿润的漆上形成纹样的日本漆艺。漆让粉末附着，工匠可以安排粉末的疏密与图案的边缘。不同成品可能另有螺钿、金属嵌饰或其他漆面做法。遇到一处金属光泽，先看馆藏材料记录，再判断它是怎样形成的。\n\n完整欣赏：柴田是真的舟与千鸟纹重盒\n这件19世纪下半叶的重盒有数层，表面铺开船、稻束、水纹和飞鸟。大都会艺术博物馆注明，金莳绘用于表现稻束，船体使用锡合金并作漆面处理，器上还结合了螺钿。并列观看这些部位，可以看出同一件作品里的不同光泽有明确的材料分工。\n\n局部的亮点怎样进入整体\n先看一艘船里的稻束。细线弯成一组，线条顺着稻束的外形走，金色在暗色波纹间更醒目。再退回来，稻束的斜线、叠盒的横缝和转角让目光从正面移到侧面。秋夜飞雁砚箱的路径不同：小片金色在扁宽的盒盖上散开，飞雁沿斜线经过暗处。两件作品都利用明暗和疏密，所选的亮处各有侧重。\n\n区分原作材料和图像印象\n东京国立博物馆H-86的八桥砚箱中，金莳绘形成燕子花的叶和茎，花瓣使用鲍贝，桥板由铅片表现，桥柱使用银片。这个例子纠正了把桥板一概喊作金色莳绘的误读。馆藏摄影记录某一角度的光，无法代替移动器物时的反射变化。本站保留八桥砚箱的馆藏链接以供比较。\n\n艺术风格总结\n莳绘的表现力来自金属颗粒与漆面形成的关系。密集的金色可以让形状立起来，稀疏的亮点可以串联暗区。盒面和转角进一步决定观者看到图案的次序。把金色分配给具体形状、留出可辨的暗底，并区分每一种反光材料，比只追求金色表面更能读懂这门工艺。",
+  "visualFeatures": [
+    {
+      "key": "material",
+      "label": "金粉、锡合金和螺钿",
+      "description": "重盒把金粉用于稻束，船体由锡合金形成，并与螺钿的虹彩并置。材料身份依据实物记录逐一确认。"
+    },
+    {
+      "key": "linework",
+      "label": "成束的弯线塑造稻穗",
+      "description": "局部的细密曲线同向弯曲，给稻束统一的体积感。外侧暗色水纹带着另一组重复。"
+    },
+    {
+      "key": "composition",
+      "label": "纹样随器物的表面组织",
+      "description": "高重盒鼓励绕着转角看，扁砚箱则把较多图像集中到盒盖。在原图里观察边线和接缝。"
+    },
+    {
+      "key": "lighting",
+      "label": "从暗色背景上读出光泽",
+      "description": "重盒的亮部集中在稻束与飞鸟。砚箱的金点分布更广，用暗部衬托月亮和飞雁轮廓。照片记录特定照明。"
+    }
+  ],
+  "people": [
+    {
+      "name": "柴田是真 Shibata Zeshin",
+      "role": "舟与千鸟纹重盒作者，结合多种漆艺与镶嵌材料"
+    },
+    {
+      "name": "尾形光琳 Ogata Kōrin",
+      "role": "东京国立博物馆H-86八桥砚箱作者"
+    }
+  ],
+  "works": [
+    {
+      "id": "boats-plovers",
+      "title": "舟与千鸟纹重盒 Tiered Box with Design of Boats and Plovers",
+      "creator": "柴田是真",
+      "year": "19世纪下半叶",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/40491",
+      "image": {
+        "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+        "alt": "深色方形多层漆盒上，几艘斜向的船载着金色稻束，细密的暗色水纹之间有带虹彩的小鸟。",
+        "credit": "柴田是真，《舟与千鸟纹重盒》，19世纪下半叶。The Metropolitan Museum of Art，2015.500.2.53a–g，Gift of Florence and Herbert Irving, 2015。馆方原图CC0，详情保留完整图，卡片和讲解局部改变显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/40491",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "autumn-geese",
+      "title": "秋夜飞雁纹砚箱 Writing Box with Flying Geese in the Autumn Night",
+      "creator": "日本，作者未具名",
+      "year": "18世纪",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/58276",
+      "image": {
+        "src": "/images/entries/2026-11-18-maki-e-geese.jpg",
+        "alt": "黑色扁平砚箱上有散布的金点、远山、圆月和成斜列飞过的雁，盒盖边缘有金色细边。",
+        "credit": "日本，《秋夜飞雁纹砚箱》，18世纪。The Metropolitan Museum of Art，38.25.102a–e，Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937。馆方作品页公开图像CC0，长边1000像素，保留完整图，不上采样。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/58276",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "eight-bridges",
+      "title": "八桥莳绘螺钿砚箱 Writing Box with Eight Bridges",
+      "creator": "尾形光琳",
+      "year": "江户时代，18世纪",
+      "sourceUrl": "https://emuseum.nich.go.jp/detail?content_base_id=100196&content_part_id=0&content_pict_id=0&langId=en",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "金粉纹样与螺钿镶嵌",
+    "description": "莳绘把粉末随漆层固定成图案，螺钿把预先成形的贝壳片嵌入器物表面。八桥砚箱中两种方法分别表现叶茎和花朵，可以用来区分颗粒聚集与贝片边缘。"
+  },
+  "applications": [
+    "包装图案用少数高亮区域带出信息层级，同时保留可读的深色空白。",
+    "器物系列在俯看和侧看中安排纹样，比较图形跨过转角时是否仍然可读。",
+    "插画可用点的疏密表现亮暗过渡，再通过边界控制亮部与背景的关系。"
+  ],
+  "experiment": "用深色纸和金色或浅色彩笔画一只盒子的侧面。挑一个图案，把同样大小的点画得一边密、一边疏。退远比较看到的亮暗，再用一条折线标出盒角，观察图案跨角前后的变化。这个比较只用纸笔。",
+  "nextTopics": [
+    "江户砚箱如何重述文学题材",
+    "螺钿和金属嵌饰怎样分工"
+  ],
+  "relatedIds": [
+    "2026-10-28-rinpa",
+    "2026-11-11-chaekgeori"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+    "alt": "深色方形多层漆盒上，几艘斜向的船载着金色稻束，细密的暗色水纹之间有带虹彩的小鸟。",
+    "credit": "柴田是真，《舟与千鸟纹重盒》，19世纪下半叶。The Metropolitan Museum of Art，2015.500.2.53a–g，Gift of Florence and Herbert Irving, 2015。馆方原图CC0，详情保留完整图，卡片和讲解局部改变显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/40491",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Lacquerware of East Asia",
+      "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+      "publisher": "The Metropolitan Museum of Art，Department of Asian Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取技法释义，核对未干漆面撒金银粉，以及不同地区和技法的材料边界。没有把撒粉推广为一切金色漆器的做法。"
+    },
+    {
+      "title": "Writing Box with Eight Bridges",
+      "url": "https://emuseum.nich.go.jp/detail?content_base_id=100196&content_part_id=0&content_pict_id=0&langId=en",
+      "publisher": "Tokyo National Museum / National Institutes for Cultural Heritage",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取H-86，核对尾形光琳、江户18世纪、木胎漆、莳绘金色叶茎、鲍贝花朵、铅片桥板及银片桥柱，与Met撒粉定义交叉印证。仅链接馆藏。"
+    },
+    {
+      "title": "Tiered Box (Jūbako) with Design of Boats and Plovers",
+      "url": "https://www.metmuseum.org/art/collection/search/40491",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取2015.500.2.53a–g，核对柴田是真、19世纪下半叶、莳绘稻束、锡合金船体与螺钿。馆藏及API确认公版，使用同一馆藏的正面斜角实物照。"
+    },
+    {
+      "title": "Writing Box with Flying Geese in the Autumn Night",
+      "url": "https://www.metmuseum.org/art/collection/search/58276",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取38.25.102a–e，核对18世纪、江户、黑漆金莳绘、未具名作者。馆藏及API确认公版，刊用这件砚箱的官方正面斜角视图。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "publisher": "The Metropolitan Museum of Art",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取开放政策，公版馆藏图按CC0开放。两图均实际下载、解码并检查像素，未上采样或调色。"
+    },
+    {
+      "title": "About e-Museum",
+      "url": "https://emuseum.nich.go.jp/about?langId=en",
+      "publisher": "National Institutes for Cultural Heritage",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取图像条款，e-Museum网站图片转载须另行许可，故八桥砚箱只链接，不复制该图。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "莳绘｜黑漆盒上的金色稻束",
+    "summary": "从前，日本工艺师会在盒子表面做图案。漆是一种能涂在器物表面的材料。漆还没干时，把很细的金粉撒到需要花纹的地方，这种做法叫莳绘。今天来看两个真实的漆盒。",
+    "looking": "先看柴田是真的高盒子。不同层合在一起，船、金色稻束和小鸟在深色盒面上展开。再看旁边扁扁的砚箱，它是收放写字用具的盒子。盖上也有大块暗色和一小轮月亮。",
+    "featuredWorkIds": [
+      "boats-plovers",
+      "autumn-geese"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "先看船上的金色稻束",
+          "paragraphs": [
+            "看近一点，船里金色的形状像一束束弯下来的稻穗。许多细线朝同一个方向弯，让一束稻子显得饱满。图案集中在船里，周围留给黑色水纹。",
+            "船身有灰暗的金属色，和稻束的金色不一样。上方有些鸟还会泛出贝壳般的颜色。不同材料在照片里带来不同的亮度。"
+          ],
+          "detail": {
+            "workId": "boats-plovers",
+            "imageWidth": 3001,
+            "imageHeight": 4000,
+            "x": 1040,
+            "y": 1920,
+            "width": 1170,
+            "height": 610,
+            "alt": "重盒中央一艘深色船与金色稻束，细弯线和周围暗色波纹清楚可见。",
+            "caption": "同一张重盒照片的局部。看船里的金色弯线，再回到整个盒子。"
+          }
+        },
+        {
+          "title": "退远看盒子上的水面",
+          "paragraphs": [
+            "回看整只高盒子。船和水纹靠近盒子的转角，盒子的几层也有一条条接缝。图案顺着盒面的方向展开，目光可以从一个面移到另一个面。",
+            "扁砚箱把金点撒在大片暗色上，飞雁从画面斜着经过。两件器物都用金色，却可以让目光走出不同的路线。"
+          ]
+        },
+        {
+          "title": "把眼睛带回生活",
+          "paragraphs": [
+            "看生活里的杯子或饼干盒，也可以先注意远远能看见的大图案，再找近处才能看清的细线。盒子有正面也有侧面，图案可能沿着边延过去。",
+            "这次只看和交谈就够了。我们可以喜欢亮亮的地方，也可以喜欢那些让亮色显出来的暗处。"
+          ]
+        }
+      ],
+      "reflection": "哪只盒子的亮暗让你最想多看一会儿？用一个词或一个动作说出你的感觉。"
+    },
+    "takeaway": "金粉、漆面和贝壳能带来不同的光泽。亮色放在哪里，会改变我们怎样看整个盒子。",
+    "parentNote": "从整件到局部，再回到整件，指给孩子看同一艘船。把稻束的莳绘与其他材料分开讲。家里欣赏即可，无需接触生漆或金属粉。"
+  },
+  "updatedAt": null
+}
