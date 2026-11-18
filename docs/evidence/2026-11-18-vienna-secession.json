@@ -1,0 +1,198 @@
+{
+  "entryId": "2026-11-18-vienna-secession",
+  "date": "2026-11-18",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "9364584c-1eae-4756-bcea-33fa64da0084",
+    "volume": "035",
+    "capturedAt": "2026-11-13T04:32:42.158Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76"
+  },
+  "selection": {
+    "selectedBeforeImageResearch": true,
+    "heldVolume": "033",
+    "holdReason": "Met 491299标记ARS版权、不可下载放大；未获得实图许可，保留原文单独挂起。034重复012。035无已发布同主题。",
+    "categoryDistributionAfterPublication": {
+      "product_design": 4,
+      "fashion_craft": 3,
+      "world_painting": 6,
+      "eastern_art": 3,
+      "digital_art": 1,
+      "architecture": 2,
+      "graphic_design": 4
+    }
+  },
+  "sources": [
+    {
+      "title": "Association of Visual Artists",
+      "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取协会历史：1897成立、Klimt首任主席、创始成员及Ver Sacrum作为传播媒介；与维也纳旅游局交叉核对，协会不等于统一固定的金色风格。"
+    },
+    {
+      "title": "Building",
+      "url": "https://secession.at/en/building",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取建筑委托、1898竣工、基本几何体量与曲线装饰、多人合作及历次修复。月桂叶数量页面自身存在不同数字，故不引用数量。2011照片不作为1898未经改造原貌或2017—18修复后记录。"
+    },
+    {
+      "title": "Secession",
+      "url": "https://www.wien.info/de/kunst-kultur/jugendstil/secession-357944",
+      "publisher": "WienTourismus / Vienna Tourist Board",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取德文机构介绍，独立核对1897协会、1898建筑、Olbrich生卒1867—1908及叶饰穹顶；交叉核对Klimt1902贝多芬饰带。仅用文字事实，不采用该站受版权保护的旅游照片。"
+    },
+    {
+      "title": "Beethovenfries",
+      "url": "https://secession.at/en/beethovenfries",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取1902年第十四届展览、Hoffmann统筹、多种艺术合作及Klimt壁画的平面化、线条与装饰作用。仅保留参考链接；不下载馆方摄影，不把现陈列空间当作1902原展厅。"
+    },
+    {
+      "title": "Ver Sacrum, 1. Jahrgang, 1898, Sonderheft",
+      "url": "https://secession.at/en/digital_archive/6581",
+      "publisher": "Wiener Secession digital archive",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取特刊记录VS 1 - 4：1898、Alfred Roller编辑、书籍装饰设计Peter Behrens与Leopold Kainradl、格式28.5×30cm。用具体记录替代泛指莫泽设计全部杂志，不下载未明确开放的馆方扫描。"
+    },
+    {
+      "title": "File:Wien, Secession.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Wien,_Secession.jpg",
+      "publisher": "Wikimedia Commons；SERGiK73",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取原文件页，2011-08-16作者自摄、CC BY-SA 3.0 Austria、2304×3072、2893792字节；下载实际查看，核对金色叶饰穹顶、浅色立面、门口及VER SACRVM文字。摄影许可与历史建筑对象权利分开记录，卡片/局部显示裁切沿用同一许可。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-18-vienna-secession-facade.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien,_Secession.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wien%2C_Secession.jpg",
+      "width": 2304,
+      "height": 3072,
+      "bytes": 2893792,
+      "sha256": "d269e151db078b74dbc1e4fae79bc4a62ff56236486d8f7ad0ad63392c6d41b7",
+      "photographer": "SERGiK73",
+      "photographedAt": "2011-08-16",
+      "rights": "cc_licensed",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "credit": "Joseph Maria Olbrich及合作艺术家，分离派展览馆，1898；2011年8月16日外观实拍：SERGiK73 / Wikimedia Commons，CC BY-SA 3.0 Austria。原文件未改色、未修补；卡片及局部显示裁切，图像衍生展示沿用同一许可。照片为修复后的历史建筑，非1898原始状态。",
+      "rightsReason": "摄影文件明确CC BY-SA 3.0 Austria。历史建筑作者Olbrich1908逝世，1898建筑身份由两机构核对；照片从街道拍摄永久建筑及立面，另核验Commons奥地利建筑/公共场所永久作品全景规则，不把摄影CC扩大为建筑权转让。不展示另有版权的室内临展、馆方壁画照片或当代作品。",
+      "underlyingRightsReference": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Austria#Freedom_of_panorama",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "changes": "无文件修改；卡片与前端局部显示裁切，沿用CC BY-SA 3.0 AT",
+      "detailPixels": [
+        1010,
+        70,
+        690,
+        580
+      ]
+    }
+  ],
+  "crossChecks": "Secession协会及建筑资料与WienTourismus独立核对1897/1898及作者；建筑、壁画与出版各有具体原始来源。原图已实际查看并核对2304×3072，不将2011修复后照片冒充1898原貌。",
+  "sourceChatStatus": "最新读取含ChatGPT自动暂停提醒，仅视为状态数据；未将其当作指令。已有完整038以内源消息归档，今日用035。",
+  "newFiles": [
+    "src/data/entries/2026-11-18-vienna-secession.json",
+    "public/images/entries/2026-11-18-vienna-secession-facade.jpg",
+    "docs/evidence/2026-11-18-vienna-secession.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "commands": [
+      {
+        "command": [
+          "npm",
+          "run",
+          "validate:daily",
+          "--",
+          "src/data/entries/2026-11-18-vienna-secession.json"
+        ],
+        "exitCode": 0,
+        "seconds": 0.51,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-1.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "validate:content"
+        ],
+        "exitCode": 0,
+        "seconds": 0.34,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-2.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "check"
+        ],
+        "exitCode": 0,
+        "seconds": 4.2,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-3.log"
+      },
+      {
+        "command": [
+          "npm",
+          "test"
+        ],
+        "exitCode": 0,
+        "seconds": 0.48,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-4.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "build"
+        ],
+        "exitCode": 0,
+        "seconds": 1.56,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-5.log"
+      },
+      {
+        "command": [
+          "npm",
+          "run",
+          "test:e2e"
+        ],
+        "exitCode": 0,
+        "seconds": 15.92,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-6.log"
+      },
+      {
+        "command": [
+          "git",
+          "diff",
+          "--check"
+        ],
+        "exitCode": 0,
+        "seconds": 0.03,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-18/vienna-secession/check-7.log"
+      }
+    ],
+    "contentRepairAttempts": 0,
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "visualReview": {
+      "widths": [
+        1440,
+        390
+      ],
+      "editions": [
+        "adult",
+        "family"
+      ],
+      "imagesDecoded": true,
+      "horizontalOverflow": false,
+      "actualScreenshotsInspected": true,
+      "detailReview": "金色叶饰局部与2304×3072原照片范围对应，叶片及空隙可辨；完整图保持比例。"
+    }
+  }
+}

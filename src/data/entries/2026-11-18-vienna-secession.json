@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-vienna-secession",
+  "date": "2026-11-18",
+  "status": "published",
+  "title": "维也纳分离派｜让装饰、绘画与建筑成为同一种视觉语言",
+  "subtitle": "从展览馆的几何体量与金色叶饰，理解局部纹样如何进入整体秩序",
+  "topicType": "movement",
+  "category": "world_painting",
+  "period": "1897年起；核心实例为1898年建筑、1898年刊物及1902年壁画",
+  "regions": [
+    "奥地利",
+    "维也纳"
+  ],
+  "tags": [
+    "维也纳分离派",
+    "新艺术运动",
+    "几何秩序",
+    "植物纹样",
+    "整体艺术",
+    "装饰"
+  ],
+  "summary": "分离派把展览、建筑、绘画与出版联系起来。以展览馆为观看入口，可以看见直边体量与植物曲线、金色装饰与浅色留白怎样彼此支撑，而不是只把花纹当成后来加上的装点。",
+  "style_summary": "维也纳分离派｜让装饰、绘画与建筑成为同一种视觉语言-几何体量，金色叶饰，植物曲线，疏密对照，整体装饰",
+  "context": "认识背景：首先是艺术家的组织\n1897年，克里姆特等艺术家离开维也纳保守的艺术家协会，成立分离派。展览与《Ver Sacrum》杂志是他们传播新观念的重要方式。分离派不能仅被理解为一套“白墙加金色”的装饰公式：它同时涉及展示空间、出版与艺术家之间的协作。\n\n完整欣赏：展览馆的几何与叶饰\n奥尔布里希设计的展览馆于1898年竣工。大块浅色墙面、明确的直边体量与金色叶饰穹顶形成对照。本篇采用2011年街道视角的外观照片：它记录的是经过历史修复的建筑，不能用来声称所有细节都保持1898原状，也不能代表2017—18年再修复后的状态。\n\n具体讲解：曲线怎样进入秩序\n先看顶部。叶子与枝条重复连接，金色形状之间透出天空，圆起的轮廓因此具有轻透感；它不是实心球体。再看门口附近，植物纹样被安排在凹入入口和边缘周围，与较平整的大墙面形成疏密关系。照片从斜下方拍摄，透视会使边线倾斜，不能把每条倾斜都误认成建筑原本的几何设计。\n\n退回整体：装饰参与识别和空间\n大体量先建立清楚的建筑轮廓，小叶饰、文字和门口雕塑再引导近距离观看。金色集中于少数部位，浅色墙面提供停顿。装饰不是随手铺满的表皮，它与入口的位置、顶部的轮廓和观看距离一起工作。建筑的装饰由多位艺术家合作完成，不能把所有部件都归为奥尔布里希一人制作。\n\n从建筑走向壁画与出版\n克里姆特为1902年的贝多芬展览创作《贝多芬饰带》。馆方指出，展览希望让空间、壁画和雕塑在同一主题下协作；饰带的平面化人物、线条与纹样也参加了这种整体关系。出版方面，本篇保留《Ver Sacrum》1898年特刊的档案入口：该期编辑为Alfred Roller，书籍装饰设计记录为Peter Behrens与Leopold Kainradl。具体期号比把整套杂志笼统归给某一位设计师更准确。这两项作为延伸参考保留来源链接。\n\n艺术风格总结\n维也纳分离派的启发，是让几何框架、曲线纹样、文字与材料在整体中相互支持。装饰既有局部的精细，也依靠大面积平整表面的衬托；观看会在远处的轮廓和近处的纹样之间往返。金色是一种可见手段，跨媒介协作与整体组织才让这些不同艺术发生联系。",
+  "visualFeatures": [
+    {
+      "key": "form",
+      "label": "大体量与小纹样",
+      "description": "入口上方的直边体块建立轮廓，叶饰穹顶又形成圆起的重点；体量与纹样处于不同观看尺度。"
+    },
+    {
+      "key": "linework",
+      "label": "直线框架与植物曲线",
+      "description": "墙面的直边和门口的弯曲枝叶互相对照，曲线被安排在特定位置，而非无边界蔓延。"
+    },
+    {
+      "key": "color",
+      "label": "浅色平面衬托金色",
+      "description": "这张外观照片中，较浅的大墙面与集中出现的金色装饰形成主次。光照与摄影会影响色调，不把照片颜色当成精确材料色样。"
+    },
+    {
+      "key": "space",
+      "label": "实体、空隙与凹入入口",
+      "description": "穹顶叶饰之间可以透见天空，门口向内退进，平整墙面和较密花纹共同形成观看节奏。"
+    }
+  ],
+  "people": [
+    {
+      "name": "古斯塔夫·克里姆特 Gustav Klimt",
+      "role": "分离派首任主席；1902年《贝多芬饰带》作者"
+    },
+    {
+      "name": "约瑟夫·玛利亚·奥尔布里希 Joseph Maria Olbrich",
+      "role": "分离派展览馆建筑师"
+    },
+    {
+      "name": "Alfred Roller、Peter Behrens、Leopold Kainradl",
+      "role": "所引1898年《Ver Sacrum》特刊的编辑与书籍装饰设计参与者"
+    }
+  ],
+  "works": [
+    {
+      "id": "secession-building",
+      "title": "分离派展览馆（2011年入口外观实拍）",
+      "creator": "Joseph Maria Olbrich及合作艺术家；摄影SERGiK73",
+      "year": "建筑1898；照片2011",
+      "sourceUrl": "https://secession.at/en/building",
+      "image": {
+        "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+        "alt": "仰视展览馆入口：浅色直边体块上方是金色叶饰穹顶，门框周围有植物纹样，台阶上有参观者。",
+        "credit": "Joseph Maria Olbrich及合作艺术家，分离派展览馆，1898；2011年8月16日外观实拍：SERGiK73 / Wikimedia Commons，CC BY-SA 3.0 Austria。原文件未改色、未修补；卡片及局部显示裁切，图像衍生展示沿用同一许可。照片为修复后的历史建筑，非1898原始状态。",
+        "rights": "cc_licensed",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien,_Secession.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en"
+      }
+    },
+    {
+      "id": "beethoven-frieze",
+      "title": "贝多芬饰带 Beethovenfries",
+      "creator": "Gustav Klimt",
+      "year": "1902",
+      "sourceUrl": "https://secession.at/en/beethovenfries",
+      "image": null
+    },
+    {
+      "id": "ver-sacrum-special",
+      "title": "Ver Sacrum，第一年特刊（VS 1 - 4）",
+      "creator": "编辑Alfred Roller；书籍装饰设计Peter Behrens、Leopold Kainradl",
+      "year": "1898",
+      "sourceUrl": "https://secession.at/en/digital_archive/6581",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "把装饰当作可任意添加的表面花纹",
+    "description": "展览馆的叶饰、文字与入口并非处处等量铺开，而是与体量和观看路线相互配合。比较重点是装饰怎样组织整体；分离派内部有不同实践，不能只凭金色或几何图形就判定归属。"
+  },
+  "applications": [
+    "文化展览视觉：先确定远看可识别的大轮廓，再让边框、字体与纹样在同一组织规则下变化。",
+    "包装与书籍：控制纹样密度，给标题和主体留出安静位置，让系列通过重复规则建立联系。",
+    "空间导视：将表面图案与入口、转折和停留区域对应，兼顾远处识别与近处观看。"
+  ],
+  "experiment": "用普通纸笔设计一张自己的阅读角标牌。先画清楚的外框和名称，再选一种叶形或几何图形，只在一个重点区域重复。把纸拿远又移近，比较大轮廓与小装饰是否互相支持，不需要使用金属材料或复制建筑细节。",
+  "nextTopics": [
+    "维也纳工坊怎样把整体艺术带入日常物件",
+    "艺术杂志中字体与边框的共同组织"
+  ],
+  "relatedIds": [
+    "2026-10-06-bauhaus",
+    "2026-11-13-futurist-typography"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+    "alt": "仰视展览馆入口：浅色直边体块上方是金色叶饰穹顶，门框周围有植物纹样，台阶上有参观者。",
+    "credit": "Joseph Maria Olbrich及合作艺术家，分离派展览馆，1898；2011年8月16日外观实拍：SERGiK73 / Wikimedia Commons，CC BY-SA 3.0 Austria。原文件未改色、未修补；卡片及局部显示裁切，图像衍生展示沿用同一许可。照片为修复后的历史建筑，非1898原始状态。",
+    "rights": "cc_licensed",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien,_Secession.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en"
+  },
+  "sources": [
+    {
+      "title": "Association of Visual Artists",
+      "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取协会历史：1897成立、Klimt首任主席、创始成员及Ver Sacrum作为传播媒介；与维也纳旅游局交叉核对，协会不等于统一固定的金色风格。"
+    },
+    {
+      "title": "Building",
+      "url": "https://secession.at/en/building",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取建筑委托、1898竣工、基本几何体量与曲线装饰、多人合作及历次修复。月桂叶数量页面自身存在不同数字，故不引用数量。2011照片不作为1898未经改造原貌或2017—18修复后记录。"
+    },
+    {
+      "title": "Secession",
+      "url": "https://www.wien.info/de/kunst-kultur/jugendstil/secession-357944",
+      "publisher": "WienTourismus / Vienna Tourist Board",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取德文机构介绍，独立核对1897协会、1898建筑、Olbrich生卒1867—1908及叶饰穹顶；交叉核对Klimt1902贝多芬饰带。仅用文字事实，不采用该站受版权保护的旅游照片。"
+    },
+    {
+      "title": "Beethovenfries",
+      "url": "https://secession.at/en/beethovenfries",
+      "publisher": "Wiener Secession",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取1902年第十四届展览、Hoffmann统筹、多种艺术合作及Klimt壁画的平面化、线条与装饰作用。仅保留参考链接；不下载馆方摄影，不把现陈列空间当作1902原展厅。"
+    },
+    {
+      "title": "Ver Sacrum, 1. Jahrgang, 1898, Sonderheft",
+      "url": "https://secession.at/en/digital_archive/6581",
+      "publisher": "Wiener Secession digital archive",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取特刊记录VS 1 - 4：1898、Alfred Roller编辑、书籍装饰设计Peter Behrens与Leopold Kainradl、格式28.5×30cm。用具体记录替代泛指莫泽设计全部杂志，不下载未明确开放的馆方扫描。"
+    },
+    {
+      "title": "File:Wien, Secession.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Wien,_Secession.jpg",
+      "publisher": "Wikimedia Commons；SERGiK73",
+      "verifiedAt": "2026-11-18",
+      "verificationNote": "实际读取原文件页，2011-08-16作者自摄、CC BY-SA 3.0 Austria、2304×3072、2893792字节；下载实际查看，核对金色叶饰穹顶、浅色立面、门口及VER SACRVM文字。摄影许可与历史建筑对象权利分开记录，卡片/局部显示裁切沿用同一许可。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "维也纳分离派｜直直的墙与金色的叶子",
+    "summary": "一百多年前，维也纳的一群艺术家成立了分离派。他们让建筑、绘画和装饰一起合作。今天看建筑师奥尔布里希设计的展览馆，认识直线、大形状和弯弯的叶子怎样相处。",
+    "looking": "先看整张照片。浅色建筑有直直的边，顶部是一团圆圆的金色叶饰。门口也有金色花纹，下面是台阶。这是2011年拍下的建筑外观，不是当年建造时的照片。",
+    "featuredWorkIds": [
+      "secession-building"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "先看金色叶子的空隙",
+          "paragraphs": [
+            "目光先移到顶部。许多叶子和枝条连在一起，形成圆圆的外轮廓。建筑上这种圆起的顶部叫穹顶。这里的叶饰之间有空隙，能看到后面的天空，并非一块实心的金色圆球。",
+            "叶子的边缘有弯曲，旁边墙体的边却直直的。小小的曲线聚在一起，让上面的形状显得轻巧。"
+          ],
+          "detail": {
+            "workId": "secession-building",
+            "imageWidth": 2304,
+            "imageHeight": 3072,
+            "x": 1010,
+            "y": 70,
+            "width": 690,
+            "height": 580,
+            "alt": "穹顶一部分的金色叶子、枝条和空隙，后方透出浅蓝天空。",
+            "caption": "同一照片的顶部局部：叶饰与空隙共同形成圆起的外形。看完这里，再回到整张照片。"
+          }
+        },
+        {
+          "title": "回看墙面，花纹有自己的位置",
+          "paragraphs": [
+            "现在回看整张照片。浅色的墙面像几块大积木，门口在它们之间凹进去。大块平整的地方，让上面的金色叶饰更容易被看见。",
+            "再看门框附近。植物花纹沿着建筑边缘铺开，墙面中间仍留着安静的空处。装饰就是用线条、图形等安排表面；它在这里也帮助我们注意到入口。"
+          ]
+        },
+        {
+          "title": "把大小形状一起看",
+          "paragraphs": [
+            "退回整体，直边的大墙、圆起的顶部和小叶子一起组成建筑的样子。它既有清楚的大形状，也有值得走近看的小变化。金色没有铺满所有地方，所以格外醒目。",
+            "绘本封面和家里的碗沿，也可能把花纹放在特定位置。欣赏时可以先看整体，再看一小处，最后退回来。只看图和交谈，就完成了这次阅读。"
+          ]
+        }
+      ],
+      "reflection": "这座有金色叶子的建筑带给你什么感受？可以用一个词、一个动作或一段声音表达。"
+    },
+    "takeaway": "大形状建立秩序，小花纹带来变化；空着的地方也会帮助装饰被看见。",
+    "parentNote": "无需数叶子、背人名或动手仿造。用顶部局部说明叶饰和空隙，再回到完整照片看大小形状的关系。此图从斜下方拍摄，边线受透视影响；不要求孩子据此判断建筑严格对称，也不把所有分离派作品说成同一种金色样子。"
+  },
+  "updatedAt": null
+}
