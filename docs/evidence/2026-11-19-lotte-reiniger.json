@@ -1,0 +1,394 @@
+{
+  "entryId": "2026-11-19-lotte-reiniger",
+  "date": "2026-11-19",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "896e7158-bc8c-4aa6-8cf1-79fad3338398",
+    "volume": "021",
+    "capturedAt": "2026-11-04T04:35:11.499Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "recoveredFrom": {
+      "type": "fileChange",
+      "codexItemId": "exec-58eea62a-3dc0-409e-a257-e969f418e4cc",
+      "priorArtifact": "/private/tmp/visual-art-atlas-daily/2026-11-04/source-candidates.json"
+    }
+  },
+  "sources": [
+    {
+      "title": "Die Abenteuer des Prinzen Achmed",
+      "url": "https://www.filmportal.de/film/die-abenteuer-des-prinzen-achmed_2d3e507b1f7c45c191afea55317fc76b",
+      "publisher": "filmportal.de / DFF",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对1923–1926年制作、1926年公开放映、赖尼格导演和动画署名、卡尔·科赫摄影，以及原放映版有染色记录。"
+    },
+    {
+      "title": "Chronologie zum Animationsfilm in Deutschland 1920–29",
+      "url": "https://www.diaf.de/forschung/chronologie-zum-animationsfilm-in-deutschland/chronologie-zum-deutschen-animationsfilm-1920-29/",
+      "publisher": "Deutsches Institut für Animationsfilm",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对1926年柏林放映记录。该页收录当年放映册，记载关节剪影放在玻璃上、从下方照明、从上方逐格拍摄。另核对 Christel Strobel／Primrose 的图像署名。"
+    },
+    {
+      "title": "Lotte Reiniger: Animation Innovator",
+      "url": "https://blogs.loc.gov/inside_adams/2025/04/lotte-reiniger/",
+      "publisher": "Library of Congress",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "交叉核对《阿赫迈德王子历险记》是现存最早的动画长片，及多层平面与从上方拍摄的方法。"
+    },
+    {
+      "title": "Die Abenteuer meines Prinzen Achmed",
+      "url": "https://www.lottereiniger.de/filme/prinz_achmed_text.php",
+      "publisher": "洛特·赖尼格 / lottereiniger.de",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对创作者本人回忆的分工，包括她剪制并移动角色和布景，以及科赫负责摄影和技术。"
+    },
+    {
+      "title": "Informationen zur Restaurierung des Films",
+      "url": "https://www.lottereiniger.de/filme/prinz_achmed_restaurierung.php",
+      "publisher": "Deutsches Filmmuseum / lottereiniger.de",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对多个拷贝和后续修复的情况，区分作品年份与收录图片的具体转印版本。"
+    },
+    {
+      "title": "Schattenspielfigur: Prinz Achmed",
+      "url": "https://www.filmportal.de/node/37873/material/719717",
+      "publisher": "Filmmuseum Düsseldorf / filmportal.de",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对馆藏剪影偶由纸板、铅片、纸和金属丝关节构成。图像为版权保护，仅提供馆藏链接。"
+    },
+    {
+      "title": "File:Lotte Reiniger Prinz Achmed 002.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Lotte_Reiniger_Prinz_Achmed_002.jpg",
+      "publisher": "Wikimedia Commons / Christel Strobel / Primrose Productions",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对002来源、原文件2362×1691和权利人 CC BY-SA 4.0 记录。Wikimedia VRT 工单2018040610008781。"
+    },
+    {
+      "title": "File:Lotte Reiniger Prinz Achmed 003.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Lotte_Reiniger_Prinz_Achmed_003.jpg",
+      "publisher": "Wikimedia Commons / Christel Strobel / Primrose Productions",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对003来源、原文件800×600和同一 VRT 工单。作为对照整图展示，色块、轮廓和层次均可辨。"
+    },
+    {
+      "title": "Attribution-ShareAlike 4.0 International",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "publisher": "Creative Commons",
+      "verifiedAt": "2026-11-19",
+      "verificationNote": "核对署名、链接、变化说明和相同方式共享义务。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+      "stagedFilename": "achmed-002.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_Reiniger_Prinz_Achmed_002.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lotte_Reiniger_Prinz_Achmed_002.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "identity": "1926年《阿赫迈德王子历险记》权利人开放静态影像 002。记录页未注明拷贝代次或修复版次。",
+      "width": 2362,
+      "height": 1691,
+      "bytes": 2635344,
+      "sha256": "1b30bfe6716c11aebba77a07338bbb7cda49b688ee05074f55727a37e741e5ed",
+      "rights": "cc_licensed",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "《阿赫迈德王子历险记》（1926）影像 002。洛特·赖尼格／Primrose Productions，Christel Strobel／Primrose Productions 提供，Wikimedia Commons。CC BY-SA 4.0。完整图沿用文件原样。卡片与亲子局部仅改变显示范围，局部沿用同一许可。",
+      "rightsReason": "文件页显示由版权方 Christel Strobel／Primrose Productions 供图，Wikimedia VRT 工单2018040610008781确认 CC BY-SA 4.0。许可用于两个逐项核对的静态文件。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "detailPixels": [
+        780,
+        1115,
+        805,
+        390
+      ]
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+      "stagedFilename": "achmed-003.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_Reiniger_Prinz_Achmed_003.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lotte_Reiniger_Prinz_Achmed_003.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "identity": "1926年《阿赫迈德王子历险记》权利人开放静态影像 003。记录页未注明拷贝代次或修复版次。",
+      "width": 800,
+      "height": 600,
+      "bytes": 310407,
+      "sha256": "3b5fe1079849441fae6f758391330d3516ae5970e17a30bc0578e9bbab2c57b5",
+      "rights": "cc_licensed",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "《阿赫迈德王子历险记》（1926）影像 003。洛特·赖尼格／Primrose Productions，Christel Strobel／Primrose Productions 提供，Wikimedia Commons。CC BY-SA 4.0。完整图沿用文件原样，卡片可能裁切显示，沿用同一许可。",
+      "rightsReason": "文件页显示由版权方 Christel Strobel／Primrose Productions 供图，Wikimedia VRT 工单2018040610008781确认 CC BY-SA 4.0。许可用于两个逐项核对的静态文件。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "resolutionException": "历史辅助影像800×600。实看暖橙背景、窗格、悬置形体及剪影清楚。原尺度原构图，不上采样、不设局部。"
+    }
+  ],
+  "editorialNotes": "Vol.021优先于Vol.022。分类为产品与跨界，讲解实体剪影偶、灯光与电影工艺。截取的是页面原图视窗，原文件未更改。保护中的阿赫迈德剪影偶仅链接。",
+  "newFiles": [
+    "src/data/entries/2026-11-19-lotte-reiniger.json",
+    "public/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+    "public/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+    "docs/evidence/2026-11-19-lotte-reiniger.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-19-lotte-reiniger.json",
+      "exitCode": 0,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-1.log"
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-2.log"
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-3.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-4.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-5.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-6.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-19/lotte-reiniger/check-7.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "publishedContentCount": 27,
+    "contentRepairs": 0,
+    "visualReview": {
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-summary.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "checks": [
+        {
+          "slug": "lotte-reiniger",
+          "edition": "adult",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+                "width": 800,
+                "height": 600
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+                "width": 950,
+                "height": 1200
+              },
+              {
+                "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+                "width": 3648,
+                "height": 2736
+              },
+              {
+                "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+                "width": 900,
+                "height": 1213
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "lotte-reiniger",
+          "edition": "family",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+                "width": 800,
+                "height": 600
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+                "width": 950,
+                "height": 1200
+              },
+              {
+                "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+                "width": 3648,
+                "height": 2736
+              },
+              {
+                "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+                "width": 900,
+                "height": 1213
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+            "x": 780,
+            "y": 1115,
+            "width": 805,
+            "height": 390,
+            "imageWidth": 2362,
+            "imageHeight": 1691
+          },
+          "pageErrors": []
+        },
+        {
+          "slug": "lotte-reiniger",
+          "edition": "adult",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+                "width": 800,
+                "height": 600
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+                "width": 950,
+                "height": 1200
+              },
+              {
+                "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+                "width": 3648,
+                "height": 2736
+              },
+              {
+                "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+                "width": 900,
+                "height": 1213
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "lotte-reiniger",
+          "edition": "family",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+                "width": 2362,
+                "height": 1691
+              },
+              {
+                "src": "/images/entries/2026-11-19-lotte-reiniger-achmed-003.jpg",
+                "width": 800,
+                "height": 600
+              },
+              {
+                "src": "/images/entries/2026-11-18-vanitas-claesz.jpg",
+                "width": 3811,
+                "height": 2569
+              },
+              {
+                "src": "/images/entries/2026-11-11-photogram-wrack.jpg",
+                "width": 950,
+                "height": 1200
+              },
+              {
+                "src": "/images/entries/2026-10-12-braun-sk4-1-with-associates.jpg",
+                "width": 3648,
+                "height": 2736
+              },
+              {
+                "src": "/images/entries/2026-10-17-memphis-tahiti-profile.jpg",
+                "width": 900,
+                "height": 1213
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-19-lotte-reiniger-achmed-002.jpg",
+            "x": 780,
+            "y": 1115,
+            "width": 805,
+            "height": 390,
+            "imageWidth": 2362,
+            "imageHeight": 1691
+          },
+          "pageErrors": []
+        }
+      ]
+    }
+  },
+  "publishedCategoryDistribution": {
+    "architecture": 3,
+    "digital_art": 1,
+    "eastern_art": 4,
+    "fashion_craft": 3,
+    "graphic_design": 4,
+    "product_design": 5,
+    "world_painting": 7
+  }
+}
