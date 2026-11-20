@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-20-rene-lalique",
+  "date": "2026-11-20",
+  "status": "published",
+  "title": "勒内·拉利克｜把花枝做成可以佩戴的雕塑",
+  "subtitle": "从铃兰发梳与《泉》吊坠，看角质、珐琅、金和色彩如何共同塑造自然形态",
+  "topicType": "artist",
+  "category": "fashion_craft",
+  "period": "19世纪末至20世纪初，主例约1897–1902年",
+  "regions": [
+    "法国"
+  ],
+  "tags": [
+    "新艺术运动",
+    "珠宝设计",
+    "珐琅",
+    "曲线",
+    "镂空",
+    "材料质感"
+  ],
+  "summary": "拉利克把植物的生长方向和材料的明暗变化一起设计。铃兰发梳用浅色角质做出宽叶和梳齿，细金茎与珐琅花绕过留空。《泉》的花枝则在人物两侧形成有宽有窄的框。",
+  "style_summary": "勒内·拉利克｜把花枝做成可以佩戴的雕塑-新艺术珠宝，弯曲茎线，浅色角质，乳白珐琅，镂空与立体花簇",
+  "context": "法国珠宝设计师勒内·拉利克（1860–1945）在19世纪末将珐琅、角质、玻璃等材料用于新艺术珠宝。拉利克博物馆将1900年巴黎世界博览会视为他珠宝生涯的高点。古尔本基安博物馆的《蜻蜓女胸饰》在那届博览会展出，带铰接的透光珐琅翼把昆虫形态和女性半身接在一起。另一件《孔雀胸饰》用蓝绿珐琅和圆弧面欧泊组织羽色。\n\n克利夫兰馆藏《铃兰发梳》的梳齿和宽大的叶子都有浅琥珀色，细金茎有集中的亮边。乳白珐琅花沿着几条曲茎向下分布，茎之间露出灰底。发梳上部的植物轮廓跟下部成排的梳齿相接，佩戴的结构和装饰的走向都读得清。\n\n沃尔特斯馆藏《泉》在人物两边安排深蓝色紫藤枝。绿叶和乳白花簇把蓝色外框切分成较小的形状，中央仍留有空隙。浅橙色欧泊的圆滑亮面与花簇的起伏不同。这里的材料有各自的分工，弯曲的枝条负责组织边界，色彩和明暗引导视线在花与人物之间移回。",
+  "visualFeatures": [
+    {
+      "key": "linework",
+      "label": "用花茎组织线的方向",
+      "description": "发梳细茎并行后向两边分叉，钟形小花为各条曲线落点。"
+    },
+    {
+      "key": "material",
+      "label": "宽叶、金线与珐琅花",
+      "description": "有光泽的角质铺出宽面，金色细边和乳白珐琅呈现不同亮度与起伏。"
+    },
+    {
+      "key": "form",
+      "label": "把花枝做成立体边界",
+      "description": "《泉》的两侧枝条弯成框，花簇在上、下和两侧向外突出。"
+    },
+    {
+      "key": "composition",
+      "label": "镂空让结构可读",
+      "description": "让背景从枝叶间透出，既能辨认细茎，也能跟随组合后的大轮廓。"
+    }
+  ],
+  "people": [
+    {
+      "name": "勒内·拉利克 René Lalique",
+      "role": "法国珠宝设计师"
+    }
+  ],
+  "works": [
+    {
+      "id": "lily-comb",
+      "title": "铃兰发梳 Lily of the Valley Comb",
+      "creator": "勒内·拉利克",
+      "year": "约1900年",
+      "sourceUrl": "https://www.clevelandart.org/art/1981.49",
+      "image": {
+        "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+        "alt": "灰色底上，一把浅琥珀色的角质发梳。顶部是弯叶、金色细茎和乳白的小钟形花。",
+        "credit": "勒内·拉利克，《铃兰发梳》，约1900年。Cleveland Museum of Art，1981.49，Gift of Mrs. A. Dean Perry。馆方开放图像，CC0。完整图保留原文件，卡片与亲子局部可改变显示范围。",
+        "rights": "public_domain",
+        "sourceUrl": "https://www.clevelandart.org/art/1981.49",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "la-source",
+      "title": "《泉》吊坠与项链 “La Source” Pendant and Necklace",
+      "creator": "勒内·拉利克",
+      "year": "约1902年",
+      "sourceUrl": "https://art.thewalters.org/object/57.941/",
+      "image": {
+        "src": "/images/entries/2026-11-20-rene-lalique-source-necklace.jpg",
+        "alt": "红底上的《泉》吊坠近照。中间是持罐女子，两旁是蓝色卷曲花茎、绿色叶与乳白紫藤花。",
+        "credit": "勒内·拉利克，《泉》吊坠与项链，约1902年。The Walters Art Museum，57.941，Acquired by Henry Walters, 1904。馆方 CC0 照片。原图拍摄范围为完整坠饰及两侧部分链节，本站保留原文件。",
+        "rights": "public_domain",
+        "sourceUrl": "https://art.thewalters.org/object/57.941/",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "id": "dragonfly-corsage",
+      "title": "蜻蜓女胸饰 “Dragonfly” Corsage ornament",
+      "creator": "勒内·拉利克",
+      "year": "约1897–1898年",
+      "sourceUrl": "https://gulbenkian.pt/museu/en/works/dragonfly-corsage-ornament/",
+      "image": null
+    },
+    {
+      "id": "peacock-corsage",
+      "title": "孔雀胸饰 “Peacock” Corsage ornament",
+      "creator": "勒内·拉利克",
+      "year": "约1898–1900年",
+      "sourceUrl": "https://gulbenkian.pt/museu/en/works/peacock-pectoral/",
+      "image": null
+    }
+  ],
+  "comparison": {
+    "target": "铃兰发梳与《泉》吊坠",
+    "description": "发梳用成排梳齿收住上方花枝的松散走向。《泉》让两侧花枝排出近似对称的边界，给中央人物留下完整位置。"
+  },
+  "applications": [
+    "为发饰或别针画结构时，先确定佩戴部位，再安排装饰可以伸展的方向。",
+    "插画可以用宽面、窄线和亮点区分叶、枝、花，保留露出背景的空隙。",
+    "包装或标志借用植物曲线时，可以把重复的小形分到几条主线上，使缩小后仍容易辨认。"
+  ],
+  "experiment": "选一段花枝画出它的主茎和分叉。先用粗线与细线分开叶片和小枝，再画一遍，把花之间的空隙放大。把两张图从远处一起看，比较哪一张还能看清枝条的走向。",
+  "nextTopics": [
+    "透光珐琅怎样形成有色薄面",
+    "植物纹样如何从珠宝转入玻璃设计"
+  ],
+  "relatedIds": [
+    "2026-11-18-vienna-secession",
+    "2026-11-18-maki-e"
+  ],
+  "cover": {
+    "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+    "alt": "灰色底上，一把浅琥珀色的角质发梳。顶部是弯叶、金色细茎和乳白的小钟形花。",
+    "credit": "勒内·拉利克，《铃兰发梳》，约1900年。Cleveland Museum of Art，1981.49，Gift of Mrs. A. Dean Perry。馆方开放图像，CC0。完整图保留原文件，卡片与亲子局部可改变显示范围。",
+    "rights": "public_domain",
+    "sourceUrl": "https://www.clevelandart.org/art/1981.49",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "sources": [
+    {
+      "title": "Jewellery",
+      "url": "https://www.musee-lalique.com/en/discover/the-collections/jewellery/",
+      "publisher": "Musée Lalique",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对拉利克在新艺术珠宝中的材料实验，包括玻璃、珐琅、角质等，以及1900年巴黎世界博览会对其珠宝生涯的重要性。"
+    },
+    {
+      "title": "Lily of the Valley Comb",
+      "url": "https://www.clevelandart.org/art/1981.49",
+      "publisher": "Cleveland Museum of Art",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对1981.49、约1900年、角质、珐琅、金以及角质叶片和铃形珐琅花。作品页明确允许复制、改动和分发，馆方开放数据标记CC0。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.clevelandart.org/open-access",
+      "publisher": "Cleveland Museum of Art",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆方把公版作品的高分辨率图像按CC0开放，及作品级授权识别与使用条件。"
+    },
+    {
+      "title": "\"La Source\" Pendant and Necklace",
+      "url": "https://art.thewalters.org/object/57.941/",
+      "publisher": "The Walters Art Museum",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对57.941、约1902年、金、珐琅、欧泊和象牙，以及紫藤的深蓝枝、绿叶和乳白花。图像下载区标注CC0。"
+    },
+    {
+      "title": "'Dragonfly' Corsage ornament",
+      "url": "https://gulbenkian.pt/museu/en/works/dragonfly-corsage-ornament/",
+      "publisher": "Museu Calouste Gulbenkian",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆号1197、约1897–1898、1900年展示、铰接的透光珐琅翼及女性与昆虫混合造型。仅提供馆藏链接。"
+    },
+    {
+      "title": "'Peacock' Corsage ornament",
+      "url": "https://gulbenkian.pt/museu/en/works/peacock-pectoral/",
+      "publisher": "Museu Calouste Gulbenkian",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆号1134、约1898–1900年、蓝绿珐琅和圆弧面欧泊。仅提供馆藏链接。"
+    }
+  ],
+  "children": {
+    "ageRange": "5-7",
+    "title": "拉利克的铃兰发梳｜弯弯的花枝怎样站在梳子上",
+    "summary": "勒内·拉利克是法国珠宝设计师。他会把叶子和花的形状做进能戴在身上的东西。今天看一把发梳。它的长齿能插进头发，上面的一簇铃兰露在外面。铃兰的花像垂着的小铃铛。",
+    "looking": "先看整把发梳。上面有宽宽的浅色叶子，还有细细的金色花茎。下面是向下伸的梳齿。叶子弯出一个大轮廓，花茎在轮廓里分开。",
+    "featuredWorkIds": [
+      "lily-comb"
+    ],
+    "lesson": {
+      "sections": [
+        {
+          "title": "花茎弯出了空隙",
+          "paragraphs": [
+            "靠近看，细金茎弯向不同地方。乳白的小花沿着茎长开，花和花之间露出了灰色的背景。这些空隙把几根茎分开，我们就能沿着每根茎看下去。",
+            "小花上亮亮的部分叫珐琅。珐琅像一层烧在金属上的玻璃。窄窄的金边绕在花瓣外面，帮我们看见每朵花圆鼓鼓的样子。"
+          ],
+          "detail": {
+            "workId": "lily-comb",
+            "imageWidth": 2434,
+            "imageHeight": 3400,
+            "x": 680,
+            "y": 835,
+            "width": 1285,
+            "height": 895,
+            "alt": "浅色角质叶片旁，细金茎弯曲分叉，托起乳白珐琅花。",
+            "caption": "细金茎穿过露出灰底的空隙，把乳白色的铃形小花分开。"
+          }
+        },
+        {
+          "title": "叶子和梳齿接在一起",
+          "paragraphs": [
+            "再看整把发梳。叶子的边弯得很宽，梳齿细长而且差不多朝同一个方向。花枝在上面散开，梳齿在下面把形状收拢。",
+            "梳子的浅色部分用了动物的角。照片里，它有的地方有柔和的亮光，旁边的金色细茎亮得更集中。两种亮光放在一起，花枝和叶子就容易分开看。"
+          ]
+        },
+        {
+          "title": "把弯线带到生活里",
+          "paragraphs": [
+            "下次看到发夹、扣子或衣服上的装饰，可以先看它整个是什么形状，再看花叶的线从哪里转弯。有的线围住一小块地方，有的线让眼睛往前走。"
+          ]
+        }
+      ],
+      "reflection": "沿着这把梳子的花茎看，你觉得它的动作像什么？可以用手画出那条线，也可以说一句话。"
+    },
+    "takeaway": "弯线和空隙能让一簇小花看起来轻轻地伸开。",
+    "parentNote": "先完整看梳齿和上方花枝，再放大金茎及珐琅花，最后回到全图。亲子主图为馆藏发梳的实拍，画面所说的空隙是能看见背景的部位。"
+  },
+  "updatedAt": null
+}

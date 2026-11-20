@@ -1,0 +1,362 @@
+{
+  "entryId": "2026-11-20-rene-lalique",
+  "date": "2026-11-20",
+  "status": "verified-for-publication",
+  "candidateDirectory": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique",
+  "topicHandoff": {
+    "sourceConversationId": "6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "sourceMessageId": "5bd43ea8-634e-48b1-bd9c-104fd48cbf85",
+    "volume": "022",
+    "capturedAt": "2026-11-06T04:37:20.412Z",
+    "sourceChatUrl": "https://chatgpt.com/c/6ac86c83-d910-83ec-99ee-a9f968934e76",
+    "recoveredFrom": {
+      "type": "commandExecution",
+      "codexItemId": "exec-931ce9d0-245a-4834-9c31-a25b28c6e180",
+      "priorArtifact": "prior command"
+    }
+  },
+  "sources": [
+    {
+      "title": "Jewellery",
+      "url": "https://www.musee-lalique.com/en/discover/the-collections/jewellery/",
+      "publisher": "Musée Lalique",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对拉利克在新艺术珠宝中的材料实验，包括玻璃、珐琅、角质等，以及1900年巴黎世界博览会对其珠宝生涯的重要性。"
+    },
+    {
+      "title": "Lily of the Valley Comb",
+      "url": "https://www.clevelandart.org/art/1981.49",
+      "publisher": "Cleveland Museum of Art",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对1981.49、约1900年、角质、珐琅、金以及角质叶片和铃形珐琅花。作品页明确允许复制、改动和分发，馆方开放数据标记CC0。"
+    },
+    {
+      "title": "Open Access",
+      "url": "https://www.clevelandart.org/open-access",
+      "publisher": "Cleveland Museum of Art",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆方把公版作品的高分辨率图像按CC0开放，及作品级授权识别与使用条件。"
+    },
+    {
+      "title": "\"La Source\" Pendant and Necklace",
+      "url": "https://art.thewalters.org/object/57.941/",
+      "publisher": "The Walters Art Museum",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对57.941、约1902年、金、珐琅、欧泊和象牙，以及紫藤的深蓝枝、绿叶和乳白花。图像下载区标注CC0。"
+    },
+    {
+      "title": "'Dragonfly' Corsage ornament",
+      "url": "https://gulbenkian.pt/museu/en/works/dragonfly-corsage-ornament/",
+      "publisher": "Museu Calouste Gulbenkian",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆号1197、约1897–1898、1900年展示、铰接的透光珐琅翼及女性与昆虫混合造型。仅提供馆藏链接。"
+    },
+    {
+      "title": "'Peacock' Corsage ornament",
+      "url": "https://gulbenkian.pt/museu/en/works/peacock-pectoral/",
+      "publisher": "Museu Calouste Gulbenkian",
+      "verifiedAt": "2026-11-20",
+      "verificationNote": "核对馆号1134、约1898–1900年、蓝绿珐琅和圆弧面欧泊。仅提供馆藏链接。"
+    }
+  ],
+  "images": [
+    {
+      "repositoryPath": "public/images/entries/2026-11-20-rene-lalique-comb.jpg",
+      "stagedFilename": "comb.jpg",
+      "sourceUrl": "https://www.clevelandart.org/art/1981.49",
+      "downloadUrl": "https://openaccess-cdn.clevelandart.org/1981.49/1981.49_print.jpg",
+      "identity": "CMA 1981.49，完整发梳正视偏斜馆藏照片",
+      "width": 2434,
+      "height": 3400,
+      "bytes": 3853635,
+      "sha256": "7926ff2dbbb7ba2f74fa5cfdbabd0175ba330e3a195ad99abc334a4e48b086af",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "勒内·拉利克，《铃兰发梳》，约1900年。Cleveland Museum of Art，1981.49，Gift of Mrs. A. Dean Perry。馆方开放图像，CC0。完整图保留原文件，卡片与亲子局部可改变显示范围。",
+      "rightsReason": "馆藏页及馆方开放数据都支持CC0。留原始印刷尺寸文件，局部嵌同一张图。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true,
+      "detailPixels": [
+        680,
+        835,
+        1285,
+        895
+      ]
+    },
+    {
+      "repositoryPath": "public/images/entries/2026-11-20-rene-lalique-source-necklace.jpg",
+      "stagedFilename": "source-necklace.jpg",
+      "sourceUrl": "https://art.thewalters.org/object/57.941/",
+      "downloadUrl": "https://art.thewalters.org/images/art/PL1_57.941_Det_TR_C79II.jpg",
+      "identity": "Walters 57.941，馆方拍摄的坠饰全形与部分链条",
+      "width": 1307,
+      "height": 1800,
+      "bytes": 283067,
+      "sha256": "f913d1f46a4b0b859f72831159589aee5f29c2e154c2c23edb6d09fe5674060c",
+      "rights": "public_domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "勒内·拉利克，《泉》吊坠与项链，约1902年。The Walters Art Museum，57.941，Acquired by Henry Walters, 1904。馆方 CC0 照片。原图拍摄范围为完整坠饰及两侧部分链节，本站保留原文件。",
+      "rightsReason": "馆藏页面图像下载区域明确标注CC0，下载使用同一页面所指的原始JPEG。",
+      "visuallyInspected": true,
+      "originalFileUnmodified": true
+    }
+  ],
+  "editorialNotes": "选题原文的古尔本基安博物馆胸饰作为作品链接保留。正文与亲子讲解采用同属拉利克的开放作品，亲子聚焦发梳完整形态与同图花茎局部。沃尔特斯馆藏照片为坠饰主体视角，链条只见部分。",
+  "newFiles": [
+    "src/data/entries/2026-11-20-rene-lalique.json",
+    "public/images/entries/2026-11-20-rene-lalique-comb.jpg",
+    "public/images/entries/2026-11-20-rene-lalique-source-necklace.jpg",
+    "docs/evidence/2026-11-20-rene-lalique.json"
+  ],
+  "validation": {
+    "status": "passed",
+    "dailyOriginal": {
+      "command": "npm run validate:daily -- src/data/entries/2026-11-20-rene-lalique.json",
+      "exitCode": 0,
+      "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-1.log"
+    },
+    "commands": [
+      {
+        "command": "npm run validate:content",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-2.log"
+      },
+      {
+        "command": "npm run check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-3.log"
+      },
+      {
+        "command": "npm test",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-4.log"
+      },
+      {
+        "command": "npm run build",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-5.log"
+      },
+      {
+        "command": "npm run test:e2e",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-6.log"
+      },
+      {
+        "command": "git diff --check",
+        "exitCode": 0,
+        "log": "/private/tmp/visual-art-atlas-daily/2026-11-20/rene-lalique/check-7.log"
+      }
+    ],
+    "unitTests": 23,
+    "endToEndTests": 26,
+    "publishedContentCount": 28,
+    "contentRepairs": 0,
+    "visualReview": {
+      "screenshotsActuallyViewed": [
+        "1440-adult-works.png",
+        "390-adult-summary.png",
+        "1440-family-detail.png",
+        "390-family-detail.png"
+      ],
+      "checks": [
+        {
+          "slug": "rene-lalique",
+          "edition": "adult",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-source-necklace.jpg",
+                "width": 1307,
+                "height": 1800
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+                "width": 2007,
+                "height": 3000
+              },
+              {
+                "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+                "width": 3208,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "rene-lalique",
+          "edition": "family",
+          "width": 1440,
+          "checks": {
+            "width": 1440,
+            "scrollWidth": 1440,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+                "width": 2007,
+                "height": 3000
+              },
+              {
+                "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+                "width": 3208,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+            "x": 680,
+            "y": 835,
+            "width": 1285,
+            "height": 895,
+            "imageWidth": 2434,
+            "imageHeight": 3400
+          },
+          "pageErrors": []
+        },
+        {
+          "slug": "rene-lalique",
+          "edition": "adult",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-source-necklace.jpg",
+                "width": 1307,
+                "height": 1800
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+                "width": 2007,
+                "height": 3000
+              },
+              {
+                "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+                "width": 3208,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": null,
+          "pageErrors": []
+        },
+        {
+          "slug": "rene-lalique",
+          "edition": "family",
+          "width": 390,
+          "checks": {
+            "width": 390,
+            "scrollWidth": 390,
+            "images": [
+              {
+                "src": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+                "width": 2434,
+                "height": 3400
+              },
+              {
+                "src": "/images/entries/2026-11-18-vienna-secession-facade.jpg",
+                "width": 2304,
+                "height": 3072
+              },
+              {
+                "src": "/images/entries/2026-11-18-maki-e-boats.jpg",
+                "width": 3001,
+                "height": 4000
+              },
+              {
+                "src": "/images/entries/2026-10-16-issey-miyake-risd-1997-25.png",
+                "width": 2007,
+                "height": 3000
+              },
+              {
+                "src": "/images/entries/2026-10-13-greek-black-figure-exekias.jpg",
+                "width": 3208,
+                "height": 4000
+              }
+            ]
+          },
+          "detail": {
+            "href": "/images/entries/2026-11-20-rene-lalique-comb.jpg",
+            "x": 680,
+            "y": 835,
+            "width": 1285,
+            "height": 895,
+            "imageWidth": 2434,
+            "imageHeight": 3400
+          },
+          "pageErrors": []
+        }
+      ]
+    }
+  },
+  "publishedCategoryDistribution": {
+    "architecture": 3,
+    "digital_art": 1,
+    "eastern_art": 4,
+    "fashion_craft": 4,
+    "graphic_design": 4,
+    "product_design": 5,
+    "world_painting": 7
+  }
+}
